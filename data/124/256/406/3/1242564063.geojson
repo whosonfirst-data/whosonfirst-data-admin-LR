@@ -1,0 +1,71 @@
+{
+  "id": 1242564063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82183,4.42393,-7.82183,4.42393",
+    "geom:latitude":4.42393,
+    "geom:longitude":-7.82183,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Fish Town",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277374,
+    "gn:latitude":4.42393,
+    "gn:longitude":-7.82183,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Fish Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fishtown",
+        "Fish Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277374
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"24e361cfa07bbbe9428faabcc7b795b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1242564063,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1242564063,
+    "wof:lastmodified":1537661771,
+    "wof:name":"Fish Town",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82183,
+    4.42393,
+    -7.82183,
+    4.42393
+],
+  "geometry": {"coordinates":[-7.82183,4.42393],"type":"Point"}
+}

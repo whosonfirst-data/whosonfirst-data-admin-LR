@@ -1,0 +1,73 @@
+{
+  "id": 1310109931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36711,6.80091,-9.36711,6.80091",
+    "geom:latitude":6.80091,
+    "geom:longitude":-9.36711,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fenotole",
+    "gn:country_code":"LR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276786,
+    "gn:latitude":6.80091,
+    "gn:longitude":-9.36711,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Fenotole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fenotole"
+    ],
+    "name:und_x_variant":[
+        "Gobani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276786
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6caa8d256dfd20f68ad0dd3b678446f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1310109931,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1310109931,
+    "wof:lastmodified":1537661747,
+    "wof:name":"Fenotole",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36711,
+    6.80091,
+    -9.36711,
+    6.80091
+],
+  "geometry": {"coordinates":[-9.36711,6.80091],"type":"Point"}
+}

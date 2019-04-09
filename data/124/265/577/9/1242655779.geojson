@@ -1,0 +1,72 @@
+{
+  "id": 1242655779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7799,6.13356,-9.7799,6.13356",
+    "geom:latitude":6.13356,
+    "geom:longitude":-9.7799,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Vambush Camp",
+    "gn:country_code":"LR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273338,
+    "gn:latitude":6.13356,
+    "gn:longitude":-9.7799,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Vambush Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gofa",
+        "Vavoso Camp",
+        "Vambush Camp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273338
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ffaa3775a593d50512459df08bab03fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1242655779,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1242655779,
+    "wof:lastmodified":1537661640,
+    "wof:name":"Vambush Camp",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7799,
+    6.13356,
+    -9.7799,
+    6.13356
+],
+  "geometry": {"coordinates":[-9.7799,6.13356],"type":"Point"}
+}

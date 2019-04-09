@@ -1,0 +1,72 @@
+{
+  "id": 1260157191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.25444,6.79944,-10.25444,6.79944",
+    "geom:latitude":6.79944,
+    "geom:longitude":-10.25444,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Balakowa",
+    "gn:country_code":"LR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276958,
+    "gn:latitude":6.79944,
+    "gn:longitude":-10.25444,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Balakowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbomboita",
+        "Balakowa",
+        "Blakpeleta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276958
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c9b12a4e1dec74a06f2e59685968e317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1260157191,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1260157191,
+    "wof:lastmodified":1537661754,
+    "wof:name":"Balakowa",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.25444,
+    6.79944,
+    -10.25444,
+    6.79944
+],
+  "geometry": {"coordinates":[-10.25444,6.79944],"type":"Point"}
+}

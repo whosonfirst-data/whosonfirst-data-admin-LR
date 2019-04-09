@@ -1,0 +1,67 @@
+{
+  "id": 1276859401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53333,6.36667,-9.53333,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":-9.53333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Boubli",
+    "gn:country_code":"LR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278218,
+    "gn:latitude":6.36667,
+    "gn:longitude":-9.53333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Boubli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278218
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f479a25939f9bb4d7c145c3248a2419f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1276859401,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1276859401,
+    "wof:lastmodified":1537065663,
+    "wof:name":"Boubli",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53333,
+    6.36667,
+    -9.53333,
+    6.36667
+],
+  "geometry": {"coordinates":[-9.53333,6.36667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326908689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.01667,5.86667,-10.01667,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":-10.01667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sayou Town",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274061,
+    "gn:latitude":5.86667,
+    "gn:longitude":-10.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sayou Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dia",
+        "Sayou Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274061
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"54c89be45334919cc4902627fb4b4e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1326908689,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1326908689,
+    "wof:lastmodified":1537661664,
+    "wof:name":"Sayou Town",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.01667,
+    5.86667,
+    -10.01667,
+    5.86667
+],
+  "geometry": {"coordinates":[-10.01667,5.86667],"type":"Point"}
+}

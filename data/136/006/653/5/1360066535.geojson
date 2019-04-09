@@ -1,0 +1,70 @@
+{
+  "id": 1360066535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.14002,6.14646,-10.14002,6.14646",
+    "geom:latitude":6.14646,
+    "geom:longitude":-10.14002,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kuzu",
+    "gn:country_code":"LR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275501,
+    "gn:latitude":6.14646,
+    "gn:longitude":-10.14002,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Kuzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275501
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bbfc1e0ca1c6628a1da9bed75381665d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692735,
+            "locality_id":1360066535,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1360066535,
+    "wof:lastmodified":1537661703,
+    "wof:name":"Kuzu",
+    "wof:parent_id":1091692735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.14002,
+    6.14646,
+    -10.14002,
+    6.14646
+],
+  "geometry": {"coordinates":[-10.14002,6.14646],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327200181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69313,5.60484,-9.69313,5.60484",
+    "geom:latitude":5.60484,
+    "geom:longitude":-9.69313,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Pwabli",
+    "gn:country_code":"LR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274309,
+    "gn:latitude":5.60484,
+    "gn:longitude":-9.69313,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Pwabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274309
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"47637ba071c85e42379c645b55b1c378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694479,
+            "locality_id":1327200181,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1327200181,
+    "wof:lastmodified":1537015496,
+    "wof:name":"Pwabli",
+    "wof:parent_id":1091694479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69313,
+    5.60484,
+    -9.69313,
+    5.60484
+],
+  "geometry": {"coordinates":[-9.69313,5.60484],"type":"Point"}
+}

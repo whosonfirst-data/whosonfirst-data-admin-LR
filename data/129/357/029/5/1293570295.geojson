@@ -1,0 +1,72 @@
+{
+  "id": 1293570295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08068,6.13173,-10.08068,6.13173",
+    "geom:latitude":6.13173,
+    "geom:longitude":-10.08068,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Blawein Village",
+    "gn:country_code":"LR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278514,
+    "gn:latitude":6.13173,
+    "gn:longitude":-10.08068,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Blawein Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blawme",
+        "Blawehn Section",
+        "Blawein Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278514
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d41eab97a2417de3c02619e11b0e3fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692735,
+            "locality_id":1293570295,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1293570295,
+    "wof:lastmodified":1537661802,
+    "wof:name":"Blawein Village",
+    "wof:parent_id":1091692735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08068,
+    6.13173,
+    -10.08068,
+    6.13173
+],
+  "geometry": {"coordinates":[-10.08068,6.13173],"type":"Point"}
+}

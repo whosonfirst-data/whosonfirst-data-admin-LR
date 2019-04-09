@@ -1,0 +1,70 @@
+{
+  "id": 1226060329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.27285,6.99238,-9.27285,6.99238",
+    "geom:latitude":6.99238,
+    "geom:longitude":-9.27285,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Georgeta",
+    "gn:country_code":"LR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870316,
+    "gn:latitude":6.99238,
+    "gn:longitude":-9.27285,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Georgeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Georgeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870316
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"790012d771e680270dab346fb68e403b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1226060329,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1226060329,
+    "wof:lastmodified":1537661836,
+    "wof:name":"Georgeta",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27285,
+    6.99238,
+    -9.27285,
+    6.99238
+],
+  "geometry": {"coordinates":[-9.27285,6.99238],"type":"Point"}
+}

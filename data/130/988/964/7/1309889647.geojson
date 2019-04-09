@@ -1,0 +1,67 @@
+{
+  "id": 1309889647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09722,5.28861,-9.09722,5.28861",
+    "geom:latitude":5.28861,
+    "geom:longitude":-9.09722,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Wion Juloh Town",
+    "gn:country_code":"LR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572081,
+    "gn:latitude":5.28861,
+    "gn:longitude":-9.09722,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Wion Juloh Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572081
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6f120bfd816b61272fb52bcf7fbf5367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1309889647,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1309889647,
+    "wof:lastmodified":1536809844,
+    "wof:name":"Wion Juloh Town",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09722,
+    5.28861,
+    -9.09722,
+    5.28861
+],
+  "geometry": {"coordinates":[-9.09722,5.28861],"type":"Point"}
+}

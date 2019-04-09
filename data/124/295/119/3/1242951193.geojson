@@ -1,0 +1,70 @@
+{
+  "id": 1242951193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.06241,5.90948,-10.06241,5.90948",
+    "geom:latitude":5.90948,
+    "geom:longitude":-10.06241,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Upper Buchanan",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273383,
+    "gn:latitude":5.90948,
+    "gn:longitude":-10.06241,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Upper Buchanan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grand Bassa",
+        "Buchanan",
+        "Gran Bassa",
+        "Upper Buchanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273383
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5949f3ee5ed7b50b0ebc1203ec9f7522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1242951193,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242951193,
+    "wof:lastmodified":1537661642,
+    "wof:name":"Upper Buchanan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.06241,
+    5.90948,
+    -10.06241,
+    5.90948
+],
+  "geometry": {"coordinates":[-10.06241,5.90948],"type":"Point"}
+}

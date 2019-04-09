@@ -1,0 +1,70 @@
+{
+  "id": 1193259577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66937,6.38183,-9.66937,6.38183",
+    "geom:latitude":6.38183,
+    "geom:longitude":-9.66937,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nah",
+    "gn:country_code":"LR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274835,
+    "gn:latitude":6.38183,
+    "gn:longitude":-9.66937,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274835
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f6fdc55fbe588ee56dd0a456f4337e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1193259577,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1193259577,
+    "wof:lastmodified":1537661685,
+    "wof:name":"Nah",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66937,
+    6.38183,
+    -9.66937,
+    6.38183
+],
+  "geometry": {"coordinates":[-9.66937,6.38183],"type":"Point"}
+}

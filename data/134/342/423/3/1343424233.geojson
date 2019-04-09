@@ -1,0 +1,71 @@
+{
+  "id": 1343424233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48481,5.98493,-9.48481,5.98493",
+    "geom:latitude":5.98493,
+    "geom:longitude":-9.48481,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ponbli",
+    "gn:country_code":"LR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274341,
+    "gn:latitude":5.98493,
+    "gn:longitude":-9.48481,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ponbli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahn",
+        "Ponbli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274341
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2934fdd221bd1abdc1b76d6e3680d291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694417,
+            "locality_id":1343424233,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1343424233,
+    "wof:lastmodified":1537661672,
+    "wof:name":"Ponbli",
+    "wof:parent_id":1091694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48481,
+    5.98493,
+    -9.48481,
+    5.98493
+],
+  "geometry": {"coordinates":[-9.48481,5.98493],"type":"Point"}
+}

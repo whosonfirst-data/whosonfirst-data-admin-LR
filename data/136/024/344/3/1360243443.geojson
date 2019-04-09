@@ -1,0 +1,73 @@
+{
+  "id": 1360243443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07086,5.28306,-8.07086,5.28306",
+    "geom:latitude":5.28306,
+    "geom:longitude":-8.07086,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Warliken",
+    "gn:country_code":"LR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273255,
+    "gn:latitude":5.28306,
+    "gn:longitude":-8.07086,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Warliken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walakehn",
+        "Wrolayken",
+        "Warliken",
+        "Worlaykehn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273255
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c9a31ab94cacbfaba32b009904865aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1360243443,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1360243443,
+    "wof:lastmodified":1537661637,
+    "wof:name":"Warliken",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07086,
+    5.28306,
+    -8.07086,
+    5.28306
+],
+  "geometry": {"coordinates":[-8.07086,5.28306],"type":"Point"}
+}

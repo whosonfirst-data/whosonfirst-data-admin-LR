@@ -1,0 +1,67 @@
+{
+  "id": 1209273349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.62367,6.99296,-10.62367,6.99296",
+    "geom:latitude":6.99296,
+    "geom:longitude":-10.62367,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tumukola",
+    "gn:country_code":"LR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273409,
+    "gn:latitude":6.99296,
+    "gn:longitude":-10.62367,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Tumukola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tumokola",
+        "Tumukole",
+        "Tumorola",
+        "Tumukola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273409
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cff8f9f2b5a91b50c905ad82ee0211ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209273349
+        }
+    ],
+    "wof:id":1209273349,
+    "wof:lastmodified":1537661643,
+    "wof:name":"Tumukola",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.62367,
+    6.99296,
+    -10.62367,
+    6.99296
+],
+  "geometry": {"coordinates":[-10.62367,6.99296],"type":"Point"}
+}

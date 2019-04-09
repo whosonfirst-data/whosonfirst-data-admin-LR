@@ -1,0 +1,67 @@
+{
+  "id": 1226732671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.91225,6.82333,-10.91225,6.82333",
+    "geom:latitude":6.82333,
+    "geom:longitude":-10.91225,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Be Robert",
+    "gn:country_code":"LR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278672,
+    "gn:latitude":6.82333,
+    "gn:longitude":-10.91225,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Be Robert",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278672
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"72f412b73026e3d53b08bb4da7be6b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1226732671,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1226732671,
+    "wof:lastmodified":1536734554,
+    "wof:name":"Be Robert",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.91225,
+    6.82333,
+    -10.91225,
+    6.82333
+],
+  "geometry": {"coordinates":[-10.91225,6.82333],"type":"Point"}
+}

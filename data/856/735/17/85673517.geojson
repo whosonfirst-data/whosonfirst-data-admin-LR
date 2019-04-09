@@ -1,0 +1,298 @@
+{
+  "id": 85673517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.190752,
+    "geom:area_square_m":2350699182.918677,
+    "geom:bbox":"-8.107082,4.353057,-7.521366,5.071449",
+    "geom:latitude":4.713178,
+    "geom:longitude":-7.781088,
+    "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Maryland County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":4.710918,
+    "lbl:longitude":-7.703872,
+    "mps:latitude":4.727101,
+    "mps:longitude":-7.7246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0631\u064a\u0644\u0627\u0646\u062f"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0565\u0580\u056b\u056c\u0565\u0576\u0564 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
+    "name:baq_x_preferred":[
+        "Maryland"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u041c\u044d\u0440\u044b\u043b\u0435\u043d\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09b0\u09bf\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    ],
+    "name:bre_x_preferred":[
+        "Maryland"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Maryland"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u91cc\u862d\u7e23"
+    ],
+    "name:dan_x_preferred":[
+        "Maryland"
+    ],
+    "name:dut_x_preferred":[
+        "Maryland"
+    ],
+    "name:eng_x_preferred":[
+        "Maryland"
+    ],
+    "name:fin_x_preferred":[
+        "Maryland"
+    ],
+    "name:fre_x_preferred":[
+        "Comt\u00e9 de Maryland"
+    ],
+    "name:ger_x_preferred":[
+        "Maryland County"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ad\u03c1\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0ab0\u0ac0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u0930\u0940\u0932\u0948\u0902\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Maryland County"
+    ],
+    "name:ita_x_preferred":[
+        "contea di Maryland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30ea\u30fc\u30e9\u30f3\u30c9\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc7\u0cb0\u0cbf\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\ub9b4\ub79c\ub4dc \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Merilendas gr\u0101fiste"
+    ],
+    "name:lit_x_preferred":[
+        "Merilando apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u0930\u0940\u0932\u0901\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Maryland County"
+    ],
+    "name:nob_x_preferred":[
+        "Maryland"
+    ],
+    "name:pol_x_preferred":[
+        "Hrabstwo Maryland"
+    ],
+    "name:por_x_preferred":[
+        "Maryland"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044d\u0440\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dda\u0dbb\u0dd2\u0dbd\u0db1\u0dca\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Condado de Maryland"
+    ],
+    "name:swe_x_preferred":[
+        "Maryland County"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bb0\u0bbf\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c47\u0c30\u0c40\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e41\u0e21\u0e23\u0e34\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Maryland County"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0456\u043b\u0435\u043d\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Maryland County"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631\u06cc \u0644\u06cc\u0646\u0688 \u06a9\u0627\u0624\u0646\u0679\u06cc\u060c \u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Maryland"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LBR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LBR-781",
+    "ne:adm1_code":"LBR-781",
+    "ne:admin":"Liberia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"LR.MY",
+    "ne:code_local":"",
+    "ne:datarank":"1",
+    "ne:diss_me":"781",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LI13",
+    "ne:fips_alt":"LI06",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Liberia",
+    "ne:gn_a1_code":"LR.13",
+    "ne:gn_id":"2275099",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Maryland County",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LI13",
+    "ne:gns_id":"-2133808",
+    "ne:gns_lang":"nld",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Maryland County",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LBR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LR-",
+    "ne:iso_a2":"LR",
+    "ne:labelrank":"7",
+    "ne:latitude":"4.64403000000",
+    "ne:longitude":"-7.69738000000",
+    "ne:mapcolor13":9,
+    "ne:mapcolor9":4,
+    "ne:name":"Maryland",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MY",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"LBR",
+    "ne:sub_code":"",
+    "ne:type":"County",
+    "ne:type_en":"County",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346107,
+    "ne:woe_label":"Maryland, LR, Liberia",
+    "ne:woe_name":"Maryland",
+    "qs:a0":"Liberia",
+    "qs:a0_lc":"LR",
+    "qs:a1":"Maryland",
+    "qs:a1_lc":"LBR-781",
+    "qs:adm0":"Liberia",
+    "qs:adm0_a3":"LBR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"County",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-03-21",
+    "statoids:area_km":"3,052",
+    "statoids:area_mi":"1,178",
+    "statoids:as_of_date":"2008-03-21",
+    "statoids:capital":"Harper",
+    "statoids:country":"LR",
+    "statoids:gec":"LI13",
+    "statoids:hasc":"LR.MY",
+    "statoids:iso":"MY",
+    "statoids:name":"Maryland",
+    "statoids:population":"136404",
+    "statoids:timezone":"+0",
+    "statoids:type":"county",
+    "unlc:subdivision":"LR-MY",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LI13",
+        "gn:id":2275099,
+        "gp:id":2346107,
+        "hasc:id":"LR.MY",
+        "iso:id":"LR-MY",
+        "qs:id":229378,
+        "unlc:id":"LR-MY",
+        "wd:id":"Q870138",
+        "wk:page":"Maryland County"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"562ea2c60957225b14994342509123e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":85673517,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550400,
+    "wof:name":"Maryland",
+    "wof:parent_id":85632249,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":136404,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:shortcode":"MY",
+    "wof:subdivision":"LR-MY",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.107082,
+    4.353057,
+    -7.521366,
+    5.071449
+],
+  "geometry": {"coordinates":[[[-8.06494,4.935243],[-8.046359,4.96116],[-8.044679,4.963504],[-8.043058,5.00872],[-8.047921,5.028098],[-8.029281,5.042632],[-8.010055,5.064457],[-8.003839,5.067709],[-7.996929,5.069574],[-7.985867,5.071449],[-7.977567,5.071004],[-7.966039,5.070335],[-7.956585,5.069893],[-7.946897,5.067832],[-7.938599,5.068081],[-7.924061,5.06256],[-7.912981,5.057263],[-7.904923,5.06098],[-7.898701,5.061687],[-7.886233,5.05431],[-7.871223,5.043932],[-7.858986,5.035861],[-7.85421,5.034275],[-7.853662,5.02662],[-7.852467,5.009507],[-7.85218,5.00389],[-7.851498,4.990542],[-7.85213,4.987843],[-7.855831,4.97203],[-7.859453,4.94496],[-7.856859,4.921604],[-7.84967,4.903809],[-7.845484,4.888552],[-7.846144,4.876291],[-7.845196,4.865885],[-7.84725,4.862399],[-7.835502,4.859428],[-7.826976,4.860371],[-7.816608,4.860854],[-7.806697,4.860642],[-7.79724,4.856729],[-7.789869,4.858363],[-7.78412,4.863231],[-7.777913,4.869488],[-7.766629,4.87321],[-7.755798,4.873231],[-7.748198,4.875789],[-7.736226,4.879975],[-7.73001,4.883224],[-7.724259,4.887398],[-7.716414,4.883481],[-7.710407,4.876784],[-7.706242,4.86916],[-7.697463,4.859461],[-7.688702,4.857627],[-7.679944,4.857411],[-7.672112,4.85835],[-7.670022,4.851879],[-7.667249,4.84772],[-7.66931,4.841935],[-7.658457,4.83224],[-7.648541,4.828557],[-7.634937,4.824417],[-7.623875,4.823511],[-7.613733,4.822604],[-7.603134,4.822159],[-7.592559,4.819366],[-7.589867,4.80969],[-7.591042,4.805328],[-7.581935,4.794234],[-7.561555,4.788817],[-7.558362,4.785807],[-7.558862,4.779371],[-7.562827,4.769048],[-7.55501,4.735655],[-7.558096,4.719117],[-7.557913,4.718471],[-7.552487,4.699305],[-7.554376,4.690808],[-7.563094,4.690403],[-7.565419,4.685359],[-7.562932,4.679594],[-7.558108,4.673293],[-7.554972,4.669196],[-7.556597,4.665987],[-7.56463,4.665117],[-7.568548,4.661922],[-7.571111,4.655729],[-7.569069,4.652037],[-7.564501,4.649248],[-7.557166,4.648512],[-7.554887,4.646198],[-7.551965,4.636751],[-7.550925,4.619957],[-7.546407,4.60912],[-7.552699,4.593292],[-7.555929,4.590323],[-7.564188,4.589685],[-7.566723,4.587861],[-7.568356,4.583502],[-7.567754,4.581995],[-7.565872,4.577277],[-7.55539,4.566633],[-7.553367,4.560181],[-7.55663,4.551922],[-7.552794,4.542009],[-7.559018,4.536989],[-7.560881,4.532402],[-7.558599,4.526431],[-7.556805,4.525398],[-7.554678,4.524174],[-7.549981,4.510217],[-7.551937,4.487848],[-7.557446,4.480114],[-7.560942,4.466659],[-7.560108,4.453865],[-7.555604,4.445619],[-7.540419,4.434571],[-7.538608,4.428773],[-7.540007,4.424872],[-7.5548,4.406107],[-7.557827,4.398767],[-7.557402,4.393475],[-7.553091,4.386319],[-7.546247,4.380986],[-7.524091,4.367968],[-7.521366,4.363811],[-7.527288,4.357078],[-7.550066,4.357093],[-7.56381,4.358789],[-7.583535,4.357533],[-7.592041,4.353907],[-7.60328,4.353057],[-7.608779,4.353551],[-7.620436,4.359144],[-7.657081,4.36512],[-7.706113,4.370021],[-7.72286,4.368283],[-7.725359,4.371978],[-7.726026,4.375432],[-7.733111,4.378925],[-7.751977,4.384708],[-7.75531,4.385729],[-7.780731,4.390252],[-7.78278,4.392564],[-7.786155,4.403163],[-7.803066,4.412234],[-7.826177,4.419961],[-7.826378,4.424792],[-7.821321,4.426832],[-7.817863,4.430031],[-7.816691,4.434164],[-7.819164,4.442457],[-7.81763,4.445674],[-7.811887,4.451006],[-7.80132,4.4619],[-7.794823,4.480189],[-7.794002,4.482501],[-7.794266,4.495684],[-7.796146,4.510252],[-7.801024,4.526201],[-7.804059,4.541923],[-7.806854,4.554175],[-7.804126,4.568522],[-7.800704,4.581482],[-7.798207,4.595827],[-7.797309,4.605312],[-7.805389,4.612234],[-7.813471,4.61985],[-7.82017,4.626775],[-7.818587,4.638343],[-7.812856,4.649688],[-7.811506,4.662413],[-7.819362,4.672111],[-7.826535,4.683892],[-7.829323,4.693139],[-7.832582,4.706547],[-7.842075,4.724568],[-7.849477,4.735655],[-7.852956,4.744669],[-7.854185,4.751362],[-7.857471,4.764068],[-7.871248,4.757608],[-7.883405,4.756801],[-7.906097,4.755186],[-7.924736,4.751149],[-7.944997,4.752764],[-7.957964,4.753571],[-7.974172,4.753571],[-8.0074,4.753571],[-8.021987,4.753571],[-8.030902,4.755993],[-8.030902,4.764068],[-8.035765,4.778601],[-8.040627,4.788291],[-8.047111,4.798787],[-8.054404,4.810091],[-8.06575,4.815743],[-8.081148,4.821395],[-8.100599,4.823818],[-8.107082,4.848848],[-8.099788,4.873071],[-8.086011,4.903754],[-8.06494,4.935243]]],"type":"Polygon"}
+}

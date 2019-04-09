@@ -1,0 +1,67 @@
+{
+  "id": 1326717383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31667,6.81667,-11.31667,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":-11.31667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mesima",
+    "gn:country_code":"LR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274989,
+    "gn:latitude":6.81667,
+    "gn:longitude":-11.31667,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Mesima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274989
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b6f68aaf2ff9fcdc7a8df91f3a96db05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1326717383,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1326717383,
+    "wof:lastmodified":1536717527,
+    "wof:name":"Mesima",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31667,
+    6.81667,
+    -11.31667,
+    6.81667
+],
+  "geometry": {"coordinates":[-11.31667,6.81667],"type":"Point"}
+}

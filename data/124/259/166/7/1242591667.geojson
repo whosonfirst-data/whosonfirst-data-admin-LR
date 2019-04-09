@@ -1,0 +1,72 @@
+{
+  "id": 1242591667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68971,6.68493,-9.68971,6.68493",
+    "geom:latitude":6.68493,
+    "geom:longitude":-9.68971,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Feiwoli",
+    "gn:country_code":"LR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277409,
+    "gn:latitude":6.68493,
+    "gn:longitude":-9.68971,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Feiwoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feyawoi",
+        "Feyawoie",
+        "Feiwoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277409
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"753a8134b9eb83b5f178fb8b63136e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1242591667,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1242591667,
+    "wof:lastmodified":1537661772,
+    "wof:name":"Feiwoli",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68971,
+    6.68493,
+    -9.68971,
+    6.68493
+],
+  "geometry": {"coordinates":[-9.68971,6.68493],"type":"Point"}
+}

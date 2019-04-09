@@ -1,0 +1,73 @@
+{
+  "id": 1259963321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.45704,6.45681,-10.45704,6.45681",
+    "geom:latitude":6.45681,
+    "geom:longitude":-10.45704,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Division Twenty-one",
+    "gn:country_code":"LR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277702,
+    "gn:latitude":6.45681,
+    "gn:longitude":-10.45704,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Division Twenty-one",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Division 20",
+        "Division 21",
+        "Division Twenty",
+        "Division Twenty-one"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277702
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2d8e4f358fbd938ffa1ea484f0c08ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1259963321,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1259963321,
+    "wof:lastmodified":1537661781,
+    "wof:name":"Division Twenty-one",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.45704,
+    6.45681,
+    -10.45704,
+    6.45681
+],
+  "geometry": {"coordinates":[-10.45704,6.45681],"type":"Point"}
+}

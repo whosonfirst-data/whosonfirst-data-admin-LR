@@ -1,0 +1,67 @@
+{
+  "id": 1226408605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24914,6.32437,-9.24914,6.32437",
+    "geom:latitude":6.32437,
+    "geom:longitude":-9.24914,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Guo",
+    "gn:country_code":"LR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9874069,
+    "gn:latitude":6.32437,
+    "gn:longitude":-9.24914,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Guo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9874069
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"99afa535beb3287083e5c5e46368b546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694417,
+            "locality_id":1226408605,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1226408605,
+    "wof:lastmodified":1536699403,
+    "wof:name":"Guo",
+    "wof:parent_id":1091694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24914,
+    6.32437,
+    -9.24914,
+    6.32437
+],
+  "geometry": {"coordinates":[-9.24914,6.32437],"type":"Point"}
+}

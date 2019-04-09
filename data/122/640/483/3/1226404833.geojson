@@ -1,0 +1,71 @@
+{
+  "id": 1226404833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14725,6.02816,-8.14725,6.02816",
+    "geom:latitude":6.02816,
+    "geom:longitude":-8.14725,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rati Town",
+    "gn:country_code":"LR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274296,
+    "gn:latitude":6.02816,
+    "gn:longitude":-8.14725,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Rati Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rat Town",
+        "Rati Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274296
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b6b0c787e69053b8c9b1842f2c3125e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1226404833,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1226404833,
+    "wof:lastmodified":1537661670,
+    "wof:name":"Rati Town",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14725,
+    6.02816,
+    -8.14725,
+    6.02816
+],
+  "geometry": {"coordinates":[-8.14725,6.02816],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310291405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72236,4.81015,-7.72236,4.81015",
+    "geom:latitude":4.81015,
+    "geom:longitude":-7.72236,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Konoso",
+    "gn:country_code":"LR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275722,
+    "gn:latitude":4.81015,
+    "gn:longitude":-7.72236,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Konoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konusu",
+        "Konosu",
+        "Konoso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275722
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ba636f82114bd45d5820a4abf780ebf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1310291405,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1310291405,
+    "wof:lastmodified":1537661711,
+    "wof:name":"Konoso",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72236,
+    4.81015,
+    -7.72236,
+    4.81015
+],
+  "geometry": {"coordinates":[-7.72236,4.81015],"type":"Point"}
+}

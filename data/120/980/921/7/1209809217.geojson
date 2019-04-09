@@ -1,0 +1,67 @@
+{
+  "id": 1209809217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90111,5.32723,-8.90111,5.32723",
+    "geom:latitude":5.32723,
+    "geom:longitude":-8.90111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sammy Saylar",
+    "gn:country_code":"LR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870543,
+    "gn:latitude":5.32723,
+    "gn:longitude":-8.90111,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sammy Saylar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870543
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"68d1009ab3fd4beaa5d40ef1ca5b3764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694579,
+            "locality_id":1209809217,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1209809217,
+    "wof:lastmodified":1536387206,
+    "wof:name":"Sammy Saylar",
+    "wof:parent_id":1091694579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90111,
+    5.32723,
+    -8.90111,
+    5.32723
+],
+  "geometry": {"coordinates":[-8.90111,5.32723],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343841763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70543,5.03652,-8.70543,5.03652",
+    "geom:latitude":5.03652,
+    "geom:longitude":-8.70543,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Neme-so",
+    "gn:country_code":"LR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870710,
+    "gn:latitude":5.03652,
+    "gn:longitude":-8.70543,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Neme-so",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870710
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9fb128196d4bd9eeedb2fe7a018034b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1343841763,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1343841763,
+    "wof:lastmodified":1536693814,
+    "wof:name":"Neme-so",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70543,
+    5.03652,
+    -8.70543,
+    5.03652
+],
+  "geometry": {"coordinates":[-8.70543,5.03652],"type":"Point"}
+}

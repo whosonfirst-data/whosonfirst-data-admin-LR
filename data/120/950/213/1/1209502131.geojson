@@ -1,0 +1,61 @@
+{
+  "id": 1209502131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.08333,7.26667,-11.08333,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":-11.08333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Laboma",
+    "gn:country_code":"LR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275466,
+    "gn:latitude":7.26667,
+    "gn:longitude":-11.08333,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Laboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275466
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"526afcb2e2c5f067a83f562bad0cc8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209502131
+        }
+    ],
+    "wof:id":1209502131,
+    "wof:lastmodified":1536285149,
+    "wof:name":"Laboma",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.08333,
+    7.266669999999999,
+    -11.08333,
+    7.266669999999999
+],
+  "geometry": {"coordinates":[-11.08333,7.26667],"type":"Point"}
+}

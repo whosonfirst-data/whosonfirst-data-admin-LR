@@ -1,0 +1,67 @@
+{
+  "id": 1326704305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.51667,7.01667,-10.51667,7.01667",
+    "geom:latitude":7.01667,
+    "geom:longitude":-10.51667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Jawahun",
+    "gn:country_code":"LR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276377,
+    "gn:latitude":7.01667,
+    "gn:longitude":-10.51667,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Jawahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276377
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4509fe1800bb3e70f7e1e6e2fc8f060d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693577,
+            "locality_id":1326704305,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1326704305,
+    "wof:lastmodified":1536736120,
+    "wof:name":"Jawahun",
+    "wof:parent_id":1091693577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.51667,
+    7.01667,
+    -10.51667,
+    7.01667
+],
+  "geometry": {"coordinates":[-10.51667,7.01667],"type":"Point"}
+}

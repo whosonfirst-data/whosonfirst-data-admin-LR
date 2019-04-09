@@ -1,0 +1,67 @@
+{
+  "id": 1276887979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18361,7.28417,-9.18361,7.28417",
+    "geom:latitude":7.28417,
+    "geom:longitude":-9.18361,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gboata",
+    "gn:country_code":"LR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571756,
+    "gn:latitude":7.28417,
+    "gn:longitude":-9.18361,
+    "gn:modification_date":"1996-02-06",
+    "gn:name":"Gboata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571756
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9f7944a74993a40d5c0ad9295dfbae51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1276887979,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1276887979,
+    "wof:lastmodified":1537028961,
+    "wof:name":"Gboata",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18361,
+    7.28417,
+    -9.18361,
+    7.28417
+],
+  "geometry": {"coordinates":[-9.18361,7.28417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343249151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.19065,7.19424,-11.19065,7.19424",
+    "geom:latitude":7.19424,
+    "geom:longitude":-11.19065,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boba Junction",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805916,
+    "gn:latitude":7.19424,
+    "gn:longitude":-11.19065,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Boba Junction",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805916
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8c9aa015edafe59d3473c6e54e94af72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692983,
+            "locality_id":1343249151,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1343249151,
+    "wof:lastmodified":1537049210,
+    "wof:name":"Boba Junction",
+    "wof:parent_id":1091692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.19065,
+    7.19424,
+    -11.19065,
+    7.19424
+],
+  "geometry": {"coordinates":[-11.19065,7.19424],"type":"Point"}
+}

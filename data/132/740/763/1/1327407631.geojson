@@ -1,0 +1,67 @@
+{
+  "id": 1327407631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.64453,6.24454,-10.64453,6.24454",
+    "geom:latitude":6.24454,
+    "geom:longitude":-10.64453,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Seya Town",
+    "gn:country_code":"LR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273972,
+    "gn:latitude":6.24454,
+    "gn:longitude":-10.64453,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Seya Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273972
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f745bb84b142e1e5c28011da29582d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":1327407631,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1327407631,
+    "wof:lastmodified":1536716925,
+    "wof:name":"Seya Town",
+    "wof:parent_id":1091694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.64453,
+    6.24454,
+    -10.64453,
+    6.24454
+],
+  "geometry": {"coordinates":[-10.64453,6.24454],"type":"Point"}
+}

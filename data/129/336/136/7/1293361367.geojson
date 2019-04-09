@@ -1,0 +1,74 @@
+{
+  "id": 1293361367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.75477,6.51112,-10.75477,6.51112",
+    "geom:latitude":6.51112,
+    "geom:longitude":-10.75477,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Clay Ashland City",
+    "gn:country_code":"LR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276920,
+    "gn:latitude":6.51112,
+    "gn:longitude":-10.75477,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Clay Ashland City",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buba Town",
+        "Gboba",
+        "Gbuba Town",
+        "Konma Number One",
+        "Clay Ashland City"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276920
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ba7fdecd4d76d3cbb726d5ceaef580a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694083,
+            "locality_id":1293361367,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1293361367,
+    "wof:lastmodified":1537661752,
+    "wof:name":"Clay Ashland City",
+    "wof:parent_id":1091694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.75477,
+    6.51112,
+    -10.75477,
+    6.51112
+],
+  "geometry": {"coordinates":[-10.75477,6.51112],"type":"Point"}
+}

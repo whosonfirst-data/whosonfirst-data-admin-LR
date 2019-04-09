@@ -1,0 +1,75 @@
+{
+  "id": 1293374535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82167,6.87417,-8.82167,6.87417",
+    "geom:latitude":6.87417,
+    "geom:longitude":-8.82167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Logle",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275340,
+    "gn:latitude":6.87417,
+    "gn:longitude":-8.82167,
+    "gn:modification_date":"2015-04-23",
+    "gn:name":"Logle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loi",
+        "Loyi",
+        "Logray",
+        "Loyee",
+        "Logle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275340
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fc8127c628e267101d342ad7a1e3b59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1293374535,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1293374535,
+    "wof:lastmodified":1537661698,
+    "wof:name":"Logle",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82167,
+    6.87417,
+    -8.82167,
+    6.87417
+],
+  "geometry": {"coordinates":[-8.82167,6.87417],"type":"Point"}
+}

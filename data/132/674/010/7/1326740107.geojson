@@ -1,0 +1,70 @@
+{
+  "id": 1326740107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31623,6.66739,-9.31623,6.66739",
+    "geom:latitude":6.66739,
+    "geom:longitude":-9.31623,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nibatatata",
+    "gn:country_code":"LR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274704,
+    "gn:latitude":6.66739,
+    "gn:longitude":-9.31623,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nibatatata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nibatatata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274704
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"35000546f671993be4a8ef5905c78c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1326740107,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1326740107,
+    "wof:lastmodified":1537661681,
+    "wof:name":"Nibatatata",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31623,
+    6.66739,
+    -9.31623,
+    6.66739
+],
+  "geometry": {"coordinates":[-9.31623,6.66739],"type":"Point"}
+}

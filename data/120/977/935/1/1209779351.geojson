@@ -1,0 +1,73 @@
+{
+  "id": 1209779351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.18894,6.5698,-10.18894,6.5698",
+    "geom:latitude":6.5698,
+    "geom:longitude":-10.18894,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yangol",
+    "gn:country_code":"LR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272833,
+    "gn:latitude":6.5698,
+    "gn:longitude":-10.18894,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yangol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangobli",
+        "Yangwele",
+        "Yangoli",
+        "Yangol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272833
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1a86785a688acddb8dd0d18b4c8205f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693759,
+            "locality_id":1209779351,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1209779351,
+    "wof:lastmodified":1537661625,
+    "wof:name":"Yangol",
+    "wof:parent_id":1091693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.18894,
+    6.5698,
+    -10.18894,
+    6.5698
+],
+  "geometry": {"coordinates":[-10.18894,6.5698],"type":"Point"}
+}

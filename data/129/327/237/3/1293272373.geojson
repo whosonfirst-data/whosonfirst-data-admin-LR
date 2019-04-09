@@ -1,0 +1,67 @@
+{
+  "id": 1293272373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.21667,6.96667,-11.21667,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":-11.21667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyadehun",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274581,
+    "gn:latitude":6.96667,
+    "gn:longitude":-11.21667,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Nyadehun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274581
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"39148a9ebb613be12ac301f716cb9802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1293272373,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1293272373,
+    "wof:lastmodified":1537093972,
+    "wof:name":"Nyadehun",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.21667,
+    6.96667,
+    -11.21667,
+    6.96667
+],
+  "geometry": {"coordinates":[-11.21667,6.96667],"type":"Point"}
+}

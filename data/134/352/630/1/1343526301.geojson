@@ -1,0 +1,67 @@
+{
+  "id": 1343526301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.15361,8.4075,-10.15361,8.4075",
+    "geom:latitude":8.4075,
+    "geom:longitude":-10.15361,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mau",
+    "gn:country_code":"LR",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275060,
+    "gn:latitude":8.4075,
+    "gn:longitude":-10.15361,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Mau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275060
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0d3cb0c333ab57b6570e0ef3a07f2b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1343526301,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1343526301,
+    "wof:lastmodified":1536651193,
+    "wof:name":"Mau",
+    "wof:parent_id":1091693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.15361,
+    8.4075,
+    -10.15361,
+    8.4075
+],
+  "geometry": {"coordinates":[-10.15361,8.4075],"type":"Point"}
+}

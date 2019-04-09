@@ -1,0 +1,70 @@
+{
+  "id": 1242854513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85078,7.18666,-10.85078,7.18666",
+    "geom:latitude":7.18666,
+    "geom:longitude":-10.85078,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Helyeh",
+    "gn:country_code":"LR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276464,
+    "gn:latitude":7.18666,
+    "gn:longitude":-10.85078,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Helyeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276464
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f35000dcd5654910ceab9cc62398eabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1242854513,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1242854513,
+    "wof:lastmodified":1537661737,
+    "wof:name":"Helyeh",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85078,
+    7.18666,
+    -10.85078,
+    7.18666
+],
+  "geometry": {"coordinates":[-10.85078,7.18666],"type":"Point"}
+}

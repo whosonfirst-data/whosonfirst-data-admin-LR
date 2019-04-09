@@ -1,0 +1,70 @@
+{
+  "id": 1327435727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17322,6.8694,-9.17322,6.8694",
+    "geom:latitude":6.8694,
+    "geom:longitude":-9.17322,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chaletuta",
+    "gn:country_code":"LR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870100,
+    "gn:latitude":6.8694,
+    "gn:longitude":-9.17322,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Chaletuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chaletuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870100
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"62f884388bdd17a0540b37bdb1d9b1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1327435727,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1327435727,
+    "wof:lastmodified":1537661833,
+    "wof:name":"Chaletuta",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17322,
+    6.8694,
+    -9.17322,
+    6.8694
+],
+  "geometry": {"coordinates":[-9.17322,6.8694],"type":"Point"}
+}

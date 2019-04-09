@@ -1,0 +1,67 @@
+{
+  "id": 1293651053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.23583,8.27972,-10.23583,8.27972",
+    "geom:latitude":8.27972,
+    "geom:longitude":-10.23583,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Yasadu",
+    "gn:country_code":"LR",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272817,
+    "gn:latitude":8.27972,
+    "gn:longitude":-10.23583,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Yasadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272817
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3d8ea93e1a249de4216eb6e418944b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":1293651053,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1293651053,
+    "wof:lastmodified":1537046670,
+    "wof:name":"Yasadu",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.23583,
+    8.27972,
+    -10.23583,
+    8.27972
+],
+  "geometry": {"coordinates":[-10.23583,8.27972],"type":"Point"}
+}

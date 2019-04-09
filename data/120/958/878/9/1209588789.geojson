@@ -1,0 +1,66 @@
+{
+  "id": 1209588789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.75967,6.74079,-10.75967,6.74079",
+    "geom:latitude":6.74079,
+    "geom:longitude":-10.75967,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Doah",
+    "gn:country_code":"LR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277583,
+    "gn:latitude":6.74079,
+    "gn:longitude":-10.75967,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Doah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loah",
+        "Dowa",
+        "Doah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277583
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"413f577dc371c83e58f87c0686dfbc2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209588789
+        }
+    ],
+    "wof:id":1209588789,
+    "wof:lastmodified":1537661778,
+    "wof:name":"Doah",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.75967,
+    6.74079,
+    -10.75967,
+    6.74079
+],
+  "geometry": {"coordinates":[-10.75967,6.74079],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293280359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7541,6.1586,-9.7541,6.1586",
+    "geom:latitude":6.1586,
+    "geom:longitude":-9.7541,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chuglay",
+    "gn:country_code":"LR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9817879,
+    "gn:latitude":6.1586,
+    "gn:longitude":-9.7541,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Chuglay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9817879
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"054530a2ec0313ea6a67917862a783df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1293280359,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1293280359,
+    "wof:lastmodified":1537082473,
+    "wof:name":"Chuglay",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7541,
+    6.1586,
+    -9.7541,
+    6.1586
+],
+  "geometry": {"coordinates":[-9.7541,6.1586],"type":"Point"}
+}

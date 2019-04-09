@@ -1,0 +1,67 @@
+{
+  "id": 1326605279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18083,5.98528,-8.18083,5.98528",
+    "geom:latitude":5.98528,
+    "geom:longitude":-8.18083,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bazohn",
+    "gn:country_code":"LR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278798,
+    "gn:latitude":5.98528,
+    "gn:longitude":-8.18083,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Bazohn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278798
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"61054e0e63f29cd29fbf3e92e1556efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1326605279,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1326605279,
+    "wof:lastmodified":1536877987,
+    "wof:name":"Bazohn",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18083,
+    5.98528,
+    -8.18083,
+    5.98528
+],
+  "geometry": {"coordinates":[-8.18083,5.98528],"type":"Point"}
+}

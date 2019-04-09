@@ -1,0 +1,70 @@
+{
+  "id": 1293088273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.13875,6.8952,-11.13875,6.8952",
+    "geom:latitude":6.8952,
+    "geom:longitude":-11.13875,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zaway",
+    "gn:country_code":"LR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277773,
+    "gn:latitude":6.8952,
+    "gn:longitude":-11.13875,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Zaway",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimoja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277773
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"59649fb71b5c9dfe2e0573e4e5313c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1293088273,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1293088273,
+    "wof:lastmodified":1537661782,
+    "wof:name":"Zaway",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.13875,
+    6.8952,
+    -11.13875,
+    6.8952
+],
+  "geometry": {"coordinates":[-11.13875,6.8952],"type":"Point"}
+}

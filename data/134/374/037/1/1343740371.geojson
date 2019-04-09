@@ -1,0 +1,71 @@
+{
+  "id": 1343740371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.79196,6.2852,-9.79196,6.2852",
+    "geom:latitude":6.2852,
+    "geom:longitude":-9.79196,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bwamon",
+    "gn:country_code":"LR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278096,
+    "gn:latitude":6.2852,
+    "gn:longitude":-9.79196,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bwamon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bowama",
+        "Bwamon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278096
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0225e88fce5b2d75efefc692633aa206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1343740371,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1343740371,
+    "wof:lastmodified":1537661791,
+    "wof:name":"Bwamon",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.79196,
+    6.2852,
+    -9.79196,
+    6.2852
+],
+  "geometry": {"coordinates":[-9.79196,6.2852],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225816319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7322,6.30515,-10.7322,6.30515",
+    "geom:latitude":6.30515,
+    "geom:longitude":-10.7322,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"7669298.0",
+    "gn:asciiname":"Jacob Town",
+    "gn:country_code":"LR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203745,
+    "gn:latitude":6.30515,
+    "gn:longitude":-10.7322,
+    "gn:modification_date":"2016-07-08",
+    "gn:name":"Jacob Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203745
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0495bbc38886833fce99f3429b040f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":1225816319,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1225816319,
+    "wof:lastmodified":1537053895,
+    "wof:name":"Jacob Town",
+    "wof:parent_id":1091694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7322,
+    6.30515,
+    -10.7322,
+    6.30515
+],
+  "geometry": {"coordinates":[-10.7322,6.30515],"type":"Point"}
+}

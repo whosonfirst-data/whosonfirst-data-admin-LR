@@ -1,0 +1,74 @@
+{
+  "id": 1259698079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.16333,7.0975,-10.16333,7.0975",
+    "geom:latitude":7.0975,
+    "geom:longitude":-10.16333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Degei",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277783,
+    "gn:latitude":7.0975,
+    "gn:longitude":-10.16333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Degei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Digain",
+        "Degeh",
+        "Digei",
+        "Degei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277783
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"54930d6fe47e3d14a8261d0b7cfb45c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1259698079,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259698079,
+    "wof:lastmodified":1537661782,
+    "wof:name":"Degei",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.16333,
+    7.0975,
+    -10.16333,
+    7.0975
+],
+  "geometry": {"coordinates":[-10.16333,7.0975],"type":"Point"}
+}

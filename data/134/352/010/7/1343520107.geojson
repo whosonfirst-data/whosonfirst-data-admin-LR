@@ -1,0 +1,67 @@
+{
+  "id": 1343520107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5437,4.99947,-7.5437,4.99947",
+    "geom:latitude":4.99947,
+    "geom:longitude":-7.5437,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Saklake",
+    "gn:country_code":"LR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274197,
+    "gn:latitude":4.99947,
+    "gn:longitude":-7.5437,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Saklake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274197
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"585236eb9f8481af2fc06554e2a0cdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1343520107,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1343520107,
+    "wof:lastmodified":1536660353,
+    "wof:name":"Saklake",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5437,
+    4.99947,
+    -7.5437,
+    4.99947
+],
+  "geometry": {"coordinates":[-7.5437,4.99947],"type":"Point"}
+}

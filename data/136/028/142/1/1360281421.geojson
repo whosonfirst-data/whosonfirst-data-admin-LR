@@ -1,0 +1,67 @@
+{
+  "id": 1360281421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.13611,5.09111,-9.13611,5.09111",
+    "geom:latitude":5.09111,
+    "geom:longitude":-9.13611,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gro Town",
+    "gn:country_code":"LR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276593,
+    "gn:latitude":5.09111,
+    "gn:longitude":-9.13611,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Gro Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276593
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b0af90106ae85fe1dbc0379578ba78b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1360281421,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1360281421,
+    "wof:lastmodified":1536662441,
+    "wof:name":"Gro Town",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13611,
+    5.09111,
+    -9.13611,
+    5.09111
+],
+  "geometry": {"coordinates":[-9.13611,5.09111],"type":"Point"}
+}

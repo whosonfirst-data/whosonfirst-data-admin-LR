@@ -1,0 +1,67 @@
+{
+  "id": 1327023705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98498,5.00059,-8.98498,5.00059",
+    "geom:latitude":5.00059,
+    "geom:longitude":-8.98498,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Daabe Town",
+    "gn:country_code":"LR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570072,
+    "gn:latitude":5.00059,
+    "gn:longitude":-8.98498,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Daabe Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570072
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"44540c966753788428125bacba71e5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694701,
+            "locality_id":1327023705,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1327023705,
+    "wof:lastmodified":1536773667,
+    "wof:name":"Daabe Town",
+    "wof:parent_id":1091694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98498,
+    5.00059,
+    -8.98498,
+    5.00059
+],
+  "geometry": {"coordinates":[-8.98498,5.00059],"type":"Point"}
+}

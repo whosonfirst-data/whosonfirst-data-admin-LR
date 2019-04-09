@@ -1,0 +1,73 @@
+{
+  "id": 1192998449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.40263,6.98635,-11.40263,6.98635",
+    "geom:latitude":6.98635,
+    "geom:longitude":-11.40263,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Pokundu",
+    "gn:country_code":"LR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274352,
+    "gn:latitude":6.98635,
+    "gn:longitude":-11.40263,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Pokundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokundo",
+        "Pokunda",
+        "Pokonda",
+        "Pokundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274352
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8691cfe260d5438480f70c069bd8dedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1192998449,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1192998449,
+    "wof:lastmodified":1537661672,
+    "wof:name":"Pokundu",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.40263,
+    6.98635,
+    -11.40263,
+    6.98635
+],
+  "geometry": {"coordinates":[-11.40263,6.98635],"type":"Point"}
+}

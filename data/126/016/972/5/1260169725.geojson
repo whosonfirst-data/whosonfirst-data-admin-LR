@@ -1,0 +1,67 @@
+{
+  "id": 1260169725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2336,6.24209,-10.2336,6.24209",
+    "geom:latitude":6.24209,
+    "geom:longitude":-10.2336,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dukwia",
+    "gn:country_code":"LR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277522,
+    "gn:latitude":6.24209,
+    "gn:longitude":-10.2336,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Dukwia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277522
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9cb036c0a3f8c5bc38abb0c17ada5960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692709,
+            "locality_id":1260169725,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1260169725,
+    "wof:lastmodified":1536865538,
+    "wof:name":"Dukwia",
+    "wof:parent_id":1091692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2336,
+    6.24209,
+    -10.2336,
+    6.24209
+],
+  "geometry": {"coordinates":[-10.2336,6.24209],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360073233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93333,6.21667,-9.93333,6.21667",
+    "geom:latitude":6.21667,
+    "geom:longitude":-9.93333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kopabli",
+    "gn:country_code":"LR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275712,
+    "gn:latitude":6.21667,
+    "gn:longitude":-9.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kopabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275712
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d2f73077108f491887208b08bbdc18bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1360073233,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1360073233,
+    "wof:lastmodified":1536962653,
+    "wof:name":"Kopabli",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93333,
+    6.21667,
+    -9.93333,
+    6.21667
+],
+  "geometry": {"coordinates":[-9.93333,6.21667],"type":"Point"}
+}

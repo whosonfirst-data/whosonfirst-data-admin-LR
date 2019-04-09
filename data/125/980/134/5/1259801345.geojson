@@ -1,0 +1,67 @@
+{
+  "id": 1259801345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8525,6.98806,-9.8525,6.98806",
+    "geom:latitude":6.98806,
+    "geom:longitude":-9.8525,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Moblonga",
+    "gn:country_code":"LR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274954,
+    "gn:latitude":6.98806,
+    "gn:longitude":-9.8525,
+    "gn:modification_date":"1996-02-06",
+    "gn:name":"Moblonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274954
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"76d4569f8e70f650a9018d970e0c8b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692423,
+            "locality_id":1259801345,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259801345,
+    "wof:lastmodified":1536897373,
+    "wof:name":"Moblonga",
+    "wof:parent_id":1091692423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8525,
+    6.98806,
+    -9.8525,
+    6.98806
+],
+  "geometry": {"coordinates":[-9.8525,6.98806],"type":"Point"}
+}

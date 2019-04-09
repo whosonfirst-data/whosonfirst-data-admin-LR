@@ -1,0 +1,70 @@
+{
+  "id": 1293501635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41333,7.37889,-9.41333,7.37889",
+    "geom:latitude":7.37889,
+    "geom:longitude":-9.41333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Danina",
+    "gn:country_code":"LR",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277908,
+    "gn:latitude":7.37889,
+    "gn:longitude":-9.41333,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Danina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277908
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"15af05c2e4179f3ba4d1253446cb5141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1293501635,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1293501635,
+    "wof:lastmodified":1537661786,
+    "wof:name":"Danina",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41333,
+    7.37889,
+    -9.41333,
+    7.37889
+],
+  "geometry": {"coordinates":[-9.41333,7.37889],"type":"Point"}
+}

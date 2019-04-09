@@ -1,0 +1,67 @@
+{
+  "id": 1310275195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9461,6.61376,-10.9461,6.61376",
+    "geom:latitude":6.61376,
+    "geom:longitude":-10.9461,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Plunkor",
+    "gn:country_code":"LR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9817721,
+    "gn:latitude":6.61376,
+    "gn:longitude":-10.9461,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Plunkor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9817721
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a333a436444ccd0afdfc843d7780f9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1310275195,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1310275195,
+    "wof:lastmodified":1536751646,
+    "wof:name":"Plunkor",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9461,
+    6.61376,
+    -10.9461,
+    6.61376
+],
+  "geometry": {"coordinates":[-10.9461,6.61376],"type":"Point"}
+}

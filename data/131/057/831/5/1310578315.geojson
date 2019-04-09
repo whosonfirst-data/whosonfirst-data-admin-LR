@@ -1,0 +1,70 @@
+{
+  "id": 1310578315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.98787,7.03842,-10.98787,7.03842",
+    "geom:latitude":7.03842,
+    "geom:longitude":-10.98787,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Weasay",
+    "gn:country_code":"LR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272922,
+    "gn:latitude":7.03842,
+    "gn:longitude":-10.98787,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Weasay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272922
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e70fe8a2cde023d9e98ecd0e5e058abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1310578315,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1310578315,
+    "wof:lastmodified":1537661628,
+    "wof:name":"Weasay",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.98787,
+    7.03842,
+    -10.98787,
+    7.03842
+],
+  "geometry": {"coordinates":[-10.98787,7.03842],"type":"Point"}
+}

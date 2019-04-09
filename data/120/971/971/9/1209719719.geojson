@@ -1,0 +1,70 @@
+{
+  "id": 1209719719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66612,6.94816,-9.66612,6.94816",
+    "geom:latitude":6.94816,
+    "geom:longitude":-9.66612,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbaquoita",
+    "gn:country_code":"LR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870461,
+    "gn:latitude":6.94816,
+    "gn:longitude":-9.66612,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gbaquoita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbaquoita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870461
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4b29ca07b7d4e08edb7f83aef7b691ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1209719719,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1209719719,
+    "wof:lastmodified":1537661838,
+    "wof:name":"Gbaquoita",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66612,
+    6.94816,
+    -9.66612,
+    6.94816
+],
+  "geometry": {"coordinates":[-9.66612,6.94816],"type":"Point"}
+}

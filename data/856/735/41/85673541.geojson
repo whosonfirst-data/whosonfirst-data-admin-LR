@@ -1,0 +1,328 @@
+{
+  "id": 85673541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.134177,
+    "geom:area_square_m":1648413797.816552,
+    "geom:bbox":"-10.813504,6.215816,-10.371169,6.83262",
+    "geom:latitude":6.514351,
+    "geom:longitude":-10.570667,
+    "gn:population":1144806,
+    "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Montserrado County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":6.655401,
+    "lbl:longitude":-10.49694,
+    "mps:latitude":6.422435,
+    "mps:longitude":-10.633301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062f\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u057d\u0565\u0580\u0561\u0564\u0578 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
+    "name:baq_x_preferred":[
+        "Montserrado"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043d\u0442\u0441\u0435\u0440\u0430\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0442\u0441\u044d\u0440\u0430\u0434\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09cd\u099f\u09b8\u09c7\u09b0\u09b0\u09be\u09a1\u09cb \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    ],
+    "name:bre_x_preferred":[
+        "Montserrado"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0430\u0434\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Montserrado"
+    ],
+    "name:chi_x_preferred":[
+        "\u8499\u7279\u585e\u62c9\u591a\u53bf"
+    ],
+    "name:dan_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:deu_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:dut_x_preferred":[
+        "Montserrado"
+    ],
+    "name:eng_x_preferred":[
+        "Montserrado"
+    ],
+    "name:eus_x_preferred":[
+        "Montserrado"
+    ],
+    "name:fin_x_preferred":[
+        "Montserrado"
+    ],
+    "name:fra_x_preferred":[
+        "Comt\u00e9 de Montserrado"
+    ],
+    "name:fre_x_preferred":[
+        "Comt\u00e9 de Montserrado"
+    ],
+    "name:ger_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03c3\u03b5\u03c1\u03ac\u03bd\u03c4\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ab0\u0abe\u0aa1\u0acb \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0938\u0947\u0930\u0948\u0921\u094b \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u057d\u0565\u0580\u0561\u0564\u0578 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di Montserrado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30bb\u30e9\u30fc\u30c9",
+        "\u30e2\u30f3\u30bb\u30e9\u30fc\u30c9\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccb\u0c82\u0c9f\u0ccd\u0cb8\u0cc6\u0cb0\u0cbe\u0ca1\u0ccb \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubabd\uc138\ub77c\ub3c4 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Montserado gr\u0101fiste"
+    ],
+    "name:lit_x_preferred":[
+        "Montserado apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0949\u0928\u094d\u0938\u094d\u091f\u0947\u0930\u093e\u0921\u094b \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:nld_x_preferred":[
+        "Montserrado"
+    ],
+    "name:nob_x_preferred":[
+        "Montserrado"
+    ],
+    "name:nor_x_preferred":[
+        "Montserrado"
+    ],
+    "name:pol_x_preferred":[
+        "Hrabstwo Montserrado"
+    ],
+    "name:por_x_preferred":[
+        "Montserrado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0434\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dca\u0dc3\u0dd9\u0dbb\u0dcf\u0da9\u0ddd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Condado de Montserrado"
+    ],
+    "name:swe_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bca\u0ba9\u0bcd\u0b9f\u0b9a\u0bc7\u0bb0\u0bcd\u0bb1\u0b9f\u0bcb  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c02\u0c1f\u0c4d\u0c38\u0c46\u0c30\u0c3e\u0c21\u0c4b \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e21\u0e2d\u0e19\u0e15\u0e4c\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e23\u0e32\u0e42\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Montserrado County"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Montserrado County"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u0633\u06cc\u0631\u0627\u0688\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Montserrado"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u585e\u62c9\u591a\u53bf"
+    ],
+    "name:zho_x_variant":[
+        "\u5b5f\u8272\u7f57\u62c9\u591a"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LBR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LBR-788",
+    "ne:adm1_code":"LBR-788",
+    "ne:admin":"Liberia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"LR.MO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"788",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LI14",
+    "ne:fips_alt":"LI08|LI15",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Liberia",
+    "ne:gn_a1_code":"LR.14",
+    "ne:gn_id":"2274890",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Montserrado County",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LI14",
+    "ne:gns_id":"-2134017",
+    "ne:gns_lang":"nld",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Montserrado County",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LBR",
+    "ne:hasc_maybe":"LR.BM|LBR-MNT",
+    "ne:iso_3166_2":"LR-",
+    "ne:iso_a2":"LR",
+    "ne:labelrank":"7",
+    "ne:latitude":"6.43188000000",
+    "ne:longitude":"-10.58060000000",
+    "ne:mapcolor13":9,
+    "ne:mapcolor9":4,
+    "ne:name":"Montserrado",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MO",
+    "ne:provnum_ne":"11",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"LBR",
+    "ne:sub_code":"",
+    "ne:type":"County",
+    "ne:type_en":"County",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346108,
+    "ne:woe_label":"Montserrado, LR, Liberia",
+    "ne:woe_name":"Montserrado",
+    "qs:a0":"Liberia",
+    "qs:a0_lc":"LR",
+    "qs:a1":"Montserrado",
+    "qs:a1_lc":"LBR-788",
+    "qs:adm0":"Liberia",
+    "qs:adm0_a3":"LBR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"County",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-03-21",
+    "statoids:area_km":"2,740",
+    "statoids:area_mi":"1,058",
+    "statoids:as_of_date":"2008-03-21",
+    "statoids:capital":"Bensonville",
+    "statoids:country":"LR",
+    "statoids:gec":"LI14",
+    "statoids:hasc":"LR.MO",
+    "statoids:iso":"MO",
+    "statoids:name":"Montserrado",
+    "statoids:population":"1144806",
+    "statoids:timezone":"+0",
+    "statoids:type":"county",
+    "unlc:subdivision":"LR-MO",
+    "wd:wordcount":2728,
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LI14",
+        "gn:id":2274890,
+        "gp:id":2346108,
+        "hasc:id":"LR.MO",
+        "iso:id":"LR-MO",
+        "qs:id":423791,
+        "unlc:id":"LR-MO",
+        "wd:id":"Q862608",
+        "wk:page":"Montserrado County"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2c3aed16b262df5cba8345363c886a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":85673541,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550401,
+    "wof:name":"Montserrado",
+    "wof:parent_id":85632249,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":1144806,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:shortcode":"MO",
+    "wof:subdivision":"LR-MO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.813504,
+    6.215816,
+    -10.371169,
+    6.83262
+],
+  "geometry": {"coordinates":[[[-10.468464,6.83262],[-10.465948,6.826461],[-10.458249,6.817493],[-10.457485,6.807784],[-10.462703,6.793177],[-10.466749,6.776958],[-10.456051,6.768935],[-10.443583,6.772258],[-10.432972,6.776493],[-10.424205,6.779791],[-10.4173,6.784926],[-10.408239,6.779436],[-10.399659,6.776486],[-10.391567,6.777234],[-10.385746,6.771721],[-10.381437,6.761064],[-10.386555,6.755063],[-10.389035,6.746024],[-10.388034,6.73516],[-10.390068,6.728207],[-10.393939,6.719623],[-10.392491,6.711074],[-10.392924,6.706677],[-10.399127,6.700852],[-10.404177,6.695268],[-10.403795,6.673759],[-10.397196,6.656223],[-10.390627,6.64285],[-10.383159,6.632954],[-10.377133,6.631374],[-10.380066,6.620714],[-10.385091,6.611661],[-10.392011,6.609302],[-10.390534,6.596358],[-10.385345,6.581589],[-10.381949,6.558712],[-10.375188,6.550891],[-10.371169,6.537964],[-10.371594,6.521617],[-10.379776,6.512001],[-10.381801,6.503892],[-10.381734,6.494177],[-10.386055,6.48374],[-10.391116,6.480237],[-10.39522,6.471652],[-10.401158,6.461204],[-10.409894,6.454207],[-10.416558,6.448381],[-10.419732,6.439338],[-10.422675,6.430298],[-10.422615,6.421708],[-10.42257,6.415264],[-10.419043,6.406497],[-10.41527,6.395882],[-10.412889,6.385951],[-10.418178,6.381753],[-10.428138,6.384695],[-10.434146,6.384424],[-10.438278,6.380464],[-10.447273,6.377629],[-10.463916,6.377518],[-10.47595,6.379752],[-10.490936,6.374331],[-10.497798,6.364108],[-10.502646,6.349206],[-10.508345,6.352009],[-10.523415,6.358615],[-10.535929,6.363388],[-10.548646,6.363995],[-10.56945,6.364315],[-10.578678,6.361939],[-10.590214,6.359084],[-10.597422,6.356555],[-10.593617,6.350503],[-10.594265,6.344023],[-10.603527,6.346503],[-10.612093,6.348525],[-10.621326,6.347073],[-10.633307,6.341901],[-10.64389,6.335352],[-10.64523,6.329097],[-10.643084,6.319861],[-10.639318,6.310636],[-10.637715,6.306778],[-10.63673,6.304409],[-10.641963,6.29304],[-10.649265,6.280499],[-10.648016,6.267556],[-10.643801,6.259954],[-10.635437,6.253535],[-10.62867,6.244562],[-10.622144,6.236743],[-10.617464,6.228681],[-10.6151,6.221295],[-10.615109,6.215816],[-10.680434,6.230764],[-10.6926,6.23562],[-10.699249,6.241382],[-10.706346,6.252429],[-10.710702,6.256115],[-10.722636,6.26166],[-10.754561,6.26817],[-10.762356,6.275542],[-10.790581,6.292382],[-10.801125,6.303436],[-10.811682,6.308976],[-10.813504,6.315643],[-10.81142,6.322072],[-10.803596,6.32688],[-10.800594,6.332617],[-10.790455,6.344542],[-10.787912,6.350509],[-10.788362,6.355106],[-10.790604,6.359264],[-10.798657,6.374201],[-10.797043,6.376495],[-10.789456,6.377396],[-10.777247,6.389316],[-10.766891,6.395265],[-10.753556,6.397301],[-10.744584,6.400726],[-10.740208,6.404851],[-10.730748,6.419533],[-10.735346,6.419314],[-10.744377,6.41688],[-10.755087,6.416523],[-10.77313,6.415951],[-10.789615,6.416451],[-10.792503,6.419859],[-10.793406,6.42542],[-10.794128,6.430981],[-10.794669,6.435466],[-10.795391,6.44282],[-10.795933,6.449816],[-10.798179,6.454752],[-10.801673,6.458427],[-10.802392,6.461659],[-10.801488,6.464439],[-10.798283,6.468393],[-10.793685,6.471663],[-10.789326,6.476087],[-10.789583,6.479322],[-10.792604,6.481612],[-10.796079,6.482513],[-10.801173,6.483632],[-10.804873,6.484067],[-10.807666,6.48636],[-10.806304,6.489606],[-10.804485,6.49355],[-10.801082,6.501898],[-10.796288,6.509793],[-10.790554,6.515615],[-10.783627,6.51659],[-10.773906,6.51504],[-10.766501,6.513938],[-10.758858,6.512142],[-10.75332,6.513338],[-10.748056,6.520543],[-10.742573,6.528906],[-10.737761,6.534489],[-10.732474,6.538457],[-10.725336,6.542207],[-10.720988,6.54825],[-10.71733,6.553594],[-10.714842,6.560779],[-10.716263,6.565393],[-10.717459,6.570703],[-10.720279,6.576694],[-10.720103,6.584094],[-10.716436,6.588513],[-10.710424,6.588325],[-10.706461,6.58396],[-10.702033,6.579135],[-10.698302,6.575],[-10.696188,6.57039],[-10.694069,6.565318],[-10.692637,6.559317],[-10.691449,6.555163],[-10.688651,6.551946],[-10.68169,6.548526],[-10.676587,6.54625],[-10.669176,6.544683],[-10.663626,6.544259],[-10.65853,6.542908],[-10.651345,6.540645],[-10.645998,6.53652],[-10.640412,6.531472],[-10.635286,6.525958],[-10.628762,6.519065],[-10.624478,6.513917],[-10.614464,6.514573],[-10.600863,6.519988],[-10.590008,6.521451],[-10.582422,6.527518],[-10.578316,6.534948],[-10.570033,6.540556],[-10.561059,6.547464],[-10.554447,6.559399],[-10.559402,6.57301],[-10.57179,6.591197],[-10.586926,6.605662],[-10.600186,6.616439],[-10.608866,6.633262],[-10.607856,6.652929],[-10.599877,6.668482],[-10.594637,6.679157],[-10.59169,6.687273],[-10.59066,6.704165],[-10.577072,6.712124],[-10.577793,6.71582],[-10.57486,6.725555],[-10.570498,6.730211],[-10.570564,6.739231],[-10.574819,6.751459],[-10.569122,6.763063],[-10.566889,6.773719],[-10.563984,6.787848],[-10.559219,6.800372],[-10.548836,6.803914],[-10.535909,6.807704],[-10.524385,6.813567],[-10.511242,6.819441],[-10.499939,6.823915],[-10.486779,6.827706],[-10.475926,6.830556],[-10.468464,6.83262]]],"type":"Polygon"}
+}

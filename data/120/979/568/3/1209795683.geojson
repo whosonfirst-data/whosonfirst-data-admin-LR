@@ -1,0 +1,70 @@
+{
+  "id": 1209795683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14197,6.69129,-11.14197,6.69129",
+    "geom:latitude":6.69129,
+    "geom:longitude":-11.14197,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tienimai",
+    "gn:country_code":"LR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273600,
+    "gn:latitude":6.69129,
+    "gn:longitude":-11.14197,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Tienimai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tienimani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273600
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0c818d3bb1cf74b7942abc2661f72dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1209795683,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1209795683,
+    "wof:lastmodified":1537661648,
+    "wof:name":"Tienimai",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14197,
+    6.69129,
+    -11.14197,
+    6.69129
+],
+  "geometry": {"coordinates":[-11.14197,6.69129],"type":"Point"}
+}

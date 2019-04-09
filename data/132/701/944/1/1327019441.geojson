@@ -1,0 +1,72 @@
+{
+  "id": 1327019441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76528,6.97472,-8.76528,6.97472",
+    "geom:latitude":6.97472,
+    "geom:longitude":-8.76528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zuntuo",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272541,
+    "gn:latitude":6.97472,
+    "gn:longitude":-8.76528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zuntuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zontlop",
+        "Zuntuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272541
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5a0ba91422479d1894172f5ca8e7b29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1327019441,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1327019441,
+    "wof:lastmodified":1537661613,
+    "wof:name":"Zuntuo",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76528,
+    6.97472,
+    -8.76528,
+    6.97472
+],
+  "geometry": {"coordinates":[-8.76528,6.97472],"type":"Point"}
+}

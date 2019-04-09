@@ -1,0 +1,72 @@
+{
+  "id": 1226222347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.96143,7.15967,-10.96143,7.15967",
+    "geom:latitude":7.15967,
+    "geom:longitude":-10.96143,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Varguaye",
+    "gn:country_code":"LR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273373,
+    "gn:latitude":7.15967,
+    "gn:longitude":-10.96143,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Varguaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaagole",
+        "Daakoi",
+        "Varguaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273373
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bdfa0c626380f323edffab947cf642b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1226222347,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1226222347,
+    "wof:lastmodified":1537661641,
+    "wof:name":"Varguaye",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.96143,
+    7.15967,
+    -10.96143,
+    7.15967
+],
+  "geometry": {"coordinates":[-10.96143,7.15967],"type":"Point"}
+}

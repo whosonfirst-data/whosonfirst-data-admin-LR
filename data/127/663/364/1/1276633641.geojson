@@ -1,0 +1,63 @@
+{
+  "id": 1276633641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03333,5.91667,-10.03333,5.91667",
+    "geom:latitude":5.91667,
+    "geom:longitude":-10.03333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jozon",
+    "gn:country_code":"LR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276164,
+    "gn:latitude":5.91667,
+    "gn:longitude":-10.03333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Jozon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276164
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"161d662ed699595aab4c6aad755280c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276633641,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276633641,
+    "wof:lastmodified":1536872682,
+    "wof:name":"Jozon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03333,
+    5.91667,
+    -10.03333,
+    5.91667
+],
+  "geometry": {"coordinates":[-10.03333,5.91667],"type":"Point"}
+}

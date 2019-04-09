@@ -1,0 +1,76 @@
+{
+  "id": 1243027181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.14639,7.19222,-10.14639,7.19222",
+    "geom:latitude":7.19222,
+    "geom:longitude":-10.14639,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Molakole",
+    "gn:country_code":"LR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274933,
+    "gn:latitude":7.19222,
+    "gn:longitude":-10.14639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Molakole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molakwelle",
+        "Mowolakwelle",
+        "Mualakwele",
+        "Molakwele",
+        "M\u00f2wulahkwelli",
+        "Muakole",
+        "Molakole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274933
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"da38ac02025b15bbb94cd6b55e61342c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693535,
+            "locality_id":1243027181,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1243027181,
+    "wof:lastmodified":1537661688,
+    "wof:name":"Molakole",
+    "wof:parent_id":1091693535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.14639,
+    7.19222,
+    -10.14639,
+    7.19222
+],
+  "geometry": {"coordinates":[-10.14639,7.19222],"type":"Point"}
+}

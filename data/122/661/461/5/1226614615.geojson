@@ -1,0 +1,73 @@
+{
+  "id": 1226614615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01977,5.49578,-8.01977,5.49578",
+    "geom:latitude":5.49578,
+    "geom:longitude":-8.01977,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Killepo Kanweaken",
+    "gn:country_code":"LR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275956,
+    "gn:latitude":5.49578,
+    "gn:longitude":-8.01977,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Killepo Kanweaken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siagbokohn",
+        "Kelipo-Kanbueke",
+        "Kelipo-Kanwiekehn",
+        "Killepo Kanweaken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275956
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"40419271a43528febcb01014f52cbc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1226614615,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1226614615,
+    "wof:lastmodified":1537661720,
+    "wof:name":"Killepo Kanweaken",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01977,
+    5.49578,
+    -8.01977,
+    5.49578
+],
+  "geometry": {"coordinates":[-8.01977,5.49578],"type":"Point"}
+}

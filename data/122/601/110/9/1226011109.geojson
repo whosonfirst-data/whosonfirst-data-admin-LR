@@ -1,0 +1,67 @@
+{
+  "id": 1226011109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60528,5.8353,-9.60528,5.8353",
+    "geom:latitude":5.8353,
+    "geom:longitude":-9.60528,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bonnie Town",
+    "gn:country_code":"LR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572025,
+    "gn:latitude":5.8353,
+    "gn:longitude":-9.60528,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bonnie Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572025
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a9704fc01892876e3daca8e7a9257094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1226011109,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1226011109,
+    "wof:lastmodified":1536775831,
+    "wof:name":"Bonnie Town",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60528,
+    5.8353,
+    -9.60528,
+    5.8353
+],
+  "geometry": {"coordinates":[-9.60528,5.8353],"type":"Point"}
+}

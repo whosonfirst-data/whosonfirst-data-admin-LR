@@ -1,0 +1,67 @@
+{
+  "id": 1344035837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.72651,6.61234,-9.72651,6.61234",
+    "geom:latitude":6.61234,
+    "geom:longitude":-9.72651,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sakuta Number One",
+    "gn:country_code":"LR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818299,
+    "gn:latitude":6.61234,
+    "gn:longitude":-9.72651,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Sakuta Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818299
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e22c93d144ff8ad18acd1cea81eaf0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1344035837,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1344035837,
+    "wof:lastmodified":1536911607,
+    "wof:name":"Sakuta Number One",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.72651,
+    6.61234,
+    -9.72651,
+    6.61234
+],
+  "geometry": {"coordinates":[-9.72651,6.61234],"type":"Point"}
+}

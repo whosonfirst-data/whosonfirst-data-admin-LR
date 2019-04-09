@@ -1,0 +1,67 @@
+{
+  "id": 1310200979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62917,7.36944,-8.62917,7.36944",
+    "geom:latitude":7.36944,
+    "geom:longitude":-8.62917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Blebe",
+    "gn:country_code":"LR",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278510,
+    "gn:latitude":7.36944,
+    "gn:longitude":-8.62917,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Blebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278510
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a55ec94fdbfa6a27ea2cbbfcbd6c89bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1310200979,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1310200979,
+    "wof:lastmodified":1536857563,
+    "wof:name":"Blebe",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62917,
+    7.36944,
+    -8.62917,
+    7.36944
+],
+  "geometry": {"coordinates":[-8.62917,7.36944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242765613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.49048,6.48914,-9.49048,6.48914",
+    "geom:latitude":6.48914,
+    "geom:longitude":-9.49048,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kpokom",
+    "gn:country_code":"LR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275612,
+    "gn:latitude":6.48914,
+    "gn:longitude":-9.49048,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kpokom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpokom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275612
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5e3e5ba148939e7033b7f9227dc7b9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1242765613,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1242765613,
+    "wof:lastmodified":1537661706,
+    "wof:name":"Kpokom",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.49048,
+    6.48914,
+    -9.49048,
+    6.48914
+],
+  "geometry": {"coordinates":[-9.49048,6.48914],"type":"Point"}
+}

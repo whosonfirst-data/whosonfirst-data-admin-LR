@@ -1,0 +1,67 @@
+{
+  "id": 1343732525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85658,6.86292,-10.85658,6.86292",
+    "geom:latitude":6.86292,
+    "geom:longitude":-10.85658,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Be Dean",
+    "gn:country_code":"LR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278774,
+    "gn:latitude":6.86292,
+    "gn:longitude":-10.85658,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Be Dean",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278774
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"da0a06a1c49a0b607437ec445b95ed45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1343732525,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1343732525,
+    "wof:lastmodified":1536850146,
+    "wof:name":"Be Dean",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85658,
+    6.86292,
+    -10.85658,
+    6.86292
+],
+  "geometry": {"coordinates":[-10.85658,6.86292],"type":"Point"}
+}

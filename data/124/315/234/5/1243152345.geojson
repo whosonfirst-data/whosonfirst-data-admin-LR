@@ -1,0 +1,72 @@
+{
+  "id": 1243152345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.10516,6.69462,-11.10516,6.69462",
+    "geom:latitude":6.69462,
+    "geom:longitude":-11.10516,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Te",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273652,
+    "gn:latitude":6.69462,
+    "gn:longitude":-11.10516,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Te",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teh",
+        "Te",
+        "Tee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273652
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e7a1efa90cd9e517ef0b074828fde9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1243152345,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1243152345,
+    "wof:lastmodified":1537661651,
+    "wof:name":"Te",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.10516,
+    6.69462,
+    -11.10516,
+    6.69462
+],
+  "geometry": {"coordinates":[-11.10516,6.69462],"type":"Point"}
+}

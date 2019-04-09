@@ -1,0 +1,72 @@
+{
+  "id": 1292957285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01508,5.2641,-8.01508,5.2641",
+    "geom:latitude":5.2641,
+    "geom:longitude":-8.01508,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Flehwrokehn",
+    "gn:country_code":"LR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277364,
+    "gn:latitude":5.2641,
+    "gn:longitude":-8.01508,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Flehwrokehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flareville",
+        "Flehwroken",
+        "Flehwrokehn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277364
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1c7fff68eeb68c84d7e53dac45796c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1292957285,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1292957285,
+    "wof:lastmodified":1537661771,
+    "wof:name":"Flehwrokehn",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01508,
+    5.2641,
+    -8.01508,
+    5.2641
+],
+  "geometry": {"coordinates":[-8.01508,5.2641],"type":"Point"}
+}

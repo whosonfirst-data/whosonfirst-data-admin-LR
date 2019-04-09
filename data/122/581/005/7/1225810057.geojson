@@ -1,0 +1,73 @@
+{
+  "id": 1225810057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2225,8.15583,-10.2225,8.15583",
+    "geom:latitude":8.15583,
+    "geom:longitude":-10.2225,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimbalahun Number Two",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275951,
+    "gn:latitude":8.15583,
+    "gn:longitude":-10.2225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kimbalahun Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kembalahun Number 2",
+        "Kembalahun Number Two",
+        "Kimbalahun Number Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275951
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4b72f6e89a6b283ebc29a3a430973015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":1225810057,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1225810057,
+    "wof:lastmodified":1537661719,
+    "wof:name":"Kimbalahun Number Two",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2225,
+    8.15583,
+    -10.2225,
+    8.15583
+],
+  "geometry": {"coordinates":[-10.2225,8.15583],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293394031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3,7.05,-9.3,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":-9.3,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kolibucho",
+    "gn:country_code":"LR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275791,
+    "gn:latitude":7.05,
+    "gn:longitude":-9.3,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kolibucho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolibucho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275791
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6dfe879a96124770c02b2a9f7d813a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1293394031,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1293394031,
+    "wof:lastmodified":1537661714,
+    "wof:name":"Kolibucho",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3,
+    7.05,
+    -9.3,
+    7.05
+],
+  "geometry": {"coordinates":[-9.3,7.05],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209496291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69166,6.05748,-9.69166,6.05748",
+    "geom:latitude":6.05748,
+    "geom:longitude":-9.69166,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bulgbo",
+    "gn:country_code":"LR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278435,
+    "gn:latitude":6.05748,
+    "gn:longitude":-9.69166,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bulgbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobwobli",
+        "Bulgbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278435
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e68ea6ad386ea7a719dbb14ba785c897",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209496291
+        }
+    ],
+    "wof:id":1209496291,
+    "wof:lastmodified":1537661800,
+    "wof:name":"Bulgbo",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69166,
+    6.05748,
+    -9.69166,
+    6.05748
+],
+  "geometry": {"coordinates":[-9.69166,6.05748],"type":"Point"}
+}

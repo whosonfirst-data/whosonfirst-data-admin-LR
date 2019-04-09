@@ -1,0 +1,73 @@
+{
+  "id": 1327302889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00192,5.36285,-8.00192,5.36285",
+    "geom:latitude":5.36285,
+    "geom:longitude":-8.00192,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Putuken",
+    "gn:country_code":"LR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274311,
+    "gn:latitude":5.36285,
+    "gn:longitude":-8.00192,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Putuken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putukehn",
+        "Putuke",
+        "Petukahn",
+        "Putukehn Number One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274311
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2f571a1e1b2546a747bd32ed8dbc6472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1327302889,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1327302889,
+    "wof:lastmodified":1537661670,
+    "wof:name":"Putuken",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00192,
+    5.36285,
+    -8.00192,
+    5.36285
+],
+  "geometry": {"coordinates":[-8.00192,5.36285],"type":"Point"}
+}

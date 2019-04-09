@@ -1,0 +1,73 @@
+{
+  "id": 1276525965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99831,5.94488,-9.99831,5.94488",
+    "geom:latitude":5.94488,
+    "geom:longitude":-9.99831,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taye Town",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278175,
+    "gn:latitude":5.94488,
+    "gn:longitude":-9.99831,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Taye Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charlie Farm",
+        "Charlie Brownbli",
+        "Brownbli",
+        "Taye Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278175
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2a7bc5cd1e6f49439ffcacd042166d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1276525965,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1276525965,
+    "wof:lastmodified":1537661793,
+    "wof:name":"Taye Town",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99831,
+    5.94488,
+    -9.99831,
+    5.94488
+],
+  "geometry": {"coordinates":[-9.99831,5.94488],"type":"Point"}
+}

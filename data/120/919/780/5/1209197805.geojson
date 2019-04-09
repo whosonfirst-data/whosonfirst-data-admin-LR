@@ -1,0 +1,61 @@
+{
+  "id": 1209197805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4,6.75,-10.4,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":-10.4,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Blokoan",
+    "gn:country_code":"LR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278485,
+    "gn:latitude":6.75,
+    "gn:longitude":-10.4,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Blokoan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278485
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"10fd65ca83e18d3bf45f585005f5d7f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209197805
+        }
+    ],
+    "wof:id":1209197805,
+    "wof:lastmodified":1536294712,
+    "wof:name":"Blokoan",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4,
+    6.75,
+    -10.4,
+    6.75
+],
+  "geometry": {"coordinates":[-10.4,6.75],"type":"Point"}
+}

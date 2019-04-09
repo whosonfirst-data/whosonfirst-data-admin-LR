@@ -1,0 +1,70 @@
+{
+  "id": 1243176215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4097,6.79852,-9.4097,6.79852",
+    "geom:latitude":6.79852,
+    "geom:longitude":-9.4097,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Moita",
+    "gn:country_code":"LR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870375,
+    "gn:latitude":6.79852,
+    "gn:longitude":-9.4097,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Moita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870375
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"20a44b73dbe898f8d7c200ea448ae835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1243176215,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1243176215,
+    "wof:lastmodified":1537661838,
+    "wof:name":"Moita",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4097,
+    6.79852,
+    -9.4097,
+    6.79852
+],
+  "geometry": {"coordinates":[-9.4097,6.79852],"type":"Point"}
+}

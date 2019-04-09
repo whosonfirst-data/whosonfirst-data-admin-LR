@@ -1,0 +1,61 @@
+{
+  "id": 1209476829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.06667,8.45,-10.06667,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-10.06667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bami",
+    "gn:country_code":"LR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278940,
+    "gn:latitude":8.45,
+    "gn:longitude":-10.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278940
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e1338b447e863427e9003c382cd73863",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209476829
+        }
+    ],
+    "wof:id":1209476829,
+    "wof:lastmodified":1536285910,
+    "wof:name":"Bami",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.06667,
+    8.45,
+    -10.06667,
+    8.45
+],
+  "geometry": {"coordinates":[-10.06667,8.45],"type":"Point"}
+}

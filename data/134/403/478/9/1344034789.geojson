@@ -1,0 +1,74 @@
+{
+  "id": 1344034789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.28846,6.94381,-11.28846,6.94381",
+    "geom:latitude":6.94381,
+    "geom:longitude":-11.28846,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nagbema",
+    "gn:country_code":"LR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274830,
+    "gn:latitude":6.94381,
+    "gn:longitude":-11.28846,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Nagbema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagbina",
+        "Nogaina",
+        "Nagbainna",
+        "Nagbena",
+        "Nagbema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274830
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"dd4a6b475e68c880f42b942ffb74762e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1344034789,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1344034789,
+    "wof:lastmodified":1537661685,
+    "wof:name":"Nagbema",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.28846,
+    6.94381,
+    -11.28846,
+    6.94381
+],
+  "geometry": {"coordinates":[-11.28846,6.94381],"type":"Point"}
+}

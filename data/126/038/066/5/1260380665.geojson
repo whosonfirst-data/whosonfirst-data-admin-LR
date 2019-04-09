@@ -1,0 +1,67 @@
+{
+  "id": 1260380665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75028,7.10167,-8.75028,7.10167",
+    "geom:latitude":7.10167,
+    "geom:longitude":-8.75028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nipa",
+    "gn:country_code":"LR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274674,
+    "gn:latitude":7.10167,
+    "gn:longitude":-8.75028,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Nipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274674
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"65fca1e79d432f7106e440266f3ff94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1260380665,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1260380665,
+    "wof:lastmodified":1537075691,
+    "wof:name":"Nipa",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75028,
+    7.10167,
+    -8.75028,
+    7.10167
+],
+  "geometry": {"coordinates":[-8.75028,7.10167],"type":"Point"}
+}

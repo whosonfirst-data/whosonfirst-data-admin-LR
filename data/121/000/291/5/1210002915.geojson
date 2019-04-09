@@ -1,0 +1,67 @@
+{
+  "id": 1210002915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.65083,4.83972,-7.65083,4.83972",
+    "geom:latitude":4.83972,
+    "geom:longitude":-7.65083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wortuke",
+    "gn:country_code":"LR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572090,
+    "gn:latitude":4.83972,
+    "gn:longitude":-7.65083,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Wortuke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572090
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"678af63861e4de0def8bde7d235798e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1210002915,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1210002915,
+    "wof:lastmodified":1536376799,
+    "wof:name":"Wortuke",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65083,
+    4.83972,
+    -7.65083,
+    4.83972
+],
+  "geometry": {"coordinates":[-7.65083,4.83972],"type":"Point"}
+}

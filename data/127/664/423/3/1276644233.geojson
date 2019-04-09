@@ -1,0 +1,67 @@
+{
+  "id": 1276644233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98333,6.11667,-9.98333,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":-9.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yuwa Manabli",
+    "gn:country_code":"LR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272698,
+    "gn:latitude":6.11667,
+    "gn:longitude":-9.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yuwa Manabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272698
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2d2223d31ee4a4b0191050667686fed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692889,
+            "locality_id":1276644233,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1276644233,
+    "wof:lastmodified":1536857977,
+    "wof:name":"Yuwa Manabli",
+    "wof:parent_id":1091692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98333,
+    6.11667,
+    -9.98333,
+    6.11667
+],
+  "geometry": {"coordinates":[-9.98333,6.11667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209297907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.78122,6.41352,-10.78122,6.41352",
+    "geom:latitude":6.41352,
+    "geom:longitude":-10.78122,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zolu",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904364,
+    "gn:latitude":6.41352,
+    "gn:longitude":-10.78122,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Zolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904364
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6709adc48453dd65f0f235a10bbb5829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209297907
+        }
+    ],
+    "wof:id":1209297907,
+    "wof:lastmodified":1536291459,
+    "wof:name":"Zolu",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.78122,
+    6.41352,
+    -10.78122,
+    6.41352
+],
+  "geometry": {"coordinates":[-10.78122,6.41352],"type":"Point"}
+}

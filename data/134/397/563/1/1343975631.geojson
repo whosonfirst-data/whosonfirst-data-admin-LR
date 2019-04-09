@@ -1,0 +1,70 @@
+{
+  "id": 1343975631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43776,7.23039,-9.43776,7.23039",
+    "geom:latitude":7.23039,
+    "geom:longitude":-9.43776,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jaimu",
+    "gn:country_code":"LR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869750,
+    "gn:latitude":7.23039,
+    "gn:longitude":-9.43776,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Jaimu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jaimu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869750
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ad7236aabf85e9c3f58d430aefb439aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1343975631,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343975631,
+    "wof:lastmodified":1537661831,
+    "wof:name":"Jaimu",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43776,
+    7.23039,
+    -9.43776,
+    7.23039
+],
+  "geometry": {"coordinates":[-9.43776,7.23039],"type":"Point"}
+}

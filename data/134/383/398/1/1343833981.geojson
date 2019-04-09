@@ -1,0 +1,72 @@
+{
+  "id": 1343833981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37169,5.57248,-9.37169,5.57248",
+    "geom:latitude":5.57248,
+    "geom:longitude":-9.37169,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gbokohn",
+    "gn:country_code":"LR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278382,
+    "gn:latitude":5.57248,
+    "gn:longitude":-9.37169,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbokohn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokoa",
+        "Bokoa Town",
+        "Gbokohn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278382
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"16bdb112c96bbc298beced3d074376a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694497,
+            "locality_id":1343833981,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1343833981,
+    "wof:lastmodified":1537661798,
+    "wof:name":"Gbokohn",
+    "wof:parent_id":1091694497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37169,
+    5.57248,
+    -9.37169,
+    5.57248
+],
+  "geometry": {"coordinates":[-9.37169,5.57248],"type":"Point"}
+}

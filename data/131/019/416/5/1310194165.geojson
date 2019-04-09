@@ -1,0 +1,67 @@
+{
+  "id": 1310194165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74316,5.07209,-8.74316,5.07209",
+    "geom:latitude":5.07209,
+    "geom:longitude":-8.74316,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Saytue",
+    "gn:country_code":"LR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870683,
+    "gn:latitude":5.07209,
+    "gn:longitude":-8.74316,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Saytue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870683
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a704f250bd8ee80354c48e3c9b5fb09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1310194165,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1310194165,
+    "wof:lastmodified":1536867413,
+    "wof:name":"Saytue",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74316,
+    5.07209,
+    -8.74316,
+    5.07209
+],
+  "geometry": {"coordinates":[-8.74316,5.07209],"type":"Point"}
+}

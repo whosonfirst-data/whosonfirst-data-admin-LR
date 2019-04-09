@@ -1,0 +1,67 @@
+{
+  "id": 1293866741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.68684,6.64066,-10.68684,6.64066",
+    "geom:latitude":6.64066,
+    "geom:longitude":-10.68684,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Be Boakai",
+    "gn:country_code":"LR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278781,
+    "gn:latitude":6.64066,
+    "gn:longitude":-10.68684,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Be Boakai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278781
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3a1852454e9d77cea68c86d1537f3cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1293866741,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1293866741,
+    "wof:lastmodified":1536737478,
+    "wof:name":"Be Boakai",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.68684,
+    6.64066,
+    -10.68684,
+    6.64066
+],
+  "geometry": {"coordinates":[-10.68684,6.64066],"type":"Point"}
+}

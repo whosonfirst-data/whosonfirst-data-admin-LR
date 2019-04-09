@@ -1,0 +1,67 @@
+{
+  "id": 1242943261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.81278,6.81778,-10.81278,6.81778",
+    "geom:latitude":6.81778,
+    "geom:longitude":-10.81278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Coleman Town (1)",
+    "gn:country_code":"LR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277992,
+    "gn:latitude":6.81778,
+    "gn:longitude":-10.81278,
+    "gn:modification_date":"2003-09-24",
+    "gn:name":"Coleman Town (1)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277992
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"315a3e87b4fe787e4c4efd8511ba00bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1242943261,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1242943261,
+    "wof:lastmodified":1537032718,
+    "wof:name":"Coleman Town (1)",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.81278,
+    6.81778,
+    -10.81278,
+    6.81778
+],
+  "geometry": {"coordinates":[-10.81278,6.81778],"type":"Point"}
+}

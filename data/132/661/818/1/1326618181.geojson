@@ -1,0 +1,67 @@
+{
+  "id": 1326618181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75834,6.59885,-9.75834,6.59885",
+    "geom:latitude":6.59885,
+    "geom:longitude":-9.75834,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bohn Town",
+    "gn:country_code":"LR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9815419,
+    "gn:latitude":6.59885,
+    "gn:longitude":-9.75834,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Bohn Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9815419
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8a18c1bbf2b631c210866ddfc6ab2a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1326618181,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1326618181,
+    "wof:lastmodified":1536858816,
+    "wof:name":"Bohn Town",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75834,
+    6.59885,
+    -9.75834,
+    6.59885
+],
+  "geometry": {"coordinates":[-9.75834,6.59885],"type":"Point"}
+}

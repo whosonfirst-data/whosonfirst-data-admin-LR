@@ -1,0 +1,67 @@
+{
+  "id": 1243135309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5954,5.63579,-9.5954,5.63579",
+    "geom:latitude":5.63579,
+    "geom:longitude":-9.5954,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tarloe Joe",
+    "gn:country_code":"LR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9874075,
+    "gn:latitude":5.63579,
+    "gn:longitude":-9.5954,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Tarloe Joe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9874075
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"52d56a2d837a74941684e1f46d67ca54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694479,
+            "locality_id":1243135309,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1243135309,
+    "wof:lastmodified":1536757421,
+    "wof:name":"Tarloe Joe",
+    "wof:parent_id":1091694479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5954,
+    5.63579,
+    -9.5954,
+    5.63579
+],
+  "geometry": {"coordinates":[-9.5954,5.63579],"type":"Point"}
+}

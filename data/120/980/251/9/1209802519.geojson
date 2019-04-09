@@ -1,0 +1,70 @@
+{
+  "id": 1209802519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16625,6.66386,-11.16625,6.66386",
+    "geom:latitude":6.66386,
+    "geom:longitude":-11.16625,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bomie",
+    "gn:country_code":"LR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278329,
+    "gn:latitude":6.66386,
+    "gn:longitude":-11.16625,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bomie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278329
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e0848245c504c00f7c65fa6705672a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693093,
+            "locality_id":1209802519,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1209802519,
+    "wof:lastmodified":1537661797,
+    "wof:name":"Bomie",
+    "wof:parent_id":1091693093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16625,
+    6.66386,
+    -11.16625,
+    6.66386
+],
+  "geometry": {"coordinates":[-11.16625,6.66386],"type":"Point"}
+}

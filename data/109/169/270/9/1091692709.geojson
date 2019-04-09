@@ -1,0 +1,87 @@
+{
+  "id": 1091692709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.031952,
+    "geom:area_square_m":392813076.351804,
+    "geom:bbox":"-10.36689,6.021556,-10.157532,6.289333",
+    "geom:latitude":6.164585,
+    "geom:longitude":-10.265329,
+    "iso:country":"LR",
+    "lbl:latitude":6.189057,
+    "lbl:longitude":-10.274052,
+    "meso:admin_1":"Grand Bassa",
+    "meso:gadm_admin":"Owensgrove",
+    "meso:hasc_id":"LR.GB.OW",
+    "meso:mps_x":-10.274052,
+    "meso:mps_y":6.189057,
+    "meso:name_en":"Owensgrove",
+    "meso:source":"USAID",
+    "mps:latitude":6.189057,
+    "mps:longitude":-10.274052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Owensgrove"
+    ],
+    "name:eng_x_variant":[
+        "Owensgrove"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-03-21",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2008-03-21",
+    "statoids:capital":"",
+    "statoids:country":"LR",
+    "statoids:hasc":"LR.GB",
+    "statoids:name":"Owensgrove",
+    "statoids:population":"13914",
+    "statoids:statoid":"LR.GB.OW",
+    "statoids:timezone":"0",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LR.GB.OW"
+    },
+    "wof:country":"LR",
+    "wof:created":1473879429,
+    "wof:geomhash":"1f8e71f3a19fa6edc5e50c18dfec01e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692709,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1091692709,
+    "wof:lastmodified":1536614935,
+    "wof:name":"Owensgrove",
+    "wof:parent_id":85673531,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":13914,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:shortcode":"OW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.36689,
+    6.021556,
+    -10.157532,
+    6.289333
+],
+  "geometry": {"coordinates":[[[-10.342013,6.247901],[-10.332887,6.262771],[-10.321373,6.272776],[-10.310547,6.281388],[-10.303341,6.289333],[-10.290144,6.288322],[-10.276049,6.288322],[-10.265981,6.278311],[-10.25994,6.265298],[-10.241818,6.254286],[-10.223695,6.246278],[-10.198525,6.247279],[-10.182151,6.236786],[-10.166151,6.228565],[-10.157532,6.228439],[-10.15926,6.203234],[-10.172349,6.205236],[-10.186444,6.203234],[-10.200539,6.194224],[-10.20658,6.178208],[-10.2096,6.162191],[-10.222689,6.145173],[-10.206687,6.1275],[-10.179396,6.124152],[-10.174362,6.10313],[-10.178389,6.075101],[-10.189464,6.050075],[-10.200539,6.028052],[-10.208459,6.021556],[-10.210935,6.028157],[-10.218257,6.037832],[-10.23246,6.050745],[-10.246445,6.06021],[-10.260666,6.067376],[-10.353599,6.10465],[-10.35771,6.112935],[-10.36689,6.116179],[-10.363588,6.124518],[-10.358592,6.141198],[-10.352641,6.152793],[-10.350637,6.166915],[-10.347913,6.176412],[-10.341496,6.187317],[-10.344575,6.200718],[-10.348136,6.217355],[-10.34522,6.234025],[-10.342013,6.247901]]],"type":"Polygon"}
+}

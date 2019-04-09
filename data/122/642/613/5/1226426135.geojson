@@ -1,0 +1,67 @@
+{
+  "id": 1226426135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57212,5.21427,-8.57212,5.21427",
+    "geom:latitude":5.21427,
+    "geom:longitude":-8.57212,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Quilaqui",
+    "gn:country_code":"LR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870667,
+    "gn:latitude":5.21427,
+    "gn:longitude":-8.57212,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Quilaqui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870667
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"242acc3b766a93955e9596005b90f3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1226426135,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1226426135,
+    "wof:lastmodified":1536673726,
+    "wof:name":"Quilaqui",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57212,
+    5.21427,
+    -8.57212,
+    5.21427
+],
+  "geometry": {"coordinates":[-8.57212,5.21427],"type":"Point"}
+}

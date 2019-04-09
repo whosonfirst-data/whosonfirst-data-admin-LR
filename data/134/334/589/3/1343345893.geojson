@@ -1,0 +1,74 @@
+{
+  "id": 1343345893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43694,7.03278,-8.43694,7.03278",
+    "geom:latitude":7.03278,
+    "geom:longitude":-8.43694,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jebli",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273613,
+    "gn:latitude":7.03278,
+    "gn:longitude":-8.43694,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jebli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teaple",
+        "Tiaple",
+        "Tiaplay",
+        "Jebli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273613
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1cb42be6a14410db601c7bd89cc747d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694245,
+            "locality_id":1343345893,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1343345893,
+    "wof:lastmodified":1537661649,
+    "wof:name":"Jebli",
+    "wof:parent_id":1091694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43694,
+    7.03278,
+    -8.43694,
+    7.03278
+],
+  "geometry": {"coordinates":[-8.43694,7.03278],"type":"Point"}
+}

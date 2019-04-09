@@ -1,0 +1,71 @@
+{
+  "id": 1310188035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.94015,6.94766,-10.94015,6.94766",
+    "geom:latitude":6.94766,
+    "geom:longitude":-10.94015,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sacky Town",
+    "gn:country_code":"LR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278772,
+    "gn:latitude":6.94766,
+    "gn:longitude":-10.94015,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Sacky Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be Devon",
+        "Sacky Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278772
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1d5539fa20c8d5c913ff8eb2ba444a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1310188035,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1310188035,
+    "wof:lastmodified":1537661812,
+    "wof:name":"Sacky Town",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.94015,
+    6.94766,
+    -10.94015,
+    6.94766
+],
+  "geometry": {"coordinates":[-10.94015,6.94766],"type":"Point"}
+}

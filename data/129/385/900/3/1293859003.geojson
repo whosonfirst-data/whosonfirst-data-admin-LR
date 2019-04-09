@@ -1,0 +1,72 @@
+{
+  "id": 1293859003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04615,6.22463,-8.04615,6.22463",
+    "geom:latitude":6.22463,
+    "geom:longitude":-8.04615,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Janzon",
+    "gn:country_code":"LR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276365,
+    "gn:latitude":6.22463,
+    "gn:longitude":-8.04615,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Janzon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jazohn",
+        "Janzohn",
+        "Janzon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276365
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9d904f51cf28cf8c1850b4f1e1f85b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1293859003,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1293859003,
+    "wof:lastmodified":1537661733,
+    "wof:name":"Janzon",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04615,
+    6.22463,
+    -8.04615,
+    6.22463
+],
+  "geometry": {"coordinates":[-8.04615,6.22463],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242742777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48972,8.03667,-9.48972,8.03667",
+    "geom:latitude":8.03667,
+    "geom:longitude":-9.48972,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Zigida",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272610,
+    "gn:latitude":8.03667,
+    "gn:longitude":-9.48972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zigida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zinta",
+        "Zigida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272610
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"892dd27fc18e1e84a2dbb4c01ec3b73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693465,
+            "locality_id":1242742777,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1242742777,
+    "wof:lastmodified":1537661617,
+    "wof:name":"Zigida",
+    "wof:parent_id":1091693465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48972,
+    8.03667,
+    -9.48972,
+    8.03667
+],
+  "geometry": {"coordinates":[-9.48972,8.03667],"type":"Point"}
+}

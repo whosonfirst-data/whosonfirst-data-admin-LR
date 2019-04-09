@@ -1,0 +1,72 @@
+{
+  "id": 1276320817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.80889,7.1075,-10.80889,7.1075",
+    "geom:latitude":7.1075,
+    "geom:longitude":-10.80889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Najabo",
+    "gn:country_code":"LR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272872,
+    "gn:latitude":7.1075,
+    "gn:longitude":-10.80889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Najabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaboi",
+        "Yakpoi",
+        "Najabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272872
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"46ca9e8a68d36cb0aaa9747b8b9cca5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1276320817,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1276320817,
+    "wof:lastmodified":1537661626,
+    "wof:name":"Najabo",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.80889,
+    7.1075,
+    -10.80889,
+    7.1075
+],
+  "geometry": {"coordinates":[-10.80889,7.1075],"type":"Point"}
+}

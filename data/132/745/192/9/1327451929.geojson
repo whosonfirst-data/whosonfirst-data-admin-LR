@@ -1,0 +1,67 @@
+{
+  "id": 1327451929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00389,5.40389,-9.00389,5.40389",
+    "geom:latitude":5.40389,
+    "geom:longitude":-9.00389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nawia Town",
+    "gn:country_code":"LR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274799,
+    "gn:latitude":5.40389,
+    "gn:longitude":-9.00389,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Nawia Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274799
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4654fa722175602c4e2a7fde3c1d522c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1327451929,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1327451929,
+    "wof:lastmodified":1536652489,
+    "wof:name":"Nawia Town",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00389,
+    5.40389,
+    -9.00389,
+    5.40389
+],
+  "geometry": {"coordinates":[-9.00389,5.40389],"type":"Point"}
+}

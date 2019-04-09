@@ -1,0 +1,63 @@
+{
+  "id": 1242657701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2036,6.74144,-11.2036,6.74144",
+    "geom:latitude":6.74144,
+    "geom:longitude":-11.2036,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bulu",
+    "gn:country_code":"LR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278133,
+    "gn:latitude":6.74144,
+    "gn:longitude":-11.2036,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278133
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fa2c3510b53a11170575f2d8c399a3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242657701,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242657701,
+    "wof:lastmodified":1536948804,
+    "wof:name":"Bulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2036,
+    6.74144,
+    -11.2036,
+    6.74144
+],
+  "geometry": {"coordinates":[-11.2036,6.74144],"type":"Point"}
+}

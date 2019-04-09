@@ -1,0 +1,61 @@
+{
+  "id": 1209195659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98333,6.15,-9.98333,6.15",
+    "geom:latitude":6.15,
+    "geom:longitude":-9.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bogata",
+    "gn:country_code":"LR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278420,
+    "gn:latitude":6.15,
+    "gn:longitude":-9.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bogata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278420
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7578405ec24df19243e84e83ca1a00bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209195659
+        }
+    ],
+    "wof:id":1209195659,
+    "wof:lastmodified":1536294781,
+    "wof:name":"Bogata",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98333,
+    6.15,
+    -9.98333,
+    6.15
+],
+  "geometry": {"coordinates":[-9.98333,6.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277160873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.61912,6.59247,-10.61912,6.59247",
+    "geom:latitude":6.59247,
+    "geom:longitude":-10.61912,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Boogly",
+    "gn:country_code":"LR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278257,
+    "gn:latitude":6.59247,
+    "gn:longitude":-10.61912,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Boogly",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278257
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"22b3286241c795b5e3afb92959487c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1277160873,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1277160873,
+    "wof:lastmodified":1536655088,
+    "wof:name":"Boogly",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.61912,
+    6.59247,
+    -10.61912,
+    6.59247
+],
+  "geometry": {"coordinates":[-10.61912,6.59247],"type":"Point"}
+}

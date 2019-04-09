@@ -1,0 +1,75 @@
+{
+  "id": 1192992839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.19722,8.35528,-10.19722,8.35528",
+    "geom:latitude":8.35528,
+    "geom:longitude":-10.19722,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Foya Kamala Number One",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277302,
+    "gn:latitude":8.35528,
+    "gn:longitude":-10.19722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Foya Kamala Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foyakama",
+        "Foya Kamala",
+        "Foya Kamara Number 1",
+        "Foya Kamara",
+        "Foya Kamala Number One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277302
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fffdcff8ec4b92605c9eb1389bce6226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1192992839,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1192992839,
+    "wof:lastmodified":1537661768,
+    "wof:name":"Foya Kamala Number One",
+    "wof:parent_id":1091693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.19722,
+    8.35528,
+    -10.19722,
+    8.35528
+],
+  "geometry": {"coordinates":[-10.19722,8.35528],"type":"Point"}
+}

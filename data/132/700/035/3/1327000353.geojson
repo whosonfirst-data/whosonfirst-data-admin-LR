@@ -1,0 +1,73 @@
+{
+  "id": 1327000353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.74519,6.79121,-10.74519,6.79121",
+    "geom:latitude":6.79121,
+    "geom:longitude":-10.74519,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Geweh",
+    "gn:country_code":"LR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274905,
+    "gn:latitude":6.79121,
+    "gn:longitude":-10.74519,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Geweh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monabli",
+        "Gabe",
+        "Moana",
+        "Geweh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274905
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"896612c786bf89517350ce04aeceb2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1327000353,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1327000353,
+    "wof:lastmodified":1537661686,
+    "wof:name":"Geweh",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.74519,
+    6.79121,
+    -10.74519,
+    6.79121
+],
+  "geometry": {"coordinates":[-10.74519,6.79121],"type":"Point"}
+}

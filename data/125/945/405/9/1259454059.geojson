@@ -1,0 +1,67 @@
+{
+  "id": 1259454059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.45,6.66667,-10.45,6.66667",
+    "geom:latitude":6.66667,
+    "geom:longitude":-10.45,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Motobli",
+    "gn:country_code":"LR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274871,
+    "gn:latitude":6.66667,
+    "gn:longitude":-10.45,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Motobli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274871
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a04605db8473b7ca806edc034758d8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1259454059,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1259454059,
+    "wof:lastmodified":1536901232,
+    "wof:name":"Motobli",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.45,
+    6.66667,
+    -10.45,
+    6.66667
+],
+  "geometry": {"coordinates":[-10.45,6.66667],"type":"Point"}
+}

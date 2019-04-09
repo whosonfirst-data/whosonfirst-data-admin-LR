@@ -1,0 +1,67 @@
+{
+  "id": 1327495187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51861,7.57139,-9.51861,7.57139",
+    "geom:latitude":7.57139,
+    "geom:longitude":-9.51861,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bernard Farm",
+    "gn:country_code":"LR",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278673,
+    "gn:latitude":7.57139,
+    "gn:longitude":-9.51861,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Bernard Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278673
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fd7de7d9db0e30c8df3bdf181d3d1b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693505,
+            "locality_id":1327495187,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1327495187,
+    "wof:lastmodified":1537084838,
+    "wof:name":"Bernard Farm",
+    "wof:parent_id":1091693505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51861,
+    7.57139,
+    -9.51861,
+    7.57139
+],
+  "geometry": {"coordinates":[-9.51861,7.57139],"type":"Point"}
+}

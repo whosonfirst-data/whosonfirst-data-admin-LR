@@ -1,0 +1,72 @@
+{
+  "id": 1343926703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.51667,5.41667,-7.51667,5.41667",
+    "geom:latitude":5.41667,
+    "geom:longitude":-7.51667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Yeebo Town",
+    "gn:country_code":"LR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276796,
+    "gn:latitude":5.41667,
+    "gn:longitude":-7.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yeebo Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gloplu",
+        "Yeebo Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276796,
+        "wk:page":"Yeebo_Town"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"63acca2f4afea484b1ab453abcb12607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1343926703,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1343926703,
+    "wof:lastmodified":1537661748,
+    "wof:name":"Yeebo Town",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.51667,
+    5.41667,
+    -7.51667,
+    5.41667
+],
+  "geometry": {"coordinates":[-7.51667,5.41667],"type":"Point"}
+}

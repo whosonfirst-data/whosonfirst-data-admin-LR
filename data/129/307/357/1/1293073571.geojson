@@ -1,0 +1,73 @@
+{
+  "id": 1293073571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0504,4.53634,-8.0504,4.53634",
+    "geom:latitude":4.53634,
+    "geom:longitude":-8.0504,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Po River Big",
+    "gn:country_code":"LR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278581,
+    "gn:latitude":4.53634,
+    "gn:longitude":-8.0504,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Po River Big",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Big Town",
+        "Po River",
+        "Po River Big Town",
+        "Po River Big"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278581
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cd2d2d2ba4d676a71146bdb8fe556685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693271,
+            "locality_id":1293073571,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1293073571,
+    "wof:lastmodified":1537661805,
+    "wof:name":"Po River Big",
+    "wof:parent_id":1091693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0504,
+    4.53634,
+    -8.0504,
+    4.53634
+],
+  "geometry": {"coordinates":[-8.0504,4.53634],"type":"Point"}
+}

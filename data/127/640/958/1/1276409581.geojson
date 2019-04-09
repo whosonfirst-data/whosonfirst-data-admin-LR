@@ -1,0 +1,79 @@
+{
+  "id": 1276409581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87786,4.47954,-7.87786,4.47954",
+    "geom:latitude":4.47954,
+    "geom:longitude":-7.87786,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yedweke",
+    "gn:country_code":"LR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276516,
+    "gn:latitude":4.47954,
+    "gn:longitude":-7.87786,
+    "gn:modification_date":"2018-01-31",
+    "gn:name":"Yedweke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "New Garraway"
+    ],
+    "name:eng_x_preferred":[
+        "New Garraway"
+    ],
+    "name:und_x_variant":[
+        "Half Grawe",
+        "Half Garawe",
+        "Half Garraway",
+        "Yedweke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276516
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7cd7417c9306d6c893164416481d9c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693319,
+            "locality_id":1276409581,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1276409581,
+    "wof:lastmodified":1537661738,
+    "wof:name":"Yedweke",
+    "wof:parent_id":1091693319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.87786,
+    4.47954,
+    -7.87786,
+    4.47954
+],
+  "geometry": {"coordinates":[-7.87786,4.47954],"type":"Point"}
+}

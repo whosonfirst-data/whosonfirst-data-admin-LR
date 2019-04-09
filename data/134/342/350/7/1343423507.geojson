@@ -1,0 +1,67 @@
+{
+  "id": 1343423507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26667,5.68333,-8.26667,5.68333",
+    "geom:latitude":5.68333,
+    "geom:longitude":-8.26667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Javolo",
+    "gn:country_code":"LR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276379,
+    "gn:latitude":5.68333,
+    "gn:longitude":-8.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Javolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276379
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6250dacfa218caff19966861e9b27d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693119,
+            "locality_id":1343423507,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1343423507,
+    "wof:lastmodified":1536799790,
+    "wof:name":"Javolo",
+    "wof:parent_id":1091693119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26667,
+    5.68333,
+    -8.26667,
+    5.68333
+],
+  "geometry": {"coordinates":[-8.26667,5.68333],"type":"Point"}
+}

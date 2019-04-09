@@ -1,0 +1,63 @@
+{
+  "id": 1343749043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.21253,6.76203,-11.21253,6.76203",
+    "geom:latitude":6.76203,
+    "geom:longitude":-11.21253,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bendu",
+    "gn:country_code":"LR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278712,
+    "gn:latitude":6.76203,
+    "gn:longitude":-11.21253,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278712
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"00e7fe964121f535cedfc0f1e09ce042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343749043,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343749043,
+    "wof:lastmodified":1536826466,
+    "wof:name":"Bendu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.21253,
+    6.76203,
+    -11.21253,
+    6.76203
+],
+  "geometry": {"coordinates":[-11.21253,6.76203],"type":"Point"}
+}

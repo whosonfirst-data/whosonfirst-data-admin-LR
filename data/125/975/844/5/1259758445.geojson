@@ -1,0 +1,67 @@
+{
+  "id": 1259758445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55667,6.13333,-8.55667,6.13333",
+    "geom:latitude":6.13333,
+    "geom:longitude":-8.55667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bola",
+    "gn:country_code":"LR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278376,
+    "gn:latitude":6.13333,
+    "gn:longitude":-8.55667,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Bola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278376
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cc7ab009b987b0406bb824d1f2b843a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1259758445,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1259758445,
+    "wof:lastmodified":1536959226,
+    "wof:name":"Bola",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55667,
+    6.13333,
+    -8.55667,
+    6.13333
+],
+  "geometry": {"coordinates":[-8.55667,6.13333],"type":"Point"}
+}

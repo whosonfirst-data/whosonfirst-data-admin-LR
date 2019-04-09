@@ -1,0 +1,67 @@
+{
+  "id": 1344041337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04306,5.20667,-9.04306,5.20667",
+    "geom:latitude":5.20667,
+    "geom:longitude":-9.04306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Snoh Doe",
+    "gn:country_code":"LR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572086,
+    "gn:latitude":5.20667,
+    "gn:longitude":-9.04306,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Snoh Doe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572086
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3aaf61029f76f10d15c1d21ff1bc9e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1344041337,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1344041337,
+    "wof:lastmodified":1536903394,
+    "wof:name":"Snoh Doe",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04306,
+    5.20667,
+    -9.04306,
+    5.20667
+],
+  "geometry": {"coordinates":[-9.04306,5.20667],"type":"Point"}
+}

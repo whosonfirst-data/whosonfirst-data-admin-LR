@@ -1,0 +1,67 @@
+{
+  "id": 1276616541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14161,5.6445,-8.14161,5.6445",
+    "geom:latitude":5.6445,
+    "geom:longitude":-8.14161,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tiama Town",
+    "gn:country_code":"LR",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10233134,
+    "gn:latitude":5.6445,
+    "gn:longitude":-8.14161,
+    "gn:modification_date":"2015-04-23",
+    "gn:name":"Tiama Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10233134
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"501327d20a11031cefeba20030ffd7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693119,
+            "locality_id":1276616541,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1276616541,
+    "wof:lastmodified":1536896567,
+    "wof:name":"Tiama Town",
+    "wof:parent_id":1091693119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14161,
+    5.6445,
+    -8.14161,
+    5.6445
+],
+  "geometry": {"coordinates":[-8.14161,5.6445],"type":"Point"}
+}

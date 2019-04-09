@@ -1,0 +1,67 @@
+{
+  "id": 1259868569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57887,5.3194,-8.57887,5.3194",
+    "geom:latitude":5.3194,
+    "geom:longitude":-8.57887,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gbatamoh",
+    "gn:country_code":"LR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870592,
+    "gn:latitude":5.3194,
+    "gn:longitude":-8.57887,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gbatamoh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870592
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"84fe60ae8d20c4d28a2a847d5777536f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1259868569,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1259868569,
+    "wof:lastmodified":1536800722,
+    "wof:name":"Gbatamoh",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57887,
+    5.3194,
+    -8.57887,
+    5.3194
+],
+  "geometry": {"coordinates":[-8.57887,5.3194],"type":"Point"}
+}

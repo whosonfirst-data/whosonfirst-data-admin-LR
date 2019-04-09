@@ -1,0 +1,72 @@
+{
+  "id": 1259454559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.34889,6.50417,-10.34889,6.50417",
+    "geom:latitude":6.50417,
+    "geom:longitude":-10.34889,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bright Farm One",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278180,
+    "gn:latitude":6.50417,
+    "gn:longitude":-10.34889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bright Farm One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bright Farm (1)",
+        "Bright Farm One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278180
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"aa8b2d003d3d4810a88a4e7fcef4cf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693791,
+            "locality_id":1259454559,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1259454559,
+    "wof:lastmodified":1537661793,
+    "wof:name":"Bright Farm One",
+    "wof:parent_id":1091693791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.34889,
+    6.50417,
+    -10.34889,
+    6.50417
+],
+  "geometry": {"coordinates":[-10.34889,6.50417],"type":"Point"}
+}

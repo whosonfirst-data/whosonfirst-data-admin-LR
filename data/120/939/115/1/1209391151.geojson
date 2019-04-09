@@ -1,0 +1,66 @@
+{
+  "id": 1209391151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.38374,6.66305,-10.38374,6.66305",
+    "geom:latitude":6.66305,
+    "geom:longitude":-10.38374,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vole",
+    "gn:country_code":"LR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273306,
+    "gn:latitude":6.66305,
+    "gn:longitude":-10.38374,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Vole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volley",
+        "Vole",
+        "Vilita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273306
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ffe053882219bfca6838fab22a15a96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209391151
+        }
+    ],
+    "wof:id":1209391151,
+    "wof:lastmodified":1537661639,
+    "wof:name":"Vole",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.38374,
+    6.66305,
+    -10.38374,
+    6.66305
+],
+  "geometry": {"coordinates":[-10.38374,6.66305],"type":"Point"}
+}

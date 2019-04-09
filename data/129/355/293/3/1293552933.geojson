@@ -1,0 +1,70 @@
+{
+  "id": 1293552933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.35568,6.72292,-10.35568,6.72292",
+    "geom:latitude":6.72292,
+    "geom:longitude":-10.35568,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Padmore Farm",
+    "gn:country_code":"LR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274522,
+    "gn:latitude":6.72292,
+    "gn:longitude":-10.35568,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Padmore Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Padmore Farm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274522
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ead17f757c0c3b1bc4a23d755b90a06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693791,
+            "locality_id":1293552933,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1293552933,
+    "wof:lastmodified":1537661676,
+    "wof:name":"Padmore Farm",
+    "wof:parent_id":1091693791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.35568,
+    6.72292,
+    -10.35568,
+    6.72292
+],
+  "geometry": {"coordinates":[-10.35568,6.72292],"type":"Point"}
+}

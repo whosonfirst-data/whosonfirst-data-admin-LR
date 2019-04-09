@@ -1,0 +1,72 @@
+{
+  "id": 1326813679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.5975,6.65778,-10.5975,6.65778",
+    "geom:latitude":6.65778,
+    "geom:longitude":-10.5975,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Aljennah",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276439,
+    "gn:latitude":6.65778,
+    "gn:longitude":-10.5975,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aljennah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igenta",
+        "Aljennah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276439
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"713fd7941be5bd1b5ee95d5b3761ab6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1326813679,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1326813679,
+    "wof:lastmodified":1537661736,
+    "wof:name":"Aljennah",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.5975,
+    6.65778,
+    -10.5975,
+    6.65778
+],
+  "geometry": {"coordinates":[-10.5975,6.65778],"type":"Point"}
+}

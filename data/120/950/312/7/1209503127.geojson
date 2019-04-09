@@ -1,0 +1,65 @@
+{
+  "id": 1209503127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.94291,6.23695,-9.94291,6.23695",
+    "geom:latitude":6.23695,
+    "geom:longitude":-9.94291,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Teepeney Town",
+    "gn:country_code":"LR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276782,
+    "gn:latitude":6.23695,
+    "gn:longitude":-9.94291,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Teepeney Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gobolisibli",
+        "Teepeney Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276782
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5bd9b07b747bfff3aa2c7a5928800c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209503127
+        }
+    ],
+    "wof:id":1209503127,
+    "wof:lastmodified":1537661747,
+    "wof:name":"Teepeney Town",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.94291,
+    6.23695,
+    -9.94291,
+    6.23695
+],
+  "geometry": {"coordinates":[-9.94291,6.23695],"type":"Point"}
+}

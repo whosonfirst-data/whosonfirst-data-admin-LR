@@ -1,0 +1,72 @@
+{
+  "id": 1260057295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.18691,6.69294,-11.18691,6.69294",
+    "geom:latitude":6.69294,
+    "geom:longitude":-11.18691,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mando",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275149,
+    "gn:latitude":6.69294,
+    "gn:longitude":-11.18691,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Mando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mendo",
+        "Manda",
+        "Mando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275149
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"edef6df2ff09547e717446be3c3df21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693093,
+            "locality_id":1260057295,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1260057295,
+    "wof:lastmodified":1537661693,
+    "wof:name":"Mando",
+    "wof:parent_id":1091693093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.18691,
+    6.69294,
+    -11.18691,
+    6.69294
+],
+  "geometry": {"coordinates":[-11.18691,6.69294],"type":"Point"}
+}

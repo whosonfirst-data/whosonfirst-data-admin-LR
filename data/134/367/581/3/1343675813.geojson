@@ -1,0 +1,70 @@
+{
+  "id": 1343675813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22351,6.82728,-9.22351,6.82728",
+    "geom:latitude":6.82728,
+    "geom:longitude":-9.22351,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wahnta",
+    "gn:country_code":"LR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870114,
+    "gn:latitude":6.82728,
+    "gn:longitude":-9.22351,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Wahnta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wahnta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870114
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cd6e51556299ca60a6c1c23b3f807dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1343675813,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343675813,
+    "wof:lastmodified":1537661833,
+    "wof:name":"Wahnta",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22351,
+    6.82728,
+    -9.22351,
+    6.82728
+],
+  "geometry": {"coordinates":[-9.22351,6.82728],"type":"Point"}
+}

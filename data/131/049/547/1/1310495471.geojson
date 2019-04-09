@@ -1,0 +1,70 @@
+{
+  "id": 1310495471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3495,5.08281,-8.3495,5.08281",
+    "geom:latitude":5.08281,
+    "geom:longitude":-8.3495,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gmagmakpo",
+    "gn:country_code":"LR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273247,
+    "gn:latitude":5.08281,
+    "gn:longitude":-8.3495,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gmagmakpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wamapu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273247
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bacddc646e149ad33fa87e7e646f03c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1310495471,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1310495471,
+    "wof:lastmodified":1537661637,
+    "wof:name":"Gmagmakpo",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3495,
+    5.08281,
+    -8.3495,
+    5.08281
+],
+  "geometry": {"coordinates":[-8.3495,5.08281],"type":"Point"}
+}

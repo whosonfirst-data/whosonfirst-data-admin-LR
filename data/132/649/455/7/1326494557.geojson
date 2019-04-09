@@ -1,0 +1,67 @@
+{
+  "id": 1326494557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.23778,7.65639,-10.23778,7.65639",
+    "geom:latitude":7.65639,
+    "geom:longitude":-10.23778,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gohn Fala",
+    "gn:country_code":"LR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276752,
+    "gn:latitude":7.65639,
+    "gn:longitude":-10.23778,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Gohn Fala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276752
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f63eb7e0d4b327927190fe2e9cc7d6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693621,
+            "locality_id":1326494557,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1326494557,
+    "wof:lastmodified":1537036832,
+    "wof:name":"Gohn Fala",
+    "wof:parent_id":1091693621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.23778,
+    7.65639,
+    -10.23778,
+    7.65639
+],
+  "geometry": {"coordinates":[-10.23778,7.65639],"type":"Point"}
+}

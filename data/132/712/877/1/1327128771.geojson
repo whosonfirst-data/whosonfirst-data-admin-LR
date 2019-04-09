@@ -1,0 +1,73 @@
+{
+  "id": 1327128771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61667,7.4,-8.61667,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-8.61667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Belekro",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278739,
+    "gn:latitude":7.4,
+    "gn:longitude":-8.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Belekro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beleplo",
+        "Belepier",
+        "Belekro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278739
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"915a7688847a125be7a879c03684347a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1327128771,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1327128771,
+    "wof:lastmodified":1537661810,
+    "wof:name":"Belekro",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61667,
+    7.4,
+    -8.61667,
+    7.4
+],
+  "geometry": {"coordinates":[-8.61667,7.4],"type":"Point"}
+}

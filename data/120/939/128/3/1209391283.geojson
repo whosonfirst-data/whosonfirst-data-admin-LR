@@ -1,0 +1,61 @@
+{
+  "id": 1209391283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84946,4.8369,-7.84946,4.8369",
+    "geom:latitude":4.8369,
+    "geom:longitude":-7.84946,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Konosu",
+    "gn:country_code":"LR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275721,
+    "gn:latitude":4.8369,
+    "gn:longitude":-7.84946,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Konosu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275721
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"56235630f1351bffc9916a11c0f4a3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209391283
+        }
+    ],
+    "wof:id":1209391283,
+    "wof:lastmodified":1536288452,
+    "wof:name":"Konosu",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84946,
+    4.8369,
+    -7.84946,
+    4.8369
+],
+  "geometry": {"coordinates":[-7.84946,4.8369],"type":"Point"}
+}

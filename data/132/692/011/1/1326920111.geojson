@@ -1,0 +1,72 @@
+{
+  "id": 1326920111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91861,6.97889,-8.91861,6.97889",
+    "geom:latitude":6.97889,
+    "geom:longitude":-8.91861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kpla",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277938,
+    "gn:latitude":6.97889,
+    "gn:longitude":-8.91861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kpla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahn",
+        "Kpla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277938
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"82c323fee40721dcfd812ea3a878eba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1326920111,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1326920111,
+    "wof:lastmodified":1537661787,
+    "wof:name":"Kpla",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91861,
+    6.97889,
+    -8.91861,
+    6.97889
+],
+  "geometry": {"coordinates":[-8.91861,6.97889],"type":"Point"}
+}

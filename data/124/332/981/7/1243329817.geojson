@@ -1,0 +1,67 @@
+{
+  "id": 1243329817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57469,5.68495,-9.57469,5.68495",
+    "geom:latitude":5.68495,
+    "geom:longitude":-9.57469,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wanakena",
+    "gn:country_code":"LR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273242,
+    "gn:latitude":5.68495,
+    "gn:longitude":-9.57469,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wanakena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273242
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1939a424310885e2df04532bc95ac11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1243329817,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1243329817,
+    "wof:lastmodified":1536973379,
+    "wof:name":"Wanakena",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57469,
+    5.68495,
+    -9.57469,
+    5.68495
+],
+  "geometry": {"coordinates":[-9.57469,5.68495],"type":"Point"}
+}

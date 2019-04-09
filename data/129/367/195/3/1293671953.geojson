@@ -1,0 +1,72 @@
+{
+  "id": 1293671953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.74209,6.84798,-10.74209,6.84798",
+    "geom:latitude":6.84798,
+    "geom:longitude":-10.74209,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zulata",
+    "gn:country_code":"LR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272500,
+    "gn:latitude":6.84798,
+    "gn:longitude":-10.74209,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Zulata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbaama",
+        "Zuolata",
+        "Zulata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272500
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"817037951201049c342b267a12c5d694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693577,
+            "locality_id":1293671953,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1293671953,
+    "wof:lastmodified":1537661612,
+    "wof:name":"Zulata",
+    "wof:parent_id":1091693577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.74209,
+    6.84798,
+    -10.74209,
+    6.84798
+],
+  "geometry": {"coordinates":[-10.74209,6.84798],"type":"Point"}
+}

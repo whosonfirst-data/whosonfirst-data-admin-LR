@@ -1,0 +1,72 @@
+{
+  "id": 1343530199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00495,5.17593,-8.00495,5.17593",
+    "geom:latitude":5.17593,
+    "geom:longitude":-8.00495,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Pawrorkhen",
+    "gn:country_code":"LR",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277549,
+    "gn:latitude":5.17593,
+    "gn:longitude":-8.00495,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Pawrorkhen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dubonane",
+        "Pawronken",
+        "Pawrorkhen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277549
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9ca3499a2f61ae41b7a68c57b76e5265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1343530199,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1343530199,
+    "wof:lastmodified":1537661776,
+    "wof:name":"Pawrorkhen",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00495,
+    5.17593,
+    -8.00495,
+    5.17593
+],
+  "geometry": {"coordinates":[-8.00495,5.17593],"type":"Point"}
+}

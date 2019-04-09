@@ -1,0 +1,70 @@
+{
+  "id": 1310669687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62423,4.88064,-7.62423,4.88064",
+    "geom:latitude":4.88064,
+    "geom:longitude":-7.62423,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kronoken City",
+    "gn:country_code":"LR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870894,
+    "gn:latitude":4.88064,
+    "gn:longitude":-7.62423,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kronoken City",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Webo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870894
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"700149db87dd67320e728855e670efe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1310669687,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1310669687,
+    "wof:lastmodified":1537661841,
+    "wof:name":"Kronoken City",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62423,
+    4.88064,
+    -7.62423,
+    4.88064
+],
+  "geometry": {"coordinates":[-7.62423,4.88064],"type":"Point"}
+}

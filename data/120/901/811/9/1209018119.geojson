@@ -1,0 +1,65 @@
+{
+  "id": 1209018119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.45025,6.8231,-10.45025,6.8231",
+    "geom:latitude":6.8231,
+    "geom:longitude":-10.45025,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Momo Kolita",
+    "gn:country_code":"LR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274909,
+    "gn:latitude":6.8231,
+    "gn:longitude":-10.45025,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Momo Kolita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momolu Kolita",
+        "Momo Kolita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274909
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"64994b5ca12ae5fe29d33350ac0c0ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209018119
+        }
+    ],
+    "wof:id":1209018119,
+    "wof:lastmodified":1537661686,
+    "wof:name":"Momo Kolita",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.45025,
+    6.8231,
+    -10.45025,
+    6.8231
+],
+  "geometry": {"coordinates":[-10.45025,6.8231],"type":"Point"}
+}

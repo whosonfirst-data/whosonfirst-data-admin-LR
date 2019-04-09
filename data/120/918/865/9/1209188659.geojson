@@ -1,0 +1,67 @@
+{
+  "id": 1209188659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.80028,8.17083,-9.80028,8.17083",
+    "geom:latitude":8.17083,
+    "geom:longitude":-9.80028,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Karza",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275973,
+    "gn:latitude":8.17083,
+    "gn:longitude":-9.80028,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasar",
+        "Kaza",
+        "Karza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275973
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c5eee7f07f6e79391ea143dadb77cb43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209188659
+        }
+    ],
+    "wof:id":1209188659,
+    "wof:lastmodified":1537661720,
+    "wof:name":"Karza",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.80028,
+    8.17083,
+    -9.80028,
+    8.17083
+],
+  "geometry": {"coordinates":[-9.80028,8.17083],"type":"Point"}
+}

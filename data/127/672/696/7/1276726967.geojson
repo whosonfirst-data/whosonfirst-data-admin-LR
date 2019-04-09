@@ -1,0 +1,67 @@
+{
+  "id": 1276726967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.26778,7.97056,-10.26778,7.97056",
+    "geom:latitude":7.97056,
+    "geom:longitude":-10.26778,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kalahun",
+    "gn:country_code":"LR",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276078,
+    "gn:latitude":7.97056,
+    "gn:longitude":-10.26778,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Kalahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276078
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d93fa1ef6c3a5ccffebe33cf99ed8509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":1276726967,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1276726967,
+    "wof:lastmodified":1536748339,
+    "wof:name":"Kalahun",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.26778,
+    7.97056,
+    -10.26778,
+    7.97056
+],
+  "geometry": {"coordinates":[-10.26778,7.97056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276526861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8,6.41667,-10.8,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":-10.8,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jatuja",
+    "gn:country_code":"LR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276380,
+    "gn:latitude":6.41667,
+    "gn:longitude":-10.8,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Jatuja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276380
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9a54efa59a7dd4fbef5785189df1eeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1276526861,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1276526861,
+    "wof:lastmodified":1537016037,
+    "wof:name":"Jatuja",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8,
+    6.41667,
+    -10.8,
+    6.41667
+],
+  "geometry": {"coordinates":[-10.8,6.41667],"type":"Point"}
+}

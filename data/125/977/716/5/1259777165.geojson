@@ -1,0 +1,67 @@
+{
+  "id": 1259777165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91095,5.32104,-8.91095,5.32104",
+    "geom:latitude":5.32104,
+    "geom:longitude":-8.91095,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nyweeh Town",
+    "gn:country_code":"LR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870447,
+    "gn:latitude":5.32104,
+    "gn:longitude":-8.91095,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Nyweeh Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870447
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"77d65f8dbf501455d0f7c8f358bf0802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694579,
+            "locality_id":1259777165,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1259777165,
+    "wof:lastmodified":1536933038,
+    "wof:name":"Nyweeh Town",
+    "wof:parent_id":1091694579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91095,
+    5.32104,
+    -8.91095,
+    5.32104
+],
+  "geometry": {"coordinates":[-8.91095,5.32104],"type":"Point"}
+}

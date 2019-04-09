@@ -1,0 +1,73 @@
+{
+  "id": 1260277781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41944,7.10278,-8.41944,7.10278",
+    "geom:latitude":7.10278,
+    "geom:longitude":-8.41944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yuba",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273388,
+    "gn:latitude":7.10278,
+    "gn:longitude":-8.41944,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ubah",
+        "Uba",
+        "Yuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273388
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"902312a56e96933e7b6963b74a3c0de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694245,
+            "locality_id":1260277781,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1260277781,
+    "wof:lastmodified":1537661642,
+    "wof:name":"Yuba",
+    "wof:parent_id":1091694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41944,
+    7.10278,
+    -8.41944,
+    7.10278
+],
+  "geometry": {"coordinates":[-8.41944,7.10278],"type":"Point"}
+}

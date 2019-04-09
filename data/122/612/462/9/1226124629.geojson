@@ -1,0 +1,67 @@
+{
+  "id": 1226124629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98139,4.6825,-7.98139,4.6825",
+    "geom:latitude":4.6825,
+    "geom:longitude":-7.98139,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zoroken",
+    "gn:country_code":"LR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9872166,
+    "gn:latitude":4.6825,
+    "gn:longitude":-7.98139,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Zoroken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9872166
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"78bdc8d0e3d3417780ccb886ddba9364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693319,
+            "locality_id":1226124629,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1226124629,
+    "wof:lastmodified":1536608585,
+    "wof:name":"Zoroken",
+    "wof:parent_id":1091693319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98139,
+    4.6825,
+    -7.98139,
+    4.6825
+],
+  "geometry": {"coordinates":[-7.98139,4.6825],"type":"Point"}
+}

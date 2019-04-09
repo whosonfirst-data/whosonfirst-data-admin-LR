@@ -1,0 +1,67 @@
+{
+  "id": 1259968827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53739,5.32666,-8.53739,5.32666",
+    "geom:latitude":5.32666,
+    "geom:longitude":-8.53739,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nyearwken",
+    "gn:country_code":"LR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870597,
+    "gn:latitude":5.32666,
+    "gn:longitude":-8.53739,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Nyearwken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870597
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6a114779e4ff039e2bba5d0aaf7da2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1259968827,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1259968827,
+    "wof:lastmodified":1536656348,
+    "wof:name":"Nyearwken",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53739,
+    5.32666,
+    -8.53739,
+    5.32666
+],
+  "geometry": {"coordinates":[-8.53739,5.32666],"type":"Point"}
+}

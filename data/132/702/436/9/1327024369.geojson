@@ -1,0 +1,67 @@
+{
+  "id": 1327024369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76917,6.67417,-8.76917,6.67417",
+    "geom:latitude":6.67417,
+    "geom:longitude":-8.76917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Batim",
+    "gn:country_code":"LR",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278850,
+    "gn:latitude":6.67417,
+    "gn:longitude":-8.76917,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Batim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278850
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4642a50b6d98028618dbba2acd0da8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694333,
+            "locality_id":1327024369,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1327024369,
+    "wof:lastmodified":1536772677,
+    "wof:name":"Batim",
+    "wof:parent_id":1091694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76917,
+    6.67417,
+    -8.76917,
+    6.67417
+],
+  "geometry": {"coordinates":[-8.76917,6.67417],"type":"Point"}
+}

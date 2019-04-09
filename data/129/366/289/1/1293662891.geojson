@@ -1,0 +1,70 @@
+{
+  "id": 1293662891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.46403,6.46561,-10.46403,6.46561",
+    "geom:latitude":6.46561,
+    "geom:longitude":-10.46403,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Subah",
+    "gn:country_code":"LR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275201,
+    "gn:latitude":6.46561,
+    "gn:longitude":-10.46403,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Subah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malawu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275201
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cf14bbba7b983df33006a95ab15e8b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1293662891,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1293662891,
+    "wof:lastmodified":1537661694,
+    "wof:name":"Subah",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.46403,
+    6.46561,
+    -10.46403,
+    6.46561
+],
+  "geometry": {"coordinates":[-10.46403,6.46561],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327316703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.75806,6.8875,-10.75806,6.8875",
+    "geom:latitude":6.8875,
+    "geom:longitude":-10.75806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bakendu",
+    "gn:country_code":"LR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279012,
+    "gn:latitude":6.8875,
+    "gn:longitude":-10.75806,
+    "gn:modification_date":"2003-09-24",
+    "gn:name":"Bakendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279012
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"72acd88b1addef598790b7a91fed2e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693577,
+            "locality_id":1327316703,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1327316703,
+    "wof:lastmodified":1536846859,
+    "wof:name":"Bakendu",
+    "wof:parent_id":1091693577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.75806,
+    6.8875,
+    -10.75806,
+    6.8875
+],
+  "geometry": {"coordinates":[-10.75806,6.8875],"type":"Point"}
+}

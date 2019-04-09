@@ -1,0 +1,70 @@
+{
+  "id": 1276562141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48858,7.01605,-9.48858,7.01605",
+    "geom:latitude":7.01605,
+    "geom:longitude":-9.48858,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gblande",
+    "gn:country_code":"LR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597294,
+    "gn:latitude":7.01605,
+    "gn:longitude":-9.48858,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gblande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gblande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597294
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ac1f88a8ab03a4ac56b1081033d9d094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1276562141,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1276562141,
+    "wof:lastmodified":1537661827,
+    "wof:name":"Gblande",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48858,
+    7.01605,
+    -9.48858,
+    7.01605
+],
+  "geometry": {"coordinates":[-9.48858,7.01605],"type":"Point"}
+}

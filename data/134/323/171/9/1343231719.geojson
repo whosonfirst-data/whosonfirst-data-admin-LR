@@ -1,0 +1,67 @@
+{
+  "id": 1343231719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85512,4.504,-7.85512,4.504",
+    "geom:latitude":4.504,
+    "geom:longitude":-7.85512,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Matuaken",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870455,
+    "gn:latitude":4.504,
+    "gn:longitude":-7.85512,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Matuaken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870455
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"383ace520b2fb335367814f8bb2b7627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693319,
+            "locality_id":1343231719,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1343231719,
+    "wof:lastmodified":1537073472,
+    "wof:name":"Matuaken",
+    "wof:parent_id":1091693319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85512,
+    4.504,
+    -7.85512,
+    4.504
+],
+  "geometry": {"coordinates":[-7.85512,4.504],"type":"Point"}
+}

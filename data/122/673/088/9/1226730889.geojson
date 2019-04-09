@@ -1,0 +1,67 @@
+{
+  "id": 1226730889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.87562,5.74132,-9.87562,5.74132",
+    "geom:latitude":5.74132,
+    "geom:longitude":-9.87562,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mamede Village",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818250,
+    "gn:latitude":5.74132,
+    "gn:longitude":-9.87562,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Mamede Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818250
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ec952ee08ffc6f23fc5c6b8915a3c977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692865,
+            "locality_id":1226730889,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1226730889,
+    "wof:lastmodified":1536736957,
+    "wof:name":"Mamede Village",
+    "wof:parent_id":1091692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.87562,
+    5.74132,
+    -9.87562,
+    5.74132
+],
+  "geometry": {"coordinates":[-9.87562,5.74132],"type":"Point"}
+}

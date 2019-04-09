@@ -1,0 +1,67 @@
+{
+  "id": 1225953907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.15,7.01667,-10.15,7.01667",
+    "geom:latitude":7.01667,
+    "geom:longitude":-10.15,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Danielta",
+    "gn:country_code":"LR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277911,
+    "gn:latitude":7.01667,
+    "gn:longitude":-10.15,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Danielta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277911
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cce3b839e2a906a85bb6e8f1906ce769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1225953907,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1225953907,
+    "wof:lastmodified":1536856206,
+    "wof:name":"Danielta",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.15,
+    7.01667,
+    -10.15,
+    7.01667
+],
+  "geometry": {"coordinates":[-10.15,7.01667],"type":"Point"}
+}

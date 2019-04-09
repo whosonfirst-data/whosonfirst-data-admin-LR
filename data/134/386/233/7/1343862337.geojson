@@ -1,0 +1,70 @@
+{
+  "id": 1343862337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66344,6.9645,-9.66344,6.9645",
+    "geom:latitude":6.9645,
+    "geom:longitude":-9.66344,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Duleamue",
+    "gn:country_code":"LR",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870460,
+    "gn:latitude":6.9645,
+    "gn:longitude":-9.66344,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Duleamue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Duleamue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870460
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d9976088375e172b8a8b54b4326a549c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1343862337,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343862337,
+    "wof:lastmodified":1537661838,
+    "wof:name":"Duleamue",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66344,
+    6.9645,
+    -9.66344,
+    6.9645
+],
+  "geometry": {"coordinates":[-9.66344,6.9645],"type":"Point"}
+}

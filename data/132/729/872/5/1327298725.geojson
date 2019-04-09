@@ -1,0 +1,74 @@
+{
+  "id": 1327298725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60472,8.15306,-9.60472,8.15306",
+    "geom:latitude":8.15306,
+    "geom:longitude":-9.60472,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nikabosu",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274691,
+    "gn:latitude":8.15306,
+    "gn:longitude":-9.60472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nikabosu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nickerbuzu",
+        "Nikabuzu",
+        "Nekehuzu",
+        "Nikabosu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274691
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5afb53214897c65e12f93c48b3168edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693465,
+            "locality_id":1327298725,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1327298725,
+    "wof:lastmodified":1537661681,
+    "wof:name":"Nikabosu",
+    "wof:parent_id":1091693465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60472,
+    8.15306,
+    -9.60472,
+    8.15306
+],
+  "geometry": {"coordinates":[-9.60472,8.15306],"type":"Point"}
+}

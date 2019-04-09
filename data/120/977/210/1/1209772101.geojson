@@ -1,0 +1,67 @@
+{
+  "id": 1209772101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75,5.31667,-7.75,5.31667",
+    "geom:latitude":5.31667,
+    "geom:longitude":-7.75,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mofa",
+    "gn:country_code":"LR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274949,
+    "gn:latitude":5.31667,
+    "gn:longitude":-7.75,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Mofa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274949
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e21d0d19d2d1399f0f020375107046b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1209772101,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1209772101,
+    "wof:lastmodified":1536382761,
+    "wof:name":"Mofa",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75,
+    5.31667,
+    -7.75,
+    5.31667
+],
+  "geometry": {"coordinates":[-7.75,5.31667],"type":"Point"}
+}

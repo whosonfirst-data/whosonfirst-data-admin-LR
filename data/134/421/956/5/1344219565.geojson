@@ -1,0 +1,67 @@
+{
+  "id": 1344219565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51139,6.18778,-8.51139,6.18778",
+    "geom:latitude":6.18778,
+    "geom:longitude":-8.51139,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yanoka",
+    "gn:country_code":"LR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272827,
+    "gn:latitude":6.18778,
+    "gn:longitude":-8.51139,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Yanoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272827
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"67ff9244b7116d430d4d35d20c3ff1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1344219565,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1344219565,
+    "wof:lastmodified":1536645629,
+    "wof:name":"Yanoka",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51139,
+    6.18778,
+    -8.51139,
+    6.18778
+],
+  "geometry": {"coordinates":[-8.51139,6.18778],"type":"Point"}
+}

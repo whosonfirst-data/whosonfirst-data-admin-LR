@@ -1,0 +1,67 @@
+{
+  "id": 1243063203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63183,5.32691,-8.63183,5.32691",
+    "geom:latitude":5.32691,
+    "geom:longitude":-8.63183,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kouwaloken",
+    "gn:country_code":"LR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870585,
+    "gn:latitude":5.32691,
+    "gn:longitude":-8.63183,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kouwaloken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870585
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5f5f2c879da0837c271036bbf90a57b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1243063203,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1243063203,
+    "wof:lastmodified":1536859665,
+    "wof:name":"Kouwaloken",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63183,
+    5.32691,
+    -8.63183,
+    5.32691
+],
+  "geometry": {"coordinates":[-8.63183,5.32691],"type":"Point"}
+}

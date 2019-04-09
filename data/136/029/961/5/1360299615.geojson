@@ -1,0 +1,67 @@
+{
+  "id": 1360299615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.1975,7.06583,-10.1975,7.06583",
+    "geom:latitude":7.06583,
+    "geom:longitude":-10.1975,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gamelahun",
+    "gn:country_code":"LR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277217,
+    "gn:latitude":7.06583,
+    "gn:longitude":-10.1975,
+    "gn:modification_date":"1996-02-06",
+    "gn:name":"Gamelahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277217
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"81d62d717889b493fe9f89168c52cb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1360299615,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1360299615,
+    "wof:lastmodified":1536634772,
+    "wof:name":"Gamelahun",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.1975,
+    7.06583,
+    -10.1975,
+    7.06583
+],
+  "geometry": {"coordinates":[-10.1975,7.06583],"type":"Point"}
+}

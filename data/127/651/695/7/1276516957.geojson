@@ -1,0 +1,67 @@
+{
+  "id": 1276516957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40892,4.83662,-8.40892,4.83662",
+    "geom:latitude":4.83662,
+    "geom:longitude":-8.40892,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Plow",
+    "gn:country_code":"LR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274368,
+    "gn:latitude":4.83662,
+    "gn:longitude":-8.40892,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Plow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274368
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cbb3464e6b59e856c935f2f46575eac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693179,
+            "locality_id":1276516957,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1276516957,
+    "wof:lastmodified":1537028867,
+    "wof:name":"Plow",
+    "wof:parent_id":1091693179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40892,
+    4.83662,
+    -8.40892,
+    4.83662
+],
+  "geometry": {"coordinates":[-8.40892,4.83662],"type":"Point"}
+}

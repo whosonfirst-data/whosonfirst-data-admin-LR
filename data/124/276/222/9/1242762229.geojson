@@ -1,0 +1,71 @@
+{
+  "id": 1242762229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81667,6.61694,-8.81667,6.61694",
+    "geom:latitude":6.61694,
+    "geom:longitude":-8.81667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zeongain",
+    "gn:country_code":"LR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571797,
+    "gn:latitude":6.61694,
+    "gn:longitude":-8.81667,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Zeongain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zeongehn",
+        "Zeongain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571797
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9586d2a3674d159103010938d2713017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694333,
+            "locality_id":1242762229,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1242762229,
+    "wof:lastmodified":1537661825,
+    "wof:name":"Zeongain",
+    "wof:parent_id":1091694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81667,
+    6.61694,
+    -8.81667,
+    6.61694
+],
+  "geometry": {"coordinates":[-8.81667,6.61694],"type":"Point"}
+}

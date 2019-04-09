@@ -1,0 +1,67 @@
+{
+  "id": 1343839115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48722,6.26083,-9.48722,6.26083",
+    "geom:latitude":6.26083,
+    "geom:longitude":-9.48722,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kadibli",
+    "gn:country_code":"LR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276113,
+    "gn:latitude":6.26083,
+    "gn:longitude":-9.48722,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Kadibli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276113
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1e4b9e372553f6c960b533e33da877f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1343839115,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1343839115,
+    "wof:lastmodified":1536697650,
+    "wof:name":"Kadibli",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48722,
+    6.26083,
+    -9.48722,
+    6.26083
+],
+  "geometry": {"coordinates":[-9.48722,6.26083],"type":"Point"}
+}

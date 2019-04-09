@@ -1,0 +1,73 @@
+{
+  "id": 1343336097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99361,8.38778,-9.99361,8.38778",
+    "geom:latitude":8.38778,
+    "geom:longitude":-9.99361,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kotalahun",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275702,
+    "gn:latitude":8.38778,
+    "gn:longitude":-9.99361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kotalahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotulahun",
+        "Kotuhun",
+        "Kotalahun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275702
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d6c08d98c8ed5c7bde9115317d438907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":1343336097,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1343336097,
+    "wof:lastmodified":1537661711,
+    "wof:name":"Kotalahun",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99361,
+    8.38778,
+    -9.99361,
+    8.38778
+],
+  "geometry": {"coordinates":[-9.99361,8.38778],"type":"Point"}
+}

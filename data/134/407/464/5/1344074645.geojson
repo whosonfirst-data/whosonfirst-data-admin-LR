@@ -1,0 +1,70 @@
+{
+  "id": 1344074645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66228,7.01652,-9.66228,7.01652",
+    "geom:latitude":7.01652,
+    "geom:longitude":-9.66228,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Garzata",
+    "gn:country_code":"LR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869712,
+    "gn:latitude":7.01652,
+    "gn:longitude":-9.66228,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Garzata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garzata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869712
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7b950b5ecc7e922fabe841578b9b26ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1344074645,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1344074645,
+    "wof:lastmodified":1537661831,
+    "wof:name":"Garzata",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66228,
+    7.01652,
+    -9.66228,
+    7.01652
+],
+  "geometry": {"coordinates":[-9.66228,7.01652],"type":"Point"}
+}

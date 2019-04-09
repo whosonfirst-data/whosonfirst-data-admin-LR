@@ -1,0 +1,70 @@
+{
+  "id": 1327245511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22678,6.80726,-9.22678,6.80726",
+    "geom:latitude":6.80726,
+    "geom:longitude":-9.22678,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sumota",
+    "gn:country_code":"LR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870131,
+    "gn:latitude":6.80726,
+    "gn:longitude":-9.22678,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sumota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sumota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870131
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f0613f4fce90a7c4e6f8c1c06eb54bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1327245511,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1327245511,
+    "wof:lastmodified":1537661834,
+    "wof:name":"Sumota",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22678,
+    6.80726,
+    -9.22678,
+    6.80726
+],
+  "geometry": {"coordinates":[-9.22678,6.80726],"type":"Point"}
+}

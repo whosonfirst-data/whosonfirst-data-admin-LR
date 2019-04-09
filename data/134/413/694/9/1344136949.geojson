@@ -1,0 +1,67 @@
+{
+  "id": 1344136949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.87922,7.07038,-10.87922,7.07038",
+    "geom:latitude":7.07038,
+    "geom:longitude":-10.87922,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lofa Bridge",
+    "gn:country_code":"LR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567389,
+    "gn:latitude":7.07038,
+    "gn:longitude":-10.87922,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Lofa Bridge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567389
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"48de03f8a2c21498fa8ec3c3da86d5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1344136949,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1344136949,
+    "wof:lastmodified":1536765634,
+    "wof:name":"Lofa Bridge",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.87922,
+    7.07038,
+    -10.87922,
+    7.07038
+],
+  "geometry": {"coordinates":[-10.87922,7.07038],"type":"Point"}
+}

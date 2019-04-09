@@ -1,0 +1,73 @@
+{
+  "id": 1293452229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54667,6.32,-8.54667,6.32",
+    "geom:latitude":6.32,
+    "geom:longitude":-8.54667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Senewehn",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274006,
+    "gn:latitude":6.32,
+    "gn:longitude":-8.54667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Senewehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seniwehn",
+        "Sehnewen",
+        "Senewehn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274006
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a20c44195086fd04bdb7c2e6f750368d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1293452229,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1293452229,
+    "wof:lastmodified":1537661662,
+    "wof:name":"Senewehn",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54667,
+    6.32,
+    -8.54667,
+    6.32
+],
+  "geometry": {"coordinates":[-8.54667,6.32],"type":"Point"}
+}

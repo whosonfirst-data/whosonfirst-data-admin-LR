@@ -1,0 +1,74 @@
+{
+  "id": 1210000963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57194,7.59778,-8.57194,7.59778",
+    "geom:latitude":7.59778,
+    "geom:longitude":-8.57194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kahnla",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275295,
+    "gn:latitude":7.59778,
+    "gn:longitude":-8.57194,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kahnla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lugbemu",
+        "Lugbema",
+        "Lubgema",
+        "Kahnla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275295
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a7995b00e3925caaaa26f37ef60fcb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1210000963,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1210000963,
+    "wof:lastmodified":1537661697,
+    "wof:name":"Kahnla",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57194,
+    7.59778,
+    -8.57194,
+    7.59778
+],
+  "geometry": {"coordinates":[-8.57194,7.59778],"type":"Point"}
+}

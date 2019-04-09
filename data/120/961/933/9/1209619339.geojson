@@ -1,0 +1,64 @@
+{
+  "id": 1209619339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75556,7.00611,-9.75556,7.00611",
+    "geom:latitude":7.00611,
+    "geom:longitude":-9.75556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sentoa",
+    "gn:country_code":"LR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273989,
+    "gn:latitude":7.00611,
+    "gn:longitude":-9.75556,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sentoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sentoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273989
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c5f968fe1ade8cfab7ab3f9f4d605ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209619339
+        }
+    ],
+    "wof:id":1209619339,
+    "wof:lastmodified":1537661661,
+    "wof:name":"Sentoa",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75556,
+    7.00611,
+    -9.75556,
+    7.00611
+],
+  "geometry": {"coordinates":[-9.75556,7.00611],"type":"Point"}
+}

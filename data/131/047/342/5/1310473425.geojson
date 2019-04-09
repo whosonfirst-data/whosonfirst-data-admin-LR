@@ -1,0 +1,67 @@
+{
+  "id": 1310473425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.1,6.66667,-10.1,6.66667",
+    "geom:latitude":6.66667,
+    "geom:longitude":-10.1,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Janeta",
+    "gn:country_code":"LR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276389,
+    "gn:latitude":6.66667,
+    "gn:longitude":-10.1,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Janeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276389
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5863beebe9f88ec63b842c48c9a18e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1310473425,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1310473425,
+    "wof:lastmodified":1536963085,
+    "wof:name":"Janeta",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.1,
+    6.66667,
+    -10.1,
+    6.66667
+],
+  "geometry": {"coordinates":[-10.1,6.66667],"type":"Point"}
+}

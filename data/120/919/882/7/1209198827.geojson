@@ -1,0 +1,66 @@
+{
+  "id": 1209198827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54056,7.02,-8.54056,7.02",
+    "geom:latitude":7.02,
+    "geom:longitude":-8.54056,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Niato",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274706,
+    "gn:latitude":7.02,
+    "gn:longitude":-8.54056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Niato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niatuo",
+        "Niato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274706
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1f3fa2cba0f2ad9c8b858fc29e691654",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209198827
+        }
+    ],
+    "wof:id":1209198827,
+    "wof:lastmodified":1537661681,
+    "wof:name":"Niato",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54056,
+    7.02,
+    -8.54056,
+    7.02
+],
+  "geometry": {"coordinates":[-8.54056,7.02],"type":"Point"}
+}

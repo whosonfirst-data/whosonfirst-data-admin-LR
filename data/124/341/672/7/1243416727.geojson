@@ -1,0 +1,67 @@
+{
+  "id": 1243416727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64028,6.27389,-8.64028,6.27389",
+    "geom:latitude":6.27389,
+    "geom:longitude":-8.64028,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yoezon",
+    "gn:country_code":"LR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572040,
+    "gn:latitude":6.27389,
+    "gn:longitude":-8.64028,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Yoezon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572040
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"283fbb601c41c379b5aef8394b7e9874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1243416727,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1243416727,
+    "wof:lastmodified":1536847348,
+    "wof:name":"Yoezon",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64028,
+    6.27389,
+    -8.64028,
+    6.27389
+],
+  "geometry": {"coordinates":[-8.64028,6.27389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327210153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43639,6.16917,-10.43639,6.16917",
+    "geom:latitude":6.16917,
+    "geom:longitude":-10.43639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kpakprakor",
+    "gn:country_code":"LR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571736,
+    "gn:latitude":6.16917,
+    "gn:longitude":-10.43639,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Kpakprakor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571736
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"523c3e872f9683dbfcc9d3e63fb7b4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1327210153,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1327210153,
+    "wof:lastmodified":1537001076,
+    "wof:name":"Kpakprakor",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43639,
+    6.16917,
+    -10.43639,
+    6.16917
+],
+  "geometry": {"coordinates":[-10.43639,6.16917],"type":"Point"}
+}

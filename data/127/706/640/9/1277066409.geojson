@@ -1,0 +1,73 @@
+{
+  "id": 1277066409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.955,6.86444,-8.955,6.86444",
+    "geom:latitude":6.86444,
+    "geom:longitude":-8.955,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Buai",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277562,
+    "gn:latitude":6.86444,
+    "gn:longitude":-8.955,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douampa",
+        "Duanpa",
+        "Buai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277562
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0126ca3fd8b27b6cc34a2ced5837c370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1277066409,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1277066409,
+    "wof:lastmodified":1537661777,
+    "wof:name":"Buai",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.955,
+    6.86444,
+    -8.955,
+    6.86444
+],
+  "geometry": {"coordinates":[-8.955,6.86444],"type":"Point"}
+}

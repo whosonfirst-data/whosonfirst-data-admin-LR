@@ -1,0 +1,70 @@
+{
+  "id": 1259855723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.32164,6.7652,-10.32164,6.7652",
+    "geom:latitude":6.7652,
+    "geom:longitude":-10.32164,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bagwaima",
+    "gn:country_code":"LR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278966,
+    "gn:latitude":6.7652,
+    "gn:longitude":-10.32164,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bagwaima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bali Kohnma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278966
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4510405bd0e3d3d607946c896f94c438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1259855723,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259855723,
+    "wof:lastmodified":1537661819,
+    "wof:name":"Bagwaima",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.32164,
+    6.7652,
+    -10.32164,
+    6.7652
+],
+  "geometry": {"coordinates":[-10.32164,6.7652],"type":"Point"}
+}

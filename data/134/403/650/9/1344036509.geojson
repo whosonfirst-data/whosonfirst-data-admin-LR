@@ -1,0 +1,67 @@
+{
+  "id": 1344036509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58333,6.6,-10.58333,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":-10.58333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kram",
+    "gn:country_code":"LR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275589,
+    "gn:latitude":6.6,
+    "gn:longitude":-10.58333,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275589
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e23930ac09d09f9cf8d6875ca53c2656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1344036509,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1344036509,
+    "wof:lastmodified":1536910599,
+    "wof:name":"Kram",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58333,
+    6.6,
+    -10.58333,
+    6.6
+],
+  "geometry": {"coordinates":[-10.58333,6.6],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293306467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.62611,6.82272,-9.62611,6.82272",
+    "geom:latitude":6.82272,
+    "geom:longitude":-9.62611,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Galawoluta",
+    "gn:country_code":"LR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870494,
+    "gn:latitude":6.82272,
+    "gn:longitude":-9.62611,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Galawoluta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Galawoluta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870494
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8143ad13d4c2ff2108fd7282667a2c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1293306467,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1293306467,
+    "wof:lastmodified":1537661840,
+    "wof:name":"Galawoluta",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.62611,
+    6.82272,
+    -9.62611,
+    6.82272
+],
+  "geometry": {"coordinates":[-9.62611,6.82272],"type":"Point"}
+}

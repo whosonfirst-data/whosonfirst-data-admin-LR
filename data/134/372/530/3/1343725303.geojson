@@ -1,0 +1,67 @@
+{
+  "id": 1343725303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55729,5.96676,-9.55729,5.96676",
+    "geom:latitude":5.96676,
+    "geom:longitude":-9.55729,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rabli",
+    "gn:country_code":"LR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274302,
+    "gn:latitude":5.96676,
+    "gn:longitude":-9.55729,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Rabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274302
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"25caaceeb916470ae6fd00a3610351b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694417,
+            "locality_id":1343725303,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1343725303,
+    "wof:lastmodified":1536860323,
+    "wof:name":"Rabli",
+    "wof:parent_id":1091694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55729,
+    5.96676,
+    -9.55729,
+    5.96676
+],
+  "geometry": {"coordinates":[-9.55729,5.96676],"type":"Point"}
+}

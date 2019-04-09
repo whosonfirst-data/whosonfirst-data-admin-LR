@@ -1,0 +1,67 @@
+{
+  "id": 1226331249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92966,5.31715,-8.92966,5.31715",
+    "geom:latitude":5.31715,
+    "geom:longitude":-8.92966,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Major's Farm",
+    "gn:country_code":"LR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275229,
+    "gn:latitude":5.31715,
+    "gn:longitude":-8.92966,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Major\u2019s Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275229
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d2ed846e21b2499210b201f15acaa0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1226331249,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1226331249,
+    "wof:lastmodified":1536809953,
+    "wof:name":"Major's Farm",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92966,
+    5.31715,
+    -8.92966,
+    5.31715
+],
+  "geometry": {"coordinates":[-8.92966,5.31715],"type":"Point"}
+}

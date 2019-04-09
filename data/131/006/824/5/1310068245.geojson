@@ -1,0 +1,67 @@
+{
+  "id": 1310068245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27894,6.27113,-8.27894,6.27113",
+    "geom:latitude":6.27113,
+    "geom:longitude":-8.27894,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koon",
+    "gn:country_code":"LR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890277,
+    "gn:latitude":6.27113,
+    "gn:longitude":-8.27894,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Koon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890277
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1bd9f8bf94b3a6ac15fafe32a14e0629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1310068245,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1310068245,
+    "wof:lastmodified":1537048340,
+    "wof:name":"Koon",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27894,
+    6.27113,
+    -8.27894,
+    6.27113
+],
+  "geometry": {"coordinates":[-8.27894,6.27113],"type":"Point"}
+}

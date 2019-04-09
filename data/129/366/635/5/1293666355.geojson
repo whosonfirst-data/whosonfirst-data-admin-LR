@@ -1,0 +1,72 @@
+{
+  "id": 1293666355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31667,7.15,-11.31667,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":-11.31667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sengama",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274004,
+    "gn:latitude":7.15,
+    "gn:longitude":-11.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sengama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sembehun",
+        "Sengama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274004
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"41f7447ff7d7fc76be1daf70226a8fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692983,
+            "locality_id":1293666355,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1293666355,
+    "wof:lastmodified":1537661661,
+    "wof:name":"Sengama",
+    "wof:parent_id":1091692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31667,
+    7.15,
+    -11.31667,
+    7.15
+],
+  "geometry": {"coordinates":[-11.31667,7.15],"type":"Point"}
+}

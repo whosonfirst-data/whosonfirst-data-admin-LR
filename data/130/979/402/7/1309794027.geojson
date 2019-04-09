@@ -1,0 +1,67 @@
+{
+  "id": 1309794027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.24945,6.10004,-10.24945,6.10004",
+    "geom:latitude":6.10004,
+    "geom:longitude":-10.24945,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kro Town",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571982,
+    "gn:latitude":6.10004,
+    "gn:longitude":-10.24945,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Kro Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571982
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"41a334c430480b7842ba49bf2fcb5f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692709,
+            "locality_id":1309794027,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1309794027,
+    "wof:lastmodified":1536948382,
+    "wof:name":"Kro Town",
+    "wof:parent_id":1091692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.24945,
+    6.10004,
+    -10.24945,
+    6.10004
+],
+  "geometry": {"coordinates":[-10.24945,6.10004],"type":"Point"}
+}

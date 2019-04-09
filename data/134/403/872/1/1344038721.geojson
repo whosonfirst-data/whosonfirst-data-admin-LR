@@ -1,0 +1,67 @@
+{
+  "id": 1344038721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65863,5.89186,-9.65863,5.89186",
+    "geom:latitude":5.89186,
+    "geom:longitude":-9.65863,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zantobli",
+    "gn:country_code":"LR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272663,
+    "gn:latitude":5.89186,
+    "gn:longitude":-9.65863,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Zantobli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272663
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"65a436d21b944c39f816181b743fb8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1344038721,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1344038721,
+    "wof:lastmodified":1536907309,
+    "wof:name":"Zantobli",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65863,
+    5.89186,
+    -9.65863,
+    5.89186
+],
+  "geometry": {"coordinates":[-9.65863,5.89186],"type":"Point"}
+}

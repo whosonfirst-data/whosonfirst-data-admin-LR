@@ -1,0 +1,70 @@
+{
+  "id": 1310119737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31251,7.43143,-9.31251,7.43143",
+    "geom:latitude":7.43143,
+    "geom:longitude":-9.31251,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wongbata",
+    "gn:country_code":"LR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869482,
+    "gn:latitude":7.43143,
+    "gn:longitude":-9.31251,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Wongbata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wongbata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671499,
+        421203701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869482
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c1565fdb7800818b4561c2a2d2c6c287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203701,
+            "locality_id":1310119737,
+            "region_id":85671499
+        }
+    ],
+    "wof:id":1310119737,
+    "wof:lastmodified":1537661828,
+    "wof:name":"Wongbata",
+    "wof:parent_id":421203701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31251,
+    7.43143,
+    -9.31251,
+    7.43143
+],
+  "geometry": {"coordinates":[-9.31251,7.43143],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209089765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7,6.25,-10.7,6.25",
+    "geom:latitude":6.25,
+    "geom:longitude":-10.7,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kingsray",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275908,
+    "gn:latitude":6.25,
+    "gn:longitude":-10.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kingsray",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kingsray Village",
+        "King Gray",
+        "King Grays",
+        "Mabahn Goang",
+        "King Gray\u2019s Town",
+        "Kingsray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275908
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9f90965e5e1e41cf11b0398059070103",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209089765
+        }
+    ],
+    "wof:id":1209089765,
+    "wof:lastmodified":1537661717,
+    "wof:name":"Kingsray",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7,
+    6.25,
+    -10.7,
+    6.25
+],
+  "geometry": {"coordinates":[-10.7,6.25],"type":"Point"}
+}

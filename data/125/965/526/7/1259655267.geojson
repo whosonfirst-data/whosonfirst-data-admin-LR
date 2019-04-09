@@ -1,0 +1,67 @@
+{
+  "id": 1259655267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.12583,6.65861,-10.12583,6.65861",
+    "geom:latitude":6.65861,
+    "geom:longitude":-10.12583,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Camp Number One",
+    "gn:country_code":"LR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571787,
+    "gn:latitude":6.65861,
+    "gn:longitude":-10.12583,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Camp Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571787
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2a7d5465f2523e161ed3159e0f567f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1259655267,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259655267,
+    "wof:lastmodified":1536608639,
+    "wof:name":"Camp Number One",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.12583,
+    6.65861,
+    -10.12583,
+    6.65861
+],
+  "geometry": {"coordinates":[-10.12583,6.65861],"type":"Point"}
+}

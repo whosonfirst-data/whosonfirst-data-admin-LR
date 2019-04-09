@@ -1,0 +1,61 @@
+{
+  "id": 1209279967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14956,5.76801,-8.14956,5.76801",
+    "geom:latitude":5.76801,
+    "geom:longitude":-8.14956,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"John David Town",
+    "gn:country_code":"LR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288508,
+    "gn:latitude":5.76801,
+    "gn:longitude":-8.14956,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"John David Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288508
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"60b321aa78cf73679c74c070e97d8b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209279967
+        }
+    ],
+    "wof:id":1209279967,
+    "wof:lastmodified":1536292058,
+    "wof:name":"John David Town",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.149560000000001,
+    5.7680099999999985,
+    -8.149560000000001,
+    5.7680099999999985
+],
+  "geometry": {"coordinates":[-8.14956,5.76801],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209200921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62767,4.36399,-7.62767,4.36399",
+    "geom:latitude":4.36399,
+    "geom:longitude":-7.62767,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Whole Graway",
+    "gn:country_code":"LR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273123,
+    "gn:latitude":4.36399,
+    "gn:longitude":-7.62767,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Whole Graway",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grewe",
+        "Whole Grewe",
+        "Whole Graway"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273123
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"237332348c0d412e639563f66fa0d2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209200921
+        }
+    ],
+    "wof:id":1209200921,
+    "wof:lastmodified":1537661633,
+    "wof:name":"Whole Graway",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62767,
+    4.36399,
+    -7.62767,
+    4.36399
+],
+  "geometry": {"coordinates":[-7.62767,4.36399],"type":"Point"}
+}

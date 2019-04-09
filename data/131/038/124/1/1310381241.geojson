@@ -1,0 +1,67 @@
+{
+  "id": 1310381241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58598,5.50006,-9.58598,5.50006",
+    "geom:latitude":5.50006,
+    "geom:longitude":-9.58598,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wazibli",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273201,
+    "gn:latitude":5.50006,
+    "gn:longitude":-9.58598,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wazibli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273201
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6c5f7d1462017c170c7692b00298cb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694479,
+            "locality_id":1310381241,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1310381241,
+    "wof:lastmodified":1537093053,
+    "wof:name":"Wazibli",
+    "wof:parent_id":1091694479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58598,
+    5.50006,
+    -9.58598,
+    5.50006
+],
+  "geometry": {"coordinates":[-9.58598,5.50006],"type":"Point"}
+}

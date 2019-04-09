@@ -1,0 +1,67 @@
+{
+  "id": 1309788615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.89587,6.87789,-10.89587,6.87789",
+    "geom:latitude":6.87789,
+    "geom:longitude":-10.89587,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bogbue",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278417,
+    "gn:latitude":6.87789,
+    "gn:longitude":-10.89587,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bogbue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278417
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5bde585a42ce7835a0c320e6f60a49bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1309788615,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1309788615,
+    "wof:lastmodified":1536955921,
+    "wof:name":"Bogbue",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.89587,
+    6.87789,
+    -10.89587,
+    6.87789
+],
+  "geometry": {"coordinates":[-10.89587,6.87789],"type":"Point"}
+}

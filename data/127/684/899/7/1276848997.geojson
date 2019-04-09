@@ -1,0 +1,67 @@
+{
+  "id": 1276848997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.79212,6.12296,-9.79212,6.12296",
+    "geom:latitude":6.12296,
+    "geom:longitude":-9.79212,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Division 1.4 Office",
+    "gn:country_code":"LR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9817882,
+    "gn:latitude":6.12296,
+    "gn:longitude":-9.79212,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Division 1.4 Office",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9817882
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ed7aea781b7c6784135ce0fedab0280e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1276848997,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1276848997,
+    "wof:lastmodified":1537079345,
+    "wof:name":"Division 1.4 Office",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.79212,
+    6.12296,
+    -9.79212,
+    6.12296
+],
+  "geometry": {"coordinates":[-9.79212,6.12296],"type":"Point"}
+}

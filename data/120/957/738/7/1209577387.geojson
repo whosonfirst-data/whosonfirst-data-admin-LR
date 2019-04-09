@@ -1,0 +1,61 @@
+{
+  "id": 1209577387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.63722,7.20861,-10.63722,7.20861",
+    "geom:latitude":7.20861,
+    "geom:longitude":-10.63722,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Smith Camp",
+    "gn:country_code":"LR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273871,
+    "gn:latitude":7.20861,
+    "gn:longitude":-10.63722,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Smith Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273871
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"01e074e0dc743246d8b41341d66dee57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209577387
+        }
+    ],
+    "wof:id":1209577387,
+    "wof:lastmodified":1536282895,
+    "wof:name":"Smith Camp",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.63722,
+    7.20861,
+    -10.63722,
+    7.20861
+],
+  "geometry": {"coordinates":[-10.63722,7.20861],"type":"Point"}
+}

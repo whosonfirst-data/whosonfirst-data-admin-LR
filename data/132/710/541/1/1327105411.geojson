@@ -1,0 +1,67 @@
+{
+  "id": 1327105411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85,7.03333,-10.85,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":-10.85,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Be Johnson",
+    "gn:country_code":"LR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278753,
+    "gn:latitude":7.03333,
+    "gn:longitude":-10.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Be Johnson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278753
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"717d3f8085c11c28f1e14481110a6409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693713,
+            "locality_id":1327105411,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1327105411,
+    "wof:lastmodified":1536655244,
+    "wof:name":"Be Johnson",
+    "wof:parent_id":1091693713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85,
+    7.03333,
+    -10.85,
+    7.03333
+],
+  "geometry": {"coordinates":[-10.85,7.03333],"type":"Point"}
+}

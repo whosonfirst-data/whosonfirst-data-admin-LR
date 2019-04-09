@@ -1,0 +1,67 @@
+{
+  "id": 1209897319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.71667,6.15,-9.71667,6.15",
+    "geom:latitude":6.15,
+    "geom:longitude":-9.71667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bogibli",
+    "gn:country_code":"LR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278414,
+    "gn:latitude":6.15,
+    "gn:longitude":-9.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bogibli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278414
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"be51c6d8f096673c884776366fa6b72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1209897319,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1209897319,
+    "wof:lastmodified":1536388023,
+    "wof:name":"Bogibli",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.71667,
+    6.15,
+    -9.71667,
+    6.15
+],
+  "geometry": {"coordinates":[-9.71667,6.15],"type":"Point"}
+}

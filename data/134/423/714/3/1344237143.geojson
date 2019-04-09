@@ -1,0 +1,72 @@
+{
+  "id": 1344237143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.21748,7.24589,-11.21748,7.24589",
+    "geom:latitude":7.24589,
+    "geom:longitude":-11.21748,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gangama",
+    "gn:country_code":"LR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278962,
+    "gn:latitude":7.24589,
+    "gn:longitude":-11.21748,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Gangama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbaloma",
+        "Baloma",
+        "Gangama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278962
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6fe67795a3fc1e9508974fb7f9125e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692983,
+            "locality_id":1344237143,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1344237143,
+    "wof:lastmodified":1537661819,
+    "wof:name":"Gangama",
+    "wof:parent_id":1091692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.21748,
+    7.24589,
+    -11.21748,
+    7.24589
+],
+  "geometry": {"coordinates":[-11.21748,7.24589],"type":"Point"}
+}

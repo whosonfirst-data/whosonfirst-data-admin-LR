@@ -1,0 +1,87 @@
+{
+  "id": 1091693229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.041806,
+    "geom:area_square_m":515007363.433055,
+    "geom:bbox":"-8.265945,4.819453,-8.010055,5.074275",
+    "geom:latitude":4.951859,
+    "geom:longitude":-8.148253,
+    "iso:country":"LR",
+    "lbl:latitude":4.95542,
+    "lbl:longitude":-8.150669,
+    "meso:admin_1":"Grand Kru",
+    "meso:gadm_admin":"Buah",
+    "meso:hasc_id":"LR.GK.BU",
+    "meso:mps_x":-8.150669,
+    "meso:mps_y":4.95542,
+    "meso:name_en":"Buah",
+    "meso:source":"USAID",
+    "mps:latitude":4.95542,
+    "mps:longitude":-8.150669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Buah"
+    ],
+    "name:eng_x_variant":[
+        "Buah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-03-21",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2008-03-21",
+    "statoids:capital":"",
+    "statoids:country":"LR",
+    "statoids:hasc":"LR.GK",
+    "statoids:name":"Buah",
+    "statoids:population":"643",
+    "statoids:statoid":"LR.GK.BU",
+    "statoids:timezone":"0",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LR.GK.BU"
+    },
+    "wof:country":"LR",
+    "wof:created":1473879455,
+    "wof:geomhash":"de3e21b2d01b82073d42e2de90cc075d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693229,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1091693229,
+    "wof:lastmodified":1536614936,
+    "wof:name":"Buah",
+    "wof:parent_id":85673513,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":643,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:shortcode":"BU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.265945,
+    4.819453,
+    -8.010055,
+    5.074275
+],
+  "geometry": {"coordinates":[[[-8.251953,4.966006],[-8.246992,4.967427],[-8.243309,4.969287],[-8.236876,4.976706],[-8.226758,4.984598],[-8.218732,4.998498],[-8.212305,5.007998],[-8.210959,5.02003],[-8.20336,5.023288],[-8.199004,5.031164],[-8.198333,5.038336],[-8.185947,5.060111],[-8.177209,5.067304],[-8.169381,5.071024],[-8.154172,5.073375],[-8.144719,5.073398],[-8.117743,5.072537],[-8.116798,5.072576],[-8.099763,5.073274],[-8.085794,5.074049],[-8.067027,5.074275],[-8.053189,5.072918],[-8.039811,5.070173],[-8.032883,5.066025],[-8.026189,5.062802],[-8.0218,5.059342],[-8.017196,5.061897],[-8.010055,5.064457],[-8.029281,5.042632],[-8.047921,5.028098],[-8.043058,5.00872],[-8.044679,4.963504],[-8.06494,4.935243],[-8.086011,4.903754],[-8.099788,4.873071],[-8.107082,4.848848],[-8.100599,4.823818],[-8.102581,4.823183],[-8.121046,4.824019],[-8.136994,4.824019],[-8.156298,4.822347],[-8.172246,4.826528],[-8.186514,4.825692],[-8.199944,4.825692],[-8.213373,4.823183],[-8.218409,4.820674],[-8.220237,4.819453],[-8.226065,4.832619],[-8.230932,4.841629],[-8.241351,4.857331],[-8.252676,4.867249],[-8.261489,4.884575],[-8.265945,4.909546],[-8.261378,4.923438],[-8.254497,4.934328],[-8.250153,4.945443],[-8.251586,4.962095],[-8.251953,4.966006]]],"type":"Polygon"}
+}

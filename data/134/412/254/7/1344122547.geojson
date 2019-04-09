@@ -1,0 +1,67 @@
+{
+  "id": 1344122547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31833,5.56056,-8.31833,5.56056",
+    "geom:latitude":5.56056,
+    "geom:longitude":-8.31833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gambo",
+    "gn:country_code":"LR",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277219,
+    "gn:latitude":5.56056,
+    "gn:longitude":-8.31833,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Gambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277219
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b8ae0282546b085d29c7b1d00ad449c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693119,
+            "locality_id":1344122547,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1344122547,
+    "wof:lastmodified":1536786615,
+    "wof:name":"Gambo",
+    "wof:parent_id":1091693119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31833,
+    5.56056,
+    -8.31833,
+    5.56056
+],
+  "geometry": {"coordinates":[-8.31833,5.56056],"type":"Point"}
+}

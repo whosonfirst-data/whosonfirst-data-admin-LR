@@ -1,0 +1,70 @@
+{
+  "id": 1242750389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04092,4.61212,-8.04092,4.61212",
+    "geom:latitude":4.61212,
+    "geom:longitude":-8.04092,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zinmoken",
+    "gn:country_code":"LR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572128,
+    "gn:latitude":4.61212,
+    "gn:longitude":-8.04092,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Zinmoken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572128
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6f764ee0d31b73ff53ed26831aa6cd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693271,
+            "locality_id":1242750389,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1242750389,
+    "wof:lastmodified":1537661827,
+    "wof:name":"Zinmoken",
+    "wof:parent_id":1091693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04092,
+    4.61212,
+    -8.04092,
+    4.61212
+],
+  "geometry": {"coordinates":[-8.04092,4.61212],"type":"Point"}
+}

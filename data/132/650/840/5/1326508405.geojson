@@ -1,0 +1,67 @@
+{
+  "id": 1326508405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.72439,6.60694,-9.72439,6.60694",
+    "geom:latitude":6.60694,
+    "geom:longitude":-9.72439,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Musata",
+    "gn:country_code":"LR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818298,
+    "gn:latitude":6.60694,
+    "gn:longitude":-9.72439,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Musata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818298
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0b4e641048636915c933b55b9060342f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1326508405,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1326508405,
+    "wof:lastmodified":1537017689,
+    "wof:name":"Musata",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.72439,
+    6.60694,
+    -9.72439,
+    6.60694
+],
+  "geometry": {"coordinates":[-9.72439,6.60694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259666733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.84222,6.90194,-10.84222,6.90194",
+    "geom:latitude":6.90194,
+    "geom:longitude":-10.84222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Be Mawi",
+    "gn:country_code":"LR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278726,
+    "gn:latitude":6.90194,
+    "gn:longitude":-10.84222,
+    "gn:modification_date":"2003-09-24",
+    "gn:name":"Be Mawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278726
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b728498556847433d5848b38db139a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1259666733,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1259666733,
+    "wof:lastmodified":1537087972,
+    "wof:name":"Be Mawi",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.84222,
+    6.90194,
+    -10.84222,
+    6.90194
+],
+  "geometry": {"coordinates":[-10.84222,6.90194],"type":"Point"}
+}

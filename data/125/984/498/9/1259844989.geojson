@@ -1,0 +1,71 @@
+{
+  "id": 1259844989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28024,6.2413,-8.28024,6.2413",
+    "geom:latitude":6.2413,
+    "geom:longitude":-8.28024,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Jackson Town",
+    "gn:country_code":"LR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273739,
+    "gn:latitude":6.2413,
+    "gn:longitude":-8.28024,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Jackson Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suwakehn",
+        "Jackson Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273739
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ea835720dca64a4bf4d7fe6b09fd3f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1259844989,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1259844989,
+    "wof:lastmodified":1537661654,
+    "wof:name":"Jackson Town",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28024,
+    6.2413,
+    -8.28024,
+    6.2413
+],
+  "geometry": {"coordinates":[-8.28024,6.2413],"type":"Point"}
+}

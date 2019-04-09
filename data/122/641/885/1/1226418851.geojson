@@ -1,0 +1,67 @@
+{
+  "id": 1226418851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6588,4.56977,-7.6588,4.56977",
+    "geom:latitude":4.56977,
+    "geom:longitude":-7.6588,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Krutown",
+    "gn:country_code":"LR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871178,
+    "gn:latitude":4.56977,
+    "gn:longitude":-7.6588,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Krutown",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871178
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"907d8b85ca4550d3bc2563a64a655da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1226418851,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1226418851,
+    "wof:lastmodified":1536684266,
+    "wof:name":"Krutown",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6588,
+    4.56977,
+    -7.6588,
+    4.56977
+],
+  "geometry": {"coordinates":[-7.6588,4.56977],"type":"Point"}
+}

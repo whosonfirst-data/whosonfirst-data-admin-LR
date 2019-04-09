@@ -1,0 +1,72 @@
+{
+  "id": 1277052099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98333,6.63333,-9.98333,6.63333",
+    "geom:latitude":6.63333,
+    "geom:longitude":-9.98333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Franklin",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277298,
+    "gn:latitude":6.63333,
+    "gn:longitude":-9.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Franklin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "John Franklin",
+        "Franklin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277298
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0e862bbe31754a51883f214cbc3a1d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693759,
+            "locality_id":1277052099,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1277052099,
+    "wof:lastmodified":1537661768,
+    "wof:name":"Franklin",
+    "wof:parent_id":1091693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98333,
+    6.63333,
+    -9.98333,
+    6.63333
+],
+  "geometry": {"coordinates":[-9.98333,6.63333],"type":"Point"}
+}

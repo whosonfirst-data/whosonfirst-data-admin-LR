@@ -1,0 +1,70 @@
+{
+  "id": 1327044007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76111,7.07444,-9.76111,7.07444",
+    "geom:latitude":7.07444,
+    "geom:longitude":-9.76111,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lasu",
+    "gn:country_code":"LR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275438,
+    "gn:latitude":7.07444,
+    "gn:longitude":-9.76111,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Lasu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275438
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fb78ec4356f7d02feaa150b061167cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692423,
+            "locality_id":1327044007,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1327044007,
+    "wof:lastmodified":1537661701,
+    "wof:name":"Lasu",
+    "wof:parent_id":1091692423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76111,
+    7.07444,
+    -9.76111,
+    7.07444
+],
+  "geometry": {"coordinates":[-9.76111,7.07444],"type":"Point"}
+}

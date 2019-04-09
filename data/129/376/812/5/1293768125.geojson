@@ -1,0 +1,67 @@
+{
+  "id": 1293768125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40833,6.73639,-8.40833,6.73639",
+    "geom:latitude":6.73639,
+    "geom:longitude":-8.40833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nota",
+    "gn:country_code":"LR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274632,
+    "gn:latitude":6.73639,
+    "gn:longitude":-8.40833,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Nota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274632
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d98dcd8c1b671f57827a61ef1710050c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1293768125,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1293768125,
+    "wof:lastmodified":1536878803,
+    "wof:name":"Nota",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40833,
+    6.73639,
+    -8.40833,
+    6.73639
+],
+  "geometry": {"coordinates":[-8.40833,6.73639],"type":"Point"}
+}

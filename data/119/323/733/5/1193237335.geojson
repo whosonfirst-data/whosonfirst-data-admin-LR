@@ -1,0 +1,74 @@
+{
+  "id": 1193237335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.97389,7.57083,-9.97389,7.57083",
+    "geom:latitude":7.57083,
+    "geom:longitude":-9.97389,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Belle Mbaloma",
+    "gn:country_code":"LR",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278731,
+    "gn:latitude":7.57083,
+    "gn:longitude":-9.97389,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Belle Mbaloma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbellibalmah",
+        "Bellebaloma",
+        "Gbellebamah",
+        "Belibalamu",
+        "Belle Mbaloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278731
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1a7e09dd8da36bcbfa225176b8a9d9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693621,
+            "locality_id":1193237335,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1193237335,
+    "wof:lastmodified":1537661810,
+    "wof:name":"Belle Mbaloma",
+    "wof:parent_id":1091693621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.97389,
+    7.57083,
+    -9.97389,
+    7.57083
+],
+  "geometry": {"coordinates":[-9.97389,7.57083],"type":"Point"}
+}

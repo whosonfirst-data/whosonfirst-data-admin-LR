@@ -1,0 +1,71 @@
+{
+  "id": 1243417821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58374,6.36073,-10.58374,6.36073",
+    "geom:latitude":6.36073,
+    "geom:longitude":-10.58374,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bho Town",
+    "gn:country_code":"LR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278622,
+    "gn:latitude":6.36073,
+    "gn:longitude":-10.58374,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bho Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bho",
+        "Bho Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278622
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c61ac0f5570eb7c36e42da1a1b4e307f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694045,
+            "locality_id":1243417821,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1243417821,
+    "wof:lastmodified":1537661807,
+    "wof:name":"Bho Town",
+    "wof:parent_id":1091694045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58374,
+    6.36073,
+    -10.58374,
+    6.36073
+],
+  "geometry": {"coordinates":[-10.58374,6.36073],"type":"Point"}
+}

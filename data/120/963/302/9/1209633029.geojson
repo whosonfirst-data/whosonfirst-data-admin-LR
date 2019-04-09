@@ -1,0 +1,64 @@
+{
+  "id": 1209633029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43333,6.83333,-9.43333,6.83333",
+    "geom:latitude":6.83333,
+    "geom:longitude":-9.43333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tuima",
+    "gn:country_code":"LR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273422,
+    "gn:latitude":6.83333,
+    "gn:longitude":-9.43333,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tuima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273422
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5ffa2a44d176a1a3df961dc857899b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209633029
+        }
+    ],
+    "wof:id":1209633029,
+    "wof:lastmodified":1537661643,
+    "wof:name":"Tuima",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43333,
+    6.83333,
+    -9.43333,
+    6.83333
+],
+  "geometry": {"coordinates":[-9.43333,6.83333],"type":"Point"}
+}

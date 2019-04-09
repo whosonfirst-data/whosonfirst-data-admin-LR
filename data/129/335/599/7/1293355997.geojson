@@ -1,0 +1,74 @@
+{
+  "id": 1293355997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89321,5.80431,-7.89321,5.80431",
+    "geom:latitude":5.80431,
+    "geom:longitude":-7.89321,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Vargloh",
+    "gn:country_code":"LR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277532,
+    "gn:latitude":5.80431,
+    "gn:longitude":-7.89321,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Vargloh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dui",
+        "Sentro",
+        "Letco Camp",
+        "Vargloh",
+        "Vazohn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277532
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"016db861f3c0a588eefc2e1740fcb000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693119,
+            "locality_id":1293355997,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1293355997,
+    "wof:lastmodified":1537661776,
+    "wof:name":"Vargloh",
+    "wof:parent_id":1091693119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89321,
+    5.80431,
+    -7.89321,
+    5.80431
+],
+  "geometry": {"coordinates":[-7.89321,5.80431],"type":"Point"}
+}

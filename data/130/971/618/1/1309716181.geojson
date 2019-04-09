@@ -1,0 +1,70 @@
+{
+  "id": 1309716181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.40053,6.96398,-10.40053,6.96398",
+    "geom:latitude":6.96398,
+    "geom:longitude":-10.40053,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Liniama",
+    "gn:country_code":"LR",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275363,
+    "gn:latitude":6.96398,
+    "gn:longitude":-10.40053,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Liniama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Liniama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275363
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c61d9e8290d9ff619174c84bb24f9874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1309716181,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1309716181,
+    "wof:lastmodified":1537661699,
+    "wof:name":"Liniama",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.40053,
+    6.96398,
+    -10.40053,
+    6.96398
+],
+  "geometry": {"coordinates":[-10.40053,6.96398],"type":"Point"}
+}

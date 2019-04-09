@@ -1,0 +1,67 @@
+{
+  "id": 1310585011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02917,4.99528,-9.02917,4.99528",
+    "geom:latitude":4.99528,
+    "geom:longitude":-9.02917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Seebeh",
+    "gn:country_code":"LR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597291,
+    "gn:latitude":4.99528,
+    "gn:longitude":-9.02917,
+    "gn:modification_date":"2003-09-17",
+    "gn:name":"Seebeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597291
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ca4982f68fa8715370bc6e042a740750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1310585011,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1310585011,
+    "wof:lastmodified":1536802286,
+    "wof:name":"Seebeh",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02917,
+    4.99528,
+    -9.02917,
+    4.99528
+],
+  "geometry": {"coordinates":[-9.02917,4.99528],"type":"Point"}
+}

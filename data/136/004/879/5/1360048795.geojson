@@ -1,0 +1,67 @@
+{
+  "id": 1360048795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52142,5.87183,-9.52142,5.87183",
+    "geom:latitude":5.87183,
+    "geom:longitude":-9.52142,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nasiabli",
+    "gn:country_code":"LR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274807,
+    "gn:latitude":5.87183,
+    "gn:longitude":-9.52142,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nasiabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274807
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bb1ebfd26eb3aaae7074d0dd008cbfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1360048795,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1360048795,
+    "wof:lastmodified":1536997418,
+    "wof:name":"Nasiabli",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52142,
+    5.87183,
+    -9.52142,
+    5.87183
+],
+  "geometry": {"coordinates":[-9.52142,5.87183],"type":"Point"}
+}

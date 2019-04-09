@@ -1,0 +1,67 @@
+{
+  "id": 1193267891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6,7.45,-8.6,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":-8.6,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gbonbaye",
+    "gn:country_code":"LR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276952,
+    "gn:latitude":7.45,
+    "gn:longitude":-8.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gbonbaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276952
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"05546ef398dc90d71b0b29f89d14a30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1193267891,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1193267891,
+    "wof:lastmodified":1536373881,
+    "wof:name":"Gbonbaye",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6,
+    7.45,
+    -8.6,
+    7.45
+],
+  "geometry": {"coordinates":[-8.6,7.45],"type":"Point"}
+}

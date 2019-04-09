@@ -1,0 +1,72 @@
+{
+  "id": 1277155463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15,6.61667,-9.15,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":-9.15,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sandin",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274145,
+    "gn:latitude":6.61667,
+    "gn:longitude":-9.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sandin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saindih",
+        "Sandin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274145
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7215ab7988ed1f9da52a429f02a28e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694387,
+            "locality_id":1277155463,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1277155463,
+    "wof:lastmodified":1537661666,
+    "wof:name":"Sandin",
+    "wof:parent_id":1091694387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15,
+    6.61667,
+    -9.15,
+    6.61667
+],
+  "geometry": {"coordinates":[-9.15,6.61667],"type":"Point"}
+}

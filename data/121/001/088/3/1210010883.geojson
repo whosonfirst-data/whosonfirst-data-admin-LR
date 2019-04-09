@@ -1,0 +1,72 @@
+{
+  "id": 1210010883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92,6.34083,-8.92,6.34083",
+    "geom:latitude":6.34083,
+    "geom:longitude":-8.92,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kosia",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273889,
+    "gn:latitude":6.34083,
+    "gn:longitude":-8.92,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kosia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirun",
+        "Kosia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273889
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9c2cf4d1115876490359bf019ce00300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694333,
+            "locality_id":1210010883,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1210010883,
+    "wof:lastmodified":1537661657,
+    "wof:name":"Kosia",
+    "wof:parent_id":1091694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92,
+    6.34083,
+    -8.92,
+    6.34083
+],
+  "geometry": {"coordinates":[-8.92,6.34083],"type":"Point"}
+}

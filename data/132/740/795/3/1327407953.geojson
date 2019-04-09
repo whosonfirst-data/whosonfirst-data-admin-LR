@@ -1,0 +1,67 @@
+{
+  "id": 1327407953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.73994,6.95802,-10.73994,6.95802",
+    "geom:latitude":6.95802,
+    "geom:longitude":-10.73994,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gbarmambo",
+    "gn:country_code":"LR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9821266,
+    "gn:latitude":6.95802,
+    "gn:longitude":-10.73994,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Gbarmambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9821266
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8a57fd4279c84fee20147b6db86c9638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1327407953,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1327407953,
+    "wof:lastmodified":1536716462,
+    "wof:name":"Gbarmambo",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.73994,
+    6.95802,
+    -10.73994,
+    6.95802
+],
+  "geometry": {"coordinates":[-10.73994,6.95802],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243347319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70456,5.15677,-8.70456,5.15677",
+    "geom:latitude":5.15677,
+    "geom:longitude":-8.70456,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Geor",
+    "gn:country_code":"LR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870675,
+    "gn:latitude":5.15677,
+    "gn:longitude":-8.70456,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Geor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870675
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a81b83485481792fc697485eed324710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1243347319,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1243347319,
+    "wof:lastmodified":1536948827,
+    "wof:name":"Geor",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70456,
+    5.15677,
+    -8.70456,
+    5.15677
+],
+  "geometry": {"coordinates":[-8.70456,5.15677],"type":"Point"}
+}

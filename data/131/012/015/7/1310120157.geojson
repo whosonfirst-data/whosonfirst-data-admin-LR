@@ -1,0 +1,67 @@
+{
+  "id": 1310120157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32972,6.87028,-9.32972,6.87028",
+    "geom:latitude":6.87028,
+    "geom:longitude":-9.32972,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yaale",
+    "gn:country_code":"LR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272893,
+    "gn:latitude":6.87028,
+    "gn:longitude":-9.32972,
+    "gn:modification_date":"1995-12-19",
+    "gn:name":"Yaale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272893
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"050a8367d41e07f3ef584935f03f23b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1310120157,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1310120157,
+    "wof:lastmodified":1536974765,
+    "wof:name":"Yaale",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32972,
+    6.87028,
+    -9.32972,
+    6.87028
+],
+  "geometry": {"coordinates":[-9.32972,6.87028],"type":"Point"}
+}

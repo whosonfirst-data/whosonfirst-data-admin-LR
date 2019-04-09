@@ -1,0 +1,71 @@
+{
+  "id": 1209725153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32751,7.09011,-9.32751,7.09011",
+    "geom:latitude":7.09011,
+    "geom:longitude":-9.32751,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpotoa",
+    "gn:country_code":"LR",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275597,
+    "gn:latitude":7.09011,
+    "gn:longitude":-9.32751,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kpotoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpotota",
+        "Kpotoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275597
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"53f7ccf2c71b077c1e04cd5325944754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1209725153,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1209725153,
+    "wof:lastmodified":1537661706,
+    "wof:name":"Kpotoa",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32751,
+    7.09011,
+    -9.32751,
+    7.09011
+],
+  "geometry": {"coordinates":[-9.32751,7.09011],"type":"Point"}
+}

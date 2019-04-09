@@ -1,0 +1,75 @@
+{
+  "id": 1310657165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96472,5.18694,-7.96472,5.18694",
+    "geom:latitude":5.18694,
+    "geom:longitude":-7.96472,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Pronoken",
+    "gn:country_code":"LR",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274321,
+    "gn:latitude":5.18694,
+    "gn:longitude":-7.96472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pronoken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datoda",
+        "Prowrokehn",
+        "Filoke",
+        "Powrenken",
+        "Flewrokehn",
+        "Pronoken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274321
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5dc2b5622c8696e7a19452c38c78e84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1310657165,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1310657165,
+    "wof:lastmodified":1537661671,
+    "wof:name":"Pronoken",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96472,
+    5.18694,
+    -7.96472,
+    5.18694
+],
+  "geometry": {"coordinates":[-7.96472,5.18694],"type":"Point"}
+}

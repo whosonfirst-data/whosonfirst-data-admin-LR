@@ -1,0 +1,70 @@
+{
+  "id": 1276320695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06578,6.71671,-11.06578,6.71671",
+    "geom:latitude":6.71671,
+    "geom:longitude":-11.06578,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mandina",
+    "gn:country_code":"LR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275258,
+    "gn:latitude":6.71671,
+    "gn:longitude":-11.06578,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Mandina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275258
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8b88e1213d25759a05f4ac4b24909d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1276320695,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1276320695,
+    "wof:lastmodified":1537661695,
+    "wof:name":"Mandina",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06578,
+    6.71671,
+    -11.06578,
+    6.71671
+],
+  "geometry": {"coordinates":[-11.06578,6.71671],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242960485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.23333,6.9,-11.23333,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":-11.23333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nela",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274785,
+    "gn:latitude":6.9,
+    "gn:longitude":-11.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouolo",
+        "Nyiela",
+        "Nela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274785
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"21e850cc720b7d7b30ea34ebdc983799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1242960485,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1242960485,
+    "wof:lastmodified":1537661683,
+    "wof:name":"Nela",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.23333,
+    6.9,
+    -11.23333,
+    6.9
+],
+  "geometry": {"coordinates":[-11.23333,6.9],"type":"Point"}
+}

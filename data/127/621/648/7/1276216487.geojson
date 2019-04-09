@@ -1,0 +1,73 @@
+{
+  "id": 1276216487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86305,6.49442,-8.86305,6.49442",
+    "geom:latitude":6.49442,
+    "geom:longitude":-8.86305,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tappita City",
+    "gn:country_code":"LR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258046,
+    "gn:latitude":6.49442,
+    "gn:longitude":-8.86305,
+    "gn:modification_date":"2017-12-02",
+    "gn:name":"Tappita City",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tappita"
+    ],
+    "name:und_x_variant":[
+        "Tappita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258046
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"45c75fdd1cb54954ece10f9b91591f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694333,
+            "locality_id":1276216487,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1276216487,
+    "wof:lastmodified":1537661841,
+    "wof:name":"Tappita City",
+    "wof:parent_id":1091694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86305,
+    6.49442,
+    -8.86305,
+    6.49442
+],
+  "geometry": {"coordinates":[-8.86305,6.49442],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260057379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.96074,6.91411,-10.96074,6.91411",
+    "geom:latitude":6.91411,
+    "geom:longitude":-10.96074,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Thomas Town",
+    "gn:country_code":"LR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273623,
+    "gn:latitude":6.91411,
+    "gn:longitude":-10.96074,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Thomas Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273623
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9ac33facd463f74592d30c1076e7e821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1260057379,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1260057379,
+    "wof:lastmodified":1537024618,
+    "wof:name":"Thomas Town",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.96074,
+    6.91411,
+    -10.96074,
+    6.91411
+],
+  "geometry": {"coordinates":[-10.96074,6.91411],"type":"Point"}
+}

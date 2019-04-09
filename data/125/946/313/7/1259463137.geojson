@@ -1,0 +1,72 @@
+{
+  "id": 1259463137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.05,6.78333,-11.05,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":-11.05,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kuama Number One",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275566,
+    "gn:latitude":6.78333,
+    "gn:longitude":-11.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuama Number One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuama Number 1",
+        "Kuama Number One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275566
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f4e6afe2cdf65e9cc6fdf82fe6b5da0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1259463137,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1259463137,
+    "wof:lastmodified":1537661705,
+    "wof:name":"Kuama Number One",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.05,
+    6.78333,
+    -11.05,
+    6.78333
+],
+  "geometry": {"coordinates":[-11.05,6.78333],"type":"Point"}
+}

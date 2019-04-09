@@ -1,0 +1,67 @@
+{
+  "id": 1225828643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.65889,6.43639,-10.65889,6.43639",
+    "geom:latitude":6.43639,
+    "geom:longitude":-10.65889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Robertsville",
+    "gn:country_code":"LR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274274,
+    "gn:latitude":6.43639,
+    "gn:longitude":-10.65889,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Robertsville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274274
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b26f6c177cf3a736a8680ae48a9fb2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694045,
+            "locality_id":1225828643,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1225828643,
+    "wof:lastmodified":1537036771,
+    "wof:name":"Robertsville",
+    "wof:parent_id":1091694045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.65889,
+    6.43639,
+    -10.65889,
+    6.43639
+],
+  "geometry": {"coordinates":[-10.65889,6.43639],"type":"Point"}
+}

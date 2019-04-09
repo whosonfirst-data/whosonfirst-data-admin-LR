@@ -1,0 +1,67 @@
+{
+  "id": 1292907493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52528,6.475,-9.52528,6.475",
+    "geom:latitude":6.475,
+    "geom:longitude":-9.52528,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Apgaye Doabli",
+    "gn:country_code":"LR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279120,
+    "gn:latitude":6.475,
+    "gn:longitude":-9.52528,
+    "gn:modification_date":"1996-02-06",
+    "gn:name":"Apgaye Doabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279120
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"78288165520f67af4ff238fff89633bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1292907493,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1292907493,
+    "wof:lastmodified":1536627289,
+    "wof:name":"Apgaye Doabli",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52528,
+    6.475,
+    -9.52528,
+    6.475
+],
+  "geometry": {"coordinates":[-9.52528,6.475],"type":"Point"}
+}

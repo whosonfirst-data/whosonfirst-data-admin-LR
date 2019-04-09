@@ -1,0 +1,73 @@
+{
+  "id": 1360069167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48778,5.62639,-8.48778,5.62639",
+    "geom:latitude":5.62639,
+    "geom:longitude":-8.48778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kauti",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275486,
+    "gn:latitude":5.62639,
+    "gn:longitude":-8.48778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kauti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuati Town",
+        "Kweli Town",
+        "Kauti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275486
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1f943c7158a01969c8a14fa177213794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694579,
+            "locality_id":1360069167,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1360069167,
+    "wof:lastmodified":1537661703,
+    "wof:name":"Kauti",
+    "wof:parent_id":1091694579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48778,
+    5.62639,
+    -8.48778,
+    5.62639
+],
+  "geometry": {"coordinates":[-8.48778,5.62639],"type":"Point"}
+}

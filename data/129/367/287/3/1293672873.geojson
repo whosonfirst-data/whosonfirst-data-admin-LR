@@ -1,0 +1,67 @@
+{
+  "id": 1293672873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3875,5.2475,-9.3875,5.2475",
+    "geom:latitude":5.2475,
+    "geom:longitude":-9.3875,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kranbi",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275588,
+    "gn:latitude":5.2475,
+    "gn:longitude":-9.3875,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Kranbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275588
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1a32cc323b7071f3cdc8124908207130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1293672873,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1293672873,
+    "wof:lastmodified":1537016347,
+    "wof:name":"Kranbi",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3875,
+    5.2475,
+    -9.3875,
+    5.2475
+],
+  "geometry": {"coordinates":[-9.3875,5.2475],"type":"Point"}
+}

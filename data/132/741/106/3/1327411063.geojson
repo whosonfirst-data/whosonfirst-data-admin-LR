@@ -1,0 +1,67 @@
+{
+  "id": 1327411063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.95174,7.49781,-10.95174,7.49781",
+    "geom:latitude":7.49781,
+    "geom:longitude":-10.95174,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mola",
+    "gn:country_code":"LR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274936,
+    "gn:latitude":7.49781,
+    "gn:longitude":-10.95174,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Mola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mola Gonanala",
+        "Mola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274936
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7a9a3e9cbc567fcd7745ce600393b844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327411063,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327411063,
+    "wof:lastmodified":1537661688,
+    "wof:name":"Mola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.95174,
+    7.49781,
+    -10.95174,
+    7.49781
+],
+  "geometry": {"coordinates":[-10.95174,7.49781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226031109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73333,4.76667,-7.73333,4.76667",
+    "geom:latitude":4.76667,
+    "geom:longitude":-7.73333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wutuke (2)",
+    "gn:country_code":"LR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272898,
+    "gn:latitude":4.76667,
+    "gn:longitude":-7.73333,
+    "gn:modification_date":"1995-12-18",
+    "gn:name":"Wutuke (2)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272898
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a131b3e0deb270d06b13ea1c25e74400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1226031109,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1226031109,
+    "wof:lastmodified":1536746005,
+    "wof:name":"Wutuke (2)",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73333,
+    4.76667,
+    -7.73333,
+    4.76667
+],
+  "geometry": {"coordinates":[-7.73333,4.76667],"type":"Point"}
+}

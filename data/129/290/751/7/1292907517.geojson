@@ -1,0 +1,70 @@
+{
+  "id": 1292907517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.27947,7.29919,-9.27947,7.29919",
+    "geom:latitude":7.29919,
+    "geom:longitude":-9.27947,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Panta",
+    "gn:country_code":"LR",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869501,
+    "gn:latitude":7.29919,
+    "gn:longitude":-9.27947,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Panta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Panta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869501
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"226db7aeccd372ec10d318975e057e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1292907517,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1292907517,
+    "wof:lastmodified":1537661829,
+    "wof:name":"Panta",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27947,
+    7.29919,
+    -9.27947,
+    7.29919
+],
+  "geometry": {"coordinates":[-9.27947,7.29919],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343439943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.83351,6.42658,-10.83351,6.42658",
+    "geom:latitude":6.42658,
+    "geom:longitude":-10.83351,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yatono",
+    "gn:country_code":"LR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272807,
+    "gn:latitude":6.42658,
+    "gn:longitude":-10.83351,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yatono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272807
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f976da780fcde7443a358488fdbbd4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1343439943,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343439943,
+    "wof:lastmodified":1536776495,
+    "wof:name":"Yatono",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.83351,
+    6.42658,
+    -10.83351,
+    6.42658
+],
+  "geometry": {"coordinates":[-10.83351,6.42658],"type":"Point"}
+}

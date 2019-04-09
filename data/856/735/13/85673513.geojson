@@ -1,0 +1,299 @@
+{
+  "id": 85673513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.307891,
+    "geom:area_square_m":3793784726.017619,
+    "geom:bbox":"-8.723857,4.442457,-7.794002,5.1102",
+    "geom:latitude":4.797681,
+    "geom:longitude":-8.244573,
+    "gn:population":57106,
+    "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Grand Kru County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":4.800051,
+    "lbl:longitude":-8.276207,
+    "mps:latitude":4.860569,
+    "mps:longitude":-8.313796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u063a\u0631\u0627\u0646\u062f \u0643\u0631\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u0533\u0580\u0561\u0576\u0564 \u053f\u0580\u0578\u0582 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
+    ],
+    "name:baq_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434-\u041a\u0440\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09cd\u09b0\u09c1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    ],
+    "name:bre_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434 \u041a\u0440\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u514b\u9c81\u53bf"
+    ],
+    "name:dan_x_preferred":[
+        "Grand Kru County"
+    ],
+    "name:dut_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:eng_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:fin_x_preferred":[
+        "Grand Krun kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Comt\u00e9 de Grand Kru"
+    ],
+    "name:ger_x_preferred":[
+        "Grand Kru County"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u039a\u03c1\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1 \u0a95\u0acd\u0ab0\u0ac1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0930\u0948\u0902\u0921 \u0915\u094d\u0930\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Grand Kru County"
+    ],
+    "name:ita_x_preferred":[
+        "contea di Grand Kru"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30c9\u30af\u30eb\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0c95\u0ccd\u0cb0\u0cc1 \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub79c\ub4dc\ud06c\ub8e8 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Grandkru gr\u0101fiste"
+    ],
+    "name:lit_x_preferred":[
+        "Grand Kru apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u0930\u0901\u0921 \u0915\u094d\u0930\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Grand Kru County"
+    ],
+    "name:nob_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:pol_x_preferred":[
+        "Hrabstwo Grand Kru"
+    ],
+    "name:por_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434-\u041a\u0440\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0da9\u0dca \u0d9a\u0dd8 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Grand Kru"
+    ],
+    "name:swe_x_preferred":[
+        "Grand Kru County"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0b95\u0bcd\u0bb0\u0bc2 \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c4d\u0c30\u0c42 \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e41\u0e01\u0e23\u0e19\u0e14\u0e4c\u0e04\u0e23\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Grand Kru County"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434-\u041a\u0440\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Grand Kru County"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0631\u06cc\u0646\u0688 \u06a9\u0631\u0648 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Grand Kru"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LBR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LBR-780",
+    "ne:adm1_code":"LBR-780",
+    "ne:admin":"Liberia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LR.GK",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"780",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LI16",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Liberia",
+    "ne:gn_a1_code":"LR.16",
+    "ne:gn_id":"2588490",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Grand Kru County",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LI16",
+    "ne:gns_id":"292621",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Grand Kru",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LBR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LR-",
+    "ne:iso_a2":"LR",
+    "ne:labelrank":"7",
+    "ne:latitude":"4.87073000000",
+    "ne:longitude":"-8.25622000000",
+    "ne:mapcolor13":9,
+    "ne:mapcolor9":4,
+    "ne:name":"Grand Kru",
+    "ne:name_alt":"Grand Kru",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GK",
+    "ne:provnum_ne":"5",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"LBR",
+    "ne:sub_code":"",
+    "ne:type":"County",
+    "ne:type_en":"County",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346110,
+    "ne:woe_label":"",
+    "ne:woe_name":"Grand Kru",
+    "qs:a0":"Liberia",
+    "qs:a0_lc":"LR",
+    "qs:a1":"Grand Kru",
+    "qs:a1_lc":"LBR-780",
+    "qs:adm0":"Liberia",
+    "qs:adm0_a3":"LBR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"County",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-03-21",
+    "statoids:area_km":"2,299",
+    "statoids:area_mi":"888",
+    "statoids:as_of_date":"2008-03-21",
+    "statoids:capital":"Barclayville",
+    "statoids:country":"LR",
+    "statoids:gec":"LI16",
+    "statoids:hasc":"LR.GK",
+    "statoids:iso":"GK",
+    "statoids:name":"Grand Kru",
+    "statoids:population":"57106",
+    "statoids:timezone":"+0",
+    "statoids:type":"county",
+    "unlc:subdivision":"LR-GK",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LI16",
+        "gn:id":2588490,
+        "gp:id":2346110,
+        "hasc:id":"LR.GK",
+        "iso:id":"LR-GK",
+        "qs:id":242446,
+        "unlc:id":"LR-GK",
+        "wd:id":"Q574952",
+        "wk:page":"Grand Kru County"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"88cc441a48580945903a627cfe4011c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":85673513,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550400,
+    "wof:name":"Grand Kru",
+    "wof:parent_id":85632249,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":57106,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:shortcode":"GK",
+    "wof:subdivision":"LR-GK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.723857,
+    4.442457,
+    -7.794002,
+    5.1102
+],
+  "geometry": {"coordinates":[[[-8.433518,5.1054],[-8.428135,5.091388],[-8.405751,5.085437],[-8.378059,5.078574],[-8.356594,5.071],[-8.335591,5.064349],[-8.318503,5.056067],[-8.300938,5.042003],[-8.281026,5.014528],[-8.267338,4.986805],[-8.253928,4.974117],[-8.252301,4.969727],[-8.251953,4.966006],[-8.246992,4.967427],[-8.243309,4.969287],[-8.236876,4.976706],[-8.226758,4.984598],[-8.218732,4.998498],[-8.212305,5.007998],[-8.210959,5.02003],[-8.20336,5.023288],[-8.199004,5.031164],[-8.198333,5.038336],[-8.185947,5.060111],[-8.177209,5.067304],[-8.169381,5.071024],[-8.154172,5.073375],[-8.144719,5.073398],[-8.117743,5.072537],[-8.116798,5.072576],[-8.099763,5.073274],[-8.085794,5.074049],[-8.067027,5.074275],[-8.053189,5.072918],[-8.039811,5.070173],[-8.032883,5.066025],[-8.026189,5.062802],[-8.0218,5.059342],[-8.017196,5.061897],[-8.010055,5.064457],[-8.029281,5.042632],[-8.047921,5.028098],[-8.043058,5.00872],[-8.044679,4.963504],[-8.06494,4.935243],[-8.086011,4.903754],[-8.099788,4.873071],[-8.107082,4.848848],[-8.100599,4.823818],[-8.081148,4.821395],[-8.06575,4.815743],[-8.054404,4.810091],[-8.047111,4.798787],[-8.040627,4.788291],[-8.035765,4.778601],[-8.030902,4.764068],[-8.030902,4.755993],[-8.021987,4.753571],[-8.0074,4.753571],[-7.974172,4.753571],[-7.957964,4.753571],[-7.944997,4.752764],[-7.924736,4.751149],[-7.906097,4.755186],[-7.883405,4.756801],[-7.871248,4.757608],[-7.857471,4.764068],[-7.854185,4.751362],[-7.852956,4.744669],[-7.849477,4.735655],[-7.842075,4.724568],[-7.832582,4.706547],[-7.829323,4.693139],[-7.826535,4.683892],[-7.819362,4.672111],[-7.811506,4.662413],[-7.812856,4.649688],[-7.818587,4.638343],[-7.82017,4.626775],[-7.813471,4.61985],[-7.805389,4.612234],[-7.797309,4.605312],[-7.798207,4.595827],[-7.800704,4.581482],[-7.804126,4.568522],[-7.806854,4.554175],[-7.804059,4.541923],[-7.801024,4.526201],[-7.796146,4.510252],[-7.794266,4.495684],[-7.794002,4.482501],[-7.794823,4.480189],[-7.80132,4.4619],[-7.811887,4.451006],[-7.81763,4.445674],[-7.819164,4.442457],[-7.823926,4.451225],[-7.826893,4.453542],[-7.842424,4.463754],[-7.887498,4.479889],[-7.897805,4.48179],[-7.909462,4.488067],[-7.920463,4.489051],[-7.923889,4.491371],[-7.932593,4.492802],[-7.937133,4.500648],[-7.941924,4.504815],[-7.957705,4.511806],[-7.983809,4.518166],[-8.006239,4.525424],[-8.042212,4.53023],[-8.051586,4.535113],[-8.063516,4.534261],[-8.081823,4.540574],[-8.127168,4.551178],[-8.191798,4.557746],[-8.20012,4.559805],[-8.217445,4.564096],[-8.230032,4.568995],[-8.244678,4.574364],[-8.26615,4.589659],[-8.282612,4.598947],[-8.297895,4.613977],[-8.314337,4.626944],[-8.322339,4.631587],[-8.377534,4.647842],[-8.409808,4.657347],[-8.440235,4.671764],[-8.447087,4.677319],[-8.453008,4.685398],[-8.463067,4.691429],[-8.470585,4.701357],[-8.480858,4.710608],[-8.500529,4.720828],[-8.507381,4.726382],[-8.544208,4.75026],[-8.554956,4.752151],[-8.564556,4.758869],[-8.572118,4.760286],[-8.580807,4.765619],[-8.589281,4.768192],[-8.612378,4.781875],[-8.639392,4.792357],[-8.6591,4.796365],[-8.677637,4.804965],[-8.682447,4.806138],[-8.693696,4.804353],[-8.714071,4.812502],[-8.719095,4.817125],[-8.723857,4.828416],[-8.71677,4.834404],[-8.708534,4.850856],[-8.696382,4.867553],[-8.6854,4.889798],[-8.684321,4.909697],[-8.688285,4.921714],[-8.686491,4.935138],[-8.677054,4.939101],[-8.66276,4.938685],[-8.646611,4.935498],[-8.632094,4.937395],[-8.61967,4.943681],[-8.615338,4.957112],[-8.617223,4.967979],[-8.616347,4.980937],[-8.610427,5.001314],[-8.600333,5.015688],[-8.588615,5.026598],[-8.582196,5.037028],[-8.575307,5.044452],[-8.563325,5.04634],[-8.54858,5.049624],[-8.532697,5.057075],[-8.521664,5.066824],[-8.511352,5.085362],[-8.502167,5.096262],[-8.491589,5.105084],[-8.482384,5.1102],[-8.47477,5.108604],[-8.461152,5.104478],[-8.453079,5.103808],[-8.447781,5.105443],[-8.439711,5.105235],[-8.433518,5.1054]]],"type":"Polygon"}
+}

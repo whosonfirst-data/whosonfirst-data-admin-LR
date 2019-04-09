@@ -1,0 +1,70 @@
+{
+  "id": 1209592879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.20848,6.67729,-11.20848,6.67729",
+    "geom:latitude":6.67729,
+    "geom:longitude":-11.20848,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Falie",
+    "gn:country_code":"LR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277453,
+    "gn:latitude":6.67729,
+    "gn:longitude":-11.20848,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Falie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fahi",
+        "Falih",
+        "Faliah",
+        "Fahia",
+        "Fari",
+        "Fali",
+        "Falie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277453
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b809226a3308566a1619fb18a91f5a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209592879
+        }
+    ],
+    "wof:id":1209592879,
+    "wof:lastmodified":1537661773,
+    "wof:name":"Falie",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.20848,
+    6.67729,
+    -11.20848,
+    6.67729
+],
+  "geometry": {"coordinates":[-11.20848,6.67729],"type":"Point"}
+}

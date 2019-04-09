@@ -1,0 +1,72 @@
+{
+  "id": 1242764807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.41341,6.97283,-11.41341,6.97283",
+    "geom:latitude":6.97283,
+    "geom:longitude":-11.41341,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lumbakai",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275288,
+    "gn:latitude":6.97283,
+    "gn:longitude":-11.41341,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Lumbakai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumboko",
+        "Lumbakae",
+        "Lumbakai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275288
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"979d75dfa04dbfd5990ffb67e0e2acee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1242764807,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1242764807,
+    "wof:lastmodified":1537661697,
+    "wof:name":"Lumbakai",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.41341,
+    6.97283,
+    -11.41341,
+    6.97283
+],
+  "geometry": {"coordinates":[-11.41341,6.97283],"type":"Point"}
+}

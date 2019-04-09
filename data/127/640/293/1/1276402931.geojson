@@ -1,0 +1,70 @@
+{
+  "id": 1276402931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.35512,6.68355,-10.35512,6.68355",
+    "geom:latitude":6.68355,
+    "geom:longitude":-10.35512,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Numata",
+    "gn:country_code":"LR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274615,
+    "gn:latitude":6.68355,
+    "gn:longitude":-10.35512,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Numata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Numata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274615
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"30b67b67aefe7ab12729140078546106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693791,
+            "locality_id":1276402931,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1276402931,
+    "wof:lastmodified":1537661679,
+    "wof:name":"Numata",
+    "wof:parent_id":1091693791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.35512,
+    6.68355,
+    -10.35512,
+    6.68355
+],
+  "geometry": {"coordinates":[-10.35512,6.68355],"type":"Point"}
+}

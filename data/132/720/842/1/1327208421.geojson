@@ -1,0 +1,75 @@
+{
+  "id": 1327208421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90861,8.21194,-9.90861,8.21194",
+    "geom:latitude":8.21194,
+    "geom:longitude":-9.90861,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kpademai",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272484,
+    "gn:latitude":8.21194,
+    "gn:longitude":-9.90861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kpademai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandamai",
+        "Kpandemai",
+        "Pandemai",
+        "Pamdem\u00e9",
+        "Kpademai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272484
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"85d36e45b22e216cdd18f3ab43906167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1327208421,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1327208421,
+    "wof:lastmodified":1537661611,
+    "wof:name":"Kpademai",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90861,
+    8.21194,
+    -9.90861,
+    8.21194
+],
+  "geometry": {"coordinates":[-9.90861,8.21194],"type":"Point"}
+}

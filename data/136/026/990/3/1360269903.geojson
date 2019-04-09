@@ -1,0 +1,67 @@
+{
+  "id": 1360269903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78649,6.78557,-8.78649,6.78557",
+    "geom:latitude":6.78557,
+    "geom:longitude":-8.78649,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Borpea",
+    "gn:country_code":"LR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10232964,
+    "gn:latitude":6.78557,
+    "gn:longitude":-8.78649,
+    "gn:modification_date":"2015-04-23",
+    "gn:name":"Borpea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10232964
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f3cbf0bfeba19c94be49ec4f75eeb2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1360269903,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1360269903,
+    "wof:lastmodified":1536679048,
+    "wof:name":"Borpea",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78649,
+    6.78557,
+    -8.78649,
+    6.78557
+],
+  "geometry": {"coordinates":[-8.78649,6.78557],"type":"Point"}
+}

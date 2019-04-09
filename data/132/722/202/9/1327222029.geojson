@@ -1,0 +1,67 @@
+{
+  "id": 1327222029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28196,6.57378,-9.28196,6.57378",
+    "geom:latitude":6.57378,
+    "geom:longitude":-9.28196,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Charlie Town",
+    "gn:country_code":"LR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818336,
+    "gn:latitude":6.57378,
+    "gn:longitude":-9.28196,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Charlie Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818336
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"67e1d00a0ef4e252003b7028f8fc4292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1327222029,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327222029,
+    "wof:lastmodified":1536983836,
+    "wof:name":"Charlie Town",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28196,
+    6.57378,
+    -9.28196,
+    6.57378
+],
+  "geometry": {"coordinates":[-9.28196,6.57378],"type":"Point"}
+}

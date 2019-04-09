@@ -1,0 +1,73 @@
+{
+  "id": 1226518517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.38086,6.19819,-10.38086,6.19819",
+    "geom:latitude":6.19819,
+    "geom:longitude":-10.38086,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Charlesville",
+    "gn:country_code":"LR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278039,
+    "gn:latitude":6.19819,
+    "gn:longitude":-10.38086,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Charlesville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Charlesville"
+    ],
+    "name:eng_x_variant":[
+        "Charlesville (4)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278039
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"17f1e8a73fb80fa4ce25d433e77db2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1226518517,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1226518517,
+    "wof:lastmodified":1537661790,
+    "wof:name":"Charlesville",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.38086,
+    6.19819,
+    -10.38086,
+    6.19819
+],
+  "geometry": {"coordinates":[-10.38086,6.19819],"type":"Point"}
+}

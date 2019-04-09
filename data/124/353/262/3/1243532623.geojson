@@ -1,0 +1,67 @@
+{
+  "id": 1243532623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75,6.2,-9.75,6.2",
+    "geom:latitude":6.2,
+    "geom:longitude":-9.75,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Saturdaygua",
+    "gn:country_code":"LR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274094,
+    "gn:latitude":6.2,
+    "gn:longitude":-9.75,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Saturdaygua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274094
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"684aa60028239c3850e3c559c19efd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1243532623,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1243532623,
+    "wof:lastmodified":1536681349,
+    "wof:name":"Saturdaygua",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75,
+    6.2,
+    -9.75,
+    6.2
+],
+  "geometry": {"coordinates":[-9.75,6.2],"type":"Point"}
+}

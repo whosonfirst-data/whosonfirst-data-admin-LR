@@ -1,0 +1,70 @@
+{
+  "id": 1343570761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34497,7.26235,-9.34497,7.26235",
+    "geom:latitude":7.26235,
+    "geom:longitude":-9.34497,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Camp Jackson",
+    "gn:country_code":"LR",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278084,
+    "gn:latitude":7.26235,
+    "gn:longitude":-9.34497,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Camp Jackson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Camp Jackson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278084
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6f462d31127e6c44379ae5ca47c8fb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1343570761,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343570761,
+    "wof:lastmodified":1537661791,
+    "wof:name":"Camp Jackson",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34497,
+    7.26235,
+    -9.34497,
+    7.26235
+],
+  "geometry": {"coordinates":[-9.34497,7.26235],"type":"Point"}
+}

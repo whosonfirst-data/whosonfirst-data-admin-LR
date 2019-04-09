@@ -1,0 +1,67 @@
+{
+  "id": 1277057431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8172,6.08674,-9.8172,6.08674",
+    "geom:latitude":6.08674,
+    "geom:longitude":-9.8172,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tokoe",
+    "gn:country_code":"LR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818140,
+    "gn:latitude":6.08674,
+    "gn:longitude":-9.8172,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Tokoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818140
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1c034e099decd44447191a89fbeafa9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1277057431,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1277057431,
+    "wof:lastmodified":1536802963,
+    "wof:name":"Tokoe",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8172,
+    6.08674,
+    -9.8172,
+    6.08674
+],
+  "geometry": {"coordinates":[-9.8172,6.08674],"type":"Point"}
+}

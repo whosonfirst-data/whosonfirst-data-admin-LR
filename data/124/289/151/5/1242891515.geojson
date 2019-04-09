@@ -1,0 +1,74 @@
+{
+  "id": 1242891515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2221,6.95362,-9.2221,6.95362",
+    "geom:latitude":6.95362,
+    "geom:longitude":-9.2221,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lawor's Town",
+    "gn:country_code":"LR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571763,
+    "gn:latitude":6.95362,
+    "gn:longitude":-9.2221,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Lawor\u2019s Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lawor\u2019s Town"
+    ],
+    "name:und_x_variant":[
+        "Larwolota",
+        "Lawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571763
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"49981e1a41fec2683528325430bfc5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1242891515,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1242891515,
+    "wof:lastmodified":1537661825,
+    "wof:name":"Lawor's Town",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2221,
+    6.95362,
+    -9.2221,
+    6.95362
+],
+  "geometry": {"coordinates":[-9.2221,6.95362],"type":"Point"}
+}

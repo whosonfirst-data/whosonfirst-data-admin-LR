@@ -1,0 +1,66 @@
+{
+  "id": 1209200917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82971,4.82476,-7.82971,4.82476",
+    "geom:latitude":4.82476,
+    "geom:longitude":-7.82971,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chalke",
+    "gn:country_code":"LR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277047,
+    "gn:latitude":4.82476,
+    "gn:longitude":-7.82971,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Chalke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbawake",
+        "Gbalake",
+        "Chalke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277047
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ec5a6aa3f0945010138ed6466b8eaba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209200917
+        }
+    ],
+    "wof:id":1209200917,
+    "wof:lastmodified":1537661758,
+    "wof:name":"Chalke",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82971,
+    4.82476,
+    -7.82971,
+    4.82476
+],
+  "geometry": {"coordinates":[-7.82971,4.82476],"type":"Point"}
+}

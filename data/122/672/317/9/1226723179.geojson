@@ -1,0 +1,67 @@
+{
+  "id": 1226723179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.79154,6.83541,-10.79154,6.83541",
+    "geom:latitude":6.83541,
+    "geom:longitude":-10.79154,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bonja",
+    "gn:country_code":"LR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278270,
+    "gn:latitude":6.83541,
+    "gn:longitude":-10.79154,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bonja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278270
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"33dc5828fb7e772bda86d741dc2d1edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1226723179,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1226723179,
+    "wof:lastmodified":1536747936,
+    "wof:name":"Bonja",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.79154,
+    6.83541,
+    -10.79154,
+    6.83541
+],
+  "geometry": {"coordinates":[-10.79154,6.83541],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293349391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3975,7.05417,-10.3975,7.05417",
+    "geom:latitude":7.05417,
+    "geom:longitude":-10.3975,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Totoquelle",
+    "gn:country_code":"LR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273471,
+    "gn:latitude":7.05417,
+    "gn:longitude":-10.3975,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Totoquelle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Totokole",
+        "Totakwelle",
+        "Totokwele",
+        "Totoquelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273471
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5e1f36a0cb696f65c2abfc78ff0fab91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693577,
+            "locality_id":1293349391,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1293349391,
+    "wof:lastmodified":1537661645,
+    "wof:name":"Totoquelle",
+    "wof:parent_id":1091693577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3975,
+    7.05417,
+    -10.3975,
+    7.05417
+],
+  "geometry": {"coordinates":[-10.3975,7.05417],"type":"Point"}
+}

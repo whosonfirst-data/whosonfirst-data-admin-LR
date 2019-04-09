@@ -1,0 +1,67 @@
+{
+  "id": 1225829027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54181,5.03938,-8.54181,5.03938",
+    "geom:latitude":5.03938,
+    "geom:longitude":-8.54181,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Meninli",
+    "gn:country_code":"LR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274992,
+    "gn:latitude":5.03938,
+    "gn:longitude":-8.54181,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Meninli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274992
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"73e3294d9ed83087222f5ffd0ca3138b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693179,
+            "locality_id":1225829027,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1225829027,
+    "wof:lastmodified":1537036236,
+    "wof:name":"Meninli",
+    "wof:parent_id":1091693179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54181,
+    5.03938,
+    -8.54181,
+    5.03938
+],
+  "geometry": {"coordinates":[-8.54181,5.03938],"type":"Point"}
+}

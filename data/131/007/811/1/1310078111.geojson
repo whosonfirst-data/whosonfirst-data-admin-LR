@@ -1,0 +1,67 @@
+{
+  "id": 1310078111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25949,4.89156,-8.25949,4.89156",
+    "geom:latitude":4.89156,
+    "geom:longitude":-8.25949,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Satekehn",
+    "gn:country_code":"LR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274097,
+    "gn:latitude":4.89156,
+    "gn:longitude":-8.25949,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Satekehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274097
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9636d1353903fac10941a6b33b1c4fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693229,
+            "locality_id":1310078111,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1310078111,
+    "wof:lastmodified":1537034613,
+    "wof:name":"Satekehn",
+    "wof:parent_id":1091693229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25949,
+    4.89156,
+    -8.25949,
+    4.89156
+],
+  "geometry": {"coordinates":[-8.25949,4.89156],"type":"Point"}
+}

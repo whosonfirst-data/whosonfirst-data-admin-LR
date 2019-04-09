@@ -1,0 +1,67 @@
+{
+  "id": 1226326247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59395,5.21629,-8.59395,5.21629",
+    "geom:latitude":5.21629,
+    "geom:longitude":-8.59395,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Truwon",
+    "gn:country_code":"LR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870664,
+    "gn:latitude":5.21629,
+    "gn:longitude":-8.59395,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Truwon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870664
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6d22cd3f6c1b0a014ae50572267b9ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1226326247,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1226326247,
+    "wof:lastmodified":1536816835,
+    "wof:name":"Truwon",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59395,
+    5.21629,
+    -8.59395,
+    5.21629
+],
+  "geometry": {"coordinates":[-8.59395,5.21629],"type":"Point"}
+}

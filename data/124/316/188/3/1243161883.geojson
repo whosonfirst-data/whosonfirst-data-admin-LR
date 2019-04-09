@@ -1,0 +1,73 @@
+{
+  "id": 1243161883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81556,6.85944,-8.81556,6.85944",
+    "geom:latitude":6.85944,
+    "geom:longitude":-8.81556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Wati",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276585,
+    "gn:latitude":6.85944,
+    "gn:longitude":-8.81556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanti",
+        "Gounti",
+        "Wati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276585
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2405da8459f28892d980f05a25b57bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1243161883,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1243161883,
+    "wof:lastmodified":1537661740,
+    "wof:name":"Wati",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81556,
+    6.85944,
+    -8.81556,
+    6.85944
+],
+  "geometry": {"coordinates":[-8.81556,6.85944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327002491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18445,5.07838,-8.18445,5.07838",
+    "geom:latitude":5.07838,
+    "geom:longitude":-8.18445,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gbakehn",
+    "gn:country_code":"LR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277115,
+    "gn:latitude":5.07838,
+    "gn:longitude":-8.18445,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gbakehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277115
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0b04e5bff25acf18f58d5cf3207d8fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1327002491,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1327002491,
+    "wof:lastmodified":1536803640,
+    "wof:name":"Gbakehn",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18445,
+    5.07838,
+    -8.18445,
+    5.07838
+],
+  "geometry": {"coordinates":[-8.18445,5.07838],"type":"Point"}
+}

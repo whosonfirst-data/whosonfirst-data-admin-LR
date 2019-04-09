@@ -1,0 +1,70 @@
+{
+  "id": 1309821251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15639,6.77833,-9.15639,6.77833",
+    "geom:latitude":6.77833,
+    "geom:longitude":-9.15639,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuikoblita",
+    "gn:country_code":"LR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275534,
+    "gn:latitude":6.77833,
+    "gn:longitude":-9.15639,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kuikoblita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuikoblita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275534
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"57ecdce17b54aecf3ee9e0213110d570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1309821251,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1309821251,
+    "wof:lastmodified":1537661704,
+    "wof:name":"Kuikoblita",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15639,
+    6.77833,
+    -9.15639,
+    6.77833
+],
+  "geometry": {"coordinates":[-9.15639,6.77833],"type":"Point"}
+}

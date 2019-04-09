@@ -1,0 +1,67 @@
+{
+  "id": 1310186213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.29501,6.26852,-10.29501,6.26852",
+    "geom:latitude":6.26852,
+    "geom:longitude":-10.29501,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kongba",
+    "gn:country_code":"LR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275752,
+    "gn:latitude":6.26852,
+    "gn:longitude":-10.29501,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Kongba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275752
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5d286d1bb1983327045358e0c246f73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692709,
+            "locality_id":1310186213,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1310186213,
+    "wof:lastmodified":1536879378,
+    "wof:name":"Kongba",
+    "wof:parent_id":1091692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.29501,
+    6.26852,
+    -10.29501,
+    6.26852
+],
+  "geometry": {"coordinates":[-10.29501,6.26852],"type":"Point"}
+}

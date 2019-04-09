@@ -1,0 +1,67 @@
+{
+  "id": 1310293331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.92566,5.96865,-9.92566,5.96865",
+    "geom:latitude":5.96865,
+    "geom:longitude":-9.92566,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bokobli",
+    "gn:country_code":"LR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278381,
+    "gn:latitude":5.96865,
+    "gn:longitude":-9.92566,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bokobli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278381
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"83218c5f7fb9259ce2a0dde39981122c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1310293331,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1310293331,
+    "wof:lastmodified":1536725886,
+    "wof:name":"Bokobli",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.92566,
+    5.96865,
+    -9.92566,
+    5.96865
+],
+  "geometry": {"coordinates":[-9.92566,5.96865],"type":"Point"}
+}

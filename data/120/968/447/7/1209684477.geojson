@@ -1,0 +1,61 @@
+{
+  "id": 1209684477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69448,4.99945,-7.69448,4.99945",
+    "geom:latitude":4.99945,
+    "geom:longitude":-7.69448,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tumake",
+    "gn:country_code":"LR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273414,
+    "gn:latitude":4.99945,
+    "gn:longitude":-7.69448,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tumake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273414
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"59b2f6f233a30bc6bb745050096399d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209684477
+        }
+    ],
+    "wof:id":1209684477,
+    "wof:lastmodified":1536279460,
+    "wof:name":"Tumake",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69448,
+    4.99945,
+    -7.69448,
+    4.99945
+],
+  "geometry": {"coordinates":[-7.69448,4.99945],"type":"Point"}
+}

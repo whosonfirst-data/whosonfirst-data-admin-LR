@@ -1,0 +1,73 @@
+{
+  "id": 1259400477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23173,7.35767,-9.23173,7.35767",
+    "geom:latitude":7.35767,
+    "geom:longitude":-9.23173,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jorwah",
+    "gn:country_code":"LR",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276172,
+    "gn:latitude":7.35767,
+    "gn:longitude":-9.23173,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Jorwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jorwah"
+    ],
+    "name:und_x_variant":[
+        "Jowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276172
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"eccbe221305ef5bd9986340eea64b151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1259400477,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259400477,
+    "wof:lastmodified":1537661727,
+    "wof:name":"Jorwah",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23173,
+    7.35767,
+    -9.23173,
+    7.35767
+],
+  "geometry": {"coordinates":[-9.23173,7.35767],"type":"Point"}
+}

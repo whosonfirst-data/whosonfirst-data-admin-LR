@@ -1,0 +1,72 @@
+{
+  "id": 1326813233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.60964,6.79417,-10.60964,6.79417",
+    "geom:latitude":6.79417,
+    "geom:longitude":-10.60964,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Big Geveh",
+    "gn:country_code":"LR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276921,
+    "gn:latitude":6.79417,
+    "gn:longitude":-10.60964,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Big Geveh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbruceway",
+        "Baloma",
+        "Big Geveh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276921
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"54f5f3a07299691afc225e278924228f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692381,
+            "locality_id":1326813233,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1326813233,
+    "wof:lastmodified":1537661752,
+    "wof:name":"Big Geveh",
+    "wof:parent_id":1091692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.60964,
+    6.79417,
+    -10.60964,
+    6.79417
+],
+  "geometry": {"coordinates":[-10.60964,6.79417],"type":"Point"}
+}

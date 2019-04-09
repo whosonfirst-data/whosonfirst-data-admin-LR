@@ -1,0 +1,74 @@
+{
+  "id": 1326513983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88679,4.99853,-8.88679,4.99853",
+    "geom:latitude":4.99853,
+    "geom:longitude":-8.88679,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tubmanville",
+    "gn:country_code":"LR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273431,
+    "gn:latitude":4.99853,
+    "gn:longitude":-8.88679,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tubmanville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buokrbh",
+        "Tubmanville",
+        "Buokra",
+        "Brubaka",
+        "Bana Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273431
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c814a918402e4938d34e403959cf8b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694701,
+            "locality_id":1326513983,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1326513983,
+    "wof:lastmodified":1537661644,
+    "wof:name":"Tubmanville",
+    "wof:parent_id":1091694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88679,
+    4.99853,
+    -8.88679,
+    4.99853
+],
+  "geometry": {"coordinates":[-8.88679,4.99853],"type":"Point"}
+}

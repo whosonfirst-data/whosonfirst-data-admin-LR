@@ -1,0 +1,67 @@
+{
+  "id": 1310067481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.94278,8.47694,-9.94278,8.47694",
+    "geom:latitude":8.47694,
+    "geom:longitude":-9.94278,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tobogizizu",
+    "gn:country_code":"LR",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273553,
+    "gn:latitude":8.47694,
+    "gn:longitude":-9.94278,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Tobogizizu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273553
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fb2190e95f2cb83d4c904d2b5bd7bb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1310067481,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1310067481,
+    "wof:lastmodified":1537049416,
+    "wof:name":"Tobogizizu",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.94278,
+    8.47694,
+    -9.94278,
+    8.47694
+],
+  "geometry": {"coordinates":[-9.94278,8.47694],"type":"Point"}
+}

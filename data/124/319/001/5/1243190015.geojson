@@ -1,0 +1,76 @@
+{
+  "id": 1243190015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33027,6.82602,-9.33027,6.82602",
+    "geom:latitude":6.82602,
+    "geom:longitude":-9.33027,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wensue",
+    "gn:country_code":"LR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273816,
+    "gn:latitude":6.82602,
+    "gn:longitude":-9.33027,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wensue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wensue"
+    ],
+    "name:eng_x_variant":[
+        "Wenshue"
+    ],
+    "name:und_x_variant":[
+        "Sonzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273816
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f1ccda789db2fafa6d797958eb78a4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1243190015,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1243190015,
+    "wof:lastmodified":1537661656,
+    "wof:name":"Wensue",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33027,
+    6.82602,
+    -9.33027,
+    6.82602
+],
+  "geometry": {"coordinates":[-9.33027,6.82602],"type":"Point"}
+}

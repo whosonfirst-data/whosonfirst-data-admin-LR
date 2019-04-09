@@ -1,0 +1,75 @@
+{
+  "id": 1360269111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.72733,4.83117,-8.72733,4.83117",
+    "geom:latitude":4.83117,
+    "geom:longitude":-8.72733,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nanakru",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274817,
+    "gn:latitude":4.83117,
+    "gn:longitude":-8.72733,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nanakru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Great Nanakru",
+        "Nankano",
+        "Great Nanna Kru",
+        "Bendo",
+        "Nanakru",
+        "Nana Kru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274817
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9aa4aea6a72ac383042780876bd5aeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694661,
+            "locality_id":1360269111,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1360269111,
+    "wof:lastmodified":1537661684,
+    "wof:name":"Nanakru",
+    "wof:parent_id":1091694661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.72733,
+    4.83117,
+    -8.72733,
+    4.83117
+],
+  "geometry": {"coordinates":[-8.72733,4.83117],"type":"Point"}
+}

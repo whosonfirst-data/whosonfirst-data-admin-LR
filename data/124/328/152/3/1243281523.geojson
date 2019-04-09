@@ -1,0 +1,70 @@
+{
+  "id": 1243281523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51101,6.50809,-9.51101,6.50809",
+    "geom:latitude":6.50809,
+    "geom:longitude":-9.51101,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dowaeta",
+    "gn:country_code":"LR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277581,
+    "gn:latitude":6.50809,
+    "gn:longitude":-9.51101,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Dowaeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dowaeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277581
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f557723f75d9808d4a319b4b7465061f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1243281523,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1243281523,
+    "wof:lastmodified":1537661778,
+    "wof:name":"Dowaeta",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51101,
+    6.50809,
+    -9.51101,
+    6.50809
+],
+  "geometry": {"coordinates":[-9.51101,6.50809],"type":"Point"}
+}

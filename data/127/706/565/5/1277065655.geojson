@@ -1,0 +1,67 @@
+{
+  "id": 1277065655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87353,5.43924,-8.87353,5.43924",
+    "geom:latitude":5.43924,
+    "geom:longitude":-8.87353,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fineboy Kroyee",
+    "gn:country_code":"LR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870504,
+    "gn:latitude":5.43924,
+    "gn:longitude":-8.87353,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Fineboy Kroyee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870504
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a31cf27f899df462c6cb4397d90f2ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1277065655,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1277065655,
+    "wof:lastmodified":1536792306,
+    "wof:name":"Fineboy Kroyee",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87353,
+    5.43924,
+    -8.87353,
+    5.43924
+],
+  "geometry": {"coordinates":[-8.87353,5.43924],"type":"Point"}
+}

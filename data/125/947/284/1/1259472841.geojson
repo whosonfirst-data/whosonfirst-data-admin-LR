@@ -1,0 +1,72 @@
+{
+  "id": 1259472841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55806,7.12556,-8.55806,7.12556",
+    "geom:latitude":7.12556,
+    "geom:longitude":-8.55806,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gohnwe",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276748,
+    "gn:latitude":7.12556,
+    "gn:longitude":-8.55806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gohnwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gigli",
+        "Gohnwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276748
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ecb944445f967ce95200c2b009b9f492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694245,
+            "locality_id":1259472841,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1259472841,
+    "wof:lastmodified":1537661745,
+    "wof:name":"Gohnwe",
+    "wof:parent_id":1091694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55806,
+    7.12556,
+    -8.55806,
+    7.12556
+],
+  "geometry": {"coordinates":[-8.55806,7.12556],"type":"Point"}
+}

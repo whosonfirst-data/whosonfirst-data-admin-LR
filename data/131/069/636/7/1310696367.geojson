@@ -1,0 +1,77 @@
+{
+  "id": 1310696367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86028,6.49222,-8.86028,6.49222",
+    "geom:latitude":6.49222,
+    "geom:longitude":-8.86028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tapita",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273684,
+    "gn:latitude":6.49222,
+    "gn:longitude":-8.86028,
+    "gn:modification_date":"2017-09-11",
+    "gn:name":"Tapita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapeta",
+        "Tappitown",
+        "Tappita",
+        "Tappi",
+        "Tapi Town",
+        "Tapita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273684,
+        "wk:page":"Tapeta"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d655e0351f79170da4c5571236137770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694333,
+            "locality_id":1310696367,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1310696367,
+    "wof:lastmodified":1537661652,
+    "wof:name":"Tapita",
+    "wof:parent_id":1091694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86028,
+    6.49222,
+    -8.86028,
+    6.49222
+],
+  "geometry": {"coordinates":[-8.86028,6.49222],"type":"Point"}
+}

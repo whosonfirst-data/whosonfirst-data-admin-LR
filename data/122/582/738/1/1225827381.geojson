@@ -1,0 +1,69 @@
+{
+  "id": 1225827381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53819,4.74509,-8.53819,4.74509",
+    "geom:latitude":4.74509,
+    "geom:longitude":-8.53819,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nifu",
+    "gn:country_code":"LR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274697,
+    "gn:latitude":4.74509,
+    "gn:longitude":-8.53819,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nifu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nefu",
+        "Nifo",
+        "Nifu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274697
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5584bccb346019cfe46628abded66159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1225827381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225827381,
+    "wof:lastmodified":1537661681,
+    "wof:name":"Nifu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53819,
+    4.74509,
+    -8.53819,
+    4.74509
+],
+  "geometry": {"coordinates":[-8.53819,4.74509],"type":"Point"}
+}

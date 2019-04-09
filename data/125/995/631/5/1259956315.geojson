@@ -1,0 +1,73 @@
+{
+  "id": 1259956315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.80302,4.63196,-7.80302,4.63196",
+    "geom:latitude":4.63196,
+    "geom:longitude":-7.80302,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wlowen",
+    "gn:country_code":"LR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273052,
+    "gn:latitude":4.63196,
+    "gn:longitude":-7.80302,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wlowen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wlowin",
+        "Wloween",
+        "Wlowein",
+        "Wlowen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273052
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9bbe4538792d7a6056902dff1782b3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1259956315,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1259956315,
+    "wof:lastmodified":1537661631,
+    "wof:name":"Wlowen",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.80302,
+    4.63196,
+    -7.80302,
+    4.63196
+],
+  "geometry": {"coordinates":[-7.80302,4.63196],"type":"Point"}
+}

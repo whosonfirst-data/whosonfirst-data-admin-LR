@@ -1,0 +1,67 @@
+{
+  "id": 1243063835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82306,7.20056,-8.82306,7.20056",
+    "geom:latitude":7.20056,
+    "geom:longitude":-8.82306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mongbein",
+    "gn:country_code":"LR",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571889,
+    "gn:latitude":7.20056,
+    "gn:longitude":-8.82306,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Mongbein",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571889
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"05939036fddeae3a75007f5bd0dc8135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1243063835,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1243063835,
+    "wof:lastmodified":1536858800,
+    "wof:name":"Mongbein",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82306,
+    7.20056,
+    -8.82306,
+    7.20056
+],
+  "geometry": {"coordinates":[-8.82306,7.20056],"type":"Point"}
+}

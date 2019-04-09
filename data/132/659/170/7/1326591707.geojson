@@ -1,0 +1,75 @@
+{
+  "id": 1326591707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.9775,8.30972,-9.9775,8.30972",
+    "geom:latitude":8.30972,
+    "geom:longitude":-9.9775,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kologuazu",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275781,
+    "gn:latitude":8.30972,
+    "gn:longitude":-9.9775,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kologuazu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klogualazu",
+        "Kologulazu",
+        "Krogualazu",
+        "Krogolazu",
+        "Kologuazu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275781
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6d25bc0834e659b15ae6338b00a32a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1326591707,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1326591707,
+    "wof:lastmodified":1537661714,
+    "wof:name":"Kologuazu",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.9775,
+    8.30972,
+    -9.9775,
+    8.30972
+],
+  "geometry": {"coordinates":[-9.9775,8.30972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343757845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.66452,4.79788,-8.66452,4.79788",
+    "geom:latitude":4.79788,
+    "geom:longitude":-8.66452,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karh",
+    "gn:country_code":"LR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276132,
+    "gn:latitude":4.79788,
+    "gn:longitude":-8.66452,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Karh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276132
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3c57f49ebe7c754e55630802a96bc7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1343757845,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343757845,
+    "wof:lastmodified":1537661726,
+    "wof:name":"Karh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66452,
+    4.79788,
+    -8.66452,
+    4.79788
+],
+  "geometry": {"coordinates":[-8.66452,4.79788],"type":"Point"}
+}

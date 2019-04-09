@@ -1,0 +1,67 @@
+{
+  "id": 1209498653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71667,6.28333,-10.71667,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":-10.71667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Paynesville",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274465,
+    "gn:latitude":6.28333,
+    "gn:longitude":-10.71667,
+    "gn:modification_date":"2016-07-27",
+    "gn:name":"Paynesville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paynsville",
+        "Paynesville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274465,
+        "wk:page":"Paynesville%2C_Liberia"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9846573390eaa065d71bdf64cb666905",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209498653
+        }
+    ],
+    "wof:id":1209498653,
+    "wof:lastmodified":1537661675,
+    "wof:name":"Paynesville",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71667,
+    6.28333,
+    -10.71667,
+    6.28333
+],
+  "geometry": {"coordinates":[-10.71667,6.28333],"type":"Point"}
+}

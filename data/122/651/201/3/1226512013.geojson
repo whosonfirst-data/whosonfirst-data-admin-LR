@@ -1,0 +1,71 @@
+{
+  "id": 1226512013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28184,4.92607,-8.28184,4.92607",
+    "geom:latitude":4.92607,
+    "geom:longitude":-8.28184,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Poe",
+    "gn:country_code":"LR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278977,
+    "gn:latitude":4.92607,
+    "gn:longitude":-8.28184,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Poe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balapo",
+        "Ducor City"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278977
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1714b1e7f85ea2aa3c01fc470cb48d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693179,
+            "locality_id":1226512013,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1226512013,
+    "wof:lastmodified":1537661819,
+    "wof:name":"Poe",
+    "wof:parent_id":1091693179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28184,
+    4.92607,
+    -8.28184,
+    4.92607
+],
+  "geometry": {"coordinates":[-8.28184,4.92607],"type":"Point"}
+}

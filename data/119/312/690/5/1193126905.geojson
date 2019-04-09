@@ -1,0 +1,72 @@
+{
+  "id": 1193126905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96667,7.23333,-8.96667,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":-8.96667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Besula",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278658,
+    "gn:latitude":7.23333,
+    "gn:longitude":-8.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Besula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bersula",
+        "Besula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278658
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"132c11ae4b6fb0201a9c6f5879996be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1193126905,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1193126905,
+    "wof:lastmodified":1537661808,
+    "wof:name":"Besula",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96667,
+    7.23333,
+    -8.96667,
+    7.23333
+],
+  "geometry": {"coordinates":[-8.96667,7.23333],"type":"Point"}
+}

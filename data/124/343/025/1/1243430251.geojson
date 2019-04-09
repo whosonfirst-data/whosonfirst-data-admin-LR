@@ -1,0 +1,67 @@
+{
+  "id": 1243430251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47014,5.73252,-9.47014,5.73252",
+    "geom:latitude":5.73252,
+    "geom:longitude":-9.47014,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mabli",
+    "gn:country_code":"LR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275267,
+    "gn:latitude":5.73252,
+    "gn:longitude":-9.47014,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275267
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"72f1c87aca51276ed970e70aecbe489e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1243430251,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1243430251,
+    "wof:lastmodified":1536827906,
+    "wof:name":"Mabli",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47014,
+    5.73252,
+    -9.47014,
+    5.73252
+],
+  "geometry": {"coordinates":[-9.47014,5.73252],"type":"Point"}
+}

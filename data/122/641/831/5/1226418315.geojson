@@ -1,0 +1,67 @@
+{
+  "id": 1226418315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21667,6.23333,-9.21667,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":-9.21667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zanibli",
+    "gn:country_code":"LR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272666,
+    "gn:latitude":6.23333,
+    "gn:longitude":-9.21667,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Zanibli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272666
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cee32f210760715fd84b3f76f44de7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694417,
+            "locality_id":1226418315,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1226418315,
+    "wof:lastmodified":1536685064,
+    "wof:name":"Zanibli",
+    "wof:parent_id":1091694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21667,
+    6.23333,
+    -9.21667,
+    6.23333
+],
+  "geometry": {"coordinates":[-9.21667,6.23333],"type":"Point"}
+}

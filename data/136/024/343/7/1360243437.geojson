@@ -1,0 +1,71 @@
+{
+  "id": 1360243437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87889,5.24917,-7.87889,5.24917",
+    "geom:latitude":5.24917,
+    "geom:longitude":-7.87889,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tedeka",
+    "gn:country_code":"LR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277372,
+    "gn:latitude":5.24917,
+    "gn:longitude":-7.87889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tedeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fish Town",
+        "Tedeka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277372
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6917e02ab4685a192b7dd28974ac04bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1360243437,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1360243437,
+    "wof:lastmodified":1537661771,
+    "wof:name":"Tedeka",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.87889,
+    5.24917,
+    -7.87889,
+    5.24917
+],
+  "geometry": {"coordinates":[-7.87889,5.24917],"type":"Point"}
+}

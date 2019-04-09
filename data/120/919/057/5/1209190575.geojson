@@ -1,0 +1,65 @@
+{
+  "id": 1209190575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3171,6.6676,-10.3171,6.6676",
+    "geom:latitude":6.6676,
+    "geom:longitude":-10.3171,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vatege",
+    "gn:country_code":"LR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273340,
+    "gn:latitude":6.6676,
+    "gn:longitude":-10.3171,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Vatege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valika (2)",
+        "Vatege"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273340
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ceb3b117ad9db554e99b4148a0e90dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209190575
+        }
+    ],
+    "wof:id":1209190575,
+    "wof:lastmodified":1537661640,
+    "wof:name":"Vatege",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3171,
+    6.6676,
+    -10.3171,
+    6.6676
+],
+  "geometry": {"coordinates":[-10.3171,6.6676],"type":"Point"}
+}

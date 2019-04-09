@@ -1,0 +1,72 @@
+{
+  "id": 1243543637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.035,5.06222,-9.035,5.06222",
+    "geom:latitude":5.06222,
+    "geom:longitude":-9.035,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kola Town",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275807,
+    "gn:latitude":5.06222,
+    "gn:longitude":-9.035,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kola Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kola",
+        "Kola Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275807
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ed9ca2dbffdf33c8ba024403367ba90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1243543637,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1243543637,
+    "wof:lastmodified":1537661714,
+    "wof:name":"Kola Town",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.035,
+    5.06222,
+    -9.035,
+    5.06222
+],
+  "geometry": {"coordinates":[-9.035,5.06222],"type":"Point"}
+}

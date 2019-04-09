@@ -1,0 +1,67 @@
+{
+  "id": 1277146667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3034,4.61812,-8.3034,4.61812",
+    "geom:latitude":4.61812,
+    "geom:longitude":-8.3034,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Solokpo",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273835,
+    "gn:latitude":4.61812,
+    "gn:longitude":-8.3034,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Solokpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jlotekpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273835
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bb5f86ce6920a876982fe85ef5516adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1277146667,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277146667,
+    "wof:lastmodified":1537661656,
+    "wof:name":"Solokpo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3034,
+    4.61812,
+    -8.3034,
+    4.61812
+],
+  "geometry": {"coordinates":[-8.3034,4.61812],"type":"Point"}
+}

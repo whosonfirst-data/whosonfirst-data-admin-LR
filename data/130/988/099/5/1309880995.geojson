@@ -1,0 +1,71 @@
+{
+  "id": 1309880995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15202,6.08722,-8.15202,6.08722",
+    "geom:latitude":6.08722,
+    "geom:longitude":-8.15202,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dole Town",
+    "gn:country_code":"LR",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277635,
+    "gn:latitude":6.08722,
+    "gn:longitude":-8.15202,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Dole Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dole",
+        "Dole Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277635
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a7f43bc19c498de716ae94db0cab2bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1309880995,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1309880995,
+    "wof:lastmodified":1537661779,
+    "wof:name":"Dole Town",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.15202,
+    6.08722,
+    -8.15202,
+    6.08722
+],
+  "geometry": {"coordinates":[-8.15202,6.08722],"type":"Point"}
+}

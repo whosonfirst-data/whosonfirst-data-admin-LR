@@ -1,0 +1,61 @@
+{
+  "id": 1226831259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63992,-8.12554,4.63992,-8.12554",
+    "geom:latitude":-8.12554,
+    "geom:longitude":4.63992,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zoloken And Gbarken",
+    "gn:country_code":"LR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9879940,
+    "gn:latitude":-8.12554,
+    "gn:longitude":4.63992,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Zoloken And Gbarken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9879940
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cf422f3262789eee050b79c6659adb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226831259,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226831259,
+    "wof:lastmodified":1537086018,
+    "wof:name":"Zoloken And Gbarken",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63992,
+    -8.12554,
+    4.63992,
+    -8.12554
+],
+  "geometry": {"coordinates":[4.63992,-8.12554],"type":"Point"}
+}

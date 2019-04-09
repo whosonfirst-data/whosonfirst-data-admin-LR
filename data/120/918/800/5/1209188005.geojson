@@ -1,0 +1,61 @@
+{
+  "id": 1209188005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.63333,6.38333,-10.63333,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":-10.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cooper Farm",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277977,
+    "gn:latitude":6.38333,
+    "gn:longitude":-10.63333,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Cooper Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277977
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1a759c11e1c4c75cee376b61bcdfe198",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209188005
+        }
+    ],
+    "wof:id":1209188005,
+    "wof:lastmodified":1536295033,
+    "wof:name":"Cooper Farm",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.63333,
+    6.38333,
+    -10.63333,
+    6.38333
+],
+  "geometry": {"coordinates":[-10.63333,6.38333],"type":"Point"}
+}

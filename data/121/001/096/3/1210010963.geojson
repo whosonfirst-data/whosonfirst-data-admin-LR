@@ -1,0 +1,67 @@
+{
+  "id": 1210010963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54667,6.93722,-8.54667,6.93722",
+    "geom:latitude":6.93722,
+    "geom:longitude":-8.54667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dabli",
+    "gn:country_code":"LR",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277942,
+    "gn:latitude":6.93722,
+    "gn:longitude":-8.54667,
+    "gn:modification_date":"1995-12-18",
+    "gn:name":"Dabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277942
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9add4c61574b0da9931a3ad414ff10f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1210010963,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1210010963,
+    "wof:lastmodified":1536368346,
+    "wof:name":"Dabli",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54667,
+    6.93722,
+    -8.54667,
+    6.93722
+],
+  "geometry": {"coordinates":[-8.54667,6.93722],"type":"Point"}
+}

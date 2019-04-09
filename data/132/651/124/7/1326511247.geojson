@@ -1,0 +1,67 @@
+{
+  "id": 1326511247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.15378,6.00009,-10.15378,6.00009",
+    "geom:latitude":6.00009,
+    "geom:longitude":-10.15378,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Patabli",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274478,
+    "gn:latitude":6.00009,
+    "gn:longitude":-10.15378,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Patabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274478
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"233906631ca338f5934832f0e7ba1ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692735,
+            "locality_id":1326511247,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1326511247,
+    "wof:lastmodified":1537013630,
+    "wof:name":"Patabli",
+    "wof:parent_id":1091692735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.15378,
+    6.00009,
+    -10.15378,
+    6.00009
+],
+  "geometry": {"coordinates":[-10.15378,6.00009],"type":"Point"}
+}

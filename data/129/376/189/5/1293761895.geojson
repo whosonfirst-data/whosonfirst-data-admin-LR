@@ -1,0 +1,70 @@
+{
+  "id": 1293761895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.74156,6.708,-9.74156,6.708",
+    "geom:latitude":6.708,
+    "geom:longitude":-9.74156,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dulimu",
+    "gn:country_code":"LR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818274,
+    "gn:latitude":6.708,
+    "gn:longitude":-9.74156,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Dulimu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dulimu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818274
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"dfcc7419b157ddc7b7a62a484b616c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693759,
+            "locality_id":1293761895,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1293761895,
+    "wof:lastmodified":1537661828,
+    "wof:name":"Dulimu",
+    "wof:parent_id":1091693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.74156,
+    6.708,
+    -9.74156,
+    6.708
+],
+  "geometry": {"coordinates":[-9.74156,6.708],"type":"Point"}
+}

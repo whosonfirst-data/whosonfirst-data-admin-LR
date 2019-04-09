@@ -1,0 +1,70 @@
+{
+  "id": 1343962027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52428,7.04265,-9.52428,7.04265",
+    "geom:latitude":7.04265,
+    "geom:longitude":-9.52428,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baker's Farm",
+    "gn:country_code":"LR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869692,
+    "gn:latitude":7.04265,
+    "gn:longitude":-9.52428,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Baker\u2019s Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baker\u2019s Farm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869692
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1d1d2817d3bd6c85b6620bb368c99472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1343962027,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343962027,
+    "wof:lastmodified":1537661830,
+    "wof:name":"Baker's Farm",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52428,
+    7.04265,
+    -9.52428,
+    7.04265
+],
+  "geometry": {"coordinates":[-9.52428,7.04265],"type":"Point"}
+}

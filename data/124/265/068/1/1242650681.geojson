@@ -1,0 +1,67 @@
+{
+  "id": 1242650681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85,6.51667,-10.85,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":-10.85,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sacba Town",
+    "gn:country_code":"LR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274231,
+    "gn:latitude":6.51667,
+    "gn:longitude":-10.85,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Sacba Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274231
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"597126b9e1276a2ec7e666a72dd08d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1242650681,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1242650681,
+    "wof:lastmodified":1536958643,
+    "wof:name":"Sacba Town",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85,
+    6.51667,
+    -10.85,
+    6.51667
+],
+  "geometry": {"coordinates":[-10.85,6.51667],"type":"Point"}
+}

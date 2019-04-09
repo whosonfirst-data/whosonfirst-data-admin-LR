@@ -1,0 +1,67 @@
+{
+  "id": 1226421511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76667,6.51667,-10.76667,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":-10.76667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gbaga",
+    "gn:country_code":"LR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277131,
+    "gn:latitude":6.51667,
+    "gn:longitude":-10.76667,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Gbaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277131
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b0a2062231fd4a04f20f86c05fe0b2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1226421511,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1226421511,
+    "wof:lastmodified":1536680416,
+    "wof:name":"Gbaga",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76667,
+    6.51667,
+    -10.76667,
+    6.51667
+],
+  "geometry": {"coordinates":[-10.76667,6.51667],"type":"Point"}
+}

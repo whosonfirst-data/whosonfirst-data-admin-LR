@@ -1,0 +1,61 @@
+{
+  "id": 1209078713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52377,4.85708,-8.52377,4.85708",
+    "geom:latitude":4.85708,
+    "geom:longitude":-8.52377,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Worepo",
+    "gn:country_code":"LR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272994,
+    "gn:latitude":4.85708,
+    "gn:longitude":-8.52377,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Worepo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272994
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0c3c6947437cd7327fd21d21904b56fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209078713
+        }
+    ],
+    "wof:id":1209078713,
+    "wof:lastmodified":1536298409,
+    "wof:name":"Worepo",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.523769999999999,
+    4.857080000000002,
+    -8.523769999999999,
+    4.857080000000002
+],
+  "geometry": {"coordinates":[-8.52377,4.85708],"type":"Point"}
+}

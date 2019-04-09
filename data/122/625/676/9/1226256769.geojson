@@ -1,0 +1,73 @@
+{
+  "id": 1226256769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39026,7.37005,-9.39026,7.37005",
+    "geom:latitude":7.37005,
+    "geom:longitude":-9.39026,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kolonta",
+    "gn:country_code":"LR",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275761,
+    "gn:latitude":7.37005,
+    "gn:longitude":-9.39026,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kolonta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolonta"
+    ],
+    "name:und_x_variant":[
+        "Konda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275761
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"018a4f59f441068019a192ced395fa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1226256769,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1226256769,
+    "wof:lastmodified":1537661713,
+    "wof:name":"Kolonta",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39026,
+    7.37005,
+    -9.39026,
+    7.37005
+],
+  "geometry": {"coordinates":[-9.39026,7.37005],"type":"Point"}
+}

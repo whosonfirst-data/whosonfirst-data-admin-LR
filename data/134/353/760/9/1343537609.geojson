@@ -1,0 +1,70 @@
+{
+  "id": 1343537609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.54173,6.19936,-10.54173,6.19936",
+    "geom:latitude":6.19936,
+    "geom:longitude":-10.54173,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sopwe Town",
+    "gn:country_code":"LR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273810,
+    "gn:latitude":6.19936,
+    "gn:longitude":-10.54173,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sopwe Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sopwe Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273810
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"974c6e7e6dcec5b0a53d58a673f797b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1343537609,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1343537609,
+    "wof:lastmodified":1537661655,
+    "wof:name":"Sopwe Town",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.54173,
+    6.19936,
+    -10.54173,
+    6.19936
+],
+  "geometry": {"coordinates":[-10.54173,6.19936],"type":"Point"}
+}

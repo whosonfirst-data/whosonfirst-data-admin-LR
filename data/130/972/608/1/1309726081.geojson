@@ -1,0 +1,70 @@
+{
+  "id": 1309726081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.381,6.91164,-9.381,6.91164",
+    "geom:latitude":6.91164,
+    "geom:longitude":-9.381,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpeikpoi",
+    "gn:country_code":"LR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870327,
+    "gn:latitude":6.91164,
+    "gn:longitude":-9.381,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kpeikpoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpeikpoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870327
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e95f9591dd9cf5456409b68eea691683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1309726081,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1309726081,
+    "wof:lastmodified":1537661836,
+    "wof:name":"Kpeikpoi",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.381,
+    6.91164,
+    -9.381,
+    6.91164
+],
+  "geometry": {"coordinates":[-9.381,6.91164],"type":"Point"}
+}

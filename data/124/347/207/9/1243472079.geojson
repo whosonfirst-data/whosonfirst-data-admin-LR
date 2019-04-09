@@ -1,0 +1,70 @@
+{
+  "id": 1243472079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6,6.9,-9.6,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":-9.6,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gamlemo",
+    "gn:country_code":"LR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277215,
+    "gn:latitude":6.9,
+    "gn:longitude":-9.6,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gamlemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gamlemo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277215
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9547ddf14ca1b0f54b11c4a70bcc83e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1243472079,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1243472079,
+    "wof:lastmodified":1537661765,
+    "wof:name":"Gamlemo",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6,
+    6.9,
+    -9.6,
+    6.9
+],
+  "geometry": {"coordinates":[-9.6,6.9],"type":"Point"}
+}

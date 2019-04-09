@@ -1,0 +1,67 @@
+{
+  "id": 1226823135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.50694,7.00722,-10.50694,7.00722",
+    "geom:latitude":7.00722,
+    "geom:longitude":-10.50694,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Deyeke",
+    "gn:country_code":"LR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570556,
+    "gn:latitude":7.00722,
+    "gn:longitude":-10.50694,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Deyeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570556
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e4ef0c450922ca9950089c007253ffc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693577,
+            "locality_id":1226823135,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1226823135,
+    "wof:lastmodified":1536600957,
+    "wof:name":"Deyeke",
+    "wof:parent_id":1091693577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.50694,
+    7.00722,
+    -10.50694,
+    7.00722
+],
+  "geometry": {"coordinates":[-10.50694,7.00722],"type":"Point"}
+}

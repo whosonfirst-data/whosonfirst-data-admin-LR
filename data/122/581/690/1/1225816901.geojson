@@ -1,0 +1,67 @@
+{
+  "id": 1225816901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.13333,6.6,-10.13333,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":-10.13333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gwenning",
+    "gn:country_code":"LR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276522,
+    "gn:latitude":6.6,
+    "gn:longitude":-10.13333,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Gwenning",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276522
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f5a4006f01fcfecf35d49ad6685182d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693759,
+            "locality_id":1225816901,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1225816901,
+    "wof:lastmodified":1537053110,
+    "wof:name":"Gwenning",
+    "wof:parent_id":1091693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.13333,
+    6.6,
+    -10.13333,
+    6.6
+],
+  "geometry": {"coordinates":[-10.13333,6.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326506597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63139,4.55351,-7.63139,4.55351",
+    "geom:latitude":4.55351,
+    "geom:longitude":-7.63139,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kuidoke",
+    "gn:country_code":"LR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275538,
+    "gn:latitude":4.55351,
+    "gn:longitude":-7.63139,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kuidoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275538
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"102afe8cc050ee2a86f625f56a5da8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1326506597,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1326506597,
+    "wof:lastmodified":1537020149,
+    "wof:name":"Kuidoke",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63139,
+    4.55351,
+    -7.63139,
+    4.55351
+],
+  "geometry": {"coordinates":[-7.63139,4.55351],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259889517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.506,6.55528,-9.506,6.55528",
+    "geom:latitude":6.55528,
+    "geom:longitude":-9.506,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gata",
+    "gn:country_code":"LR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277177,
+    "gn:latitude":6.55528,
+    "gn:longitude":-9.506,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277177
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c34903c0d0a17aa640dbbe7b545a649a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1259889517,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259889517,
+    "wof:lastmodified":1537661764,
+    "wof:name":"Gata",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.506,
+    6.55528,
+    -9.506,
+    6.55528
+],
+  "geometry": {"coordinates":[-9.506,6.55528],"type":"Point"}
+}

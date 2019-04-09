@@ -1,0 +1,70 @@
+{
+  "id": 1310715781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33627,6.9117,-9.33627,6.9117",
+    "geom:latitude":6.9117,
+    "geom:longitude":-9.33627,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gortortota",
+    "gn:country_code":"LR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870326,
+    "gn:latitude":6.9117,
+    "gn:longitude":-9.33627,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gortortota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gortortota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870326
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d52a61a94f6da2e96c0a0c2e3f58e3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1310715781,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1310715781,
+    "wof:lastmodified":1537661836,
+    "wof:name":"Gortortota",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33627,
+    6.9117,
+    -9.33627,
+    6.9117
+],
+  "geometry": {"coordinates":[-9.33627,6.9117],"type":"Point"}
+}

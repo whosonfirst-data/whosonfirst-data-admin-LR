@@ -1,0 +1,67 @@
+{
+  "id": 1259974123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56278,7.55639,-8.56278,7.55639",
+    "geom:latitude":7.55639,
+    "geom:longitude":-8.56278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sawmill",
+    "gn:country_code":"LR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274076,
+    "gn:latitude":7.55639,
+    "gn:longitude":-8.56278,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Sawmill",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274076
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e469d67bd18c3c443f5ff2e5210c1079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1259974123,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1259974123,
+    "wof:lastmodified":1536648299,
+    "wof:name":"Sawmill",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56278,
+    7.55639,
+    -8.56278,
+    7.55639
+],
+  "geometry": {"coordinates":[-8.56278,7.55639],"type":"Point"}
+}

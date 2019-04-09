@@ -1,0 +1,67 @@
+{
+  "id": 1259463183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.33333,6.91667,-11.33333,6.91667",
+    "geom:latitude":6.91667,
+    "geom:longitude":-11.33333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ngoloja",
+    "gn:country_code":"LR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274723,
+    "gn:latitude":6.91667,
+    "gn:longitude":-11.33333,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Ngoloja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274723
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6a0a07c31dcbfc49518dc13c7b20ce06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1259463183,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1259463183,
+    "wof:lastmodified":1536887574,
+    "wof:name":"Ngoloja",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.33333,
+    6.91667,
+    -11.33333,
+    6.91667
+],
+  "geometry": {"coordinates":[-11.33333,6.91667],"type":"Point"}
+}

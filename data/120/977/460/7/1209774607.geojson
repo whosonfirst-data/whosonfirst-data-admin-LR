@@ -1,0 +1,74 @@
+{
+  "id": 1209774607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.77321,6.9711,-10.77321,6.9711",
+    "geom:latitude":6.9711,
+    "geom:longitude":-10.77321,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gbuna",
+    "gn:country_code":"LR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278780,
+    "gn:latitude":6.9711,
+    "gn:longitude":-10.77321,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Gbuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be Gbui Kali",
+        "Be Boi Kali",
+        "Be Gbui",
+        "Be Gboi",
+        "Gbuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278780
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8adbd880c290a15528f843b4dc6568cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693713,
+            "locality_id":1209774607,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1209774607,
+    "wof:lastmodified":1537661812,
+    "wof:name":"Gbuna",
+    "wof:parent_id":1091693713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.77321,
+    6.9711,
+    -10.77321,
+    6.9711
+],
+  "geometry": {"coordinates":[-10.77321,6.9711],"type":"Point"}
+}

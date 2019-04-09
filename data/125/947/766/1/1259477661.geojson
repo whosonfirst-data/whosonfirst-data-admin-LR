@@ -1,0 +1,67 @@
+{
+  "id": 1259477661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.665,6.68222,-8.665,6.68222",
+    "geom:latitude":6.68222,
+    "geom:longitude":-8.665,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Delapa",
+    "gn:country_code":"LR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277841,
+    "gn:latitude":6.68222,
+    "gn:longitude":-8.665,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Delapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277841
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2eb70c8af786870357f1df353d460e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694333,
+            "locality_id":1259477661,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1259477661,
+    "wof:lastmodified":1536865903,
+    "wof:name":"Delapa",
+    "wof:parent_id":1091694333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.665,
+    6.68222,
+    -8.665,
+    6.68222
+],
+  "geometry": {"coordinates":[-8.665,6.68222],"type":"Point"}
+}

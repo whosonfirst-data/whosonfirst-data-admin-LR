@@ -1,0 +1,73 @@
+{
+  "id": 1293178029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.99525,6.95903,-10.99525,6.95903",
+    "geom:latitude":6.95903,
+    "geom:longitude":-10.99525,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mbaloma",
+    "gn:country_code":"LR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275024,
+    "gn:latitude":6.95903,
+    "gn:longitude":-10.99525,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Mbaloma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baloma",
+        "Mbaloemah",
+        "Mbalomah",
+        "Mbaloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275024
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"79563c94682179bcc195b84d08df748a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1293178029,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1293178029,
+    "wof:lastmodified":1537661690,
+    "wof:name":"Mbaloma",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.99525,
+    6.95903,
+    -10.99525,
+    6.95903
+],
+  "geometry": {"coordinates":[-10.99525,6.95903],"type":"Point"}
+}

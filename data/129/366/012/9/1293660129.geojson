@@ -1,0 +1,67 @@
+{
+  "id": 1293660129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43578,6.75254,-10.43578,6.75254",
+    "geom:latitude":6.75254,
+    "geom:longitude":-10.43578,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Steel Farm",
+    "gn:country_code":"LR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273783,
+    "gn:latitude":6.75254,
+    "gn:longitude":-10.43578,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Steel Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273783
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"39cc074c7e6e5530808861dcd359eec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1293660129,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1293660129,
+    "wof:lastmodified":1537033997,
+    "wof:name":"Steel Farm",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43578,
+    6.75254,
+    -10.43578,
+    6.75254
+],
+  "geometry": {"coordinates":[-10.43578,6.75254],"type":"Point"}
+}

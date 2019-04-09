@@ -1,0 +1,67 @@
+{
+  "id": 1309979795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.73227,6.26889,-10.73227,6.26889",
+    "geom:latitude":6.26889,
+    "geom:longitude":-10.73227,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Congo Town",
+    "gn:country_code":"LR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277983,
+    "gn:latitude":6.26889,
+    "gn:longitude":-10.73227,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Congo Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277983
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"21222cf86193956f6368af0ce4eea834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":1309979795,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1309979795,
+    "wof:lastmodified":1536680383,
+    "wof:name":"Congo Town",
+    "wof:parent_id":1091694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.73227,
+    6.26889,
+    -10.73227,
+    6.26889
+],
+  "geometry": {"coordinates":[-10.73227,6.26889],"type":"Point"}
+}

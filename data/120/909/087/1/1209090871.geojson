@@ -1,0 +1,66 @@
+{
+  "id": 1209090871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58556,7.21861,-8.58556,7.21861",
+    "geom:latitude":7.21861,
+    "geom:longitude":-8.58556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gbeeah",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274138,
+    "gn:latitude":7.21861,
+    "gn:longitude":-8.58556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gbeeah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanglopie",
+        "Gbeeah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274138
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e188db107624582cdbc5ada90d1adaa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209090871
+        }
+    ],
+    "wof:id":1209090871,
+    "wof:lastmodified":1537661666,
+    "wof:name":"Gbeeah",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58556,
+    7.21861,
+    -8.58556,
+    7.21861
+],
+  "geometry": {"coordinates":[-8.58556,7.21861],"type":"Point"}
+}

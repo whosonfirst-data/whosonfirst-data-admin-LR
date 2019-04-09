@@ -1,0 +1,64 @@
+{
+  "id": 1209077671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.38784,6.21288,-10.38784,6.21288",
+    "geom:latitude":6.21288,
+    "geom:longitude":-10.38784,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Fawehn",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277415,
+    "gn:latitude":6.21288,
+    "gn:longitude":-10.38784,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Fawehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fawehn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277415
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bde6aa2bbe05785f797f1df64fd30278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209077671
+        }
+    ],
+    "wof:id":1209077671,
+    "wof:lastmodified":1537661772,
+    "wof:name":"Fawehn",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.38784,
+    6.21288,
+    -10.38784,
+    6.21288
+],
+  "geometry": {"coordinates":[-10.38784,6.21288],"type":"Point"}
+}

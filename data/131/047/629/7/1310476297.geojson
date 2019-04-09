@@ -1,0 +1,67 @@
+{
+  "id": 1310476297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11667,8.45,-10.11667,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-10.11667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Solape",
+    "gn:country_code":"LR",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273840,
+    "gn:latitude":8.45,
+    "gn:longitude":-10.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Solape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273840
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b93e52d1707b015b2f347fc863e818f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1310476297,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1310476297,
+    "wof:lastmodified":1536959048,
+    "wof:name":"Solape",
+    "wof:parent_id":1091693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11667,
+    8.45,
+    -10.11667,
+    8.45
+],
+  "geometry": {"coordinates":[-10.11667,8.45],"type":"Point"}
+}

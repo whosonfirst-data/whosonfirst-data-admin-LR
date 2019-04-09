@@ -1,0 +1,67 @@
+{
+  "id": 1193247323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76111,5.01111,-7.76111,5.01111",
+    "geom:latitude":5.01111,
+    "geom:longitude":-7.76111,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Naumake",
+    "gn:country_code":"LR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274801,
+    "gn:latitude":5.01111,
+    "gn:longitude":-7.76111,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Naumake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274801
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"50c7ba901eec2189bf0d84773db58788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1193247323,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1193247323,
+    "wof:lastmodified":1536371939,
+    "wof:name":"Naumake",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76111,
+    5.01111,
+    -7.76111,
+    5.01111
+],
+  "geometry": {"coordinates":[-7.76111,5.01111],"type":"Point"}
+}

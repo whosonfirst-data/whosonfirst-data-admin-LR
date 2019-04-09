@@ -1,0 +1,67 @@
+{
+  "id": 1260054593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.72667,8.19444,-9.72667,8.19444",
+    "geom:latitude":8.19444,
+    "geom:longitude":-9.72667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"John-Ta",
+    "gn:country_code":"LR",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571784,
+    "gn:latitude":8.19444,
+    "gn:longitude":-9.72667,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"John-Ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571784
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"73f7496ae4014f52d9651fd877f84985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1260054593,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1260054593,
+    "wof:lastmodified":1537028518,
+    "wof:name":"John-Ta",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.72667,
+    8.19444,
+    -9.72667,
+    8.19444
+],
+  "geometry": {"coordinates":[-9.72667,8.19444],"type":"Point"}
+}

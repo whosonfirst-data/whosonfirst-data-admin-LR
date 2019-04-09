@@ -1,0 +1,67 @@
+{
+  "id": 1243441437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.6,7.25,-10.6,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":-10.6,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sowie Camp",
+    "gn:country_code":"LR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273795,
+    "gn:latitude":7.25,
+    "gn:longitude":-10.6,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Sowie Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273795
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"471f721346b820cc5c4e8d9c44ba58a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1243441437,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1243441437,
+    "wof:lastmodified":1536812182,
+    "wof:name":"Sowie Camp",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.6,
+    7.25,
+    -10.6,
+    7.25
+],
+  "geometry": {"coordinates":[-10.6,7.25],"type":"Point"}
+}

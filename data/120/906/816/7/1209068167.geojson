@@ -1,0 +1,66 @@
+{
+  "id": 1209068167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43444,7.72389,-9.43444,7.72389",
+    "geom:latitude":7.72389,
+    "geom:longitude":-9.43444,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sukulomu",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273760,
+    "gn:latitude":7.72389,
+    "gn:longitude":-9.43444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sukulomu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sukolomu",
+        "Sukulomu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273760
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5120729ef6668b739294d73140352612",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209068167
+        }
+    ],
+    "wof:id":1209068167,
+    "wof:lastmodified":1537661654,
+    "wof:name":"Sukulomu",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43444,
+    7.72389,
+    -9.43444,
+    7.72389
+],
+  "geometry": {"coordinates":[-9.43444,7.72389],"type":"Point"}
+}

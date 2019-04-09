@@ -1,0 +1,67 @@
+{
+  "id": 1293275161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.93203,6.57049,-10.93203,6.57049",
+    "geom:latitude":6.57049,
+    "geom:longitude":-10.93203,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Be Crusoe",
+    "gn:country_code":"LR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278775,
+    "gn:latitude":6.57049,
+    "gn:longitude":-10.93203,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Be Crusoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278775
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0aa1ff562fe766166142e6d2b1c07844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1293275161,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1293275161,
+    "wof:lastmodified":1537089962,
+    "wof:name":"Be Crusoe",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.93203,
+    6.57049,
+    -10.93203,
+    6.57049
+],
+  "geometry": {"coordinates":[-10.93203,6.57049],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310194709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73583,7.09056,-8.73583,7.09056",
+    "geom:latitude":7.09056,
+    "geom:longitude":-8.73583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kparglay",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272644,
+    "gn:latitude":7.09056,
+    "gn:longitude":-8.73583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kparglay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zege",
+        "Zagle",
+        "Gbayee",
+        "Kparglay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272644
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f76ed2e69aac4dfaf64556d67ab62451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1310194709,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1310194709,
+    "wof:lastmodified":1537661618,
+    "wof:name":"Kparglay",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73583,
+    7.09056,
+    -8.73583,
+    7.09056
+],
+  "geometry": {"coordinates":[-8.73583,7.09056],"type":"Point"}
+}

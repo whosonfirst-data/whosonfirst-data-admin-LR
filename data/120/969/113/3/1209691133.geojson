@@ -1,0 +1,61 @@
+{
+  "id": 1209691133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27111,6.0775,-8.27111,6.0775",
+    "geom:latitude":6.0775,
+    "geom:longitude":-8.27111,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Beti Town",
+    "gn:country_code":"LR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278646,
+    "gn:latitude":6.0775,
+    "gn:longitude":-8.27111,
+    "gn:modification_date":"1996-03-19",
+    "gn:name":"Beti Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278646
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"afa1a6990c2641eb7a58e7a4e942f30c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209691133
+        }
+    ],
+    "wof:id":1209691133,
+    "wof:lastmodified":1536279237,
+    "wof:name":"Beti Town",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27111,
+    6.0775,
+    -8.27111,
+    6.0775
+],
+  "geometry": {"coordinates":[-8.27111,6.0775],"type":"Point"}
+}

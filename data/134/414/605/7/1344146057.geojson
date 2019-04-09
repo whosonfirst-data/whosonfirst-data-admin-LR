@@ -1,0 +1,67 @@
+{
+  "id": 1344146057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6047,5.23186,-8.6047,5.23186",
+    "geom:latitude":5.23186,
+    "geom:longitude":-8.6047,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Keaya",
+    "gn:country_code":"LR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870663,
+    "gn:latitude":5.23186,
+    "gn:longitude":-8.6047,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Keaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870663
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b07b6d0ab957cef8fda49eff198692c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1344146057,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1344146057,
+    "wof:lastmodified":1536752035,
+    "wof:name":"Keaya",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6047,
+    5.23186,
+    -8.6047,
+    5.23186
+],
+  "geometry": {"coordinates":[-8.6047,5.23186],"type":"Point"}
+}

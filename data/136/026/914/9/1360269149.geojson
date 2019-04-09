@@ -1,0 +1,67 @@
+{
+  "id": 1360269149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90707,5.32251,-8.90707,5.32251",
+    "geom:latitude":5.32251,
+    "geom:longitude":-8.90707,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Solomon",
+    "gn:country_code":"LR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870542,
+    "gn:latitude":5.32251,
+    "gn:longitude":-8.90707,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Solomon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870542
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c101cb295be7529730db1512cd9ddd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694579,
+            "locality_id":1360269149,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1360269149,
+    "wof:lastmodified":1536680135,
+    "wof:name":"Solomon",
+    "wof:parent_id":1091694579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90707,
+    5.32251,
+    -8.90707,
+    5.32251
+],
+  "geometry": {"coordinates":[-8.90707,5.32251],"type":"Point"}
+}

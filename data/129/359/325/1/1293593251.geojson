@@ -1,0 +1,73 @@
+{
+  "id": 1293593251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.84389,7.13944,-9.84389,7.13944",
+    "geom:latitude":7.13944,
+    "geom:longitude":-9.84389,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Billitanda",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278974,
+    "gn:latitude":7.13944,
+    "gn:longitude":-9.84389,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Billitanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balatenga",
+        "Balatengia",
+        "Billitanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278974
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"37d5a350c12ffb53cd86c1cf802714c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692423,
+            "locality_id":1293593251,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1293593251,
+    "wof:lastmodified":1537661819,
+    "wof:name":"Billitanda",
+    "wof:parent_id":1091692423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.84389,
+    7.13944,
+    -9.84389,
+    7.13944
+],
+  "geometry": {"coordinates":[-9.84389,7.13944],"type":"Point"}
+}

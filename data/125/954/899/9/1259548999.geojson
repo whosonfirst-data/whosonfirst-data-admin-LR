@@ -1,0 +1,70 @@
+{
+  "id": 1259548999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14444,6.1775,-8.14444,6.1775",
+    "geom:latitude":6.1775,
+    "geom:longitude":-8.14444,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Garley",
+    "gn:country_code":"LR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272624,
+    "gn:latitude":6.1775,
+    "gn:longitude":-8.14444,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Garley",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272624
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"98e0a72ee680f41d4c3a8f1067fd2732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1259548999,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1259548999,
+    "wof:lastmodified":1537661617,
+    "wof:name":"Garley",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14444,
+    6.1775,
+    -8.14444,
+    6.1775
+],
+  "geometry": {"coordinates":[-8.14444,6.1775],"type":"Point"}
+}

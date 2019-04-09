@@ -1,0 +1,111 @@
+{
+  "id": 85765585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":5809200.449078,
+    "geom:bbox":"-10.784156,6.293815,-10.784156,6.293815",
+    "geom:latitude":6.293815,
+    "geom:longitude":-10.784156,
+    "gn:latitude":6.3,
+    "gn:longitude":-10.78333,
+    "iso:country":"LR",
+    "lbl:latitude":6.293815,
+    "lbl:longitude":-10.784156,
+    "mps:latitude":6.290899,
+    "mps:longitude":-10.783506,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Plonkor"
+    ],
+    "name:unk_x_variant":[
+        "Plonkor"
+    ],
+    "qs:gn_adm0_cc":"LR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2274895,
+    "qs:gn_nam_loc":"Monrovia, Monrovia, Montserrado County, LR",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Plonkor",
+    "qs:local_max":1412,
+    "qs:local_sum":1708,
+    "qs:localhoods":5,
+    "qs:name":"Plonkor",
+    "qs:name_adm0":"Liberia",
+    "qs:name_adm1":"Montserrado",
+    "qs:name_local":"Monrovia",
+    "qs:photo_max":23,
+    "qs:photo_sum":68,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424876,
+    "qs:woe_adm1":2346108,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1350536,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        85673541,
+        102191573,
+        85632249,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274369,
+        "gp:id":1350931,
+        "qs:id":266860
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0d178a355b0f06a811c39726ce08bc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":-1,
+            "neighbourhood_id":85765585,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":85765585,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379377,
+    "wof:name":"Plonkor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[
+        1126073179
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.784156,
+    6.293815,
+    -10.784156,
+    6.293815
+],
+  "geometry": {"coordinates":[-10.784156,6.293815],"type":"Point"}
+}

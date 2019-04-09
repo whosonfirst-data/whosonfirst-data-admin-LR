@@ -1,0 +1,73 @@
+{
+  "id": 1242839989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82167,5.865,-8.82167,5.865",
+    "geom:latitude":5.865,
+    "geom:longitude":-8.82167,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sean Town",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277539,
+    "gn:latitude":5.865,
+    "gn:longitude":-8.82167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sean Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dugba",
+        "Zehpn Town",
+        "Sean Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277539
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5cf555f1ab34803f5c20e7c55c19a097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1242839989,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1242839989,
+    "wof:lastmodified":1537661776,
+    "wof:name":"Sean Town",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82167,
+    5.865,
+    -8.82167,
+    5.865
+],
+  "geometry": {"coordinates":[-8.82167,5.865],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242891715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.29987,6.65199,-9.29987,6.65199",
+    "geom:latitude":6.65199,
+    "geom:longitude":-9.29987,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bokta",
+    "gn:country_code":"LR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278378,
+    "gn:latitude":6.65199,
+    "gn:longitude":-9.29987,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bokta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bokta"
+    ],
+    "name:und_x_variant":[
+        "David Dean-Ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278378
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8addffd3a8a03b4b521732bb3416e6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1242891715,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1242891715,
+    "wof:lastmodified":1537661798,
+    "wof:name":"Bokta",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.29987,
+    6.65199,
+    -9.29987,
+    6.65199
+],
+  "geometry": {"coordinates":[-9.29987,6.65199],"type":"Point"}
+}

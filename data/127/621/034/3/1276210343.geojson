@@ -1,0 +1,67 @@
+{
+  "id": 1276210343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03806,5.04056,-9.03806,5.04056",
+    "geom:latitude":5.04056,
+    "geom:longitude":-9.03806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lexington",
+    "gn:country_code":"LR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275389,
+    "gn:latitude":5.04056,
+    "gn:longitude":-9.03806,
+    "gn:modification_date":"2003-09-17",
+    "gn:name":"Lexington",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275389
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2164369765a4b928e45f7ce56f9bb406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1276210343,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1276210343,
+    "wof:lastmodified":1536944408,
+    "wof:name":"Lexington",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03806,
+    5.04056,
+    -9.03806,
+    5.04056
+],
+  "geometry": {"coordinates":[-9.03806,5.04056],"type":"Point"}
+}

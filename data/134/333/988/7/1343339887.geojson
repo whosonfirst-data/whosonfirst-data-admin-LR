@@ -1,0 +1,71 @@
+{
+  "id": 1343339887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43226,6.46561,-9.43226,6.46561",
+    "geom:latitude":6.46561,
+    "geom:longitude":-9.43226,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Desumbi",
+    "gn:country_code":"LR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277821,
+    "gn:latitude":6.46561,
+    "gn:longitude":-9.43226,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Desumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Desumbli",
+        "Desumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277821
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"66c40fae59b34a7818fdfbe80b10f1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1343339887,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1343339887,
+    "wof:lastmodified":1537661783,
+    "wof:name":"Desumbi",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43226,
+    6.46561,
+    -9.43226,
+    6.46561
+],
+  "geometry": {"coordinates":[-9.43226,6.46561],"type":"Point"}
+}

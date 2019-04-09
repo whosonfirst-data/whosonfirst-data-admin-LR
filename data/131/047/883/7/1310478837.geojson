@@ -1,0 +1,67 @@
+{
+  "id": 1310478837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.1791,6.70704,-11.1791,6.70704",
+    "geom:latitude":6.70704,
+    "geom:longitude":-11.1791,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Laa",
+    "gn:country_code":"LR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275474,
+    "gn:latitude":6.70704,
+    "gn:longitude":-11.1791,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Laa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275474
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"20cdf8640af9a916ebfa4853f032d86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1310478837,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1310478837,
+    "wof:lastmodified":1536955468,
+    "wof:name":"Laa",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.1791,
+    6.70704,
+    -11.1791,
+    6.70704
+],
+  "geometry": {"coordinates":[-11.1791,6.70704],"type":"Point"}
+}

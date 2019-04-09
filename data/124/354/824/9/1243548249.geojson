@@ -1,0 +1,67 @@
+{
+  "id": 1243548249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.89767,5.33321,-8.89767,5.33321",
+    "geom:latitude":5.33321,
+    "geom:longitude":-8.89767,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Saydee",
+    "gn:country_code":"LR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870545,
+    "gn:latitude":5.33321,
+    "gn:longitude":-8.89767,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Saydee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870545
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9bb857d699af9250c47b9706b2787c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694579,
+            "locality_id":1243548249,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1243548249,
+    "wof:lastmodified":1536658969,
+    "wof:name":"Saydee",
+    "wof:parent_id":1091694579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.89767,
+    5.33321,
+    -8.89767,
+    5.33321
+],
+  "geometry": {"coordinates":[-8.89767,5.33321],"type":"Point"}
+}

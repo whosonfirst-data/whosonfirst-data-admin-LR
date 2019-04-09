@@ -1,0 +1,70 @@
+{
+  "id": 1226056857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31667,7.35,-9.31667,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":-9.31667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wumbeta",
+    "gn:country_code":"LR",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272908,
+    "gn:latitude":7.35,
+    "gn:longitude":-9.31667,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wumbeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wumbeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272908
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"58e4c14289943bab7ed20ea1a662064c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692555,
+            "locality_id":1226056857,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1226056857,
+    "wof:lastmodified":1537661627,
+    "wof:name":"Wumbeta",
+    "wof:parent_id":1091692555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31667,
+    7.35,
+    -9.31667,
+    7.35
+],
+  "geometry": {"coordinates":[-9.31667,7.35],"type":"Point"}
+}

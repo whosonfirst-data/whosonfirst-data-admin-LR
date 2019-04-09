@@ -1,0 +1,70 @@
+{
+  "id": 1276402933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.42407,6.22893,-10.42407,6.22893",
+    "geom:latitude":6.22893,
+    "geom:longitude":-10.42407,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tluya",
+    "gn:country_code":"LR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273562,
+    "gn:latitude":6.22893,
+    "gn:longitude":-10.42407,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tluya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tluya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273562
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9f643b90ba43c50a689dd94eab3d232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1276402933,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1276402933,
+    "wof:lastmodified":1537661647,
+    "wof:name":"Tluya",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.42407,
+    6.22893,
+    -10.42407,
+    6.22893
+],
+  "geometry": {"coordinates":[-10.42407,6.22893],"type":"Point"}
+}

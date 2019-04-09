@@ -1,0 +1,67 @@
+{
+  "id": 1310277489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37297,4.95151,-8.37297,4.95151",
+    "geom:latitude":4.95151,
+    "geom:longitude":-8.37297,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Jeipo",
+    "gn:country_code":"LR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276351,
+    "gn:latitude":4.95151,
+    "gn:longitude":-8.37297,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Jeipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276351
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6b70516f8884be80045f183ff0ec280d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693179,
+            "locality_id":1310277489,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1310277489,
+    "wof:lastmodified":1536748211,
+    "wof:name":"Jeipo",
+    "wof:parent_id":1091693179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37297,
+    4.95151,
+    -8.37297,
+    4.95151
+],
+  "geometry": {"coordinates":[-8.37297,4.95151],"type":"Point"}
+}

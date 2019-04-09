@@ -1,0 +1,70 @@
+{
+  "id": 1259997285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.24722,6.94222,-10.24722,6.94222",
+    "geom:latitude":6.94222,
+    "geom:longitude":-10.24722,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Meda",
+    "gn:country_code":"LR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275014,
+    "gn:latitude":6.94222,
+    "gn:longitude":-10.24722,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Meda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275014
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"74dc4b9cc2eebb591e34180e98061795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1259997285,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259997285,
+    "wof:lastmodified":1537661690,
+    "wof:name":"Meda",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.24722,
+    6.94222,
+    -10.24722,
+    6.94222
+],
+  "geometry": {"coordinates":[-10.24722,6.94222],"type":"Point"}
+}

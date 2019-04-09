@@ -1,0 +1,71 @@
+{
+  "id": 1293561609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11476,4.63051,-8.11476,4.63051",
+    "geom:latitude":4.63051,
+    "geom:longitude":-8.11476,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gbarken",
+    "gn:country_code":"LR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273521,
+    "gn:latitude":4.63051,
+    "gn:longitude":-8.11476,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbarken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tolbertville",
+        "Gbanken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273521
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bb0b3365c8a0185f122f3096a53e2baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693271,
+            "locality_id":1293561609,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1293561609,
+    "wof:lastmodified":1537661646,
+    "wof:name":"Gbarken",
+    "wof:parent_id":1091693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11476,
+    4.63051,
+    -8.11476,
+    4.63051
+],
+  "geometry": {"coordinates":[-8.11476,4.63051],"type":"Point"}
+}

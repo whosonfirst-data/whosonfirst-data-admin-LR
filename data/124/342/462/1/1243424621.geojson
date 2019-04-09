@@ -1,0 +1,67 @@
+{
+  "id": 1243424621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.88494,6.55333,-10.88494,6.55333",
+    "geom:latitude":6.55333,
+    "geom:longitude":-10.88494,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bima",
+    "gn:country_code":"LR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278572,
+    "gn:latitude":6.55333,
+    "gn:longitude":-10.88494,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278572
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c0c51c65c0c7ac0c35b7d0413078dfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1243424621,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1243424621,
+    "wof:lastmodified":1536836016,
+    "wof:name":"Bima",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.88494,
+    6.55333,
+    -10.88494,
+    6.55333
+],
+  "geometry": {"coordinates":[-10.88494,6.55333],"type":"Point"}
+}

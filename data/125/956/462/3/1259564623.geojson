@@ -1,0 +1,67 @@
+{
+  "id": 1259564623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75726,6.10888,-9.75726,6.10888",
+    "geom:latitude":6.10888,
+    "geom:longitude":-9.75726,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Operator Camp",
+    "gn:country_code":"LR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274531,
+    "gn:latitude":6.10888,
+    "gn:longitude":-9.75726,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Operator Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274531
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1e86de5b2b946c24c706ee08fe43603b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1259564623,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1259564623,
+    "wof:lastmodified":1536741848,
+    "wof:name":"Operator Camp",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75726,
+    6.10888,
+    -9.75726,
+    6.10888
+],
+  "geometry": {"coordinates":[-9.75726,6.10888],"type":"Point"}
+}

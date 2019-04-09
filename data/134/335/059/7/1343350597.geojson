@@ -1,0 +1,70 @@
+{
+  "id": 1343350597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80444,4.95111,-8.80444,4.95111",
+    "geom:latitude":4.95111,
+    "geom:longitude":-8.80444,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kabada Number Two",
+    "gn:country_code":"LR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572126,
+    "gn:latitude":4.95111,
+    "gn:longitude":-8.80444,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kabada Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paytay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572126
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"afe720d157ce44f97adc369e49f642bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694701,
+            "locality_id":1343350597,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1343350597,
+    "wof:lastmodified":1537661827,
+    "wof:name":"Kabada Number Two",
+    "wof:parent_id":1091694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80444,
+    4.95111,
+    -8.80444,
+    4.95111
+],
+  "geometry": {"coordinates":[-8.80444,4.95111],"type":"Point"}
+}

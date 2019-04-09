@@ -1,0 +1,73 @@
+{
+  "id": 1226727007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.35251,6.90745,-11.35251,6.90745",
+    "geom:latitude":6.90745,
+    "geom:longitude":-11.35251,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bobalor",
+    "gn:country_code":"LR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279088,
+    "gn:latitude":6.90745,
+    "gn:longitude":-11.35251,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bobalor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babalo",
+        "Bobalo",
+        "Bubalo",
+        "Bobalor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279088
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9671cffc1fbc3b181eed294dfc6b7435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1226727007,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1226727007,
+    "wof:lastmodified":1537661823,
+    "wof:name":"Bobalor",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.35251,
+    6.90745,
+    -11.35251,
+    6.90745
+],
+  "geometry": {"coordinates":[-11.35251,6.90745],"type":"Point"}
+}

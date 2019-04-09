@@ -1,0 +1,87 @@
+{
+  "id": 1091694121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013612,
+    "geom:area_square_m":167304569.15383,
+    "geom:bbox":"-10.813504,6.215816,-10.6151,6.364958",
+    "geom:latitude":6.292497,
+    "geom:longitude":-10.712455,
+    "iso:country":"LR",
+    "lbl:latitude":6.294133,
+    "lbl:longitude":-10.694418,
+    "meso:admin_1":"Montserrado",
+    "meso:gadm_admin":"Greater Monrovia",
+    "meso:hasc_id":"LR.MO.MO",
+    "meso:mps_x":-10.694418,
+    "meso:mps_y":6.294133,
+    "meso:name_en":"Greater Monrovia",
+    "meso:source":"USAID",
+    "mps:latitude":6.294133,
+    "mps:longitude":-10.694418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Greater Monrovia"
+    ],
+    "name:eng_x_variant":[
+        "Greater Monrovia"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-03-21",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2008-03-21",
+    "statoids:capital":"",
+    "statoids:country":"LR",
+    "statoids:hasc":"LR.MO",
+    "statoids:name":"Greater Monrovia",
+    "statoids:population":"970824",
+    "statoids:statoid":"LR.MO.MO",
+    "statoids:timezone":"0",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LR.MO.MO"
+    },
+    "wof:country":"LR",
+    "wof:created":1473879490,
+    "wof:geomhash":"8744ef2b9ce27632ab4948c4c25924bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1091694121,
+    "wof:lastmodified":1536614937,
+    "wof:name":"Greater Monrovia",
+    "wof:parent_id":85673541,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":970824,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:shortcode":"MO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.813504,
+    6.215816,
+    -10.6151,
+    6.364958
+],
+  "geometry": {"coordinates":[[[-10.790604,6.359264],[-10.78432,6.364681],[-10.777852,6.364958],[-10.77113,6.362231],[-10.767172,6.358328],[-10.76273,6.351423],[-10.760348,6.342191],[-10.760745,6.333403],[-10.760898,6.322997],[-10.75531,6.317256],[-10.750249,6.320298],[-10.747979,6.325862],[-10.74525,6.331662],[-10.743443,6.337224],[-10.740482,6.343025],[-10.734982,6.349075],[-10.728749,6.350043],[-10.722978,6.350777],[-10.715796,6.348516],[-10.709748,6.343239],[-10.707396,6.337475],[-10.704133,6.333799],[-10.697655,6.332687],[-10.690728,6.333429],[-10.684954,6.333931],[-10.678715,6.333974],[-10.675226,6.330761],[-10.672203,6.328239],[-10.668475,6.324102],[-10.662655,6.318361],[-10.658223,6.312611],[-10.649193,6.309898],[-10.637715,6.306778],[-10.63673,6.304409],[-10.641963,6.29304],[-10.649265,6.280499],[-10.648016,6.267556],[-10.643801,6.259954],[-10.635437,6.253535],[-10.62867,6.244562],[-10.622144,6.236743],[-10.617464,6.228681],[-10.6151,6.221295],[-10.615109,6.215816],[-10.680434,6.230764],[-10.6926,6.23562],[-10.699249,6.241382],[-10.706346,6.252429],[-10.710702,6.256115],[-10.722636,6.26166],[-10.754561,6.26817],[-10.762356,6.275542],[-10.790581,6.292382],[-10.801125,6.303436],[-10.811682,6.308976],[-10.813504,6.315643],[-10.81142,6.322072],[-10.803596,6.32688],[-10.800594,6.332617],[-10.790455,6.344542],[-10.787912,6.350509],[-10.788362,6.355106],[-10.790604,6.359264]]],"type":"Polygon"}
+}

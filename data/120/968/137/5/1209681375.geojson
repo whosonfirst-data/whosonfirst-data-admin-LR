@@ -1,0 +1,61 @@
+{
+  "id": 1209681375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53376,5.82876,-7.53376,5.82876",
+    "geom:latitude":5.82876,
+    "geom:longitude":-7.53376,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kwiti",
+    "gn:country_code":"LR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275479,
+    "gn:latitude":5.82876,
+    "gn:longitude":-7.53376,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kwiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275479
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0e7b3cea5bf426a6a1172699f808ce17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209681375
+        }
+    ],
+    "wof:id":1209681375,
+    "wof:lastmodified":1536279563,
+    "wof:name":"Kwiti",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.533760000000001,
+    5.82876,
+    -7.533760000000001,
+    5.82876
+],
+  "geometry": {"coordinates":[-7.53376,5.82876],"type":"Point"}
+}

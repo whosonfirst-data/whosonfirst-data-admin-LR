@@ -1,0 +1,67 @@
+{
+  "id": 1327017945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.07387,6.28402,-10.07387,6.28402",
+    "geom:latitude":6.28402,
+    "geom:longitude":-10.07387,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zobli",
+    "gn:country_code":"LR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272574,
+    "gn:latitude":6.28402,
+    "gn:longitude":-10.07387,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Zobli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272574
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7e856c15ad1b0653bc52be6e5911e8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692735,
+            "locality_id":1327017945,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327017945,
+    "wof:lastmodified":1536781838,
+    "wof:name":"Zobli",
+    "wof:parent_id":1091692735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.07387,
+    6.28402,
+    -10.07387,
+    6.28402
+],
+  "geometry": {"coordinates":[-10.07387,6.28402],"type":"Point"}
+}

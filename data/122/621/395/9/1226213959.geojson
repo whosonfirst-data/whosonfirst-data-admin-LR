@@ -1,0 +1,70 @@
+{
+  "id": 1226213959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.10115,6.63633,-10.10115,6.63633",
+    "geom:latitude":6.63633,
+    "geom:longitude":-10.10115,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Camp Number Three",
+    "gn:country_code":"LR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571788,
+    "gn:latitude":6.63633,
+    "gn:longitude":-10.10115,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Camp Number Three",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camp Number 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571788
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"84735e504232a9c6059b5013479f29fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692525,
+            "locality_id":1226213959,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1226213959,
+    "wof:lastmodified":1537661825,
+    "wof:name":"Camp Number Three",
+    "wof:parent_id":1091692525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.10115,
+    6.63633,
+    -10.10115,
+    6.63633
+],
+  "geometry": {"coordinates":[-10.10115,6.63633],"type":"Point"}
+}

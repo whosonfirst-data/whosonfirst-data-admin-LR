@@ -1,0 +1,67 @@
+{
+  "id": 1209905283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34361,5.33912,-8.34361,5.33912",
+    "geom:latitude":5.33912,
+    "geom:longitude":-8.34361,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Peluah",
+    "gn:country_code":"LR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9977192,
+    "gn:latitude":5.33912,
+    "gn:longitude":-8.34361,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Peluah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9977192
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0c965694a8152f2bd3b1db98b310c1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1209905283,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1209905283,
+    "wof:lastmodified":1536384497,
+    "wof:name":"Peluah",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34361,
+    5.33912,
+    -8.34361,
+    5.33912
+],
+  "geometry": {"coordinates":[-8.34361,5.33912],"type":"Point"}
+}

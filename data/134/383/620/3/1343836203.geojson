@@ -1,0 +1,70 @@
+{
+  "id": 1343836203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66372,6.05057,-9.66372,6.05057",
+    "geom:latitude":6.05057,
+    "geom:longitude":-9.66372,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Giahdyu Village",
+    "gn:country_code":"LR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277237,
+    "gn:latitude":6.05057,
+    "gn:longitude":-9.66372,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Giahdyu Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaiyubli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277237
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9198658edfce757ea546a8f454c7af91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692865,
+            "locality_id":1343836203,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1343836203,
+    "wof:lastmodified":1537661766,
+    "wof:name":"Giahdyu Village",
+    "wof:parent_id":1091692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66372,
+    6.05057,
+    -9.66372,
+    6.05057
+],
+  "geometry": {"coordinates":[-9.66372,6.05057],"type":"Point"}
+}

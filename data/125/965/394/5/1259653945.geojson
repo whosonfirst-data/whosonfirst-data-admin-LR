@@ -1,0 +1,71 @@
+{
+  "id": 1259653945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58713,6.81391,-10.58713,6.81391",
+    "geom:latitude":6.81391,
+    "geom:longitude":-10.58713,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Geba",
+    "gn:country_code":"LR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276911,
+    "gn:latitude":6.81391,
+    "gn:longitude":-10.58713,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Geba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gebe",
+        "Geba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276911
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"67d476095ee9eac311b38d71f8f324c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692381,
+            "locality_id":1259653945,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1259653945,
+    "wof:lastmodified":1537661752,
+    "wof:name":"Geba",
+    "wof:parent_id":1091692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58713,
+    6.81391,
+    -10.58713,
+    6.81391
+],
+  "geometry": {"coordinates":[-10.58713,6.81391],"type":"Point"}
+}

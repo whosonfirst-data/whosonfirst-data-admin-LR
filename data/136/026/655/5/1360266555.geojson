@@ -1,0 +1,67 @@
+{
+  "id": 1360266555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.20354,6.08995,-10.20354,6.08995",
+    "geom:latitude":6.08995,
+    "geom:longitude":-10.20354,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ben Loganbli",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278690,
+    "gn:latitude":6.08995,
+    "gn:longitude":-10.20354,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Ben Loganbli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278690
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d95b093f807377e384e2b6e66486fca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692709,
+            "locality_id":1360266555,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1360266555,
+    "wof:lastmodified":1536683867,
+    "wof:name":"Ben Loganbli",
+    "wof:parent_id":1091692709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.20354,
+    6.08995,
+    -10.20354,
+    6.08995
+],
+  "geometry": {"coordinates":[-10.20354,6.08995],"type":"Point"}
+}

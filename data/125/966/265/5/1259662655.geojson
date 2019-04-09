@@ -1,0 +1,73 @@
+{
+  "id": 1259662655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43326,6.59135,-10.43326,6.59135",
+    "geom:latitude":6.59135,
+    "geom:longitude":-10.43326,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pleemu",
+    "gn:country_code":"LR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274397,
+    "gn:latitude":6.59135,
+    "gn:longitude":-10.43326,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pleemu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sim",
+        "Pilimu",
+        "Plemu",
+        "Pleemu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274397
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"cf96c88cb022974c9ca08a07cbf1afe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1259662655,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1259662655,
+    "wof:lastmodified":1537661673,
+    "wof:name":"Pleemu",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43326,
+    6.59135,
+    -10.43326,
+    6.59135
+],
+  "geometry": {"coordinates":[-10.43326,6.59135],"type":"Point"}
+}

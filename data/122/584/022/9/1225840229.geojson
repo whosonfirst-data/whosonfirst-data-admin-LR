@@ -1,0 +1,67 @@
+{
+  "id": 1225840229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93804,4.99318,-8.93804,4.99318",
+    "geom:latitude":4.99318,
+    "geom:longitude":-8.93804,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Potoma",
+    "gn:country_code":"LR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274325,
+    "gn:latitude":4.99318,
+    "gn:longitude":-8.93804,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Potoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274325
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4f768f01f757b726005b8e632c25aba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694701,
+            "locality_id":1225840229,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1225840229,
+    "wof:lastmodified":1537020739,
+    "wof:name":"Potoma",
+    "wof:parent_id":1091694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93804,
+    4.99318,
+    -8.93804,
+    4.99318
+],
+  "geometry": {"coordinates":[-8.93804,4.99318],"type":"Point"}
+}

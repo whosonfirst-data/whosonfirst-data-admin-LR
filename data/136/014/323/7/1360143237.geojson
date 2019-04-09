@@ -1,0 +1,74 @@
+{
+  "id": 1360143237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50917,5.38111,-7.50917,5.38111",
+    "geom:latitude":5.38111,
+    "geom:longitude":-7.50917,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Wlorptue",
+    "gn:country_code":"LR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275361,
+    "gn:latitude":5.38111,
+    "gn:longitude":-7.50917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wlorptue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liopu Town",
+        "Leopard Town",
+        "Kwala",
+        "Leopard",
+        "Wlorptue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275361
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b0600f009c5f8c34c6f84d668ba8e8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1360143237,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1360143237,
+    "wof:lastmodified":1537661699,
+    "wof:name":"Wlorptue",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50917,
+    5.38111,
+    -7.50917,
+    5.38111
+],
+  "geometry": {"coordinates":[-7.50917,5.38111],"type":"Point"}
+}

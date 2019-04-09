@@ -1,0 +1,67 @@
+{
+  "id": 1276624997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76667,6.56667,-10.76667,6.56667",
+    "geom:latitude":6.56667,
+    "geom:longitude":-10.76667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Casa Town",
+    "gn:country_code":"LR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278067,
+    "gn:latitude":6.56667,
+    "gn:longitude":-10.76667,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Casa Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278067
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3ca8adabafe3650480a2b5787fb23cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1276624997,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1276624997,
+    "wof:lastmodified":1536884799,
+    "wof:name":"Casa Town",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76667,
+    6.56667,
+    -10.76667,
+    6.56667
+],
+  "geometry": {"coordinates":[-10.76667,6.56667],"type":"Point"}
+}

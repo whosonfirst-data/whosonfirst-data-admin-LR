@@ -1,0 +1,67 @@
+{
+  "id": 1343946979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68306,5.49806,-8.68306,5.49806",
+    "geom:latitude":5.49806,
+    "geom:longitude":-8.68306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kala",
+    "gn:country_code":"LR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276083,
+    "gn:latitude":5.49806,
+    "gn:longitude":-8.68306,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Kala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276083
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d304d33476eaeeec60cbe4ec1ebbe2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694579,
+            "locality_id":1343946979,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1343946979,
+    "wof:lastmodified":1537037859,
+    "wof:name":"Kala",
+    "wof:parent_id":1091694579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68306,
+    5.49806,
+    -8.68306,
+    5.49806
+],
+  "geometry": {"coordinates":[-8.68306,5.49806],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1126073179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.78333,6.3,-10.78333,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":-10.78333,
+    "gn:gn_country":"LR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":6.3,
+    "gn:longitude":-10.78333,
+    "iso:country":"LR",
+    "lbl:latitude":6.3,
+    "lbl:longitude":-10.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Plonkor"
+    ],
+    "name:unk_x_variant":[
+        "Plonkor"
+    ],
+    "qs_pg:aaroncc":"LR",
+    "qs_pg:gn_country":"LR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2274369,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Plonkor",
+    "qs_pg:name_adm0":"Liberia",
+    "qs_pg:name_adm1":"Montserrado",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":266860,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424876,
+    "qs_pg:woe_id":1350931,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424876,
+    "woe:name_adm0":"Liberia",
+    "woe:name_adm1":"Montserrado",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85673541,
+        102191573,
+        85632249,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274369,
+        "gp:id":1350931,
+        "qs:id":266860,
+        "qs_pg:id":266860
+    },
+    "wof:country":"LR",
+    "wof:created":1497310368,
+    "wof:geomhash":"f977f17ba80b2872b5313f3091d1651b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":-1,
+            "neighbourhood_id":1126073179,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1126073179,
+    "wof:lastmodified":1534379377,
+    "wof:name":"Plonkor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85765585
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.78333,
+    6.3,
+    -10.78333,
+    6.3
+],
+  "geometry": {"coordinates":[-10.78333,6.3],"type":"Point"}
+}

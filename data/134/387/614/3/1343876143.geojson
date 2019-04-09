@@ -1,0 +1,73 @@
+{
+  "id": 1343876143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55627,7.05308,-9.55627,7.05308",
+    "geom:latitude":7.05308,
+    "geom:longitude":-9.55627,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sinyea",
+    "gn:country_code":"LR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274215,
+    "gn:latitude":7.05308,
+    "gn:longitude":-9.55627,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sinyea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sinyea"
+    ],
+    "name:und_x_variant":[
+        "Saini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274215
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"82749f0c63a71f6ae030974fcc478f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1343876143,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343876143,
+    "wof:lastmodified":1537661668,
+    "wof:name":"Sinyea",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55627,
+    7.05308,
+    -9.55627,
+    7.05308
+],
+  "geometry": {"coordinates":[-9.55627,7.05308],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209123967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0075,6.73111,-10.0075,6.73111",
+    "geom:latitude":6.73111,
+    "geom:longitude":-10.0075,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Niatila",
+    "gn:country_code":"LR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274708,
+    "gn:latitude":6.73111,
+    "gn:longitude":-10.0075,
+    "gn:modification_date":"1995-12-19",
+    "gn:name":"Niatila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274708
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0252408e476d8a9edeaba4548b7208f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209123967
+        }
+    ],
+    "wof:id":1209123967,
+    "wof:lastmodified":1536297012,
+    "wof:name":"Niatila",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0075,
+    6.73111,
+    -10.0075,
+    6.73111
+],
+  "geometry": {"coordinates":[-10.0075,6.73111],"type":"Point"}
+}

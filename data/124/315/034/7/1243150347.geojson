@@ -1,0 +1,67 @@
+{
+  "id": 1243150347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98575,6.09307,-9.98575,6.09307",
+    "geom:latitude":6.09307,
+    "geom:longitude":-9.98575,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dopawe",
+    "gn:country_code":"LR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277599,
+    "gn:latitude":6.09307,
+    "gn:longitude":-9.98575,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Dopawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277599
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2f419799380ec05311a8a0074c492a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692889,
+            "locality_id":1243150347,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1243150347,
+    "wof:lastmodified":1536735607,
+    "wof:name":"Dopawe",
+    "wof:parent_id":1091692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98575,
+    6.09307,
+    -9.98575,
+    6.09307
+],
+  "geometry": {"coordinates":[-9.98575,6.09307],"type":"Point"}
+}

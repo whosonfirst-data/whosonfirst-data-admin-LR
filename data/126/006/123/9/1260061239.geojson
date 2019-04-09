@@ -1,0 +1,67 @@
+{
+  "id": 1260061239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23604,6.57647,-9.23604,6.57647",
+    "geom:latitude":6.57647,
+    "geom:longitude":-9.23604,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Wehgar",
+    "gn:country_code":"LR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9815409,
+    "gn:latitude":6.57647,
+    "gn:longitude":-9.23604,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Wehgar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9815409
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"06e687142a947f10518e069e868fd29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1260061239,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1260061239,
+    "wof:lastmodified":1537019282,
+    "wof:name":"Wehgar",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23604,
+    6.57647,
+    -9.23604,
+    6.57647
+],
+  "geometry": {"coordinates":[-9.23604,6.57647],"type":"Point"}
+}

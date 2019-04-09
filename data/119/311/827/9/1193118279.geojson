@@ -1,0 +1,67 @@
+{
+  "id": 1193118279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.83769,5.79958,-9.83769,5.79958",
+    "geom:latitude":5.79958,
+    "geom:longitude":-9.83769,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gweh Town",
+    "gn:country_code":"LR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572012,
+    "gn:latitude":5.79958,
+    "gn:longitude":-9.83769,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Gweh Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572012
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e733bd6e294dec05eb86839118ad0047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692865,
+            "locality_id":1193118279,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1193118279,
+    "wof:lastmodified":1536366177,
+    "wof:name":"Gweh Town",
+    "wof:parent_id":1091692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.83769,
+    5.79958,
+    -9.83769,
+    5.79958
+],
+  "geometry": {"coordinates":[-9.83769,5.79958],"type":"Point"}
+}

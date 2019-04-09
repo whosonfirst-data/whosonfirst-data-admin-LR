@@ -1,0 +1,67 @@
+{
+  "id": 1343742377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.32085,6.76441,-11.32085,6.76441",
+    "geom:latitude":6.76441,
+    "geom:longitude":-11.32085,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Weima",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273175,
+    "gn:latitude":6.76441,
+    "gn:longitude":-11.32085,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Weima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wehma",
+        "Weima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273175
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"dbc2145ab06b6b5a851f18e12598e8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343742377,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343742377,
+    "wof:lastmodified":1537661635,
+    "wof:name":"Weima",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.32085,
+    6.76441,
+    -11.32085,
+    6.76441
+],
+  "geometry": {"coordinates":[-11.32085,6.76441],"type":"Point"}
+}

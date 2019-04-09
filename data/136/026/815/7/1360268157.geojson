@@ -1,0 +1,72 @@
+{
+  "id": 1360268157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.92568,6.66325,-10.92568,6.66325",
+    "geom:latitude":6.66325,
+    "geom:longitude":-10.92568,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gohnzipo",
+    "gn:country_code":"LR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276750,
+    "gn:latitude":6.66325,
+    "gn:longitude":-10.92568,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Gohnzipo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gohn-Sipo",
+        "Gohnzipo",
+        "Gohnsipo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276750
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fa1e5c9afab90fcc46476538cfc1db44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1360268157,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1360268157,
+    "wof:lastmodified":1537661746,
+    "wof:name":"Gohnzipo",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.92568,
+    6.66325,
+    -10.92568,
+    6.66325
+],
+  "geometry": {"coordinates":[-10.92568,6.66325],"type":"Point"}
+}

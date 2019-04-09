@@ -1,0 +1,72 @@
+{
+  "id": 1293352297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.86806,8.40472,-9.86806,8.40472",
+    "geom:latitude":8.40472,
+    "geom:longitude":-9.86806,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Duojalamai",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277503,
+    "gn:latitude":8.40472,
+    "gn:longitude":-9.86806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Duojalamai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duojamai",
+        "Duojalamai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277503
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0f2e7497a2a767e47fec68f1779e4a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1293352297,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1293352297,
+    "wof:lastmodified":1537661774,
+    "wof:name":"Duojalamai",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.86806,
+    8.40472,
+    -9.86806,
+    8.40472
+],
+  "geometry": {"coordinates":[-9.86806,8.40472],"type":"Point"}
+}

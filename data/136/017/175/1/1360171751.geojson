@@ -1,0 +1,67 @@
+{
+  "id": 1360171751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.90945,7.19353,-10.90945,7.19353",
+    "geom:latitude":7.19353,
+    "geom:longitude":-10.90945,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bundiakoa",
+    "gn:country_code":"LR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278123,
+    "gn:latitude":7.19353,
+    "gn:longitude":-10.90945,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bundiakoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278123
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4f789a4ab1d61f44c248e2efd9e3004f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692999,
+            "locality_id":1360171751,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1360171751,
+    "wof:lastmodified":1536819789,
+    "wof:name":"Bundiakoa",
+    "wof:parent_id":1091692999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.90945,
+    7.19353,
+    -10.90945,
+    7.19353
+],
+  "geometry": {"coordinates":[-10.90945,7.19353],"type":"Point"}
+}

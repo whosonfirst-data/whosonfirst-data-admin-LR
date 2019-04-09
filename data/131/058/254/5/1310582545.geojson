@@ -1,0 +1,71 @@
+{
+  "id": 1310582545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0709,6.37278,-10.0709,6.37278",
+    "geom:latitude":6.37278,
+    "geom:longitude":-10.0709,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Baduna",
+    "gn:country_code":"LR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277513,
+    "gn:latitude":6.37278,
+    "gn:longitude":-10.0709,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Baduna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dundunwehn",
+        "Baduna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277513
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2868465374abbd720e123327f70b9305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1310582545,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1310582545,
+    "wof:lastmodified":1537661775,
+    "wof:name":"Baduna",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0709,
+    6.37278,
+    -10.0709,
+    6.37278
+],
+  "geometry": {"coordinates":[-10.0709,6.37278],"type":"Point"}
+}

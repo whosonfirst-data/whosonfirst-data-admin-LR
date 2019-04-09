@@ -1,0 +1,72 @@
+{
+  "id": 1259667471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97572,5.35576,-8.97572,5.35576",
+    "geom:latitude":5.35576,
+    "geom:longitude":-8.97572,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chea Town",
+    "gn:country_code":"LR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277815,
+    "gn:latitude":5.35576,
+    "gn:longitude":-8.97572,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Chea Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dewilly Town",
+        "Tarlo Town",
+        "Chea Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277815
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c6e2dd65dd76f7fc508227be2b567d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1259667471,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1259667471,
+    "wof:lastmodified":1537661783,
+    "wof:name":"Chea Town",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97572,
+    5.35576,
+    -8.97572,
+    5.35576
+],
+  "geometry": {"coordinates":[-8.97572,5.35576],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309768707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33626,6.12984,-8.33626,6.12984",
+    "geom:latitude":6.12984,
+    "geom:longitude":-8.33626,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Baglor Town",
+    "gn:country_code":"LR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277129,
+    "gn:latitude":6.12984,
+    "gn:longitude":-8.33626,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Baglor Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togbebli",
+        "Gbagblo Town",
+        "Togbede Town",
+        "Gbagblobli",
+        "Baglor Town",
+        "Gbazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277129
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"02ae968de110601e017298167892f6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1309768707,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1309768707,
+    "wof:lastmodified":1537661762,
+    "wof:name":"Baglor Town",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33626,
+    6.12984,
+    -8.33626,
+    6.12984
+],
+  "geometry": {"coordinates":[-8.33626,6.12984],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327221857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.10267,6.15012,-10.10267,6.15012",
+    "geom:latitude":6.15012,
+    "geom:longitude":-10.10267,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Balabli",
+    "gn:country_code":"LR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278991,
+    "gn:latitude":6.15012,
+    "gn:longitude":-10.10267,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Balabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278991
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9c17253c013eb802a24b37e1a6819978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692735,
+            "locality_id":1327221857,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327221857,
+    "wof:lastmodified":1536984080,
+    "wof:name":"Balabli",
+    "wof:parent_id":1091692735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.10267,
+    6.15012,
+    -10.10267,
+    6.15012
+],
+  "geometry": {"coordinates":[-10.10267,6.15012],"type":"Point"}
+}

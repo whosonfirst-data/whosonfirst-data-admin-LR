@@ -1,0 +1,132 @@
+{
+  "id": 85765577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4544362.916588,
+    "geom:bbox":"-10.797983,6.301184,-10.797983,6.301184",
+    "geom:latitude":6.301184,
+    "geom:longitude":-10.797983,
+    "gn:gn_country":"LR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":6.3,
+    "gn:longitude":-10.8,
+    "iso:country":"LR",
+    "lbl:latitude":6.301184,
+    "lbl:longitude":-10.797983,
+    "mps:latitude":6.297491,
+    "mps:longitude":-10.801236,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Bassa Community"
+    ],
+    "name:unk_x_variant":[
+        "Bassa Community"
+    ],
+    "qs:gn_adm0_cc":"LR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2274895,
+    "qs:gn_nam_loc":"Monrovia, Monrovia, Montserrado County, LR",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Bassa Community",
+    "qs:local_max":1412,
+    "qs:local_sum":1708,
+    "qs:localhoods":5,
+    "qs:name":"Bassa Community",
+    "qs:name_adm0":"Liberia",
+    "qs:name_adm1":"Monrovia",
+    "qs:name_local":"Monrovia",
+    "qs:photo_max":20,
+    "qs:photo_sum":46,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424876,
+    "qs:woe_adm1":2346102,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1350536,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"LR",
+    "qs_pg:gn_country":"LR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2278866,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bassa Community",
+    "qs_pg:name_adm0":"Liberia",
+    "qs_pg:name_adm1":"Monrovia",
+    "qs_pg:photos":803,
+    "qs_pg:photos_1k":163,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":803,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":279381,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424876,
+    "qs_pg:woe_id":1347647,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673541,
+        102191573,
+        85632249,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278866,
+        "gp:id":1347647,
+        "qs:id":279381,
+        "qs_pg:id":279381
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fb8a612f0eb4d2aa73b524e688f20cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":-1,
+            "neighbourhood_id":85765577,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":85765577,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379377,
+    "wof:name":"Bassa Community",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126102081
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.797983,
+    6.301184,
+    -10.797983,
+    6.301184
+],
+  "geometry": {"coordinates":[-10.797983,6.301184],"type":"Point"}
+}

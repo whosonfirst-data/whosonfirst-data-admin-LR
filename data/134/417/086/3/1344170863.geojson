@@ -1,0 +1,70 @@
+{
+  "id": 1344170863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61957,7.08383,-9.61957,7.08383",
+    "geom:latitude":7.08383,
+    "geom:longitude":-9.61957,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Porkpata",
+    "gn:country_code":"LR",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869671,
+    "gn:latitude":7.08383,
+    "gn:longitude":-9.61957,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Porkpata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Porkpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869671
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"97a17dea58a6237ef3be7d1ab0725f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1344170863,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1344170863,
+    "wof:lastmodified":1537661830,
+    "wof:name":"Porkpata",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61957,
+    7.08383,
+    -9.61957,
+    7.08383
+],
+  "geometry": {"coordinates":[-9.61957,7.08383],"type":"Point"}
+}

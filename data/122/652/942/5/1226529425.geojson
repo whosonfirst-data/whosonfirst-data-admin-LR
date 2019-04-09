@@ -1,0 +1,72 @@
+{
+  "id": 1226529425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.21667,6.95,-11.21667,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":-11.21667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sakapaie",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274201,
+    "gn:latitude":6.95,
+    "gn:longitude":-11.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sakapaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saklepie",
+        "Sakapaie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274201
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9c44d0fdf4cb9a07c95b243517d721c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1226529425,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1226529425,
+    "wof:lastmodified":1537661668,
+    "wof:name":"Sakapaie",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.21667,
+    6.95,
+    -11.21667,
+    6.95
+],
+  "geometry": {"coordinates":[-11.21667,6.95],"type":"Point"}
+}

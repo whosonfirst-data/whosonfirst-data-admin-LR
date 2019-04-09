@@ -1,0 +1,61 @@
+{
+  "id": 1209502129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.01761,7.29573,-11.01761,7.29573",
+    "geom:latitude":7.29573,
+    "geom:longitude":-11.01761,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gbauju Village",
+    "gn:country_code":"LR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805901,
+    "gn:latitude":7.29573,
+    "gn:longitude":-11.01761,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Gbauju Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805901
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5cf50bc85412631782621e7d5baab0f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209502129
+        }
+    ],
+    "wof:id":1209502129,
+    "wof:lastmodified":1536285149,
+    "wof:name":"Gbauju Village",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.01761,
+    7.295730000000002,
+    -11.01761,
+    7.295730000000002
+],
+  "geometry": {"coordinates":[-11.01761,7.29573],"type":"Point"}
+}

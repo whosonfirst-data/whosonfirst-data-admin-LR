@@ -1,0 +1,72 @@
+{
+  "id": 1326518353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23831,6.51007,-9.23831,6.51007",
+    "geom:latitude":6.51007,
+    "geom:longitude":-9.23831,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ba Jimmy Town",
+    "gn:country_code":"LR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279020,
+    "gn:latitude":6.51007,
+    "gn:longitude":-9.23831,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Ba Jimmy Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jimmy Town",
+        "Ba Jimmy",
+        "Ba Jimmy Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279020
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e3465ec6b460e9b989b83568c3b5a3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1326518353,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1326518353,
+    "wof:lastmodified":1537661820,
+    "wof:name":"Ba Jimmy Town",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23831,
+    6.51007,
+    -9.23831,
+    6.51007
+],
+  "geometry": {"coordinates":[-9.23831,6.51007],"type":"Point"}
+}

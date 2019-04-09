@@ -1,0 +1,67 @@
+{
+  "id": 1259660117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85,4.96306,-7.85,4.96306",
+    "geom:latitude":4.96306,
+    "geom:longitude":-7.85,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gwotuken",
+    "gn:country_code":"LR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572111,
+    "gn:latitude":4.96306,
+    "gn:longitude":-7.85,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Gwotuken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572111
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a772f7bdaf07b3298637e736324b0821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1259660117,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1259660117,
+    "wof:lastmodified":1536601121,
+    "wof:name":"Gwotuken",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85,
+    4.96306,
+    -7.85,
+    4.96306
+],
+  "geometry": {"coordinates":[-7.85,4.96306],"type":"Point"}
+}

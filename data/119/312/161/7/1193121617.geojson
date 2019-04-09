@@ -1,0 +1,72 @@
+{
+  "id": 1193121617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65056,7.04639,-8.65056,7.04639",
+    "geom:latitude":7.04639,
+    "geom:longitude":-8.65056,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lintuo",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275451,
+    "gn:latitude":7.04639,
+    "gn:longitude":-8.65056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lintuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamtuo",
+        "Lintuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275451
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f914cd0a63686eaae9674fd04ae682f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1193121617,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1193121617,
+    "wof:lastmodified":1537661702,
+    "wof:name":"Lintuo",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65056,
+    7.04639,
+    -8.65056,
+    7.04639
+],
+  "geometry": {"coordinates":[-8.65056,7.04639],"type":"Point"}
+}

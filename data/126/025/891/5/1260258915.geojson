@@ -1,0 +1,70 @@
+{
+  "id": 1260258915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.29628,6.6279,-10.29628,6.6279",
+    "geom:latitude":6.6279,
+    "geom:longitude":-10.29628,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Latell Farm",
+    "gn:country_code":"LR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275436,
+    "gn:latitude":6.6279,
+    "gn:longitude":-10.29628,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Latell Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Latell Farm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275436
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d766ea7aa8d5446c8be595b5036c0b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693791,
+            "locality_id":1260258915,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1260258915,
+    "wof:lastmodified":1537661701,
+    "wof:name":"Latell Farm",
+    "wof:parent_id":1091693791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.29628,
+    6.6279,
+    -10.29628,
+    6.6279
+],
+  "geometry": {"coordinates":[-10.29628,6.6279],"type":"Point"}
+}

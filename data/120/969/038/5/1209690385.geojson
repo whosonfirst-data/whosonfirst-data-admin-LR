@@ -1,0 +1,61 @@
+{
+  "id": 1209690385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11889,8.3775,-10.11889,8.3775",
+    "geom:latitude":8.3775,
+    "geom:longitude":-10.11889,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bololahun",
+    "gn:country_code":"LR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278351,
+    "gn:latitude":8.3775,
+    "gn:longitude":-10.11889,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Bololahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278351
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4f33baf43c3af25bbd7dd10071b54a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209690385
+        }
+    ],
+    "wof:id":1209690385,
+    "wof:lastmodified":1536279263,
+    "wof:name":"Bololahun",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11889,
+    8.3775,
+    -10.11889,
+    8.3775
+],
+  "geometry": {"coordinates":[-10.11889,8.3775],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327314001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14968,6.76428,-11.14968,6.76428",
+    "geom:latitude":6.76428,
+    "geom:longitude":-11.14968,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Vonzuahn",
+    "gn:country_code":"LR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273293,
+    "gn:latitude":6.76428,
+    "gn:longitude":-11.14968,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Vonzuahn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273293
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f0922969493ffac1776e60bbdb3a1ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1327314001,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1327314001,
+    "wof:lastmodified":1536850752,
+    "wof:name":"Vonzuahn",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14968,
+    6.76428,
+    -11.14968,
+    6.76428
+],
+  "geometry": {"coordinates":[-11.14968,6.76428],"type":"Point"}
+}

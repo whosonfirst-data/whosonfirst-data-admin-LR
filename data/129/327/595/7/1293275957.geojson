@@ -1,0 +1,70 @@
+{
+  "id": 1293275957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34972,5.21361,-9.34972,5.21361",
+    "geom:latitude":5.21361,
+    "geom:longitude":-9.34972,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sehnkwehn",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274035,
+    "gn:latitude":5.21361,
+    "gn:longitude":-9.34972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sehnkwehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangum",
+        "Sanguin",
+        "Sangwin",
+        "Sehnkwehn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274035
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9be6e8983c183956eedecde365bde2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293275957,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293275957,
+    "wof:lastmodified":1537661663,
+    "wof:name":"Sehnkwehn",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34972,
+    5.21361,
+    -9.34972,
+    5.21361
+],
+  "geometry": {"coordinates":[-9.34972,5.21361],"type":"Point"}
+}

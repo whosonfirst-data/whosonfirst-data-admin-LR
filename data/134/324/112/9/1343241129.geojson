@@ -1,0 +1,67 @@
+{
+  "id": 1343241129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76667,6.33333,-10.76667,6.33333",
+    "geom:latitude":6.33333,
+    "geom:longitude":-10.76667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Topoe Village",
+    "gn:country_code":"LR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273479,
+    "gn:latitude":6.33333,
+    "gn:longitude":-10.76667,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Topoe Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273479
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"619e537a8ff89a1fdb9279934a3875bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":1343241129,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1343241129,
+    "wof:lastmodified":1537060266,
+    "wof:name":"Topoe Village",
+    "wof:parent_id":1091694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76667,
+    6.33333,
+    -10.76667,
+    6.33333
+],
+  "geometry": {"coordinates":[-10.76667,6.33333],"type":"Point"}
+}

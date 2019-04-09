@@ -1,0 +1,70 @@
+{
+  "id": 1309726199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2842,7.04559,-9.2842,7.04559",
+    "geom:latitude":7.04559,
+    "geom:longitude":-9.2842,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kpanya",
+    "gn:country_code":"LR",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869781,
+    "gn:latitude":7.04559,
+    "gn:longitude":-9.2842,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kpanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869781
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ea2700900cac24612a335de0cedb8af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1309726199,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1309726199,
+    "wof:lastmodified":1537661831,
+    "wof:name":"Kpanya",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2842,
+    7.04559,
+    -9.2842,
+    7.04559
+],
+  "geometry": {"coordinates":[-9.2842,7.04559],"type":"Point"}
+}

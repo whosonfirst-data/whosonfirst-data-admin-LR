@@ -1,0 +1,67 @@
+{
+  "id": 1276531799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99553,5.30896,-8.99553,5.30896",
+    "geom:latitude":5.30896,
+    "geom:longitude":-8.99553,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Duarnneh",
+    "gn:country_code":"LR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870539,
+    "gn:latitude":5.30896,
+    "gn:longitude":-8.99553,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Duarnneh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870539
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"54b66634345676939df2b35e89a27c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1276531799,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1276531799,
+    "wof:lastmodified":1537009369,
+    "wof:name":"Duarnneh",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99553,
+    5.30896,
+    -8.99553,
+    5.30896
+],
+  "geometry": {"coordinates":[-8.99553,5.30896],"type":"Point"}
+}

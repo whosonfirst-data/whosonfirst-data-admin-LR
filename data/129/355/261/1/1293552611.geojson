@@ -1,0 +1,69 @@
+{
+  "id": 1293552611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48449,5.33959,-9.48449,5.33959",
+    "geom:latitude":5.33959,
+    "geom:longitude":-9.48449,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rock Cess Beach",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274271,
+    "gn:latitude":5.33959,
+    "gn:longitude":-9.48449,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Rock Cess Beach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rock Cess",
+        "Rock Cess Beach",
+        "Gleekloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274271
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c98d02431ecea1f5afb5576754f5fd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1293552611,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293552611,
+    "wof:lastmodified":1537661670,
+    "wof:name":"Rock Cess Beach",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48449,
+    5.33959,
+    -9.48449,
+    5.33959
+],
+  "geometry": {"coordinates":[-9.48449,5.33959],"type":"Point"}
+}

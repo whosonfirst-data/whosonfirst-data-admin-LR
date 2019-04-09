@@ -1,0 +1,68 @@
+{
+  "id": 1209603157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91667,5.83333,-9.91667,5.83333",
+    "geom:latitude":5.83333,
+    "geom:longitude":-9.91667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Logantown",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275342,
+    "gn:latitude":5.83333,
+    "gn:longitude":-9.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Logantown",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jacob Logan",
+        "Logans",
+        "Jacob H. Logan Town",
+        "Logantown"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275342
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b8edde4303badec74cb3fe6aca08e5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209603157
+        }
+    ],
+    "wof:id":1209603157,
+    "wof:lastmodified":1537661698,
+    "wof:name":"Logantown",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91667,
+    5.83333,
+    -9.91667,
+    5.83333
+],
+  "geometry": {"coordinates":[-9.91667,5.83333],"type":"Point"}
+}

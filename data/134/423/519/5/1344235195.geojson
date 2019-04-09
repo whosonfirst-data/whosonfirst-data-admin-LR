@@ -1,0 +1,72 @@
+{
+  "id": 1344235195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78333,5.88333,-9.78333,5.88333",
+    "geom:latitude":5.88333,
+    "geom:longitude":-9.78333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jotobli",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276175,
+    "gn:latitude":5.88333,
+    "gn:longitude":-9.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jotobli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jostobli",
+        "Jotobli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276175
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0dcfcf88489a12c9e3231d8b49314b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692865,
+            "locality_id":1344235195,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1344235195,
+    "wof:lastmodified":1537661727,
+    "wof:name":"Jotobli",
+    "wof:parent_id":1091692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78333,
+    5.88333,
+    -9.78333,
+    5.88333
+],
+  "geometry": {"coordinates":[-9.78333,5.88333],"type":"Point"}
+}

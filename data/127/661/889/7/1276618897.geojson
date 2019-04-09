@@ -1,0 +1,72 @@
+{
+  "id": 1276618897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.00111,8.355,-10.00111,8.355",
+    "geom:latitude":8.355,
+    "geom:longitude":-10.00111,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Honehun Number Two",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276446,
+    "gn:latitude":8.355,
+    "gn:longitude":-10.00111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Honehun Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Honehun Number 2",
+        "Honehun Number Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276446
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e74a053c102e4e87859a8ce26890ce4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":1276618897,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1276618897,
+    "wof:lastmodified":1537661736,
+    "wof:name":"Honehun Number Two",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.00111,
+    8.355,
+    -10.00111,
+    8.355
+],
+  "geometry": {"coordinates":[-10.00111,8.355],"type":"Point"}
+}

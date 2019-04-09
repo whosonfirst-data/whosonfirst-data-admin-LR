@@ -1,0 +1,67 @@
+{
+  "id": 1293470895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.64942,6.60602,-9.64942,6.60602",
+    "geom:latitude":6.60602,
+    "geom:longitude":-9.64942,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Benahta",
+    "gn:country_code":"LR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818291,
+    "gn:latitude":6.60602,
+    "gn:longitude":-9.64942,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Benahta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818291
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"15ca0336c4a1dab625a03874cbffca40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1293470895,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1293470895,
+    "wof:lastmodified":1536810582,
+    "wof:name":"Benahta",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.64942,
+    6.60602,
+    -9.64942,
+    6.60602
+],
+  "geometry": {"coordinates":[-9.64942,6.60602],"type":"Point"}
+}

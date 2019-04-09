@@ -1,0 +1,71 @@
+{
+  "id": 1327312039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.88803,6.12563,-9.88803,6.12563",
+    "geom:latitude":6.12563,
+    "geom:longitude":-9.88803,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zogabli",
+    "gn:country_code":"LR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272580,
+    "gn:latitude":6.12563,
+    "gn:longitude":-9.88803,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Zogabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zobabli",
+        "Zogabli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272580
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ef853eb874efec097465d41785e1f5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692889,
+            "locality_id":1327312039,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327312039,
+    "wof:lastmodified":1537661615,
+    "wof:name":"Zogabli",
+    "wof:parent_id":1091692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.88803,
+    6.12563,
+    -9.88803,
+    6.12563
+],
+  "geometry": {"coordinates":[-9.88803,6.12563],"type":"Point"}
+}

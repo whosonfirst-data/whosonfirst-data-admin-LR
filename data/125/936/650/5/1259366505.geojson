@@ -1,0 +1,71 @@
+{
+  "id": 1259366505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43306,6.66441,-10.43306,6.66441",
+    "geom:latitude":6.66441,
+    "geom:longitude":-10.43306,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Malony",
+    "gn:country_code":"LR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275187,
+    "gn:latitude":6.66441,
+    "gn:longitude":-10.43306,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Malony",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lava Camp",
+        "Malony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275187
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0c10d1a688afb4b930a13689ccbbacd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1259366505,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1259366505,
+    "wof:lastmodified":1537661693,
+    "wof:name":"Malony",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43306,
+    6.66441,
+    -10.43306,
+    6.66441
+],
+  "geometry": {"coordinates":[-10.43306,6.66441],"type":"Point"}
+}

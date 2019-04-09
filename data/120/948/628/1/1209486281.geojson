@@ -1,0 +1,64 @@
+{
+  "id": 1209486281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.48269,6.40392,-10.48269,6.40392",
+    "geom:latitude":6.40392,
+    "geom:longitude":-10.48269,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Fifteen Gate Community",
+    "gn:country_code":"LR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9904362,
+    "gn:latitude":6.40392,
+    "gn:longitude":-10.48269,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Fifteen Gate Community",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "15 Gate Community"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9904362
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a07084ed23c83266b54e9c12a3a5cfd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209486281
+        }
+    ],
+    "wof:id":1209486281,
+    "wof:lastmodified":1537661841,
+    "wof:name":"Fifteen Gate Community",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.48269,
+    6.40392,
+    -10.48269,
+    6.40392
+],
+  "geometry": {"coordinates":[-10.48269,6.40392],"type":"Point"}
+}

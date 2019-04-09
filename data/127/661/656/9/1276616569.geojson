@@ -1,0 +1,71 @@
+{
+  "id": 1276616569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03865,6.06565,-8.03865,6.06565",
+    "geom:latitude":6.06565,
+    "geom:longitude":-8.03865,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pami Town",
+    "gn:country_code":"LR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274498,
+    "gn:latitude":6.06565,
+    "gn:longitude":-8.03865,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pami Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pami",
+        "Pami Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274498
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ba683330a955625dab9ff114f638a987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1276616569,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1276616569,
+    "wof:lastmodified":1537661676,
+    "wof:name":"Pami Town",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03865,
+    6.06565,
+    -8.03865,
+    6.06565
+],
+  "geometry": {"coordinates":[-8.03865,6.06565],"type":"Point"}
+}

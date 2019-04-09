@@ -1,0 +1,76 @@
+{
+  "id": 1343345249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19944,5.10833,-9.19944,5.10833",
+    "geom:latitude":5.10833,
+    "geom:longitude":-9.19944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Taso Beach",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273438,
+    "gn:latitude":5.10833,
+    "gn:longitude":-9.19944,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Taso Beach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tubawen",
+        "Tassu",
+        "Tubawohn",
+        "Tassu Village",
+        "Tasu",
+        "Taso Beach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273438
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7f9596897391c0cd1982508273810a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1343345249,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1343345249,
+    "wof:lastmodified":1537661644,
+    "wof:name":"Taso Beach",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19944,
+    5.10833,
+    -9.19944,
+    5.10833
+],
+  "geometry": {"coordinates":[-9.19944,5.10833],"type":"Point"}
+}

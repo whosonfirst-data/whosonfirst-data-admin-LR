@@ -1,0 +1,68 @@
+{
+  "id": 1209090805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93417,6.25722,-8.93417,6.25722",
+    "geom:latitude":6.25722,
+    "geom:longitude":-8.93417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Garhn",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276633,
+    "gn:latitude":6.25722,
+    "gn:longitude":-8.93417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Garhn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Granh",
+        "Gra Town",
+        "Grahn",
+        "Garhn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276633
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"93321e733e255d02ee2a25795ca035db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209090805
+        }
+    ],
+    "wof:id":1209090805,
+    "wof:lastmodified":1537661741,
+    "wof:name":"Garhn",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93417,
+    6.25722,
+    -8.93417,
+    6.25722
+],
+  "geometry": {"coordinates":[-8.93417,6.25722],"type":"Point"}
+}

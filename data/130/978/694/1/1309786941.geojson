@@ -1,0 +1,67 @@
+{
+  "id": 1309786941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91667,6.41667,-9.91667,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":-9.91667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Numebli",
+    "gn:country_code":"LR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274597,
+    "gn:latitude":6.41667,
+    "gn:longitude":-9.91667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Numebli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274597
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"aa1e60c7a55b459581c1a18f7af09bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1309786941,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1309786941,
+    "wof:lastmodified":1536958266,
+    "wof:name":"Numebli",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91667,
+    6.41667,
+    -9.91667,
+    6.41667
+],
+  "geometry": {"coordinates":[-9.91667,6.41667],"type":"Point"}
+}

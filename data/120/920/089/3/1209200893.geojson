@@ -1,0 +1,64 @@
+{
+  "id": 1209200893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64095,4.58114,-7.64095,4.58114",
+    "geom:latitude":4.58114,
+    "geom:longitude":-7.64095,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Saywinkeh",
+    "gn:country_code":"LR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274517,
+    "gn:latitude":4.58114,
+    "gn:longitude":-7.64095,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Saywinkeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pahn Camp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274517
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f7d46d67f42f5ab34de167e9d52c8e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209200893
+        }
+    ],
+    "wof:id":1209200893,
+    "wof:lastmodified":1537661676,
+    "wof:name":"Saywinkeh",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64095,
+    4.58114,
+    -7.64095,
+    4.58114
+],
+  "geometry": {"coordinates":[-7.64095,4.58114],"type":"Point"}
+}

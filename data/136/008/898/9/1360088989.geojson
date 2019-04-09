@@ -1,0 +1,70 @@
+{
+  "id": 1360088989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.67782,6.83841,-9.67782,6.83841",
+    "geom:latitude":6.83841,
+    "geom:longitude":-9.67782,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nyeasue",
+    "gn:country_code":"LR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870519,
+    "gn:latitude":6.83841,
+    "gn:longitude":-9.67782,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Nyeasue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyeasue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870519
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0285b18dc9591837463f0f492e379e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1360088989,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1360088989,
+    "wof:lastmodified":1537661840,
+    "wof:name":"Nyeasue",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.67782,
+    6.83841,
+    -9.67782,
+    6.83841
+],
+  "geometry": {"coordinates":[-9.67782,6.83841],"type":"Point"}
+}

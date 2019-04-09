@@ -1,0 +1,71 @@
+{
+  "id": 1327221961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.85325,6.0824,-9.85325,6.0824",
+    "geom:latitude":6.0824,
+    "geom:longitude":-9.85325,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Charlie Johnson Town",
+    "gn:country_code":"LR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276347,
+    "gn:latitude":6.0824,
+    "gn:longitude":-9.85325,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Charlie Johnson Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jene Johnsonbli",
+        "Charlie Johnson Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276347
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2787b9d0cee6e7a2fbda84c81069eba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1327221961,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327221961,
+    "wof:lastmodified":1537661733,
+    "wof:name":"Charlie Johnson Town",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.85325,
+    6.0824,
+    -9.85325,
+    6.0824
+],
+  "geometry": {"coordinates":[-9.85325,6.0824],"type":"Point"}
+}

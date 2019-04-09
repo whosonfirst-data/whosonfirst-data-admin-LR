@@ -1,0 +1,73 @@
+{
+  "id": 1242957661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92778,7.08333,-8.92778,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-8.92778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kpee",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275640,
+    "gn:latitude":7.08333,
+    "gn:longitude":-8.92778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kpee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buaa",
+        "Kpei",
+        "Kpee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275640
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7d450a2a5107201b67ba7c1ab26fdb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1242957661,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1242957661,
+    "wof:lastmodified":1537661708,
+    "wof:name":"Kpee",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92778,
+    7.08333,
+    -8.92778,
+    7.08333
+],
+  "geometry": {"coordinates":[-8.92778,7.08333],"type":"Point"}
+}

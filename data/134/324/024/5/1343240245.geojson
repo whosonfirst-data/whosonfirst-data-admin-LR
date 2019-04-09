@@ -1,0 +1,67 @@
+{
+  "id": 1343240245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93486,6.34377,-9.93486,6.34377",
+    "geom:latitude":6.34377,
+    "geom:longitude":-9.93486,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gbiahgaye",
+    "gn:country_code":"LR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9815431,
+    "gn:latitude":6.34377,
+    "gn:longitude":-9.93486,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Gbiahgaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9815431
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"058a14a19080b9c244e6a9be98137f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1343240245,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1343240245,
+    "wof:lastmodified":1537061471,
+    "wof:name":"Gbiahgaye",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93486,
+    6.34377,
+    -9.93486,
+    6.34377
+],
+  "geometry": {"coordinates":[-9.93486,6.34377],"type":"Point"}
+}

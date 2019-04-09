@@ -1,0 +1,73 @@
+{
+  "id": 1226768599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91306,6.8575,-8.91306,6.8575",
+    "geom:latitude":6.8575,
+    "geom:longitude":-8.91306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dowo",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277162,
+    "gn:latitude":6.8575,
+    "gn:longitude":-8.91306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gawonpa",
+        "Gawumpa",
+        "Dowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277162
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2728305854d0ce38e86cdeba1e143086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1226768599,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1226768599,
+    "wof:lastmodified":1537661764,
+    "wof:name":"Dowo",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91306,
+    6.8575,
+    -8.91306,
+    6.8575
+],
+  "geometry": {"coordinates":[-8.91306,6.8575],"type":"Point"}
+}

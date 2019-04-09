@@ -1,0 +1,73 @@
+{
+  "id": 1276132525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3092,6.89344,-10.3092,6.89344",
+    "geom:latitude":6.89344,
+    "geom:longitude":-10.3092,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dubli",
+    "gn:country_code":"LR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277551,
+    "gn:latitude":6.89344,
+    "gn:longitude":-10.3092,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Dubli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dubli"
+    ],
+    "name:und_x_variant":[
+        "Doblita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277551
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2010021d1518fc58ab86523d98d35d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1276132525,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1276132525,
+    "wof:lastmodified":1537661776,
+    "wof:name":"Dubli",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3092,
+    6.89344,
+    -10.3092,
+    6.89344
+],
+  "geometry": {"coordinates":[-10.3092,6.89344],"type":"Point"}
+}

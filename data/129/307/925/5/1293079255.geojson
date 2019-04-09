@@ -1,0 +1,67 @@
+{
+  "id": 1293079255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38863,6.45827,-9.38863,6.45827",
+    "geom:latitude":6.45827,
+    "geom:longitude":-9.38863,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gbogar",
+    "gn:country_code":"LR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9815412,
+    "gn:latitude":6.45827,
+    "gn:longitude":-9.38863,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Gbogar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9815412
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4374f5b0ff05cd314abe02a7a9d7861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1293079255,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1293079255,
+    "wof:lastmodified":1536877882,
+    "wof:name":"Gbogar",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38863,
+    6.45827,
+    -9.38863,
+    6.45827
+],
+  "geometry": {"coordinates":[-9.38863,6.45827],"type":"Point"}
+}

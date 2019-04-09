@@ -1,0 +1,70 @@
+{
+  "id": 1209829219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42424,6.95168,-9.42424,6.95168",
+    "geom:latitude":6.95168,
+    "geom:longitude":-9.42424,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Janebeta",
+    "gn:country_code":"LR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870308,
+    "gn:latitude":6.95168,
+    "gn:longitude":-9.42424,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Janebeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Janebeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870308
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"aab68cb8de944923d04323ed35d7ac38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1209829219,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1209829219,
+    "wof:lastmodified":1537661836,
+    "wof:name":"Janebeta",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42424,
+    6.95168,
+    -9.42424,
+    6.95168
+],
+  "geometry": {"coordinates":[-9.42424,6.95168],"type":"Point"}
+}

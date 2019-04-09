@@ -1,0 +1,67 @@
+{
+  "id": 1260244329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34678,5.75462,-8.34678,5.75462",
+    "geom:latitude":5.75462,
+    "geom:longitude":-8.34678,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Garbo Wragbah",
+    "gn:country_code":"LR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237901,
+    "gn:latitude":5.75462,
+    "gn:longitude":-8.34678,
+    "gn:modification_date":"2016-08-16",
+    "gn:name":"Garbo Wragbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237901
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"37ae7b97db1eb501e62dfd785ebe5e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1260244329,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1260244329,
+    "wof:lastmodified":1536765429,
+    "wof:name":"Garbo Wragbah",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34678,
+    5.75462,
+    -8.34678,
+    5.75462
+],
+  "geometry": {"coordinates":[-8.34678,5.75462],"type":"Point"}
+}

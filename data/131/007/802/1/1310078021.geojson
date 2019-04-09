@@ -1,0 +1,67 @@
+{
+  "id": 1310078021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12135,4.79029,-8.12135,4.79029",
+    "geom:latitude":4.79029,
+    "geom:longitude":-8.12135,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tutukehn",
+    "gn:country_code":"LR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273398,
+    "gn:latitude":4.79029,
+    "gn:longitude":-8.12135,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tutukehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273398
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7376add33233ded9358856de2b859258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693271,
+            "locality_id":1310078021,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1310078021,
+    "wof:lastmodified":1537034731,
+    "wof:name":"Tutukehn",
+    "wof:parent_id":1091693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12135,
+    4.79029,
+    -8.12135,
+    4.79029
+],
+  "geometry": {"coordinates":[-8.12135,4.79029],"type":"Point"}
+}

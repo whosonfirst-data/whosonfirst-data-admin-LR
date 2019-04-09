@@ -1,0 +1,72 @@
+{
+  "id": 1293840311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94472,5.49056,-7.94472,5.49056",
+    "geom:latitude":5.49056,
+    "geom:longitude":-7.94472,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Torokahn",
+    "gn:country_code":"LR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273666,
+    "gn:latitude":5.49056,
+    "gn:longitude":-7.94472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Torokahn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yiaga Town",
+        "Tawroke",
+        "Torokahn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273666
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9b0f13e17cc12654ffde27884967958c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1293840311,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1293840311,
+    "wof:lastmodified":1537661651,
+    "wof:name":"Torokahn",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94472,
+    5.49056,
+    -7.94472,
+    5.49056
+],
+  "geometry": {"coordinates":[-7.94472,5.49056],"type":"Point"}
+}

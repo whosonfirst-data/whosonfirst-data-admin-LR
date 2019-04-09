@@ -1,0 +1,71 @@
+{
+  "id": 1226500981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73556,5.05833,-7.73556,5.05833",
+    "geom:latitude":5.05833,
+    "geom:longitude":-7.73556,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Peloken",
+    "gn:country_code":"LR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274412,
+    "gn:latitude":5.05833,
+    "gn:longitude":-7.73556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Peloken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petoke",
+        "Peloken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274412
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"10a2b75c3c58ddcf1d125562117d3649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1226500981,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1226500981,
+    "wof:lastmodified":1537661674,
+    "wof:name":"Peloken",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73556,
+    5.05833,
+    -7.73556,
+    5.05833
+],
+  "geometry": {"coordinates":[-7.73556,5.05833],"type":"Point"}
+}

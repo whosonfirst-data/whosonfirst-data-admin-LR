@@ -1,0 +1,67 @@
+{
+  "id": 1309772297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.52638,5.40535,-9.52638,5.40535",
+    "geom:latitude":5.40535,
+    "geom:longitude":-9.52638,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yasta",
+    "gn:country_code":"LR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272813,
+    "gn:latitude":5.40535,
+    "gn:longitude":-9.52638,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yasta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272813
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"57b1368a9c33bff9ce643d3da9fd318b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694497,
+            "locality_id":1309772297,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1309772297,
+    "wof:lastmodified":1536978889,
+    "wof:name":"Yasta",
+    "wof:parent_id":1091694497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52638,
+    5.40535,
+    -9.52638,
+    5.40535
+],
+  "geometry": {"coordinates":[-9.52638,5.40535],"type":"Point"}
+}

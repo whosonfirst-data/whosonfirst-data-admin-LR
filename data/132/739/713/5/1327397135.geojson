@@ -1,0 +1,72 @@
+{
+  "id": 1327397135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63659,5.87236,-9.63659,5.87236",
+    "geom:latitude":5.87236,
+    "geom:longitude":-9.63659,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Banjo",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278916,
+    "gn:latitude":5.87236,
+    "gn:longitude":-9.63659,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Banjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barhney",
+        "Banjo",
+        "Bani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278916
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fa8cf70260239bae490a1f8d98e7cc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1327397135,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1327397135,
+    "wof:lastmodified":1537661817,
+    "wof:name":"Banjo",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63659,
+    5.87236,
+    -9.63659,
+    5.87236
+],
+  "geometry": {"coordinates":[-9.63659,5.87236],"type":"Point"}
+}

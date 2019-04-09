@@ -1,0 +1,72 @@
+{
+  "id": 1310584559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.45222,6.65944,-10.45222,6.65944",
+    "geom:latitude":6.65944,
+    "geom:longitude":-10.45222,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gonubli",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275068,
+    "gn:latitude":6.65944,
+    "gn:longitude":-10.45222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gonubli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matota",
+        "Gonubli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275068
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"35d412d30e7d9a42c6d3545afefa60e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1310584559,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1310584559,
+    "wof:lastmodified":1537661691,
+    "wof:name":"Gonubli",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.45222,
+    6.65944,
+    -10.45222,
+    6.65944
+],
+  "geometry": {"coordinates":[-10.45222,6.65944],"type":"Point"}
+}

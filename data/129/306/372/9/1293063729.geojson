@@ -1,0 +1,71 @@
+{
+  "id": 1293063729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06833,5.95306,-8.06833,5.95306",
+    "geom:latitude":5.95306,
+    "geom:longitude":-8.06833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tuhfoeh",
+    "gn:country_code":"LR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572034,
+    "gn:latitude":5.95306,
+    "gn:longitude":-8.06833,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Tuhfoeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toffoi",
+        "Tuhfoeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572034
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a5735e77d1fe7ca421cc1454fcbd0cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1293063729,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1293063729,
+    "wof:lastmodified":1537661826,
+    "wof:name":"Tuhfoeh",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06833,
+    5.95306,
+    -8.06833,
+    5.95306
+],
+  "geometry": {"coordinates":[-8.06833,5.95306],"type":"Point"}
+}

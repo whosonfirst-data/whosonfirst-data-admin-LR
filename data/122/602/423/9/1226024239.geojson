@@ -1,0 +1,70 @@
+{
+  "id": 1226024239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84781,4.9915,-7.84781,4.9915",
+    "geom:latitude":4.9915,
+    "geom:longitude":-7.84781,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gbawiliken Cavalla",
+    "gn:country_code":"LR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278061,
+    "gn:latitude":4.9915,
+    "gn:longitude":-7.84781,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbawiliken Cavalla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cavalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278061
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9c82ace67b3209d5b53fb10c08860968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1226024239,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1226024239,
+    "wof:lastmodified":1537661791,
+    "wof:name":"Gbawiliken Cavalla",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84781,
+    4.9915,
+    -7.84781,
+    4.9915
+],
+  "geometry": {"coordinates":[-7.84781,4.9915],"type":"Point"}
+}

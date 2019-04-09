@@ -1,0 +1,67 @@
+{
+  "id": 1226301697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11667,7.2,-10.11667,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":-10.11667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dokota",
+    "gn:country_code":"LR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277639,
+    "gn:latitude":7.2,
+    "gn:longitude":-10.11667,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Dokota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277639
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fe360efb860abf61f3991f6fc67a1d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693535,
+            "locality_id":1226301697,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1226301697,
+    "wof:lastmodified":1536852047,
+    "wof:name":"Dokota",
+    "wof:parent_id":1091693535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11667,
+    7.2,
+    -10.11667,
+    7.2
+],
+  "geometry": {"coordinates":[-10.11667,7.2],"type":"Point"}
+}

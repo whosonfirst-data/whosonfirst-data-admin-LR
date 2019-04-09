@@ -1,0 +1,93 @@
+{
+  "id": 1126064981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8,6.31667,-10.8,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":-10.8,
+    "gn:gn_country":"LR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"LR",
+    "lbl:latitude":6.31667,
+    "lbl:longitude":-10.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LR",
+    "qs_pg:gn_country":"LR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2277960,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Crown Hill",
+    "qs_pg:name_adm0":"Liberia",
+    "qs_pg:name_adm1":"Monrovia",
+    "qs_pg:photos":560,
+    "qs_pg:photos_1k":113,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":560,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168010,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424876,
+    "qs_pg:woe_id":1348326,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424876,
+    "woe:name_adm0":"Liberia",
+    "woe:name_adm1":"Monrovia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85673541,
+        102191573,
+        85632249,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277960,
+        "gp:id":1348326,
+        "qs_pg:id":1168010
+    },
+    "wof:country":"LR",
+    "wof:created":1497308724,
+    "wof:geomhash":"334ffc3d1bcf5109cd57e4b21ca52eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":-1,
+            "neighbourhood_id":1126064981,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1126064981,
+    "wof:lastmodified":1534379377,
+    "wof:name":"Crown Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[
+        85765579
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8,
+    6.31667,
+    -10.8,
+    6.31667
+],
+  "geometry": {"coordinates":[-10.8,6.31667],"type":"Point"}
+}

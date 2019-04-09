@@ -1,0 +1,67 @@
+{
+  "id": 1360258375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.86108,6.48554,-10.86108,6.48554",
+    "geom:latitude":6.48554,
+    "geom:longitude":-10.86108,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bonnor",
+    "gn:country_code":"LR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818122,
+    "gn:latitude":6.48554,
+    "gn:longitude":-10.86108,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Bonnor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818122
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3fa7c5f270b8f398b3605cf4783fa18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1360258375,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1360258375,
+    "wof:lastmodified":1536695947,
+    "wof:name":"Bonnor",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.86108,
+    6.48554,
+    -10.86108,
+    6.48554
+],
+  "geometry": {"coordinates":[-10.86108,6.48554],"type":"Point"}
+}

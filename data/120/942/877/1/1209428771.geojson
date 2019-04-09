@@ -1,0 +1,64 @@
+{
+  "id": 1209428771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38333,6.98333,-9.38333,6.98333",
+    "geom:latitude":6.98333,
+    "geom:longitude":-9.38333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yoyie",
+    "gn:country_code":"LR",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272713,
+    "gn:latitude":6.98333,
+    "gn:longitude":-9.38333,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yoyie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yoyie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272713
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"934c19cb76422fc846e1c819867054a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209428771
+        }
+    ],
+    "wof:id":1209428771,
+    "wof:lastmodified":1537661621,
+    "wof:name":"Yoyie",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38333,
+    6.98333,
+    -9.38333,
+    6.98333
+],
+  "geometry": {"coordinates":[-9.38333,6.98333],"type":"Point"}
+}

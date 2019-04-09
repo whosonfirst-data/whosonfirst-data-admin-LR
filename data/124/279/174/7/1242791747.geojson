@@ -1,0 +1,70 @@
+{
+  "id": 1242791747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63311,6.75232,-9.63311,6.75232",
+    "geom:latitude":6.75232,
+    "geom:longitude":-9.63311,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gbaikotuta",
+    "gn:country_code":"LR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870533,
+    "gn:latitude":6.75232,
+    "gn:longitude":-9.63311,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gbaikotuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbaikotuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870533
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3ef41ef67051600e9db29ed74f2824ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692645,
+            "locality_id":1242791747,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1242791747,
+    "wof:lastmodified":1537661840,
+    "wof:name":"Gbaikotuta",
+    "wof:parent_id":1091692645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63311,
+    6.75232,
+    -9.63311,
+    6.75232
+],
+  "geometry": {"coordinates":[-9.63311,6.75232],"type":"Point"}
+}

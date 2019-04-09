@@ -1,0 +1,61 @@
+{
+  "id": 1209678173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0896,6.00486,-8.0896,6.00486",
+    "geom:latitude":6.00486,
+    "geom:longitude":-8.0896,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mehnyeh Town",
+    "gn:country_code":"LR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572057,
+    "gn:latitude":6.00486,
+    "gn:longitude":-8.0896,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mehnyeh Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572057
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"393e8c468326085e3eec0ea444620ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209678173
+        }
+    ],
+    "wof:id":1209678173,
+    "wof:lastmodified":1536279674,
+    "wof:name":"Mehnyeh Town",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0896,
+    6.00486,
+    -8.0896,
+    6.00486
+],
+  "geometry": {"coordinates":[-8.0896,6.00486],"type":"Point"}
+}

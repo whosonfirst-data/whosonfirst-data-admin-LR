@@ -1,0 +1,61 @@
+{
+  "id": 1209084531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2036,6.14538,-10.2036,6.14538",
+    "geom:latitude":6.14538,
+    "geom:longitude":-10.2036,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Paygar Village",
+    "gn:country_code":"LR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818125,
+    "gn:latitude":6.14538,
+    "gn:longitude":-10.2036,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Paygar Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818125
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5d6a0ca5fd819dd02ee82a2da9e734c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209084531
+        }
+    ],
+    "wof:id":1209084531,
+    "wof:lastmodified":1536298230,
+    "wof:name":"Paygar Village",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2036,
+    6.14538,
+    -10.2036,
+    6.14538
+],
+  "geometry": {"coordinates":[-10.2036,6.14538],"type":"Point"}
+}

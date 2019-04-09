@@ -1,0 +1,67 @@
+{
+  "id": 1259559347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66082,5.59849,-9.66082,5.59849",
+    "geom:latitude":5.59849,
+    "geom:longitude":-9.66082,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tapabli",
+    "gn:country_code":"LR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273687,
+    "gn:latitude":5.59849,
+    "gn:longitude":-9.66082,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tapabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273687
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6ac72edb9b75192a12af6b84db6b4e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694479,
+            "locality_id":1259559347,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1259559347,
+    "wof:lastmodified":1536749550,
+    "wof:name":"Tapabli",
+    "wof:parent_id":1091694479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66082,
+    5.59849,
+    -9.66082,
+    5.59849
+],
+  "geometry": {"coordinates":[-9.66082,5.59849],"type":"Point"}
+}

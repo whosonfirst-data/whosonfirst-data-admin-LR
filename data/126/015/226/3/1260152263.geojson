@@ -1,0 +1,70 @@
+{
+  "id": 1260152263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.57902,6.32327,-10.57902,6.32327",
+    "geom:latitude":6.32327,
+    "geom:longitude":-10.57902,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bunbi",
+    "gn:country_code":"LR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278124,
+    "gn:latitude":6.32327,
+    "gn:longitude":-10.57902,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bunbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278124
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2c25f5ef7d57c261f5fea8eb1d2bf3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1260152263,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1260152263,
+    "wof:lastmodified":1537661792,
+    "wof:name":"Bunbi",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.57902,
+    6.32327,
+    -10.57902,
+    6.32327
+],
+  "geometry": {"coordinates":[-10.57902,6.32327],"type":"Point"}
+}

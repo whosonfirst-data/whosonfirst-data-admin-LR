@@ -1,0 +1,67 @@
+{
+  "id": 1226807593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.795,4.93556,-7.795,4.93556",
+    "geom:latitude":4.93556,
+    "geom:longitude":-7.795,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Woloken",
+    "gn:country_code":"LR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571887,
+    "gn:latitude":4.93556,
+    "gn:longitude":-7.795,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Woloken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571887
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9ff161d0777f89e8a57511b3a4251f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693125,
+            "locality_id":1226807593,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1226807593,
+    "wof:lastmodified":1536624696,
+    "wof:name":"Woloken",
+    "wof:parent_id":1091693125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.795,
+    4.93556,
+    -7.795,
+    4.93556
+],
+  "geometry": {"coordinates":[-7.795,4.93556],"type":"Point"}
+}

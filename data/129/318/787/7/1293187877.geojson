@@ -1,0 +1,67 @@
+{
+  "id": 1293187877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.18333,7.18333,-11.18333,7.18333",
+    "geom:latitude":7.18333,
+    "geom:longitude":-11.18333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boba",
+    "gn:country_code":"LR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278451,
+    "gn:latitude":7.18333,
+    "gn:longitude":-11.18333,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Boba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278451
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"25f3068b2e5dcdef73234306be9edd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692983,
+            "locality_id":1293187877,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1293187877,
+    "wof:lastmodified":1536722403,
+    "wof:name":"Boba",
+    "wof:parent_id":1091692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.18333,
+    7.18333,
+    -11.18333,
+    7.18333
+],
+  "geometry": {"coordinates":[-11.18333,7.18333],"type":"Point"}
+}

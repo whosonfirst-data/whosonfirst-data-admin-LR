@@ -1,0 +1,61 @@
+{
+  "id": 1209592877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.00673,6.74907,-11.00673,6.74907",
+    "geom:latitude":6.74907,
+    "geom:longitude":-11.00673,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Boimah Camp",
+    "gn:country_code":"LR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9806524,
+    "gn:latitude":6.74907,
+    "gn:longitude":-11.00673,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Boimah Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9806524
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b8b89a688eaa02fdb0b8ffa8e32249ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209592877
+        }
+    ],
+    "wof:id":1209592877,
+    "wof:lastmodified":1536282421,
+    "wof:name":"Boimah Camp",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.00673,
+    6.74907,
+    -11.00673,
+    6.74907
+],
+  "geometry": {"coordinates":[-11.00673,6.74907],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242681661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58528,7.2975,-9.58528,7.2975",
+    "geom:latitude":7.2975,
+    "geom:longitude":-9.58528,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saugi",
+    "gn:country_code":"LR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274091,
+    "gn:latitude":7.2975,
+    "gn:longitude":-9.58528,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Saugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saugi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274091
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"204ee702e58f7bcf08fd9478b99008a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693505,
+            "locality_id":1242681661,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1242681661,
+    "wof:lastmodified":1537661664,
+    "wof:name":"Saugi",
+    "wof:parent_id":1091693505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58528,
+    7.2975,
+    -9.58528,
+    7.2975
+],
+  "geometry": {"coordinates":[-9.58528,7.2975],"type":"Point"}
+}

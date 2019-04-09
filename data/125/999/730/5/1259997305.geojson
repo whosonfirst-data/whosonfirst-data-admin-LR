@@ -1,0 +1,70 @@
+{
+  "id": 1259997305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41504,7.00251,-9.41504,7.00251",
+    "geom:latitude":7.00251,
+    "geom:longitude":-9.41504,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Charles William Farm",
+    "gn:country_code":"LR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869791,
+    "gn:latitude":7.00251,
+    "gn:longitude":-9.41504,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Charles William Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Charles William Farm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869791
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a2dca628f7c205aff40071f5cf0c13c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1259997305,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259997305,
+    "wof:lastmodified":1537661832,
+    "wof:name":"Charles William Farm",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41504,
+    7.00251,
+    -9.41504,
+    7.00251
+],
+  "geometry": {"coordinates":[-9.41504,7.00251],"type":"Point"}
+}

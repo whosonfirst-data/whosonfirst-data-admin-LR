@@ -1,0 +1,72 @@
+{
+  "id": 1326507369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2,7.08333,-11.2,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-11.2,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Gbasakoehnma",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277059,
+    "gn:latitude":7.08333,
+    "gn:longitude":-11.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gbasakoehnma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbasakohnma",
+        "Gbasakoehnma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277059
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c18f491bd3cc741b2bde60f463f10c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1326507369,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1326507369,
+    "wof:lastmodified":1537661758,
+    "wof:name":"Gbasakoehnma",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2,
+    7.08333,
+    -11.2,
+    7.08333
+],
+  "geometry": {"coordinates":[-11.2,7.08333],"type":"Point"}
+}

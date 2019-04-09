@@ -1,0 +1,67 @@
+{
+  "id": 1343820471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10874,6.13424,-8.10874,6.13424",
+    "geom:latitude":6.13424,
+    "geom:longitude":-8.10874,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Junior",
+    "gn:country_code":"LR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890271,
+    "gn:latitude":6.13424,
+    "gn:longitude":-8.10874,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Junior",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890271
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6a7545e09e7d9d989142f933d1fe718d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1343820471,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1343820471,
+    "wof:lastmodified":1536724841,
+    "wof:name":"Junior",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10874,
+    6.13424,
+    -8.10874,
+    6.13424
+],
+  "geometry": {"coordinates":[-8.10874,6.13424],"type":"Point"}
+}

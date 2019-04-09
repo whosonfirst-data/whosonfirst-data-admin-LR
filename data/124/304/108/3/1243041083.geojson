@@ -1,0 +1,73 @@
+{
+  "id": 1243041083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8503,6.75907,-10.8503,6.75907",
+    "geom:latitude":6.75907,
+    "geom:longitude":-10.8503,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Guie Town",
+    "gn:country_code":"LR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275988,
+    "gn:latitude":6.75907,
+    "gn:longitude":-10.8503,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Guie Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kava",
+        "Be Grale",
+        "Be Gole",
+        "Guie Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275988
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d82373183b20c30d7f28456e7791dbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1243041083,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1243041083,
+    "wof:lastmodified":1537661721,
+    "wof:name":"Guie Town",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8503,
+    6.75907,
+    -10.8503,
+    6.75907
+],
+  "geometry": {"coordinates":[-10.8503,6.75907],"type":"Point"}
+}

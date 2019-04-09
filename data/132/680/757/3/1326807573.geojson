@@ -1,0 +1,71 @@
+{
+  "id": 1326807573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.30955,6.97307,-11.30955,6.97307",
+    "geom:latitude":6.97307,
+    "geom:longitude":-11.30955,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Wonde",
+    "gn:country_code":"LR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273009,
+    "gn:latitude":6.97307,
+    "gn:longitude":-11.30955,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Wonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wone",
+        "Wonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273009
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"174a64c45f74e2692f0510baa8d1c8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1326807573,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1326807573,
+    "wof:lastmodified":1537661630,
+    "wof:name":"Wonde",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.30955,
+    6.97307,
+    -11.30955,
+    6.97307
+],
+  "geometry": {"coordinates":[-11.30955,6.97307],"type":"Point"}
+}

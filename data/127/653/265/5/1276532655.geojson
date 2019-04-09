@@ -1,0 +1,73 @@
+{
+  "id": 1276532655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55,7.31667,-8.55,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":-8.55,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kiale",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275922,
+    "gn:latitude":7.31667,
+    "gn:longitude":-8.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kiale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keali",
+        "Kiari",
+        "Kiale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275922
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3a0726b39cf2c3714778067e79ddc9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694245,
+            "locality_id":1276532655,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1276532655,
+    "wof:lastmodified":1537661718,
+    "wof:name":"Kiale",
+    "wof:parent_id":1091694245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55,
+    7.31667,
+    -8.55,
+    7.31667
+],
+  "geometry": {"coordinates":[-8.55,7.31667],"type":"Point"}
+}

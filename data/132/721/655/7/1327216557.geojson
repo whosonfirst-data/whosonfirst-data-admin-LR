@@ -1,0 +1,72 @@
+{
+  "id": 1327216557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06334,6.65395,-11.06334,6.65395",
+    "geom:latitude":6.65395,
+    "geom:longitude":-11.06334,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bota",
+    "gn:country_code":"LR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278693,
+    "gn:latitude":6.65395,
+    "gn:longitude":-11.06334,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Bota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baja",
+        "Benja",
+        "Bota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278693
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ad0420d6cbc61ef3e3bd4c718606b58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693041,
+            "locality_id":1327216557,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1327216557,
+    "wof:lastmodified":1537661809,
+    "wof:name":"Bota",
+    "wof:parent_id":1091693041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06334,
+    6.65395,
+    -11.06334,
+    6.65395
+],
+  "geometry": {"coordinates":[-11.06334,6.65395],"type":"Point"}
+}

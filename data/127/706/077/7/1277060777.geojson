@@ -1,0 +1,76 @@
+{
+  "id": 1277060777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71472,7.16028,-8.71472,7.16028",
+    "geom:latitude":7.16028,
+    "geom:longitude":-8.71472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kpei",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276016,
+    "gn:latitude":7.16028,
+    "gn:longitude":-8.71472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kpei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kowe",
+        "Kanwe",
+        "Kawi",
+        "Kanway",
+        "Kanwi",
+        "Kpei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276016
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"174355d4be47a1b5538391e7e80ab031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694197,
+            "locality_id":1277060777,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1277060777,
+    "wof:lastmodified":1537661722,
+    "wof:name":"Kpei",
+    "wof:parent_id":1091694197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71472,
+    7.16028,
+    -8.71472,
+    7.16028
+],
+  "geometry": {"coordinates":[-8.71472,7.16028],"type":"Point"}
+}

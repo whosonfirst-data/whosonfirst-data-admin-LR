@@ -1,0 +1,67 @@
+{
+  "id": 1326991823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.65694,7.1775,-10.65694,7.1775",
+    "geom:latitude":7.1775,
+    "geom:longitude":-10.65694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gomba",
+    "gn:country_code":"LR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276719,
+    "gn:latitude":7.1775,
+    "gn:longitude":-10.65694,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"Gomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276719
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f987e186d1d50cb6cc6b14dca47e3ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693713,
+            "locality_id":1326991823,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1326991823,
+    "wof:lastmodified":1536818257,
+    "wof:name":"Gomba",
+    "wof:parent_id":1091693713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.65694,
+    7.1775,
+    -10.65694,
+    7.1775
+],
+  "geometry": {"coordinates":[-10.65694,7.1775],"type":"Point"}
+}

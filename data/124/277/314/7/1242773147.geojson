@@ -1,0 +1,72 @@
+{
+  "id": 1242773147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19333,5.5075,-9.19333,5.5075",
+    "geom:latitude":5.5075,
+    "geom:longitude":-9.19333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kase Town",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276005,
+    "gn:latitude":5.5075,
+    "gn:longitude":-9.19333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kase Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kase",
+        "Kase Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276005
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a898407d550fda7c641f97f5bb088df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1242773147,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1242773147,
+    "wof:lastmodified":1537661722,
+    "wof:name":"Kase Town",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19333,
+    5.5075,
+    -9.19333,
+    5.5075
+],
+  "geometry": {"coordinates":[-9.19333,5.5075],"type":"Point"}
+}

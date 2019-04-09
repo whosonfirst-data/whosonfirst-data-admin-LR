@@ -1,0 +1,61 @@
+{
+  "id": 1209393201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.21667,6.31667,-10.21667,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":-10.21667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Beniwin",
+    "gn:country_code":"LR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278694,
+    "gn:latitude":6.31667,
+    "gn:longitude":-10.21667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Beniwin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278694
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0385271baa5e2a6c6ce562fa411baae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209393201
+        }
+    ],
+    "wof:id":1209393201,
+    "wof:lastmodified":1536288390,
+    "wof:name":"Beniwin",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.21667,
+    6.3166699999999985,
+    -10.21667,
+    6.3166699999999985
+],
+  "geometry": {"coordinates":[-10.21667,6.31667],"type":"Point"}
+}

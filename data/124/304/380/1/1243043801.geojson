@@ -1,0 +1,67 @@
+{
+  "id": 1243043801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.59638,5.69939,-9.59638,5.69939",
+    "geom:latitude":5.69939,
+    "geom:longitude":-9.59638,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kuezohnbli",
+    "gn:country_code":"LR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275545,
+    "gn:latitude":5.69939,
+    "gn:longitude":-9.59638,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kuezohnbli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275545
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9d3631d1de7e9e08d0cff483e386500a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1243043801,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1243043801,
+    "wof:lastmodified":1536888602,
+    "wof:name":"Kuezohnbli",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.59638,
+    5.69939,
+    -9.59638,
+    5.69939
+],
+  "geometry": {"coordinates":[-9.59638,5.69939],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293081121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3,7.06667,-11.3,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":-11.3,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Giziwula",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276824,
+    "gn:latitude":7.06667,
+    "gn:longitude":-11.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Giziwula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giziwilo",
+        "Giziwula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276824
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"26556b9b6082377d1e680eac2d9bb07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1293081121,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1293081121,
+    "wof:lastmodified":1537661749,
+    "wof:name":"Giziwula",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3,
+    7.06667,
+    -11.3,
+    7.06667
+],
+  "geometry": {"coordinates":[-11.3,7.06667],"type":"Point"}
+}

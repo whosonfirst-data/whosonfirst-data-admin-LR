@@ -1,0 +1,71 @@
+{
+  "id": 1327397083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.67749,5.61876,-9.67749,5.61876",
+    "geom:latitude":5.61876,
+    "geom:longitude":-9.67749,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sengbloh",
+    "gn:country_code":"LR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274005,
+    "gn:latitude":5.61876,
+    "gn:longitude":-9.67749,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sengbloh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sengabli",
+        "Sengbloh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274005
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f68e97f2effb8bbb3eaebc968e369f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694479,
+            "locality_id":1327397083,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1327397083,
+    "wof:lastmodified":1537661662,
+    "wof:name":"Sengbloh",
+    "wof:parent_id":1091694479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.67749,
+    5.61876,
+    -9.67749,
+    5.61876
+],
+  "geometry": {"coordinates":[-9.67749,5.61876],"type":"Point"}
+}

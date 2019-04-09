@@ -1,0 +1,70 @@
+{
+  "id": 1259687955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6097,6.51298,-9.6097,6.51298",
+    "geom:latitude":6.51298,
+    "geom:longitude":-9.6097,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mobli",
+    "gn:country_code":"LR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274955,
+    "gn:latitude":6.51298,
+    "gn:longitude":-9.6097,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mobli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mobli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274955
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"23093f8dee02d7679f3bb0c71323982b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692445,
+            "locality_id":1259687955,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259687955,
+    "wof:lastmodified":1537661688,
+    "wof:name":"Mobli",
+    "wof:parent_id":1091692445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6097,
+    6.51298,
+    -9.6097,
+    6.51298
+],
+  "geometry": {"coordinates":[-9.6097,6.51298],"type":"Point"}
+}

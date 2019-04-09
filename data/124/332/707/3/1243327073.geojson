@@ -1,0 +1,67 @@
+{
+  "id": 1243327073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95007,6.60214,-9.95007,6.60214",
+    "geom:latitude":6.60214,
+    "geom:longitude":-9.95007,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Molim",
+    "gn:country_code":"LR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274925,
+    "gn:latitude":6.60214,
+    "gn:longitude":-9.95007,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Molim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274925
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0da20a4336052c75a0a11c1856043342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693759,
+            "locality_id":1243327073,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1243327073,
+    "wof:lastmodified":1536977229,
+    "wof:name":"Molim",
+    "wof:parent_id":1091693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95007,
+    6.60214,
+    -9.95007,
+    6.60214
+],
+  "geometry": {"coordinates":[-9.95007,6.60214],"type":"Point"}
+}

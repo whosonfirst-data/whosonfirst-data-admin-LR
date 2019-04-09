@@ -1,0 +1,74 @@
+{
+  "id": 1343862375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19807,6.92199,-9.19807,6.92199",
+    "geom:latitude":6.92199,
+    "geom:longitude":-9.19807,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zebay",
+    "gn:country_code":"LR",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272693,
+    "gn:latitude":6.92199,
+    "gn:longitude":-9.19807,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Zebay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zebay"
+    ],
+    "name:und_x_variant":[
+        "Seewi",
+        "Zabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272693
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c4cd645dd56351e111e46808a8c675f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1343862375,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343862375,
+    "wof:lastmodified":1537661620,
+    "wof:name":"Zebay",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19807,
+    6.92199,
+    -9.19807,
+    6.92199
+],
+  "geometry": {"coordinates":[-9.19807,6.92199],"type":"Point"}
+}

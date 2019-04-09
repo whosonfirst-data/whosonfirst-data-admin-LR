@@ -1,0 +1,67 @@
+{
+  "id": 1360274347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05528,5.24639,-9.05528,5.24639",
+    "geom:latitude":5.24639,
+    "geom:longitude":-9.05528,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jackson Place",
+    "gn:country_code":"LR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276424,
+    "gn:latitude":5.24639,
+    "gn:longitude":-9.05528,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Jackson Place",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276424
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ccc27c23c3e481502129ae04ad570971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694547,
+            "locality_id":1360274347,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1360274347,
+    "wof:lastmodified":1536672574,
+    "wof:name":"Jackson Place",
+    "wof:parent_id":1091694547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05528,
+    5.24639,
+    -9.05528,
+    5.24639
+],
+  "geometry": {"coordinates":[-9.05528,5.24639],"type":"Point"}
+}

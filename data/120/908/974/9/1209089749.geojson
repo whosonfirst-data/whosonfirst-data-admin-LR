@@ -1,0 +1,61 @@
+{
+  "id": 1209089749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.445,6.75306,-10.445,6.75306",
+    "geom:latitude":6.75306,
+    "geom:longitude":-10.445,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Baatown",
+    "gn:country_code":"LR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2279093,
+    "gn:latitude":6.75306,
+    "gn:longitude":-10.445,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Baatown",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2279093
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b6a641cfe4324c2ac9173adcb6a547bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209089749
+        }
+    ],
+    "wof:id":1209089749,
+    "wof:lastmodified":1536298072,
+    "wof:name":"Baatown",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.445,
+    6.7530600000000005,
+    -10.445,
+    6.7530600000000005
+],
+  "geometry": {"coordinates":[-10.445,6.75306],"type":"Point"}
+}

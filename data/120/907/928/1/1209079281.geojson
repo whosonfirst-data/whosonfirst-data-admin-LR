@@ -1,0 +1,67 @@
+{
+  "id": 1209079281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.87284,6.56357,-10.87284,6.56357",
+    "geom:latitude":6.56357,
+    "geom:longitude":-10.87284,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Golodee Number Two",
+    "gn:country_code":"LR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278533,
+    "gn:latitude":6.56357,
+    "gn:longitude":-10.87284,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Golodee Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolagai",
+        "Blagai",
+        "Golodee Number Two",
+        "Golodee No. 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278533
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d2a564a5fc4e38029a8caf62532e8d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209079281
+        }
+    ],
+    "wof:id":1209079281,
+    "wof:lastmodified":1537661803,
+    "wof:name":"Golodee Number Two",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.87284,
+    6.56357,
+    -10.87284,
+    6.56357
+],
+  "geometry": {"coordinates":[-10.87284,6.56357],"type":"Point"}
+}

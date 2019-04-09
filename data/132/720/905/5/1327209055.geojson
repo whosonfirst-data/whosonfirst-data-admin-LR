@@ -1,0 +1,73 @@
+{
+  "id": 1327209055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10231,6.04035,-8.10231,6.04035",
+    "geom:latitude":6.04035,
+    "geom:longitude":-8.10231,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yuobor",
+    "gn:country_code":"LR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272711,
+    "gn:latitude":6.04035,
+    "gn:longitude":-8.10231,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yuobor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beli Town",
+        "Yubo",
+        "Yubo Town",
+        "Yuobor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272711
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"dcacef41791efe101a775082e98bc318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1327209055,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1327209055,
+    "wof:lastmodified":1537661621,
+    "wof:name":"Yuobor",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10231,
+    6.04035,
+    -8.10231,
+    6.04035
+],
+  "geometry": {"coordinates":[-8.10231,6.04035],"type":"Point"}
+}

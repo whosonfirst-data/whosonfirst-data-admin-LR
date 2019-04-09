@@ -1,0 +1,67 @@
+{
+  "id": 1293179269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.12075,5.95436,-10.12075,5.95436",
+    "geom:latitude":5.95436,
+    "geom:longitude":-10.12075,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"King Town",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275906,
+    "gn:latitude":5.95436,
+    "gn:longitude":-10.12075,
+    "gn:modification_date":"2014-10-14",
+    "gn:name":"King Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275906
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"71e3d218110b4745142dba49e028764e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692889,
+            "locality_id":1293179269,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1293179269,
+    "wof:lastmodified":1536734676,
+    "wof:name":"King Town",
+    "wof:parent_id":1091692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.12075,
+    5.95436,
+    -10.12075,
+    5.95436
+],
+  "geometry": {"coordinates":[-10.12075,5.95436],"type":"Point"}
+}

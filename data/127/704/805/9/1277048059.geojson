@@ -1,0 +1,71 @@
+{
+  "id": 1277048059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04117,4.60489,-8.04117,4.60489",
+    "geom:latitude":4.60489,
+    "geom:longitude":-8.04117,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Juduken",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276149,
+    "gn:latitude":4.60489,
+    "gn:longitude":-8.04117,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Juduken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juduke",
+        "Juduken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276149
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"3ff9c7cd55a0811c2e7aa1de6f05b439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693271,
+            "locality_id":1277048059,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1277048059,
+    "wof:lastmodified":1537661727,
+    "wof:name":"Juduken",
+    "wof:parent_id":1091693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04117,
+    4.60489,
+    -8.04117,
+    4.60489
+],
+  "geometry": {"coordinates":[-8.04117,4.60489],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310485263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.63333,6.38333,-10.63333,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":-10.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Parker Town",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274485,
+    "gn:latitude":6.38333,
+    "gn:longitude":-10.63333,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Parker Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274485
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"1a759c11e1c4c75cee376b61bcdfe198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694083,
+            "locality_id":1310485263,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1310485263,
+    "wof:lastmodified":1536946518,
+    "wof:name":"Parker Town",
+    "wof:parent_id":1091694083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.63333,
+    6.38333,
+    -10.63333,
+    6.38333
+],
+  "geometry": {"coordinates":[-10.63333,6.38333],"type":"Point"}
+}

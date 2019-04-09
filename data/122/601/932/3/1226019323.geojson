@@ -1,0 +1,74 @@
+{
+  "id": 1226019323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90389,8.36972,-9.90389,8.36972",
+    "geom:latitude":8.36972,
+    "geom:longitude":-9.90389,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Velezala",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273333,
+    "gn:latitude":8.36972,
+    "gn:longitude":-9.90389,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Velezala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vilisala",
+        "Yezala",
+        "Valasala",
+        "Velezala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273333
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"39e8face00f0f06f7291f237fe4bc36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1226019323,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1226019323,
+    "wof:lastmodified":1537661640,
+    "wof:name":"Velezala",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90389,
+    8.36972,
+    -9.90389,
+    8.36972
+],
+  "geometry": {"coordinates":[-9.90389,8.36972],"type":"Point"}
+}

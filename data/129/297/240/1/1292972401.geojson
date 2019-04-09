@@ -1,0 +1,70 @@
+{
+  "id": 1292972401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.34957,6.21848,-10.34957,6.21848",
+    "geom:latitude":6.21848,
+    "geom:longitude":-10.34957,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Batro",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278841,
+    "gn:latitude":6.21848,
+    "gn:longitude":-10.34957,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Batro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Batro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278841
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4215ab504083060a0dcfe5f0dbf2f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1292972401,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1292972401,
+    "wof:lastmodified":1537661814,
+    "wof:name":"Batro",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.34957,
+    6.21848,
+    -10.34957,
+    6.21848
+],
+  "geometry": {"coordinates":[-10.34957,6.21848],"type":"Point"}
+}

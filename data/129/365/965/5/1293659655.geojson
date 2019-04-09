@@ -1,0 +1,72 @@
+{
+  "id": 1293659655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8575,6.72111,-10.8575,6.72111",
+    "geom:latitude":6.72111,
+    "geom:longitude":-10.8575,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sakue",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274190,
+    "gn:latitude":6.72111,
+    "gn:longitude":-10.8575,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sakue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be Seku",
+        "Sakue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274190
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e6af77680bfb86a7c2eda1871e82e6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1293659655,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1293659655,
+    "wof:lastmodified":1537661668,
+    "wof:name":"Sakue",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8575,
+    6.72111,
+    -10.8575,
+    6.72111
+],
+  "geometry": {"coordinates":[-10.8575,6.72111],"type":"Point"}
+}

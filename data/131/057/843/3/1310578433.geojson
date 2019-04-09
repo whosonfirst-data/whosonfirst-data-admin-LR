@@ -1,0 +1,70 @@
+{
+  "id": 1310578433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31609,7.07024,-11.31609,7.07024",
+    "geom:latitude":7.07024,
+    "geom:longitude":-11.31609,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dummagbe",
+    "gn:country_code":"LR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277516,
+    "gn:latitude":7.07024,
+    "gn:longitude":-11.31609,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Dummagbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumagbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277516
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"60b9971db53233cbd8b5e2d7659abb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692949,
+            "locality_id":1310578433,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1310578433,
+    "wof:lastmodified":1537661775,
+    "wof:name":"Dummagbe",
+    "wof:parent_id":1091692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31609,
+    7.07024,
+    -11.31609,
+    7.07024
+],
+  "geometry": {"coordinates":[-11.31609,7.07024],"type":"Point"}
+}

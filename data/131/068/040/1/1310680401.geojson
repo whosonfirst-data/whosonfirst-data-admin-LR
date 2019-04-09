@@ -1,0 +1,72 @@
+{
+  "id": 1310680401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9513,4.86026,-7.9513,4.86026",
+    "geom:latitude":4.86026,
+    "geom:longitude":-7.9513,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jargeloken",
+    "gn:country_code":"LR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276414,
+    "gn:latitude":4.86026,
+    "gn:longitude":-7.9513,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Jargeloken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jajolokehn",
+        "Jarjeloken",
+        "Jargeloken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276414
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5d9da4cc6f0bfbd8886a2460ea8c8e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693931,
+            "locality_id":1310680401,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1310680401,
+    "wof:lastmodified":1537661736,
+    "wof:name":"Jargeloken",
+    "wof:parent_id":1091693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9513,
+    4.86026,
+    -7.9513,
+    4.86026
+],
+  "geometry": {"coordinates":[-7.9513,4.86026],"type":"Point"}
+}

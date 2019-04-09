@@ -1,0 +1,70 @@
+{
+  "id": 1343325405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43184,6.26881,-10.43184,6.26881",
+    "geom:latitude":6.26881,
+    "geom:longitude":-10.43184,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gambemu",
+    "gn:country_code":"LR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277222,
+    "gn:latitude":6.26881,
+    "gn:longitude":-10.43184,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gambemu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gambemu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277222
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bb0f5f74652f7949456e2dec9beecbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1343325405,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1343325405,
+    "wof:lastmodified":1537661766,
+    "wof:name":"Gambemu",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43184,
+    6.26881,
+    -10.43184,
+    6.26881
+],
+  "geometry": {"coordinates":[-10.43184,6.26881],"type":"Point"}
+}

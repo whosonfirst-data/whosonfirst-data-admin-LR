@@ -1,0 +1,77 @@
+{
+  "id": 1309698673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56667,4.4,-7.56667,4.4",
+    "geom:latitude":4.4,
+    "geom:longitude":-7.56667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Waluke",
+    "gn:country_code":"LR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273248,
+    "gn:latitude":4.4,
+    "gn:longitude":-7.56667,
+    "gn:modification_date":"1995-12-18",
+    "gn:name":"Waluke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975,
+        85632449,
+        85669889,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273248
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8a791c5f6d77b1e69d371fabca0fea10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1309698673,
+            "region_id":85673517
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":1309698673,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":1309698673,
+    "wof:lastmodified":1537082436,
+    "wof:name":"Waluke",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56667,
+    4.4,
+    -7.56667,
+    4.4
+],
+  "geometry": {"coordinates":[-7.56667,4.4],"type":"Point"}
+}

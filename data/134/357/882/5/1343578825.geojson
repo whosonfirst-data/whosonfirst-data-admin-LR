@@ -1,0 +1,70 @@
+{
+  "id": 1343578825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.412,6.84606,-9.412,6.84606",
+    "geom:latitude":6.84606,
+    "geom:longitude":-9.412,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Danta",
+    "gn:country_code":"LR",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870356,
+    "gn:latitude":6.84606,
+    "gn:longitude":-9.412,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Danta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870356
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2dafaa6bacf3983355625c4ae6776650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1343578825,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1343578825,
+    "wof:lastmodified":1537661837,
+    "wof:name":"Danta",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.412,
+    6.84606,
+    -9.412,
+    6.84606
+],
+  "geometry": {"coordinates":[-9.412,6.84606],"type":"Point"}
+}

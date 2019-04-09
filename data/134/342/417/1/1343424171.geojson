@@ -1,0 +1,67 @@
+{
+  "id": 1343424171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42484,5.54088,-9.42484,5.54088",
+    "geom:latitude":5.54088,
+    "geom:longitude":-9.42484,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sess How",
+    "gn:country_code":"LR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570450,
+    "gn:latitude":5.54088,
+    "gn:longitude":-9.42484,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Sess How",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570450
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0d7e7511a6a0ca9b5fd689a4dd96d687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694497,
+            "locality_id":1343424171,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1343424171,
+    "wof:lastmodified":1536798856,
+    "wof:name":"Sess How",
+    "wof:parent_id":1091694497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42484,
+    5.54088,
+    -9.42484,
+    5.54088
+],
+  "geometry": {"coordinates":[-9.42484,5.54088],"type":"Point"}
+}

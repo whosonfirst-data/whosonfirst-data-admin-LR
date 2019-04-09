@@ -1,0 +1,67 @@
+{
+  "id": 1292959777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4725,7.82889,-10.4725,7.82889",
+    "geom:latitude":7.82889,
+    "geom:longitude":-10.4725,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gelahun",
+    "gn:country_code":"LR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276895,
+    "gn:latitude":7.82889,
+    "gn:longitude":-10.4725,
+    "gn:modification_date":"2009-03-30",
+    "gn:name":"Gelahun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673507,
+        1091693683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276895
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"12a1953145ce8ec63d6b510825bd37f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693683,
+            "locality_id":1292959777,
+            "region_id":85673507
+        }
+    ],
+    "wof:id":1292959777,
+    "wof:lastmodified":1537048841,
+    "wof:name":"Gelahun",
+    "wof:parent_id":1091693683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4725,
+    7.82889,
+    -10.4725,
+    7.82889
+],
+  "geometry": {"coordinates":[-10.4725,7.82889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293659585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.85281,6.49794,-10.85281,6.49794",
+    "geom:latitude":6.49794,
+    "geom:longitude":-10.85281,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Glebo",
+    "gn:country_code":"LR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9818129,
+    "gn:latitude":6.49794,
+    "gn:longitude":-10.85281,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Glebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9818129
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"275297673cbf68df210a639844d54bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1293659585,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1293659585,
+    "wof:lastmodified":1537034740,
+    "wof:name":"Glebo",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.85281,
+    6.49794,
+    -10.85281,
+    6.49794
+],
+  "geometry": {"coordinates":[-10.85281,6.49794],"type":"Point"}
+}

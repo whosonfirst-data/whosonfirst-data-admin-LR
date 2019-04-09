@@ -1,0 +1,72 @@
+{
+  "id": 1293465721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23043,6.18672,-9.23043,6.18672",
+    "geom:latitude":6.18672,
+    "geom:longitude":-9.23043,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zargay Guah Town",
+    "gn:country_code":"LR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272645,
+    "gn:latitude":6.18672,
+    "gn:longitude":-9.23043,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Zargay Guah Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zega",
+        "Zeget",
+        "Zargay Guah Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272645
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a5137175fa1e1e8ad25426c57691f44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694417,
+            "locality_id":1293465721,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1293465721,
+    "wof:lastmodified":1537661618,
+    "wof:name":"Zargay Guah Town",
+    "wof:parent_id":1091694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23043,
+    6.18672,
+    -9.23043,
+    6.18672
+],
+  "geometry": {"coordinates":[-9.23043,6.18672],"type":"Point"}
+}

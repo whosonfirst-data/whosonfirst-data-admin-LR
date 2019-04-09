@@ -1,0 +1,69 @@
+{
+  "id": 1343740501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.1491,5.96982,-10.1491,5.96982",
+    "geom:latitude":5.96982,
+    "geom:longitude":-10.1491,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Little Bassa",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275357,
+    "gn:latitude":5.96982,
+    "gn:longitude":-10.1491,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Little Bassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boda Town",
+        "Little Bassa",
+        "Boda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275357
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fd4adadbe912bceb9ad3f249a7ae6c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "locality_id":1343740501,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343740501,
+    "wof:lastmodified":1537661699,
+    "wof:name":"Little Bassa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.1491,
+    5.96982,
+    -10.1491,
+    5.96982
+],
+  "geometry": {"coordinates":[-10.1491,5.96982],"type":"Point"}
+}

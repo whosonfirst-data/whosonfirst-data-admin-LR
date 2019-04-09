@@ -1,0 +1,71 @@
+{
+  "id": 1327421941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.72597,5.76694,-9.72597,5.76694",
+    "geom:latitude":5.76694,
+    "geom:longitude":-9.72597,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nezarabli",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274736,
+    "gn:latitude":5.76694,
+    "gn:longitude":-9.72597,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Nezarabli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zokpozea",
+        "Nezarabli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274736
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"433bd3155d84e00dc0d6d80c98da3b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692865,
+            "locality_id":1327421941,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327421941,
+    "wof:lastmodified":1537661682,
+    "wof:name":"Nezarabli",
+    "wof:parent_id":1091692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.72597,
+    5.76694,
+    -9.72597,
+    5.76694
+],
+  "geometry": {"coordinates":[-9.72597,5.76694],"type":"Point"}
+}

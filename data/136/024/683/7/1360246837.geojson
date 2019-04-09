@@ -1,0 +1,67 @@
+{
+  "id": 1360246837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.64139,8.08389,-9.64139,8.08389",
+    "geom:latitude":8.08389,
+    "geom:longitude":-9.64139,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"D. Haring Weston Farm",
+    "gn:country_code":"LR",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277810,
+    "gn:latitude":8.08389,
+    "gn:longitude":-9.64139,
+    "gn:modification_date":"1996-02-27",
+    "gn:name":"D. Haring Weston Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277810
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"a15994b004eee6d8fc738a6db525a3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693465,
+            "locality_id":1360246837,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1360246837,
+    "wof:lastmodified":1536712731,
+    "wof:name":"D. Haring Weston Farm",
+    "wof:parent_id":1091693465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.64139,
+    8.08389,
+    -9.64139,
+    8.08389
+],
+  "geometry": {"coordinates":[-9.64139,8.08389],"type":"Point"}
+}

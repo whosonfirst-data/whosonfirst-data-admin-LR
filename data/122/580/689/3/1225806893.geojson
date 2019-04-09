@@ -1,0 +1,72 @@
+{
+  "id": 1225806893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.19639,8.09694,-10.19639,8.09694",
+    "geom:latitude":8.09694,
+    "geom:longitude":-10.19639,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bondowalahun Number Two",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278304,
+    "gn:latitude":8.09694,
+    "gn:longitude":-10.19639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bondowalahun Number Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bondowalahun No. 2",
+        "Bondowalahun Number Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278304
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"38f950537f50db397a67a6b1c2bf6ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693401,
+            "locality_id":1225806893,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1225806893,
+    "wof:lastmodified":1537661795,
+    "wof:name":"Bondowalahun Number Two",
+    "wof:parent_id":1091693401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.19639,
+    8.09694,
+    -10.19639,
+    8.09694
+],
+  "geometry": {"coordinates":[-10.19639,8.09694],"type":"Point"}
+}

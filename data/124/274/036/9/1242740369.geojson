@@ -1,0 +1,71 @@
+{
+  "id": 1242740369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19239,6.06976,-8.19239,6.06976",
+    "geom:latitude":6.06976,
+    "geom:longitude":-8.19239,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Baklo Town",
+    "gn:country_code":"LR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276554,
+    "gn:latitude":6.06976,
+    "gn:longitude":-8.19239,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Baklo Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumbo",
+        "Baklo Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276554
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ae8a03a94e653a35f5ac9e56238b2996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1242740369,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1242740369,
+    "wof:lastmodified":1537661739,
+    "wof:name":"Baklo Town",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19239,
+    6.06976,
+    -8.19239,
+    6.06976
+],
+  "geometry": {"coordinates":[-8.19239,6.06976],"type":"Point"}
+}

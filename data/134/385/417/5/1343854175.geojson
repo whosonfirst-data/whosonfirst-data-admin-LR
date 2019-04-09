@@ -1,0 +1,75 @@
+{
+  "id": 1343854175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59778,6.99194,-8.59778,6.99194",
+    "geom:latitude":6.99194,
+    "geom:longitude":-8.59778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Biahdatuo",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278613,
+    "gn:latitude":6.99194,
+    "gn:longitude":-8.59778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Biahdatuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biatro",
+        "Bongwia",
+        "Biatuo",
+        "Biadatuo",
+        "Biahdatuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278613
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6f9dd8b66e84079c5329bcf815eea24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1343854175,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1343854175,
+    "wof:lastmodified":1537661806,
+    "wof:name":"Biahdatuo",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59778,
+    6.99194,
+    -8.59778,
+    6.99194
+],
+  "geometry": {"coordinates":[-8.59778,6.99194],"type":"Point"}
+}

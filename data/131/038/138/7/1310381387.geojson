@@ -1,0 +1,71 @@
+{
+  "id": 1310381387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4722,5.50461,-9.4722,5.50461",
+    "geom:latitude":5.50461,
+    "geom:longitude":-9.4722,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Does",
+    "gn:country_code":"LR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277648,
+    "gn:latitude":5.50461,
+    "gn:longitude":-9.4722,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Does",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doe",
+        "Does"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277648
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"d5ef30b63c72cb160957affcd9f46df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694497,
+            "locality_id":1310381387,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1310381387,
+    "wof:lastmodified":1537661780,
+    "wof:name":"Does",
+    "wof:parent_id":1091694497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4722,
+    5.50461,
+    -9.4722,
+    5.50461
+],
+  "geometry": {"coordinates":[-9.4722,5.50461],"type":"Point"}
+}

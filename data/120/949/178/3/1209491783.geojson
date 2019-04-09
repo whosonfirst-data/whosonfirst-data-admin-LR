@@ -1,0 +1,68 @@
+{
+  "id": 1209491783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78009,4.70807,-7.78009,4.70807",
+    "geom:latitude":4.70807,
+    "geom:longitude":-7.78009,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gbeaken",
+    "gn:country_code":"LR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272959,
+    "gn:latitude":4.70807,
+    "gn:longitude":-7.78009,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gbeaken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuduke",
+        "Gbeare",
+        "Gbeke",
+        "Gbeake",
+        "Gbeaken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272959
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"671c5e46c0a73ec249fcd084a8e087e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209491783
+        }
+    ],
+    "wof:id":1209491783,
+    "wof:lastmodified":1537661629,
+    "wof:name":"Gbeaken",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78009,
+    4.70807,
+    -7.78009,
+    4.70807
+],
+  "geometry": {"coordinates":[-7.78009,4.70807],"type":"Point"}
+}

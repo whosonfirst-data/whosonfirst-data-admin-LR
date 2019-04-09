@@ -1,0 +1,67 @@
+{
+  "id": 1360303243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.26667,6.81667,-10.26667,6.81667",
+    "geom:latitude":6.81667,
+    "geom:longitude":-10.26667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vengeleta",
+    "gn:country_code":"LR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273330,
+    "gn:latitude":6.81667,
+    "gn:longitude":-10.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Vengeleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273330
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"70a398aed702afdeb847165d403aa17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1360303243,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1360303243,
+    "wof:lastmodified":1536629195,
+    "wof:name":"Vengeleta",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.26667,
+    6.81667,
+    -10.26667,
+    6.81667
+],
+  "geometry": {"coordinates":[-10.26667,6.81667],"type":"Point"}
+}

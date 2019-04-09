@@ -1,0 +1,73 @@
+{
+  "id": 1226107145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63556,7.76944,-9.63556,7.76944",
+    "geom:latitude":7.76944,
+    "geom:longitude":-9.63556,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wuomai",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272905,
+    "gn:latitude":7.76944,
+    "gn:longitude":-9.63556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wuomai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Womai",
+        "Wuoami",
+        "Wuomai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272905
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ef7046988a8e3fa950caa3ce953c5bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693465,
+            "locality_id":1226107145,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1226107145,
+    "wof:lastmodified":1537661627,
+    "wof:name":"Wuomai",
+    "wof:parent_id":1091693465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63556,
+    7.76944,
+    -9.63556,
+    7.76944
+],
+  "geometry": {"coordinates":[-9.63556,7.76944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243081759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.35337,6.89306,-10.35337,6.89306",
+    "geom:latitude":6.89306,
+    "geom:longitude":-10.35337,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kama",
+    "gn:country_code":"LR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276060,
+    "gn:latitude":6.89306,
+    "gn:longitude":-10.35337,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276060
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ba76d0f1e9971fde9ab2d198d2d056c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1243081759,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1243081759,
+    "wof:lastmodified":1537661724,
+    "wof:name":"Kama",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.35337,
+    6.89306,
+    -10.35337,
+    6.89306
+],
+  "geometry": {"coordinates":[-10.35337,6.89306],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243344621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68696,5.94115,-9.68696,5.94115",
+    "geom:latitude":5.94115,
+    "geom:longitude":-9.68696,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gbor Joe",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273276,
+    "gn:latitude":5.94115,
+    "gn:longitude":-9.68696,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Gbor Joe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wadio",
+        "Gborjoe",
+        "Gbor Joe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273276
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e900d92fb66cf9d997052cb3b69d1142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692865,
+            "locality_id":1243344621,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1243344621,
+    "wof:lastmodified":1537661638,
+    "wof:name":"Gbor Joe",
+    "wof:parent_id":1091692865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68696,
+    5.94115,
+    -9.68696,
+    5.94115
+],
+  "geometry": {"coordinates":[-9.68696,5.94115],"type":"Point"}
+}

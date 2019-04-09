@@ -1,0 +1,67 @@
+{
+  "id": 1276297455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11091,6.21709,-8.11091,6.21709",
+    "geom:latitude":6.21709,
+    "geom:longitude":-8.11091,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Padeka Town",
+    "gn:country_code":"LR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274524,
+    "gn:latitude":6.21709,
+    "gn:longitude":-8.11091,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Padeka Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274524
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"db8df0d810c5767b81e833352c57dce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693117,
+            "locality_id":1276297455,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1276297455,
+    "wof:lastmodified":1536825971,
+    "wof:name":"Padeka Town",
+    "wof:parent_id":1091693117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11091,
+    6.21709,
+    -8.11091,
+    6.21709
+],
+  "geometry": {"coordinates":[-8.11091,6.21709],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226222291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.87352,7.35867,-10.87352,7.35867",
+    "geom:latitude":7.35867,
+    "geom:longitude":-10.87352,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Soso Camp",
+    "gn:country_code":"LR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273807,
+    "gn:latitude":7.35867,
+    "gn:longitude":-10.87352,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Soso Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673535,
+        1091692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273807
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"80cf77f59b530a375d13a4eb5c02c66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692983,
+            "locality_id":1226222291,
+            "region_id":85673535
+        }
+    ],
+    "wof:id":1226222291,
+    "wof:lastmodified":1536967216,
+    "wof:name":"Soso Camp",
+    "wof:parent_id":1091692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.87352,
+    7.35867,
+    -10.87352,
+    7.35867
+],
+  "geometry": {"coordinates":[-10.87352,7.35867],"type":"Point"}
+}

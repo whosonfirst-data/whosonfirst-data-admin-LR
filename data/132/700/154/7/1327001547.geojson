@@ -1,0 +1,72 @@
+{
+  "id": 1327001547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.44119,6.19965,-10.44119,6.19965",
+    "geom:latitude":6.19965,
+    "geom:longitude":-10.44119,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wynn Town",
+    "gn:country_code":"LR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273174,
+    "gn:latitude":6.19965,
+    "gn:longitude":-10.44119,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Wynn Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wehn",
+        "Wein",
+        "Wynn Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273174
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"307331b5136087bbe1d3bb52bc5dde41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "locality_id":1327001547,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1327001547,
+    "wof:lastmodified":1537661635,
+    "wof:name":"Wynn Town",
+    "wof:parent_id":1091693887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.44119,
+    6.19965,
+    -10.44119,
+    6.19965
+],
+  "geometry": {"coordinates":[-10.44119,6.19965],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209302585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.04831,5.96536,-10.04831,5.96536",
+    "geom:latitude":5.96536,
+    "geom:longitude":-10.04831,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Glosoe Town",
+    "gn:country_code":"LR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2571985,
+    "gn:latitude":5.96536,
+    "gn:longitude":-10.04831,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Glosoe Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2571985
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"519a5c72c7ec1312eeb1872de6a9407d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209302585
+        }
+    ],
+    "wof:id":1209302585,
+    "wof:lastmodified":1536291305,
+    "wof:name":"Glosoe Town",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.04831,
+    5.96536,
+    -10.04831,
+    5.96536
+],
+  "geometry": {"coordinates":[-10.04831,5.96536],"type":"Point"}
+}

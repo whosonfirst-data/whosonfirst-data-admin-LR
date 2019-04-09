@@ -1,0 +1,72 @@
+{
+  "id": 1293466261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9129,4.82961,-7.9129,4.82961",
+    "geom:latitude":4.82961,
+    "geom:longitude":-7.9129,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gropakehn",
+    "gn:country_code":"LR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276594,
+    "gn:latitude":4.82961,
+    "gn:longitude":-7.9129,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Gropakehn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gropake",
+        "Gropakehn",
+        "New Hope"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276594
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8b816c443b441c8bbbdb3141f63d4e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693931,
+            "locality_id":1293466261,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1293466261,
+    "wof:lastmodified":1537661740,
+    "wof:name":"Gropakehn",
+    "wof:parent_id":1091693931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9129,
+    4.82961,
+    -7.9129,
+    4.82961
+],
+  "geometry": {"coordinates":[-7.9129,4.82961],"type":"Point"}
+}

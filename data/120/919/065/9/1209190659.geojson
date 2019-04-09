@@ -1,0 +1,61 @@
+{
+  "id": 1209190659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.45,6.18333,-10.45,6.18333",
+    "geom:latitude":6.18333,
+    "geom:longitude":-10.45,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nimla",
+    "gn:country_code":"LR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274681,
+    "gn:latitude":6.18333,
+    "gn:longitude":-10.45,
+    "gn:modification_date":"1996-02-28",
+    "gn:name":"Nimla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274681
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"26f9317d6096ded37060da2bacd2b703",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209190659
+        }
+    ],
+    "wof:id":1209190659,
+    "wof:lastmodified":1536294946,
+    "wof:name":"Nimla",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.45,
+    6.1833300000000015,
+    -10.45,
+    6.1833300000000015
+],
+  "geometry": {"coordinates":[-10.45,6.18333],"type":"Point"}
+}

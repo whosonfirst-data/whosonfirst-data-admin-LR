@@ -1,0 +1,67 @@
+{
+  "id": 1310386585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98333,6.41667,-9.98333,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":-9.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gboje",
+    "gn:country_code":"LR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276977,
+    "gn:latitude":6.41667,
+    "gn:longitude":-9.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gboje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276977
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"684be31085fa9931068aa6e12a25cea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1310386585,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1310386585,
+    "wof:lastmodified":1537085367,
+    "wof:name":"Gboje",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98333,
+    6.41667,
+    -9.98333,
+    6.41667
+],
+  "geometry": {"coordinates":[-9.98333,6.41667],"type":"Point"}
+}

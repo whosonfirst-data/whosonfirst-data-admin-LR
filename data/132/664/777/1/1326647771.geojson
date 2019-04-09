@@ -1,0 +1,70 @@
+{
+  "id": 1326647771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.29966,6.85428,-10.29966,6.85428",
+    "geom:latitude":6.85428,
+    "geom:longitude":-10.29966,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tinktata",
+    "gn:country_code":"LR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2273574,
+    "gn:latitude":6.85428,
+    "gn:longitude":-10.29966,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Tinktata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tinktata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273574
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"7c3d8dfe0db4acd467e6e50cc9e8bede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1326647771,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1326647771,
+    "wof:lastmodified":1537661648,
+    "wof:name":"Tinktata",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.29966,
+    6.85428,
+    -10.29966,
+    6.85428
+],
+  "geometry": {"coordinates":[-10.29966,6.85428],"type":"Point"}
+}

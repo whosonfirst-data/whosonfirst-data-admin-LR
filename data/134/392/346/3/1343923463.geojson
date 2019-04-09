@@ -1,0 +1,67 @@
+{
+  "id": 1343923463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62989,5.62573,-7.62989,5.62573",
+    "geom:latitude":5.62573,
+    "geom:longitude":-7.62989,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Flu",
+    "gn:country_code":"LR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277343,
+    "gn:latitude":5.62573,
+    "gn:longitude":-7.62989,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Flu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277343
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8b843d943329889df5ee57b69e24e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693119,
+            "locality_id":1343923463,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1343923463,
+    "wof:lastmodified":1537070431,
+    "wof:name":"Flu",
+    "wof:parent_id":1091693119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62989,
+    5.62573,
+    -7.62989,
+    5.62573
+],
+  "geometry": {"coordinates":[-7.62989,5.62573],"type":"Point"}
+}

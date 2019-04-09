@@ -1,0 +1,70 @@
+{
+  "id": 1309777539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.30994,6.58418,-10.30994,6.58418",
+    "geom:latitude":6.58418,
+    "geom:longitude":-10.30994,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mary Farm",
+    "gn:country_code":"LR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275100,
+    "gn:latitude":6.58418,
+    "gn:longitude":-10.30994,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mary Farm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mary Page Farm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275100
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f5dd6d276fdb12acb5dbec97912352c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693791,
+            "locality_id":1309777539,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1309777539,
+    "wof:lastmodified":1537661692,
+    "wof:name":"Mary Farm",
+    "wof:parent_id":1091693791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.30994,
+    6.58418,
+    -10.30994,
+    6.58418
+],
+  "geometry": {"coordinates":[-10.30994,6.58418],"type":"Point"}
+}

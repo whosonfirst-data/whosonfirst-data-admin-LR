@@ -1,0 +1,67 @@
+{
+  "id": 1276853141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07593,4.68116,-8.07593,4.68116",
+    "geom:latitude":4.68116,
+    "geom:longitude":-8.07593,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gbalabroken",
+    "gn:country_code":"LR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9873368,
+    "gn:latitude":4.68116,
+    "gn:longitude":-8.07593,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gbalabroken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9873368
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e9150e3cbf5e27840890f764c1bb3a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693271,
+            "locality_id":1276853141,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1276853141,
+    "wof:lastmodified":1537073846,
+    "wof:name":"Gbalabroken",
+    "wof:parent_id":1091693271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07593,
+    4.68116,
+    -8.07593,
+    4.68116
+],
+  "geometry": {"coordinates":[-8.07593,4.68116],"type":"Point"}
+}

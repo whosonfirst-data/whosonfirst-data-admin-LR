@@ -1,0 +1,70 @@
+{
+  "id": 1226414005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.33793,6.31542,-10.33793,6.31542",
+    "geom:latitude":6.31542,
+    "geom:longitude":-10.33793,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Harbel Place",
+    "gn:country_code":"LR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276500,
+    "gn:latitude":6.31542,
+    "gn:longitude":-10.33793,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Harbel Place",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Harbel Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276500
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0fe00158b93a6affa776656f10012052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693839,
+            "locality_id":1226414005,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1226414005,
+    "wof:lastmodified":1537661737,
+    "wof:name":"Harbel Place",
+    "wof:parent_id":1091693839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.33793,
+    6.31542,
+    -10.33793,
+    6.31542
+],
+  "geometry": {"coordinates":[-10.33793,6.31542],"type":"Point"}
+}

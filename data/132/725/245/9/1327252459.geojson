@@ -1,0 +1,70 @@
+{
+  "id": 1327252459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67444,7.00861,-8.67444,7.00861",
+    "geom:latitude":7.00861,
+    "geom:longitude":-8.67444,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gblah",
+    "gn:country_code":"LR",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276994,
+    "gn:latitude":7.00861,
+    "gn:longitude":-8.67444,
+    "gn:modification_date":"2015-04-23",
+    "gn:name":"Gblah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276994
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e4cf9c6aa7247b9703027c34bdb76629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694297,
+            "locality_id":1327252459,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1327252459,
+    "wof:lastmodified":1537661756,
+    "wof:name":"Gblah",
+    "wof:parent_id":1091694297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67444,
+    7.00861,
+    -8.67444,
+    7.00861
+],
+  "geometry": {"coordinates":[-8.67444,7.00861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225816945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.32611,6.76139,-10.32611,6.76139",
+    "geom:latitude":6.76139,
+    "geom:longitude":-10.32611,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Moivita",
+    "gn:country_code":"LR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274940,
+    "gn:latitude":6.76139,
+    "gn:longitude":-10.32611,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Moivita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mowita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274940
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ba3cac3c575a5aef35febf71c9e7c32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692483,
+            "locality_id":1225816945,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1225816945,
+    "wof:lastmodified":1537661688,
+    "wof:name":"Moivita",
+    "wof:parent_id":1091692483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.32611,
+    6.76139,
+    -10.32611,
+    6.76139
+],
+  "geometry": {"coordinates":[-10.32611,6.76139],"type":"Point"}
+}

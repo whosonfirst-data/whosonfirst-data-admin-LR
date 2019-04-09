@@ -1,0 +1,64 @@
+{
+  "id": 1209094275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61667,6.61667,-9.61667,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":-9.61667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yopata",
+    "gn:country_code":"LR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272726,
+    "gn:latitude":6.61667,
+    "gn:longitude":-9.61667,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yopata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yopata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272726
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"2320e1945c74f7e88a989b04e5adadef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209094275
+        }
+    ],
+    "wof:id":1209094275,
+    "wof:lastmodified":1537661622,
+    "wof:name":"Yopata",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61667,
+    6.61667,
+    -9.61667,
+    6.61667
+],
+  "geometry": {"coordinates":[-9.61667,6.61667],"type":"Point"}
+}

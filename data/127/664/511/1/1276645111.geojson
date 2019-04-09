@@ -1,0 +1,67 @@
+{
+  "id": 1276645111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01917,5.03278,-9.01917,5.03278",
+    "geom:latitude":5.03278,
+    "geom:longitude":-9.01917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Louisiana",
+    "gn:country_code":"LR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275313,
+    "gn:latitude":5.03278,
+    "gn:longitude":-9.01917,
+    "gn:modification_date":"2003-09-17",
+    "gn:name":"Louisiana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275313
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8c28ce4b88ceabd72f494c72a9cef5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694701,
+            "locality_id":1276645111,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1276645111,
+    "wof:lastmodified":1536856847,
+    "wof:name":"Louisiana",
+    "wof:parent_id":1091694701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01917,
+    5.03278,
+    -9.01917,
+    5.03278
+],
+  "geometry": {"coordinates":[-9.01917,5.03278],"type":"Point"}
+}

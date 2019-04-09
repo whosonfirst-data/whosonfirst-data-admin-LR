@@ -1,0 +1,61 @@
+{
+  "id": 1209511133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.89944,7.22861,-8.89944,7.22861",
+    "geom:latitude":7.22861,
+    "geom:longitude":-8.89944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nobo",
+    "gn:country_code":"LR",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274651,
+    "gn:latitude":7.22861,
+    "gn:longitude":-8.89944,
+    "gn:modification_date":"1996-03-14",
+    "gn:name":"Nobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274651
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"795881509a660aeb85f45981e6b531d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209511133
+        }
+    ],
+    "wof:id":1209511133,
+    "wof:lastmodified":1536284878,
+    "wof:name":"Nobo",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.89944,
+    7.2286100000000015,
+    -8.89944,
+    7.2286100000000015
+],
+  "geometry": {"coordinates":[-8.89944,7.22861],"type":"Point"}
+}

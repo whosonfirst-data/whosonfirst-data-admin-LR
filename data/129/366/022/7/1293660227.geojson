@@ -1,0 +1,68 @@
+{
+  "id": 1293660227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.74083,6.33697,-10.74083,6.33697",
+    "geom:latitude":6.33697,
+    "geom:longitude":-10.74083,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gardnersville",
+    "gn:country_code":"LR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277185,
+    "gn:latitude":6.33697,
+    "gn:longitude":-10.74083,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gardnersville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277185,
+        "wk:page":"Gardnersville"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f5b9982220382975596fd2a3822f041c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":1293660227,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1293660227,
+    "wof:lastmodified":1537568041,
+    "wof:name":"Gardnersville",
+    "wof:parent_id":1091694121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.74083,
+    6.33697,
+    -10.74083,
+    6.33697
+],
+  "geometry": {"coordinates":[-10.74083,6.33697],"type":"Point"}
+}

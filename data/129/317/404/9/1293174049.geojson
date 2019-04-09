@@ -1,0 +1,67 @@
+{
+  "id": 1293174049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.00738,6.61328,-11.00738,6.61328",
+    "geom:latitude":6.61328,
+    "geom:longitude":-11.00738,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Balaka",
+    "gn:country_code":"LR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278984,
+    "gn:latitude":6.61328,
+    "gn:longitude":-11.00738,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Balaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278984
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"57230ed3bb1201e0ca729b9953d702cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1293174049,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1293174049,
+    "wof:lastmodified":1536741867,
+    "wof:name":"Balaka",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.00738,
+    6.61328,
+    -11.00738,
+    6.61328
+],
+  "geometry": {"coordinates":[-11.00738,6.61328],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293745443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.18333,8.31667,-10.18333,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":-10.18333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Peama",
+    "gn:country_code":"LR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274460,
+    "gn:latitude":8.31667,
+    "gn:longitude":-10.18333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Peama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274460
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b3a662d9fde62112798821f4cd197024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693663,
+            "locality_id":1293745443,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1293745443,
+    "wof:lastmodified":1536912874,
+    "wof:name":"Peama",
+    "wof:parent_id":1091693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.18333,
+    8.31667,
+    -10.18333,
+    8.31667
+],
+  "geometry": {"coordinates":[-10.18333,8.31667],"type":"Point"}
+}

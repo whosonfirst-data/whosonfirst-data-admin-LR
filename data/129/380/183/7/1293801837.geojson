@@ -1,0 +1,70 @@
+{
+  "id": 1293801837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46625,7.03427,-9.46625,7.03427",
+    "geom:latitude":7.03427,
+    "geom:longitude":-9.46625,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Henry Kollieta",
+    "gn:country_code":"LR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869776,
+    "gn:latitude":7.03427,
+    "gn:longitude":-9.46625,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Henry Kollieta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Henry Kollieta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869776
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"8ab821fec4f7591ba63b865e9fb39e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1293801837,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1293801837,
+    "wof:lastmodified":1537661831,
+    "wof:name":"Henry Kollieta",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46625,
+    7.03427,
+    -9.46625,
+    7.03427
+],
+  "geometry": {"coordinates":[-9.46625,7.03427],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293654057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.9875,8.27194,-9.9875,8.27194",
+    "geom:latitude":8.27194,
+    "geom:longitude":-9.9875,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kpangbalamai",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275661,
+    "gn:latitude":8.27194,
+    "gn:longitude":-9.9875,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kpangbalamai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpangbelema",
+        "Kpanbalmai",
+        "Kpanbalamai",
+        "Kpangbalamai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275661
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"f8f4914dece2bf435468ca786d9f1509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1293654057,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1293654057,
+    "wof:lastmodified":1537661709,
+    "wof:name":"Kpangbalamai",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.9875,
+    8.27194,
+    -9.9875,
+    8.27194
+],
+  "geometry": {"coordinates":[-9.9875,8.27194],"type":"Point"}
+}

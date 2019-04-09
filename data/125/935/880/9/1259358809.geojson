@@ -1,0 +1,67 @@
+{
+  "id": 1259358809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.27875,5.76511,-9.27875,5.76511",
+    "geom:latitude":5.76511,
+    "geom:longitude":-9.27875,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sam Beach Gold Mine",
+    "gn:country_code":"LR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9874073,
+    "gn:latitude":5.76511,
+    "gn:longitude":-9.27875,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Sam Beach Gold Mine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9874073
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e5cc87564b8fffb747902069ef2f6a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694461,
+            "locality_id":1259358809,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1259358809,
+    "wof:lastmodified":1537036277,
+    "wof:name":"Sam Beach Gold Mine",
+    "wof:parent_id":1091694461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27875,
+    5.76511,
+    -9.27875,
+    5.76511
+],
+  "geometry": {"coordinates":[-9.27875,5.76511],"type":"Point"}
+}

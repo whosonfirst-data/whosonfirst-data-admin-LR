@@ -1,0 +1,67 @@
+{
+  "id": 1293373781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38333,5.05,-8.38333,5.05",
+    "geom:latitude":5.05,
+    "geom:longitude":-8.38333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Boubou",
+    "gn:country_code":"LR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278217,
+    "gn:latitude":5.05,
+    "gn:longitude":-8.38333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Boubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673513,
+        1091693179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278217
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c7153c5bb1bd5b30467b08928e185b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693179,
+            "locality_id":1293373781,
+            "region_id":85673513
+        }
+    ],
+    "wof:id":1293373781,
+    "wof:lastmodified":1536951204,
+    "wof:name":"Boubou",
+    "wof:parent_id":1091693179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38333,
+    5.05,
+    -8.38333,
+    5.05
+],
+  "geometry": {"coordinates":[-8.38333,5.05],"type":"Point"}
+}

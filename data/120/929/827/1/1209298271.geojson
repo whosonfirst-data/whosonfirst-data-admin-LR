@@ -1,0 +1,65 @@
+{
+  "id": 1209298271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68758,4.93914,-8.68758,4.93914",
+    "geom:latitude":4.93914,
+    "geom:longitude":-8.68758,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Langdon Town",
+    "gn:country_code":"LR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275448,
+    "gn:latitude":4.93914,
+    "gn:longitude":-8.68758,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Langdon Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langdon",
+        "Langdon Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275448
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"82206336747dacf667cacdba9c518a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209298271
+        }
+    ],
+    "wof:id":1209298271,
+    "wof:lastmodified":1537661702,
+    "wof:name":"Langdon Town",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68758,
+    4.93914,
+    -8.68758,
+    4.93914
+],
+  "geometry": {"coordinates":[-8.68758,4.93914],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293678813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11426,6.88955,-9.11426,6.88955",
+    "geom:latitude":6.88955,
+    "geom:longitude":-9.11426,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Blawi",
+    "gn:country_code":"LR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278513,
+    "gn:latitude":6.88955,
+    "gn:longitude":-9.11426,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Blawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blaui",
+        "Blawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673551,
+        1091694167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278513
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"25f1ddff40c185b933b7ce2da8a69849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694167,
+            "locality_id":1293678813,
+            "region_id":85673551
+        }
+    ],
+    "wof:id":1293678813,
+    "wof:lastmodified":1537661802,
+    "wof:name":"Blawi",
+    "wof:parent_id":1091694167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11426,
+    6.88955,
+    -9.11426,
+    6.88955
+],
+  "geometry": {"coordinates":[-9.11426,6.88955],"type":"Point"}
+}

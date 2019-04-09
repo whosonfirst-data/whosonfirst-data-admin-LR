@@ -1,0 +1,64 @@
+{
+  "id": 1209586643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.80462,6.39191,-10.80462,6.39191",
+    "geom:latitude":6.39191,
+    "geom:longitude":-10.80462,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gborteah",
+    "gn:country_code":"LR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274355,
+    "gn:latitude":6.39191,
+    "gn:longitude":-10.80462,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gborteah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Point Four"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274355
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"e16ca21b6c2a5be198d73b7c163f06f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209586643
+        }
+    ],
+    "wof:id":1209586643,
+    "wof:lastmodified":1537661672,
+    "wof:name":"Gborteah",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.80462,
+    6.39191,
+    -10.80462,
+    6.39191
+],
+  "geometry": {"coordinates":[-10.80462,6.39191],"type":"Point"}
+}

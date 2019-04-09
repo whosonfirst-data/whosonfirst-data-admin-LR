@@ -1,0 +1,70 @@
+{
+  "id": 1327411983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5,6.48333,-9.5,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":-9.5,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bie",
+    "gn:country_code":"LR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278601,
+    "gn:latitude":6.48333,
+    "gn:longitude":-9.5,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278601
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"4131b4e210a053f4f773cb1d30917207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692815,
+            "locality_id":1327411983,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327411983,
+    "wof:lastmodified":1537661806,
+    "wof:name":"Bie",
+    "wof:parent_id":1091692815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5,
+    6.48333,
+    -9.5,
+    6.48333
+],
+  "geometry": {"coordinates":[-9.5,6.48333],"type":"Point"}
+}

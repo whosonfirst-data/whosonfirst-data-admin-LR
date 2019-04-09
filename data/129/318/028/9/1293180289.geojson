@@ -1,0 +1,72 @@
+{
+  "id": 1293180289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66249,4.67882,-7.66249,4.67882",
+    "geom:latitude":4.67882,
+    "geom:longitude":-7.66249,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yedieken",
+    "gn:country_code":"LR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272771,
+    "gn:latitude":4.67882,
+    "gn:longitude":-7.66249,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Yedieken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeteake",
+        "Yeleake",
+        "Yedieken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673517,
+        1091693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272771
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"bd1556f9201864282a715f69bef9f20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693975,
+            "locality_id":1293180289,
+            "region_id":85673517
+        }
+    ],
+    "wof:id":1293180289,
+    "wof:lastmodified":1537661623,
+    "wof:name":"Yedieken",
+    "wof:parent_id":1091693975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66249,
+    4.67882,
+    -7.66249,
+    4.67882
+],
+  "geometry": {"coordinates":[-7.66249,4.67882],"type":"Point"}
+}

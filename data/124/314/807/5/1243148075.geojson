@@ -1,0 +1,74 @@
+{
+  "id": 1243148075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20768,6.26696,-9.20768,6.26696",
+    "geom:latitude":6.26696,
+    "geom:longitude":-9.20768,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kangbo",
+    "gn:country_code":"LR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275771,
+    "gn:latitude":6.26696,
+    "gn:longitude":-9.20768,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Kangbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komb Town",
+        "Kambo",
+        "Kombo",
+        "Kangbo Town",
+        "Kangbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673557,
+        1091694417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275771
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"6d34b354116e1ae5599813b6cbd3519d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694417,
+            "locality_id":1243148075,
+            "region_id":85673557
+        }
+    ],
+    "wof:id":1243148075,
+    "wof:lastmodified":1537661713,
+    "wof:name":"Kangbo",
+    "wof:parent_id":1091694417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20768,
+    6.26696,
+    -9.20768,
+    6.26696
+],
+  "geometry": {"coordinates":[-9.20768,6.26696],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259439397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02116,5.23396,-8.02116,5.23396",
+    "geom:latitude":5.23396,
+    "geom:longitude":-8.02116,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kanweaken",
+    "gn:country_code":"LR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2276101,
+    "gn:latitude":5.23396,
+    "gn:longitude":-8.02116,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kanweaken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahnwia",
+        "Kaweaken",
+        "Kanweaken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673503,
+        1091693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2276101
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"364d12d6602d773d385627ccabf37cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693159,
+            "locality_id":1259439397,
+            "region_id":85673503
+        }
+    ],
+    "wof:id":1259439397,
+    "wof:lastmodified":1537661725,
+    "wof:name":"Kanweaken",
+    "wof:parent_id":1091693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02116,
+    5.23396,
+    -8.02116,
+    5.23396
+],
+  "geometry": {"coordinates":[-8.02116,5.23396],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327221867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90068,6.20622,-9.90068,6.20622",
+    "geom:latitude":6.20622,
+    "geom:longitude":-9.90068,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"John Kpeleweh",
+    "gn:country_code":"LR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9817890,
+    "gn:latitude":6.20622,
+    "gn:longitude":-9.90068,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"John Kpeleweh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9817890
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"189759db09b9346cb34224f860a0ee9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1327221867,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1327221867,
+    "wof:lastmodified":1536984063,
+    "wof:name":"John Kpeleweh",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90068,
+    6.20622,
+    -9.90068,
+    6.20622
+],
+  "geometry": {"coordinates":[-9.90068,6.20622],"type":"Point"}
+}

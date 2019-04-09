@@ -1,0 +1,73 @@
+{
+  "id": 1225828115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9,6.75,-10.9,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":-10.9,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gbamgbama",
+    "gn:cc2":"LR",
+    "gn:country_code":"LR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277094,
+    "gn:latitude":6.75,
+    "gn:longitude":-10.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gbamgbama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbangbama",
+        "Gbangbamai",
+        "Gbamgbama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673523,
+        1091692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277094
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"fa84c155f726f5b7f1335f02fffb69f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692345,
+            "locality_id":1225828115,
+            "region_id":85673523
+        }
+    ],
+    "wof:id":1225828115,
+    "wof:lastmodified":1537661760,
+    "wof:name":"Gbamgbama",
+    "wof:parent_id":1091692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9,
+    6.75,
+    -10.9,
+    6.75
+],
+  "geometry": {"coordinates":[-10.9,6.75],"type":"Point"}
+}

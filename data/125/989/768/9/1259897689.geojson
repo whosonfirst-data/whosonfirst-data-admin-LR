@@ -1,0 +1,76 @@
+{
+  "id": 1259897689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.45778,6.83139,-9.45778,6.83139",
+    "geom:latitude":6.83139,
+    "geom:longitude":-9.45778,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Flobai",
+    "gn:country_code":"LR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278443,
+    "gn:latitude":6.83139,
+    "gn:longitude":-9.45778,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Flobai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Flobai"
+    ],
+    "name:und_x_variant":[
+        "Bobli",
+        "Fobli",
+        "Fobbli",
+        "Fobbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278443
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"c67537058f6a849219199db1e9084a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692697,
+            "locality_id":1259897689,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1259897689,
+    "wof:lastmodified":1537661801,
+    "wof:name":"Flobai",
+    "wof:parent_id":1091692697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45778,
+    6.83139,
+    -9.45778,
+    6.83139
+],
+  "geometry": {"coordinates":[-9.45778,6.83139],"type":"Point"}
+}

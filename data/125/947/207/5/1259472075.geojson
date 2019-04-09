@@ -1,0 +1,75 @@
+{
+  "id": 1259472075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56595,5.17591,-8.56595,5.17591",
+    "geom:latitude":5.17591,
+    "geom:longitude":-8.56595,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Doodwicken",
+    "gn:country_code":"LR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2277649,
+    "gn:latitude":5.17591,
+    "gn:longitude":-8.56595,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Doodwicken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dudwiokahn",
+        "Jargbo Town",
+        "Dodwekon",
+        "Doduke",
+        "Doduake",
+        "Doodwicken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2277649
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"25360b7755235ff021692dfac48e81c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694619,
+            "locality_id":1259472075,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1259472075,
+    "wof:lastmodified":1537661780,
+    "wof:name":"Doodwicken",
+    "wof:parent_id":1091694619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56595,
+    5.17591,
+    -8.56595,
+    5.17591
+],
+  "geometry": {"coordinates":[-8.56595,5.17591],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309781237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40489,6.31682,-8.40489,6.31682",
+    "geom:latitude":6.31682,
+    "geom:longitude":-8.40489,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"God Gift",
+    "gn:country_code":"LR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890276,
+    "gn:latitude":6.31682,
+    "gn:longitude":-8.40489,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"God Gift",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673559,
+        1091693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890276
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"b684dc1a0f8c67f435c06061cfd85730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693113,
+            "locality_id":1309781237,
+            "region_id":85673559
+        }
+    ],
+    "wof:id":1309781237,
+    "wof:lastmodified":1536966338,
+    "wof:name":"God Gift",
+    "wof:parent_id":1091693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40489,
+    6.31682,
+    -8.40489,
+    6.31682
+],
+  "geometry": {"coordinates":[-8.40489,6.31682],"type":"Point"}
+}

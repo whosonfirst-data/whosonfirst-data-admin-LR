@@ -1,0 +1,67 @@
+{
+  "id": 1226629821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.53593,6.66854,-10.53593,6.66854",
+    "geom:latitude":6.66854,
+    "geom:longitude":-10.53593,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Balaisua",
+    "gn:country_code":"LR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2278987,
+    "gn:latitude":6.66854,
+    "gn:longitude":-10.53593,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Balaisua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673541,
+        1091694013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2278987
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"5efead6820c3cdbd76c52526733d12c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694013,
+            "locality_id":1226629821,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":1226629821,
+    "wof:lastmodified":1536881758,
+    "wof:name":"Balaisua",
+    "wof:parent_id":1091694013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.53593,
+    6.66854,
+    -10.53593,
+    6.66854
+],
+  "geometry": {"coordinates":[-10.53593,6.66854],"type":"Point"}
+}

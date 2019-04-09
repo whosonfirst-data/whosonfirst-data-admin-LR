@@ -1,0 +1,67 @@
+{
+  "id": 1243046149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.85548,6.35065,-9.85548,6.35065",
+    "geom:latitude":6.35065,
+    "geom:longitude":-9.85548,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kayuda",
+    "gn:country_code":"LR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275975,
+    "gn:latitude":6.35065,
+    "gn:longitude":-9.85548,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Kayuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673531,
+        1091692767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275975
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"118283dd89b7ddcaacbfcfbdc5c8b818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692767,
+            "locality_id":1243046149,
+            "region_id":85673531
+        }
+    ],
+    "wof:id":1243046149,
+    "wof:lastmodified":1536885125,
+    "wof:name":"Kayuda",
+    "wof:parent_id":1091692767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.85548,
+    6.35065,
+    -9.85548,
+    6.35065
+],
+  "geometry": {"coordinates":[-9.85548,6.35065],"type":"Point"}
+}

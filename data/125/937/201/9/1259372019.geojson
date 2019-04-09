@@ -1,0 +1,67 @@
+{
+  "id": 1259372019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37222,5.28167,-9.37222,5.28167",
+    "geom:latitude":5.28167,
+    "geom:longitude":-9.37222,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Seta",
+    "gn:country_code":"LR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572083,
+    "gn:latitude":5.28167,
+    "gn:longitude":-9.37222,
+    "gn:modification_date":"1996-03-15",
+    "gn:name":"Seta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673519,
+        1091694745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572083
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"35540459a9d1234f958c2260ba8d2481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694745,
+            "locality_id":1259372019,
+            "region_id":85673519
+        }
+    ],
+    "wof:id":1259372019,
+    "wof:lastmodified":1537018017,
+    "wof:name":"Seta",
+    "wof:parent_id":1091694745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37222,
+    5.28167,
+    -9.37222,
+    5.28167
+],
+  "geometry": {"coordinates":[-9.37222,5.28167],"type":"Point"}
+}

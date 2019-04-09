@@ -1,0 +1,70 @@
+{
+  "id": 1292907487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20631,6.94024,-9.20631,6.94024",
+    "geom:latitude":6.94024,
+    "geom:longitude":-9.20631,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"David's Town",
+    "gn:country_code":"LR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870091,
+    "gn:latitude":6.94024,
+    "gn:longitude":-9.20631,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"David\u2019s Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "David\u2019s Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870091
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"92fdca01cf7d6b068c2381f2b8ccc8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1292907487,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1292907487,
+    "wof:lastmodified":1537661833,
+    "wof:name":"David's Town",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20631,
+    6.94024,
+    -9.20631,
+    6.94024
+],
+  "geometry": {"coordinates":[-9.20631,6.94024],"type":"Point"}
+}

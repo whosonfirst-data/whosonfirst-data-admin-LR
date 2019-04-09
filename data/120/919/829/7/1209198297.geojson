@@ -1,0 +1,61 @@
+{
+  "id": 1209198297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95,5.15,-8.95,5.15",
+    "geom:latitude":5.15,
+    "geom:longitude":-8.95,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pains",
+    "gn:country_code":"LR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2274515,
+    "gn:latitude":5.15,
+    "gn:longitude":-8.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Pains",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2274515
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"ef85fa43ddd947119f6719dc9790d1ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632249,
+            "locality_id":1209198297
+        }
+    ],
+    "wof:id":1209198297,
+    "wof:lastmodified":1536294698,
+    "wof:name":"Pains",
+    "wof:parent_id":85632249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95,
+    5.15,
+    -8.95,
+    5.15
+],
+  "geometry": {"coordinates":[-8.95,5.15],"type":"Point"}
+}

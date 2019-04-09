@@ -1,0 +1,113 @@
+{
+  "id": 85765589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":15403751.065217,
+    "geom:bbox":"-10.76352,6.284586,-10.76352,6.284586",
+    "geom:latitude":6.284586,
+    "geom:longitude":-10.76352,
+    "gn:latitude":6.2918,
+    "gn:longitude":-10.77677,
+    "iso:country":"LR",
+    "lbl:latitude":6.284586,
+    "lbl:longitude":-10.76352,
+    "mps:latitude":6.285436,
+    "mps:longitude":-10.76313,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Sinkor"
+    ],
+    "name:unk_x_variant":[
+        "Sinkor"
+    ],
+    "qs:gn_adm0_cc":"LR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2274895,
+    "qs:gn_nam_loc":"Monrovia, Monrovia, Montserrado County, LR",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Sinkor",
+    "qs:local_max":1412,
+    "qs:local_sum":1708,
+    "qs:localhoods":5,
+    "qs:name":"Sinkor",
+    "qs:name_adm0":"Liberia",
+    "qs:name_adm1":"Montserrado",
+    "qs:name_local":"Monrovia",
+    "qs:photo_max":52,
+    "qs:photo_sum":78,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424876,
+    "qs:woe_adm1":2346108,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1350536,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        85673541,
+        102191573,
+        85632249,
+        1091694121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2273901,
+        "gp:id":1351290,
+        "qs:id":1040558,
+        "wd:id":"Q7524610",
+        "wk:page":"Sinkor"
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"9355cc5da3b8c0b1f016f30ea3d7232c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091694121,
+            "locality_id":-1,
+            "neighbourhood_id":85765589,
+            "region_id":85673541
+        }
+    ],
+    "wof:id":85765589,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379377,
+    "wof:name":"Sinkor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[
+        1126094075
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76352,
+    6.284586,
+    -10.76352,
+    6.284586
+],
+  "geometry": {"coordinates":[-10.76352,6.284586],"type":"Point"}
+}

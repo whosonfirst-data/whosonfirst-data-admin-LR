@@ -1,0 +1,70 @@
+{
+  "id": 1242754207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.33258,6.75194,-10.33258,6.75194",
+    "geom:latitude":6.75194,
+    "geom:longitude":-10.33258,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maulikole",
+    "gn:country_code":"LR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2275057,
+    "gn:latitude":6.75194,
+    "gn:longitude":-10.33258,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Maulikole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Monrovia",
+    "iso:country":"LR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maulikole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2275057
+    },
+    "wof:country":"LR",
+    "wof:geomhash":"0d94954aae1df3dc6f662067f97d5709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693791,
+            "locality_id":1242754207,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":1242754207,
+    "wof:lastmodified":1537661691,
+    "wof:name":"Maulikole",
+    "wof:parent_id":1091693791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.33258,
+    6.75194,
+    -10.33258,
+    6.75194
+],
+  "geometry": {"coordinates":[-10.33258,6.75194],"type":"Point"}
+}
