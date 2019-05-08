@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065327,
-    "geom:area_square_m":804825611.284886,
+    "geom:area_square_m":804825611.284884,
     "geom:bbox":"-8.107082,4.751149,-7.833242,5.071449",
     "geom:latitude":4.901623,
     "geom:longitude":-7.957725,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Barrobo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.896173,
     "lbl:longitude":-7.960381,
     "meso:admin_1":"Maryland",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091693931,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Barrobo",
     "wof:parent_id":85673517,
     "wof:placetype":"county",

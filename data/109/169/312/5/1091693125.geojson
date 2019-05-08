@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250374,
-    "geom:area_square_m":3083022779.658842,
+    "geom:area_square_m":3083022779.658811,
     "geom:bbox":"-7.859453,4.819366,-7.365113,5.57804",
     "geom:latitude":5.229457,
     "geom:longitude":-7.644442,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Webbo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.238673,
     "lbl:longitude":-7.649127,
     "meso:admin_1":"Grand Gedeh",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1091693125,
-    "wof:lastmodified":1505431237,
+    "wof:lastmodified":1553717903,
     "wof:name":"Webbo",
     "wof:parent_id":85673503,
     "wof:placetype":"county",

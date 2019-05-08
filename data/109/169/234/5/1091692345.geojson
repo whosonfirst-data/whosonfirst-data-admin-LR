@@ -10,6 +10,12 @@
     "geom:latitude":6.695895,
     "geom:longitude":-10.827794,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Klay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.701901,
     "lbl:longitude":-10.82379,
     "meso:admin_1":"Bomi",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091692345,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717903,
     "wof:name":"Klay",
     "wof:parent_id":85673523,
     "wof:placetype":"county",

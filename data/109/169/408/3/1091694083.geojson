@@ -10,6 +10,12 @@
     "geom:latitude":6.435871,
     "geom:longitude":-10.707388,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "St. Paul River District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.469205,
     "lbl:longitude":-10.732522,
     "meso:admin_1":"Montserrado",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694083,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"St. Paul River",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.795077,
     "geom:longitude":-10.600342,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Mecca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.788469,
     "lbl:longitude":-10.621709,
     "meso:admin_1":"Bomi",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1091692381,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717902,
     "wof:name":"Mecca",
     "wof:parent_id":85673523,
     "wof:placetype":"county",

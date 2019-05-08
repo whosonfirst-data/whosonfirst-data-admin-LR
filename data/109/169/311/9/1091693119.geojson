@@ -10,6 +10,12 @@
     "geom:latitude":5.756471,
     "geom:longitude":-7.879013,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Konobo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.798042,
     "lbl:longitude":-7.887689,
     "meso:admin_1":"Grand Gedeh",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693119,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Konobo",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

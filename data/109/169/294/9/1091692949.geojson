@@ -10,6 +10,12 @@
     "geom:latitude":6.957148,
     "geom:longitude":-11.313812,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Tewor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.002197,
     "lbl:longitude":-11.297588,
     "meso:admin_1":"Cape Mount",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692949,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Tewor",
     "wof:parent_id":85673535,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.27119,
     "geom:longitude":-9.596781,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "District # 3"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.332837,
     "lbl:longitude":-9.59059,
     "meso:admin_1":"Grand Bassa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692815,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"District # 3",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

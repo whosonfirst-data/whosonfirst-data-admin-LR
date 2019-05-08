@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069497,
-    "geom:area_square_m":856468533.192293,
+    "geom:area_square_m":856468533.192282,
     "geom:bbox":"-8.377534,4.53023,-8.018726,4.826528",
     "geom:latitude":4.683071,
     "geom:longitude":-8.166592,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Upper Kru Coast District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.680487,
     "lbl:longitude":-8.170018,
     "meso:admin_1":"Grand Kru",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091693271,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Upper Kru Coast",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

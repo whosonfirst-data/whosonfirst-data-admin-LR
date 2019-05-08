@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138409,
-    "geom:area_square_m":1705232638.407336,
+    "geom:area_square_m":1705232638.407344,
     "geom:bbox":"-8.723857,4.647842,-8.220237,5.1102",
     "geom:latitude":4.884404,
     "geom:longitude":-8.450034,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Sasstown District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.8906,
     "lbl:longitude":-8.445241,
     "meso:admin_1":"Grand Kru",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091693179,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Sasstown",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

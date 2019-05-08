@@ -10,6 +10,12 @@
     "geom:latitude":6.614512,
     "geom:longitude":-9.958959,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Gibi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.609383,
     "lbl:longitude":-9.979757,
     "meso:admin_1":"Margibi",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091693759,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717905,
     "wof:name":"Gibi",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

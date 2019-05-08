@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132507,
-    "geom:area_square_m":1626351429.300995,
+    "geom:area_square_m":1626351429.300991,
     "geom:bbox":"-9.19553,6.747424,-8.72235,7.181275",
     "geom:latitude":6.972899,
     "geom:longitude":-8.953408,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Saclepea Mah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.994387,
     "lbl:longitude":-8.972565,
     "meso:admin_1":"Nimba",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091694167,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Saclepea Mah",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

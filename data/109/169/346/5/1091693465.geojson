@@ -10,6 +10,12 @@
     "geom:latitude":7.877871,
     "geom:longitude":-9.618889,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Zorzor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.869076,
     "lbl:longitude":-9.623215,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693465,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Zorzor",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

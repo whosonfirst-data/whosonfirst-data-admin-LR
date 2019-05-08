@@ -10,6 +10,12 @@
     "geom:latitude":7.159691,
     "geom:longitude":-10.403799,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Bopolu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.105226,
     "lbl:longitude":-10.398265,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693577,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717904,
     "wof:name":"Bopolu",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

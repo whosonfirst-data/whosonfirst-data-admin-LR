@@ -10,6 +10,12 @@
     "geom:latitude":6.623006,
     "geom:longitude":-9.399736,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Kokoyah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.6342,
     "lbl:longitude":-9.40369,
     "meso:admin_1":"Bong",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091692445,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717902,
     "wof:name":"Kokoyah",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

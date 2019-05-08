@@ -10,6 +10,12 @@
     "geom:latitude":6.3855,
     "geom:longitude":-10.355748,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Firestone District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.400024,
     "lbl:longitude":-10.341818,
     "meso:admin_1":"Margibi",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693839,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717905,
     "wof:name":"Firestone",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

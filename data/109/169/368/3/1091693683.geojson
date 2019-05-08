@@ -10,6 +10,12 @@
     "geom:latitude":7.689328,
     "geom:longitude":-10.508444,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Kongba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.693673,
     "lbl:longitude":-10.457106,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693683,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Kongba",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

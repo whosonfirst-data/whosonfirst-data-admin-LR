@@ -10,6 +10,12 @@
     "geom:latitude":6.692638,
     "geom:longitude":-11.260657,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Robertsport District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.673041,
     "lbl:longitude":-11.212917,
     "meso:admin_1":"Cape Mount",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693093,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Robertsport",
     "wof:parent_id":85673535,
     "wof:placetype":"county",

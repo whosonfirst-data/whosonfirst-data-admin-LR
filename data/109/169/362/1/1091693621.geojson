@@ -10,6 +10,12 @@
     "geom:latitude":7.592235,
     "geom:longitude":-10.005103,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Belle Yella District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.568245,
     "lbl:longitude":-10.01007,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693621,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Belle Yella",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

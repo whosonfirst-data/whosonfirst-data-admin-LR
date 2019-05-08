@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341696,
-    "geom:area_square_m":4198447631.48111,
+    "geom:area_square_m":4198447631.481192,
     "geom:bbox":"-9.141658,5.823892,-8.443108,6.991781",
     "geom:latitude":6.438166,
     "geom:longitude":-8.816619,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Tappita District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.565576,
     "lbl:longitude":-8.78776,
     "meso:admin_1":"Nimba",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091694333,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Tappita",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

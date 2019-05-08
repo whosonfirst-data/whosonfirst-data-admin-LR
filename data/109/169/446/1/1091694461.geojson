@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168009,
-    "geom:area_square_m":2066673897.277716,
+    "geom:area_square_m":2066673897.277726,
     "geom:bbox":"-9.701906,5.647878,-9.076039,6.061905",
     "geom:latitude":5.840668,
     "geom:longitude":-9.369945,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Timbo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.837521,
     "lbl:longitude":-9.313355,
     "meso:admin_1":"Rivercess",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091694461,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Timbo",
     "wof:parent_id":85673557,
     "wof:placetype":"county",

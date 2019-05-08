@@ -10,6 +10,12 @@
     "geom:latitude":4.960944,
     "geom:longitude":-8.744295,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Dugbe River District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.960412,
     "lbl:longitude":-8.732578,
     "meso:admin_1":"Sinoe",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694661,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Dugbe River",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

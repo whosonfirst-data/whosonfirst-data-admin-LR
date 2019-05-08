@@ -10,6 +10,12 @@
     "geom:latitude":6.099127,
     "geom:longitude":-9.992983,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "St. John River District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.093664,
     "lbl:longitude":-9.97944,
     "meso:admin_1":"Grand Bassa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692889,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"St. John River",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

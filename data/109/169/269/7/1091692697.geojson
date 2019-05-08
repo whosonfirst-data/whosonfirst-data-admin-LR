@@ -10,6 +10,12 @@
     "geom:latitude":6.939602,
     "geom:longitude":-9.42929,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Jorquelleh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.070756,
     "lbl:longitude":-9.441982,
     "meso:admin_1":"Bong",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091692697,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717902,
     "wof:name":"Jorquelleh",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

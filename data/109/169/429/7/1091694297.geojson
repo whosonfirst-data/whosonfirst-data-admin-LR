@@ -10,6 +10,12 @@
     "geom:latitude":6.936491,
     "geom:longitude":-8.54752,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Zoegeh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.929917,
     "lbl:longitude":-8.487818,
     "meso:admin_1":"Nimba",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694297,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Zoegeh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.951859,
     "geom:longitude":-8.148253,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Buah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":4.95542,
     "lbl:longitude":-8.150669,
     "meso:admin_1":"Grand Kru",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693229,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717904,
     "wof:name":"Buah",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

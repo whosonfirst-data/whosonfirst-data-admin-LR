@@ -10,6 +10,12 @@
     "geom:latitude":6.627929,
     "geom:longitude":-10.481175,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Todee District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.640427,
     "lbl:longitude":-10.490771,
     "meso:admin_1":"Montserrado",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694013,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Todee",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

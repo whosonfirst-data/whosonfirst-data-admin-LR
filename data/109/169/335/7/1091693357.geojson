@@ -10,6 +10,12 @@
     "geom:latitude":8.013057,
     "geom:longitude":-10.475441,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Vahun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.010793,
     "lbl:longitude":-10.486159,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693357,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Vahun",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

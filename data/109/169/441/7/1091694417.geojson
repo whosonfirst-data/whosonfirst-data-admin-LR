@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165214,
-    "geom:area_square_m":2031152904.057637,
+    "geom:area_square_m":2031152904.057648,
     "geom:bbox":"-9.658122,5.858792,-9.066276,6.379754",
     "geom:latitude":6.14737,
     "geom:longitude":-9.345616,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Morweh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.204301,
     "lbl:longitude":-9.291824,
     "meso:admin_1":"Rivercess",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091694417,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Morweh",
     "wof:parent_id":85673557,
     "wof:placetype":"county",

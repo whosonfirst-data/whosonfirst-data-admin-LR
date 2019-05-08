@@ -10,6 +10,12 @@
     "geom:latitude":6.164585,
     "geom:longitude":-10.265329,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Owensgrove District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.189057,
     "lbl:longitude":-10.274052,
     "meso:admin_1":"Grand Bassa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692709,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717902,
     "wof:name":"Owensgrove",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.46035,
     "geom:longitude":-9.542419,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Salayea District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.440958,
     "lbl:longitude":-9.56231,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693505,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Salayea",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

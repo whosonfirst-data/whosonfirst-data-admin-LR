@@ -10,6 +10,12 @@
     "geom:latitude":6.586554,
     "geom:longitude":-9.056015,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Yarwein Mehnsohnnoh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.623988,
     "lbl:longitude":-9.081213,
     "meso:admin_1":"Nimba",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694387,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717905,
     "wof:name":"Yarwein Mehnsohnnoh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

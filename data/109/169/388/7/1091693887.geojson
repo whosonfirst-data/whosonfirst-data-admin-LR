@@ -10,6 +10,12 @@
     "geom:latitude":6.252081,
     "geom:longitude":-10.49747,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Mambah Kaba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.263473,
     "lbl:longitude":-10.533652,
     "meso:admin_1":"Margibi",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693887,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Mambah Kaba",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

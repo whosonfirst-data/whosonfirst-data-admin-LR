@@ -10,6 +10,12 @@
     "geom:latitude":5.104284,
     "geom:longitude":-8.868885,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Kpayan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":5.137956,
     "lbl:longitude":-8.866312,
     "meso:admin_1":"Sinoe",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694701,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717905,
     "wof:name":"Kpayan",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

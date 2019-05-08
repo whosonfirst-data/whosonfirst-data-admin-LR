@@ -10,6 +10,12 @@
     "geom:latitude":6.847484,
     "geom:longitude":-10.346195,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Fuamah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.859772,
     "lbl:longitude":-10.383172,
     "meso:admin_1":"Bong",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091692483,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717903,
     "wof:name":"Fuamah",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.203571,
     "geom:longitude":-8.457999,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Gbehlageh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.166108,
     "lbl:longitude":-8.460858,
     "meso:admin_1":"Nimba",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694245,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717904,
     "wof:name":"Gbehlageh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

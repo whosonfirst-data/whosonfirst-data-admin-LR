@@ -10,6 +10,12 @@
     "geom:latitude":6.292497,
     "geom:longitude":-10.712455,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Greater Monrovia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.294133,
     "lbl:longitude":-10.694418,
     "meso:admin_1":"Montserrado",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091694121,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717905,
     "wof:name":"Greater Monrovia",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.633913,
     "geom:longitude":-10.3071,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Kakata District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.662668,
     "lbl:longitude":-10.305157,
     "meso:admin_1":"Margibi",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693791,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717903,
     "wof:name":"Kakata",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

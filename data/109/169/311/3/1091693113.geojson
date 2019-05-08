@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322215,
-    "geom:area_square_m":3961655368.620639,
+    "geom:area_square_m":3961655368.620671,
     "geom:bbox":"-8.951892,5.67477,-8.174383,6.505595",
     "geom:latitude":6.102886,
     "geom:longitude":-8.555077,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Gbarzon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.113672,
     "lbl:longitude":-8.549247,
     "meso:admin_1":"Grand Gedeh",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1091693113,
-    "wof:lastmodified":1512516687,
+    "wof:lastmodified":1555220357,
     "wof:name":"Gbarzon",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

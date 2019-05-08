@@ -10,6 +10,12 @@
     "geom:latitude":7.007691,
     "geom:longitude":-9.216368,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Panta-Kpai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.928609,
     "lbl:longitude":-9.262081,
     "meso:admin_1":"Bong",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692599,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717904,
     "wof:name":"Panta-Kpai",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.437341,
     "geom:longitude":-10.560861,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Careysburg District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":6.42803,
     "lbl:longitude":-10.569993,
     "meso:admin_1":"Montserrado",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091694045,
-    "wof:lastmodified":1536614937,
+    "wof:lastmodified":1553717905,
     "wof:name":"Careysburg",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

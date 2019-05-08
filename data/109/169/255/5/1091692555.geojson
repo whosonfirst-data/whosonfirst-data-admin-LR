@@ -10,6 +10,12 @@
     "geom:latitude":7.289356,
     "geom:longitude":-9.368167,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Zota District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.286431,
     "lbl:longitude":-9.326813,
     "meso:admin_1":"Bong",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091692555,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717903,
     "wof:name":"Zota",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

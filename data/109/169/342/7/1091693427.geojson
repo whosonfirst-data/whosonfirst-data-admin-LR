@@ -10,6 +10,12 @@
     "geom:latitude":8.250752,
     "geom:longitude":-9.803517,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Voinjama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":8.254164,
     "lbl:longitude":-9.807671,
     "meso:admin_1":"Lofa",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091693427,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717904,
     "wof:name":"Voinjama",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.037815,
     "geom:longitude":-9.888776,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Sanoyea District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.042008,
     "lbl:longitude":-9.851621,
     "meso:admin_1":"Bong",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692423,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1553717902,
     "wof:name":"Sanoyea",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

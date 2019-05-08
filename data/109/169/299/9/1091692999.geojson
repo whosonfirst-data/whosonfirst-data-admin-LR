@@ -10,6 +10,12 @@
     "geom:latitude":7.154495,
     "geom:longitude":-10.871572,
     "iso:country":"LR",
+    "label:eng_x_preferred_longname":[
+        "Gola Konneh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":7.199517,
     "lbl:longitude":-10.838102,
     "meso:admin_1":"Cape Mount",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091692999,
-    "wof:lastmodified":1536614936,
+    "wof:lastmodified":1553717903,
     "wof:name":"Gola Konneh",
     "wof:parent_id":85673535,
     "wof:placetype":"county",
