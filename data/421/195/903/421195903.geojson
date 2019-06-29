@@ -14,28 +14,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0565\u0576\u057e\u056b\u056c\u056c"
-    ],
-    "name:chi_x_preferred":[
-        "\u683c\u6797\u7dad\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Greenville"
-    ],
-    "name:dut_x_preferred":[
         "Greenville"
     ],
     "name:eng_x_preferred":[
         "Greenville"
     ],
     "name:fra_x_preferred":[
-        "Greenville"
-    ],
-    "name:fre_x_preferred":[
-        "Greenville"
-    ],
-    "name:ger_x_preferred":[
         "Greenville"
     ],
     "name:heb_x_preferred":[
@@ -226,7 +211,7 @@
         }
     ],
     "wof:id":421195903,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561831251,
     "wof:name":"Greenville",
     "wof:parent_id":1091694745,
     "wof:placetype":"locality",

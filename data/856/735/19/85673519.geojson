@@ -28,12 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u064a\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0576\u0578\u0565 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Sinoe"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u043e\u044d"
     ],
@@ -49,35 +43,35 @@
     "name:cat_x_preferred":[
         "Sinoe"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u8afe\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Sinoe County"
     ],
-    "name:dut_x_preferred":[
-        "Sinoe"
+    "name:deu_x_preferred":[
+        "Sinoe County"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03cc\u03b5"
     ],
     "name:eng_x_preferred":[
+        "Sinoe"
+    ],
+    "name:eus_x_preferred":[
         "Sinoe"
     ],
     "name:fin_x_preferred":[
         "Sinoe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Sinoe"
-    ],
-    "name:ger_x_preferred":[
-        "Sinoe County"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bd\u03cc\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac0\u0aa8\u0acb\u0a8f \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0940\u0928\u094b \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u0578\u0565 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Sinoe County"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0928\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sinoe County"
+    ],
+    "name:nld_x_preferred":[
+        "Sinoe"
     ],
     "name:nob_x_preferred":[
         "Sinoe"
@@ -150,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Sinoe"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u8afe\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBR",
@@ -274,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550400,
+    "wof:lastmodified":1561831236,
     "wof:name":"Sinoe",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

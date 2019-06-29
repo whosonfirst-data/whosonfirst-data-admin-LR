@@ -17,28 +17,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u064a\u0643\u064a\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u0576\u056b\u056f\u0565\u056c\u056c\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u85a9\u5c3c\u79d1\u840a"
-    ],
     "name:deu_x_preferred":[
-        "Sanniquellie"
-    ],
-    "name:dut_x_preferred":[
         "Sanniquellie"
     ],
     "name:eng_x_preferred":[
         "Sanniquellie"
     ],
     "name:fra_x_preferred":[
-        "Sanniquellie"
-    ],
-    "name:fre_x_preferred":[
-        "Sanniquellie"
-    ],
-    "name:ger_x_preferred":[
         "Sanniquellie"
     ],
     "name:hye_x_preferred":[
@@ -220,7 +205,7 @@
         }
     ],
     "wof:id":421191545,
-    "wof:lastmodified":1527716380,
+    "wof:lastmodified":1561831251,
     "wof:name":"Sanniquellie",
     "wof:parent_id":1091694197,
     "wof:placetype":"locality",

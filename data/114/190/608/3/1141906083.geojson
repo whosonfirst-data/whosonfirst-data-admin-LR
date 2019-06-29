@@ -17,26 +17,20 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0633\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0551\u0565\u057d\u057f\u0578\u057d"
-    ],
     "name:cat_x_preferred":[
         "River Cess"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5f17\u585e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Cesstos City"
+    "name:deu_x_preferred":[
+        "Cestos City"
     ],
     "name:eng_x_preferred":[
         "River Cess"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cesstos City"
     ],
-    "name:ger_x_preferred":[
-        "Cestos City"
+    "name:hye_x_preferred":[
+        "\u0551\u0565\u057d\u057f\u0578\u057d"
     ],
     "name:ita_x_preferred":[
         "Cesstos"
@@ -46,6 +40,9 @@
     ],
     "name:lit_x_preferred":[
         "River Sesas"
+    ],
+    "name:nld_x_preferred":[
+        "Cesstos City"
     ],
     "name:nob_x_preferred":[
         "River Cess"
@@ -64,6 +61,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0631\u0633\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5f17\u585e\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Liberia",
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":1141906083,
-    "wof:lastmodified":1553816734,
+    "wof:lastmodified":1561831263,
     "wof:name":"Rivercess",
     "wof:parent_id":1091694479,
     "wof:placetype":"locality",

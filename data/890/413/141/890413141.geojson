@@ -15,35 +15,32 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0539\u0578\u0582\u0562\u0574\u0561\u0576\u0562\u0578\u0582\u0580\u0563"
-    ],
     "name:bre_x_preferred":[
         "Tubmanburg"
     ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u0431\u043c\u0430\u043d\u0431\u0443\u0440\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u4f2f\u66fc\u5821"
-    ],
     "name:dan_x_preferred":[
         "Tubmanburg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tubmanburg"
     ],
     "name:eng_x_preferred":[
         "Tubmanburg"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0628\u0645\u0627\u0646\u0628\u0648\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
         "Tubmanburg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tubmanburg"
     ],
-    "name:ger_x_preferred":[
-        "Tubmanburg"
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0582\u0562\u0574\u0561\u0576\u0562\u0578\u0582\u0580\u0563"
     ],
     "name:ita_x_preferred":[
         "Tubmanburg"
@@ -57,11 +54,11 @@
     "name:lit_x_preferred":[
         "Tubmanburgas"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tubmanburg"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0628\u0645\u0627\u0646\u0628\u0648\u0631\u06af"
+    "name:nob_x_preferred":[
+        "Tubmanburg"
     ],
     "name:pol_x_preferred":[
         "Tubmanburg"
@@ -77,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0628\u0645\u0627\u0646\u0628\u0631\u06af"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u4f2f\u66fc\u5821"
     ],
     "qs:name":"Tubmanburg",
     "qs:photos_9r":0,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":890413141,
-    "wof:lastmodified":1527727173,
+    "wof:lastmodified":1561831251,
     "wof:name":"Tubmanburg",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

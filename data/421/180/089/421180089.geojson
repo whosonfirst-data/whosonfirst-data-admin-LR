@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0633\u0648\u0646\u0641\u064a\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0576\u057d\u0578\u0576\u057e\u056b\u056c"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0441\u043e\u043d\u0432\u0438\u043b\u0435"
     ],
@@ -29,28 +26,13 @@
     "name:ces_x_preferred":[
         "Bensonville"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u68ee\u7dad\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Bensonville"
-    ],
     "name:deu_x_preferred":[
-        "Bensonville"
-    ],
-    "name:dut_x_preferred":[
         "Bensonville"
     ],
     "name:eng_x_preferred":[
         "Bensonville"
     ],
     "name:fra_x_preferred":[
-        "Bensonville"
-    ],
-    "name:fre_x_preferred":[
-        "Bensonville"
-    ],
-    "name:ger_x_preferred":[
         "Bensonville"
     ],
     "name:hye_x_preferred":[
@@ -247,7 +229,7 @@
         }
     ],
     "wof:id":421180089,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1561831251,
     "wof:name":"Bensonville",
     "wof:parent_id":1091694045,
     "wof:placetype":"locality",

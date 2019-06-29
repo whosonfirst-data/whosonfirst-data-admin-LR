@@ -28,12 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0576\u0563 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Bong"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u043e\u043d\u0433"
     ],
@@ -49,17 +43,14 @@
     "name:cat_x_preferred":[
         "Bong"
     ],
-    "name:chi_x_preferred":[
-        "\u90a6\u53bf"
-    ],
     "name:dan_x_preferred":[
         "Bong County"
     ],
     "name:deu_x_preferred":[
         "Bong County"
     ],
-    "name:dut_x_preferred":[
-        "Bong"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bong"
@@ -72,15 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Bong"
-    ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Bong"
-    ],
-    "name:ger_x_preferred":[
-        "Bong County"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a82\u0a97 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -115,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0902\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bong County"
     ],
     "name:nld_x_preferred":[
@@ -296,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550400,
+    "wof:lastmodified":1561831237,
     "wof:name":"Bong",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
