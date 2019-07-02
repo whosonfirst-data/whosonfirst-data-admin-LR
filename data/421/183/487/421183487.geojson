@@ -17,28 +17,13 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0643\u0644\u0627\u064a\u0641\u064a\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0580\u056f\u056c\u0561\u0575\u057e\u056b\u056c\u056c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u514b\u5229\u7dad\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Barclayville"
-    ],
-    "name:dut_x_preferred":[
         "Barclayville"
     ],
     "name:eng_x_preferred":[
         "Barclayville"
     ],
     "name:fra_x_preferred":[
-        "Barclayville"
-    ],
-    "name:fre_x_preferred":[
-        "Barclayville"
-    ],
-    "name:ger_x_preferred":[
         "Barclayville"
     ],
     "name:hye_x_preferred":[
@@ -220,7 +205,7 @@
         }
     ],
     "wof:id":421183487,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1561831251,
     "wof:name":"Barclayville",
     "wof:parent_id":1091693271,
     "wof:placetype":"locality",

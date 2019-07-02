@@ -28,12 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u063a\u0631\u0627\u0646\u062f \u0628\u0627\u0633\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0561\u0576\u0564 \u0532\u0561\u057d\u057d\u0561 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Grand Bassa"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0434-\u0411\u0430\u0441\u0430"
     ],
@@ -49,17 +43,14 @@
     "name:cat_x_preferred":[
         "Grand Bassa"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5df4\u8428\u53bf"
-    ],
     "name:dan_x_preferred":[
         "Grand Bassa County"
     ],
     "name:deu_x_preferred":[
         "Grand Bassa County"
     ],
-    "name:dut_x_preferred":[
-        "Grand Bassa"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u039c\u03c0\u03ac\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Grand Bassa"
@@ -72,15 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Grand Bassa"
-    ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Grand Bassa"
-    ],
-    "name:ger_x_preferred":[
-        "Grand Bassa County"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u039c\u03c0\u03ac\u03c3\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1 \u0aac\u0abe\u0ab8\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -115,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0901\u0921 \u092c\u093e\u0938\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Grand Bassa County"
     ],
     "name:nld_x_preferred":[
@@ -296,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550401,
+    "wof:lastmodified":1561831236,
     "wof:name":"Grand Bassa",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

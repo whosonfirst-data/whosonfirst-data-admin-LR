@@ -17,19 +17,10 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0628\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0580\u057a\u0565\u0580"
-    ],
-    "name:chi_x_preferred":[
-        "\u54c8\u73c0"
-    ],
     "name:dan_x_preferred":[
         "Harper"
     ],
     "name:deu_x_preferred":[
-        "Harper"
-    ],
-    "name:dut_x_preferred":[
         "Harper"
     ],
     "name:eng_x_preferred":[
@@ -38,17 +29,8 @@
     "name:fra_x_preferred":[
         "Harper"
     ],
-    "name:fre_x_preferred":[
-        "Harper"
-    ],
-    "name:ger_x_preferred":[
-        "Harper"
-    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u057a\u0565\u0580"
-    ],
-    "name:ice_x_preferred":[
-        "Harper"
     ],
     "name:isl_x_preferred":[
         "Harper"
@@ -238,7 +220,7 @@
         }
     ],
     "wof:id":421174663,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561831251,
     "wof:name":"Harper",
     "wof:parent_id":1091693975,
     "wof:placetype":"locality",

@@ -147,9 +147,6 @@
     "name:cym_x_preferred":[
         "Liberia"
     ],
-    "name:cze_x_preferred":[
-        "Lib\u00e9rie"
-    ],
     "name:dan_x_preferred":[
         "Liberia"
     ],
@@ -711,8 +708,7 @@
     ],
     "name:zho_x_variant":[
         "\u8cf4\u6bd4\u745e\u4e9e",
-        "\u5229\u6bd4\u91cc\u4e9e",
-        "\u5229\u6bd4\u91cc\u4e9a"
+        "\u5229\u6bd4\u91cc\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u5229\u6bd4\u5229\u4e9e"
@@ -870,7 +866,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059133,
+    "wof:lastmodified":1561831234,
     "wof:name":"Liberia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
