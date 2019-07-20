@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "River Cess"
     ],
+    "name:ceb_x_preferred":[
+        "Cestos City"
+    ],
     "name:deu_x_preferred":[
         "Cestos City"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:spa_x_preferred":[
         "River Cess"
+    ],
+    "name:swe_x_preferred":[
+        "Cestos City"
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0631\u0633\u06cc\u0633"
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":1141906083,
-    "wof:lastmodified":1561831263,
+    "wof:lastmodified":1563587901,
     "wof:name":"Rivercess",
     "wof:parent_id":1091694479,
     "wof:placetype":"locality",

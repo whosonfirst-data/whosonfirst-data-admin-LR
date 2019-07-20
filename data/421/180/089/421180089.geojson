@@ -17,10 +17,16 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0633\u0648\u0646\u0641\u064a\u0644\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043d\u0441\u0430\u043d\u0432\u0456\u043b\u044c"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0441\u043e\u043d\u0432\u0438\u043b\u0435"
     ],
     "name:cat_x_preferred":[
+        "Bensonville"
+    ],
+    "name:ceb_x_preferred":[
         "Bensonville"
     ],
     "name:ces_x_preferred":[
@@ -229,7 +235,7 @@
         }
     ],
     "wof:id":421180089,
-    "wof:lastmodified":1561831251,
+    "wof:lastmodified":1563587578,
     "wof:name":"Bensonville",
     "wof:parent_id":1091694045,
     "wof:placetype":"locality",
