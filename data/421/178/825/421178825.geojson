@@ -20,6 +20,9 @@
     "name:bre_x_preferred":[
         "Voinjama"
     ],
+    "name:ceb_x_preferred":[
+        "Voinjama"
+    ],
     "name:dan_x_preferred":[
         "Voinjama"
     ],
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421178825,
-    "wof:lastmodified":1561831251,
+    "wof:lastmodified":1563587582,
     "wof:name":"Voinjama",
     "wof:parent_id":1091693427,
     "wof:placetype":"locality",

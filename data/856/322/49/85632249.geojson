@@ -90,6 +90,9 @@
         "\u09b2\u09be\u0987\u09ac\u09bf\u09b0\u09bf\u09df\u09be",
         "\u09b2\u09be\u0987\u09ac\u09bf\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0932\u093e\u0907\u092c\u0947\u0930\u093f\u092f\u093e"
+    ],
     "name:bjn_x_preferred":[
         "Liberia"
     ],
@@ -120,6 +123,9 @@
     "name:ceb_x_preferred":[
         "Liberya"
     ],
+    "name:ceb_x_variant":[
+        "Liberia"
+    ],
     "name:ces_x_preferred":[
         "Lib\u00e9rie"
     ],
@@ -134,6 +140,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0644\u06cc\u0628\u06ce\u0631\u06cc\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0644\u06cc\u0628\u06d5\u0631\u06cc\u0627"
     ],
     "name:cor_x_preferred":[
         "Liberi"
@@ -161,6 +170,9 @@
     ],
     "name:dsb_x_preferred":[
         "Liberia"
+    ],
+    "name:dty_x_preferred":[
+        "\u0932\u093e\u0907\u092c\u0947\u0930\u093f\u092f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03b2\u03b5\u03c1\u03af\u03b1"
@@ -213,6 +225,9 @@
     "name:frp_x_preferred":[
         "Lib\u00e8ria"
     ],
+    "name:frr_x_preferred":[
+        "Libeeria"
+    ],
     "name:fry_x_preferred":[
         "Libearia"
     ],
@@ -239,6 +254,12 @@
     ],
     "name:glv_x_preferred":[
         "Yn Laibeer"
+    ],
+    "name:grn_x_preferred":[
+        "Liv\u00e9ria"
+    ],
+    "name:gsw_x_preferred":[
+        "Liberia"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a87\u0aac\u0ac7\u0ab0\u0abf\u0aaf\u0abe"
@@ -333,6 +354,9 @@
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
     ],
+    "name:kbp_x_preferred":[
+        "Liiberiya"
+    ],
     "name:khm_x_preferred":[
         "\u179b\u17b8\u1794\u17c1\u179a\u17b8\u1799\u17c9\u17b6"
     ],
@@ -360,6 +384,9 @@
     "name:kur_x_variant":[
         "\u0644\u06cc\u0628\u06d5\u0631\u06cc\u0627"
     ],
+    "name:lad_x_preferred":[
+        "Liberia"
+    ],
     "name:lao_x_preferred":[
         "\u0ea5\u0eb4\u0ec0\u0e9a\u0eb5\u0ec0\u0ea5\u0e8d"
     ],
@@ -368,6 +395,9 @@
     ],
     "name:lav_x_preferred":[
         "Lib\u0113rija"
+    ],
+    "name:lfn_x_preferred":[
+        "Liberia"
     ],
     "name:lij_x_preferred":[
         "Libe\u00efa"
@@ -396,6 +426,12 @@
     "name:lug_x_preferred":[
         "Liberya"
     ],
+    "name:lug_x_variant":[
+        "Liberia"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5229\u6bd4\u91cc\u4e9e"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d48\u0d2c\u0d40\u0d30\u0d3f\u0d2f"
     ],
@@ -417,6 +453,9 @@
     "name:mlt_x_preferred":[
         "Liberja"
     ],
+    "name:mon_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0438"
+    ],
     "name:mrj_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0438"
     ],
@@ -431,6 +470,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0644\u06cc\u0628\u0631\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Liberia"
+    ],
+    "name:nan_x_preferred":[
+        "Liberia"
     ],
     "name:nde_x_preferred":[
         "Libheriya"
@@ -471,6 +516,9 @@
     "name:oci_x_preferred":[
         "Lib\u00e8ria"
     ],
+    "name:olo_x_preferred":[
+        "Liberii"
+    ],
     "name:ori_x_preferred":[
         "\u0b32\u0b3e\u0b07\u0b2c\u0b47\u0b30\u0b3f\u0b06"
     ],
@@ -490,6 +538,9 @@
         "\u0a32\u0a3e\u0a08\u0a2c\u0a47\u0a30\u0a40\u0a06"
     ],
     "name:pap_x_preferred":[
+        "Liberia"
+    ],
+    "name:pih_x_preferred":[
         "Liberia"
     ],
     "name:pli_x_preferred":[
@@ -525,6 +576,9 @@
     "name:run_x_preferred":[
         "Liberiya"
     ],
+    "name:rup_x_preferred":[
+        "Liberia"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
     ],
@@ -542,6 +596,9 @@
     ],
     "name:sco_x_preferred":[
         "Liberie"
+    ],
+    "name:sgs_x_preferred":[
+        "Liber\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dba\u0dd2\u0db6\u0dd3\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
@@ -639,6 +696,9 @@
     "name:tur_x_preferred":[
         "Liberya"
     ],
+    "name:udm_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0644\u0649\u0628\u06d0\u0631\u0649\u064a\u06d5"
     ],
@@ -676,11 +736,17 @@
     "name:vol_x_preferred":[
         "Liber\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Libeeri\u00e4"
+    ],
     "name:war_x_preferred":[
         "Liberia"
     ],
     "name:wol_x_preferred":[
         "Libeeria"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u6bd4\u91cc\u4e9a"
     ],
     "name:xal_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u043c\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
@@ -697,7 +763,13 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Laberia"
     ],
+    "name:yue_x_preferred":[
+        "\u5229\u6bd4\u5229\u4e9e"
+    ],
     "name:zea_x_preferred":[
+        "Liberia"
+    ],
+    "name:zha_x_preferred":[
         "Liberia"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -866,7 +938,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561831234,
+    "wof:lastmodified":1563587027,
     "wof:name":"Liberia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

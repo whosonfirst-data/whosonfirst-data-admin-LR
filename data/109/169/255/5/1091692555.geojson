@@ -29,11 +29,13 @@
     "mps:longitude":-9.326813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zota"
+    ],
     "name:eng_x_preferred":[
         "Zota"
     ],
     "name:eng_x_variant":[
-        "Zota",
         "Zota District"
     ],
     "name:fra_x_preferred":[
@@ -46,6 +48,9 @@
         "Zota District"
     ],
     "name:por_x_preferred":[
+        "Zota"
+    ],
+    "name:swe_x_preferred":[
         "Zota"
     ],
     "src:geom":"meso",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1091692555,
-    "wof:lastmodified":1561831249,
+    "wof:lastmodified":1563587532,
     "wof:name":"Zota",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

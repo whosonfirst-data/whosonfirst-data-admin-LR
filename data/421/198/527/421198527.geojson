@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u064a\u062f\u0631\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Zwedru"
+    ],
     "name:ces_x_preferred":[
         "Zwedru"
     ],
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421198527,
-    "wof:lastmodified":1561831251,
+    "wof:lastmodified":1563587579,
     "wof:name":"Zwedru",
     "wof:parent_id":1091693117,
     "wof:placetype":"locality",

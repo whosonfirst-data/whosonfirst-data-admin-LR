@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Sinkor"
     ],
+    "name:nld_x_preferred":[
+        "Sinkor"
+    ],
     "name:unk_x_variant":[
         "Sinkor"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1126094075,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1563587585,
     "wof:name":"Sinkor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -19,8 +19,17 @@
     "name:deu_x_preferred":[
         "Ganta"
     ],
+    "name:eng_x_preferred":[
+        "Ganta"
+    ],
+    "name:fra_x_preferred":[
+        "Ganta"
+    ],
     "name:ita_x_preferred":[
         "Ganta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10dc\u10e2\u10d0"
     ],
     "name:lit_x_preferred":[
         "Ganta"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421170835,
-    "wof:lastmodified":1527716461,
+    "wof:lastmodified":1563587580,
     "wof:name":"Ganta",
     "wof:parent_id":1091694197,
     "wof:placetype":"locality",

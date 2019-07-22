@@ -20,6 +20,12 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u043a\u0430\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kakata"
+    ],
+    "name:deu_x_preferred":[
+        "Kakata"
+    ],
     "name:eng_x_preferred":[
         "Kakata"
     ],
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":421168953,
-    "wof:lastmodified":1561831251,
+    "wof:lastmodified":1563587573,
     "wof:name":"Kakata",
     "wof:parent_id":1091693791,
     "wof:placetype":"locality",

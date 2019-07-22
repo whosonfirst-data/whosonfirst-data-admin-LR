@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0431\u0430\u0440\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gbarnga"
+    ],
     "name:ces_x_preferred":[
         "Gbarnga"
     ],
@@ -81,6 +84,9 @@
         "\u0413\u0431\u0430\u0440\u043d\u0433\u0435"
     ],
     "name:spa_x_preferred":[
+        "Gbarnga"
+    ],
+    "name:sqi_x_preferred":[
         "Gbarnga"
     ],
     "name:swe_x_preferred":[
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":421168955,
-    "wof:lastmodified":1561831251,
+    "wof:lastmodified":1563587574,
     "wof:name":"Gbarnga",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

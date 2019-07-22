@@ -26,14 +26,23 @@
     "name:bre_x_preferred":[
         "Buchanan"
     ],
+    "name:ceb_x_preferred":[
+        "Buchanan"
+    ],
     "name:dan_x_preferred":[
         "Buchanan"
     ],
     "name:deu_x_preferred":[
         "Buchanan"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bf\u03c5\u03ba\u03ac\u03bd\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Buchanan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u06a9\u0627\u0646\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Buchanan"
@@ -80,11 +89,17 @@
     "name:ukr_x_preferred":[
         "\u0411\u044e\u043a\u0435\u043d\u0435\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0411'\u044e\u043a\u0435\u043d\u0435\u043d"
+    ],
     "name:unk_x_variant":[
         "Lower Buchanan"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u06a9\u06cc\u0646\u0646\u060c \u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0648\u06a9\u06cc\u0646\u0646"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u574e\u5357"
@@ -228,7 +243,7 @@
         }
     ],
     "wof:id":421178827,
-    "wof:lastmodified":1561831251,
+    "wof:lastmodified":1563587581,
     "wof:name":"Buchanan",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",
