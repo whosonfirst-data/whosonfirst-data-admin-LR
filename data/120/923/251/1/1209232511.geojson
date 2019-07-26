@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Donya"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u06cc\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209232511,
-    "wof:lastmodified":1537661778,
+    "wof:lastmodified":1564178018,
     "wof:name":"Donya",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

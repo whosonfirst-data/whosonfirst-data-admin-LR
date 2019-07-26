@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lole"
+    ],
+    "name:ita_x_preferred":[
+        "Lole"
+    ],
+    "name:swe_x_preferred":[
+        "Lole"
+    ],
     "name:und_x_variant":[
         "Loe",
         "Lelu",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293289291,
-    "wof:lastmodified":1537661779,
+    "wof:lastmodified":1564177865,
     "wof:name":"Lole",
     "wof:parent_id":1091694245,
     "wof:placetype":"locality",

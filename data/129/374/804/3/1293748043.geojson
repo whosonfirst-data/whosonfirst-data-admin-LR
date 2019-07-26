@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kur_x_preferred":[
+        "Keleh"
+    ],
     "name:und_x_variant":[
         "Kele",
         "Keleh"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293748043,
-    "wof:lastmodified":1537661720,
+    "wof:lastmodified":1564177862,
     "wof:name":"Keleh",
     "wof:parent_id":1091693535,
     "wof:placetype":"locality",

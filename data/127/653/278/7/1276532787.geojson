@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tatula"
+    ],
+    "name:ces_x_preferred":[
+        "Tatula"
+    ],
+    "name:lit_x_preferred":[
+        "Tatula"
+    ],
     "name:und_x_variant":[
         "Tiajebo",
         "Teajebo",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276532787,
-    "wof:lastmodified":1537661650,
+    "wof:lastmodified":1564177973,
     "wof:name":"Tatula",
     "wof:parent_id":1091694245,
     "wof:placetype":"locality",

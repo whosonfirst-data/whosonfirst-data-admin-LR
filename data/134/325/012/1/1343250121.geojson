@@ -26,6 +26,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d4\u05df"
+    ],
+    "name:slv_x_preferred":[
+        "Kahn"
+    ],
     "name:und_x_variant":[
         "Karn",
         "Kondo",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343250121,
-    "wof:lastmodified":1537661725,
+    "wof:lastmodified":1564177714,
     "wof:name":"Kahn",
     "wof:parent_id":1091692767,
     "wof:placetype":"locality",

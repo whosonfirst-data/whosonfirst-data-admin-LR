@@ -26,6 +26,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zali"
+    ],
+    "name:swe_x_preferred":[
+        "Zali"
+    ],
     "name:und_x_variant":[
         "Lagbatuo",
         "Loguatuo",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259467537,
-    "wof:lastmodified":1537661620,
+    "wof:lastmodified":1564178464,
     "wof:name":"Zali",
     "wof:parent_id":1091694245,
     "wof:placetype":"locality",

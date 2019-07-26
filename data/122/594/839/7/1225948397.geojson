@@ -25,8 +25,14 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Brown\u2019s Town"
+    ],
     "name:eng_x_preferred":[
         "Brown\u2019s Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6717\u93ae"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225948397,
-    "wof:lastmodified":1537661834,
+    "wof:lastmodified":1564178512,
     "wof:name":"Brown's Town",
     "wof:parent_id":1091692599,
     "wof:placetype":"locality",

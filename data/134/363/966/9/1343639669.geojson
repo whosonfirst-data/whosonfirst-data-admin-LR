@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koo"
+    ],
+    "name:deu_x_preferred":[
+        "Koo"
+    ],
+    "name:swe_x_preferred":[
+        "Koo"
+    ],
     "name:und_x_variant":[
         "Koh",
         "Koo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343639669,
-    "wof:lastmodified":1537661711,
+    "wof:lastmodified":1564177672,
     "wof:name":"Koo",
     "wof:parent_id":1091692735,
     "wof:placetype":"locality",

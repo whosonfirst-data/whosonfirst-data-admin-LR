@@ -26,6 +26,33 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Grandi"
+    ],
+    "name:fin_x_preferred":[
+        "Grandi"
+    ],
+    "name:fra_x_preferred":[
+        "Grandi"
+    ],
+    "name:ita_x_preferred":[
+        "Grandi"
+    ],
+    "name:nds_x_preferred":[
+        "Grandi"
+    ],
+    "name:por_x_preferred":[
+        "Grandi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Grandi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0434\u0456"
+    ],
     "name:und_x_variant":[
         "Gbai",
         "Gbae",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1343842459,
-    "wof:lastmodified":1537661762,
+    "wof:lastmodified":1564177702,
     "wof:name":"Grandi",
     "wof:parent_id":1091694245,
     "wof:placetype":"locality",

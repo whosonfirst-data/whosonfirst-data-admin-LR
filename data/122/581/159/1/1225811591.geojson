@@ -25,6 +25,24 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0645\u0628\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Timbo"
+    ],
+    "name:fra_x_preferred":[
+        "Timbo"
+    ],
+    "name:ita_x_preferred":[
+        "Timbo"
+    ],
+    "name:msa_x_preferred":[
+        "Timbo"
+    ],
+    "name:spa_x_preferred":[
+        "Timbo"
+    ],
     "name:und_x_variant":[
         "Biogba",
         "Tembo",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225811591,
-    "wof:lastmodified":1537661648,
+    "wof:lastmodified":1564178565,
     "wof:name":"Timbo",
     "wof:parent_id":1091694479,
     "wof:placetype":"locality",

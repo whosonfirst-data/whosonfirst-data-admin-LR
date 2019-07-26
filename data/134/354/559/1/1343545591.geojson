@@ -25,6 +25,57 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galapa"
+    ],
+    "name:deu_x_preferred":[
+        "Galapa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0644\u0627\u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Galapa"
+    ],
+    "name:ilo_x_preferred":[
+        "Galapa"
+    ],
+    "name:ita_x_preferred":[
+        "Galapa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d0\u10de\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Galapa"
+    ],
+    "name:nld_x_preferred":[
+        "Galapa"
+    ],
+    "name:por_x_preferred":[
+        "Galapa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Galapa"
+    ],
+    "name:swe_x_preferred":[
+        "Galapa"
+    ],
+    "name:tgl_x_preferred":[
+        "Galapa"
+    ],
+    "name:vie_x_preferred":[
+        "Galapa"
+    ],
+    "name:war_x_preferred":[
+        "Galapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u62c9\u5e15"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1343545591,
-    "wof:lastmodified":1536621361,
+    "wof:lastmodified":1564177660,
     "wof:name":"Galapa",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

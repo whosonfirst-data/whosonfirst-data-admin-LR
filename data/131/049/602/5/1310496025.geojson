@@ -26,6 +26,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yoli"
+    ],
+    "name:tur_x_preferred":[
+        "Yoli"
+    ],
     "name:und_x_variant":[
         "Yala",
         "Yole",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310496025,
-    "wof:lastmodified":1537661626,
+    "wof:lastmodified":1564178160,
     "wof:name":"Yoli",
     "wof:parent_id":1091694333,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Dubah"
+    ],
     "name:und_x_variant":[
         "Towabli",
         "Towai Town",
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209881717,
-    "wof:lastmodified":1537661645,
+    "wof:lastmodified":1564178080,
     "wof:name":"Dubah",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

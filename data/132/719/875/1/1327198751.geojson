@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Johnson Farm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327198751,
-    "wof:lastmodified":1537017582,
+    "wof:lastmodified":1564177641,
     "wof:name":"Johnson Farm",
     "wof:parent_id":1091693427,
     "wof:placetype":"locality",

@@ -25,7 +25,19 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Danta"
+    ],
+    "name:deu_x_preferred":[
+        "Danta"
+    ],
     "name:eng_x_preferred":[
+        "Danta"
+    ],
+    "name:por_x_preferred":[
+        "Danta"
+    ],
+    "name:swe_x_preferred":[
         "Danta"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1209733221,
-    "wof:lastmodified":1537661837,
+    "wof:lastmodified":1564178060,
     "wof:name":"Danta",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

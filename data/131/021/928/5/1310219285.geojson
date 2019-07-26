@@ -25,8 +25,17 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Diggs"
+    ],
     "name:eng_x_preferred":[
         "Diggs"
+    ],
+    "name:fra_x_preferred":[
+        "Diggs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0433\u0433\u0437"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310219285,
-    "wof:lastmodified":1537661782,
+    "wof:lastmodified":1564178206,
     "wof:name":"Diggs",
     "wof:parent_id":1091692445,
     "wof:placetype":"locality",

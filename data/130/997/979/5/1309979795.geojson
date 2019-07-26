@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Congo Town"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1309979795,
-    "wof:lastmodified":1536680383,
+    "wof:lastmodified":1564178281,
     "wof:name":"Congo Town",
     "wof:parent_id":1091694121,
     "wof:placetype":"locality",

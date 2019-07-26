@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zoi"
+    ],
+    "name:slk_x_preferred":[
+        "Zoi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1276851137,
-    "wof:lastmodified":1537076539,
+    "wof:lastmodified":1564177939,
     "wof:name":"Zoi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

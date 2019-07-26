@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Blackie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30c3\u30ad\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub798\ud0a4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209087547,
-    "wof:lastmodified":1536298138,
+    "wof:lastmodified":1564177995,
     "wof:name":"Blackie",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

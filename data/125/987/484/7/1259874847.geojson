@@ -25,8 +25,35 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kampo"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9decine Kampo"
+    ],
+    "name:ind_x_preferred":[
+        "Kampo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6f22\u65b9\u533b\u5b66"
+    ],
+    "name:kor_x_preferred":[
+        "\ud55c\ubc29\uc758\ud559"
+    ],
+    "name:slv_x_preferred":[
+        "Kampo"
+    ],
+    "name:spa_x_preferred":[
+        "Medicina Kampo"
+    ],
+    "name:swe_x_preferred":[
+        "Kampo"
+    ],
     "name:und_x_variant":[
         "Campo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u672c\u6c49\u65b9\u533b\u5b66"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1259874847,
-    "wof:lastmodified":1537661723,
+    "wof:lastmodified":1564178494,
     "wof:name":"Kampo",
     "wof:parent_id":1091694619,
     "wof:placetype":"locality",

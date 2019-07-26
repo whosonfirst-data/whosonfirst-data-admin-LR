@@ -25,6 +25,51 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Comuna Suatu"
+    ],
+    "name:deu_x_preferred":[
+        "Suatu"
+    ],
+    "name:epo_x_preferred":[
+        "Suatu"
+    ],
+    "name:fra_x_preferred":[
+        "Suatu"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarszov\u00e1t k\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Suatu"
+    ],
+    "name:msa_x_preferred":[
+        "Suatu"
+    ],
+    "name:nld_x_preferred":[
+        "Suatu"
+    ],
+    "name:por_x_preferred":[
+        "Suatu"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Suatu"
+    ],
+    "name:spa_x_preferred":[
+        "Suatu"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0443\u0430\u0442\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0430\u0442\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Suatu"
+    ],
+    "name:vol_x_preferred":[
+        "Suatu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1210006399,
-    "wof:lastmodified":1536373228,
+    "wof:lastmodified":1564178084,
     "wof:name":"Suatu",
     "wof:parent_id":1091694333,
     "wof:placetype":"locality",

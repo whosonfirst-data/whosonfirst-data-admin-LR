@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bloso"
+    ],
+    "name:nld_x_preferred":[
+        "Sport Vlaanderen"
+    ],
+    "name:pol_x_preferred":[
+        "Bloso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293861977,
-    "wof:lastmodified":1536744091,
+    "wof:lastmodified":1564177873,
     "wof:name":"Bloso",
     "wof:parent_id":1091692889,
     "wof:placetype":"locality",

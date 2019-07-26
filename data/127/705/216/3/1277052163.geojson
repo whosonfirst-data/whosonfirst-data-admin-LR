@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Seleh"
+    ],
     "name:eng_x_preferred":[
         "Seleh"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1277052163,
-    "wof:lastmodified":1537661825,
+    "wof:lastmodified":1564177926,
     "wof:name":"Seleh",
     "wof:parent_id":1091694013,
     "wof:placetype":"locality",

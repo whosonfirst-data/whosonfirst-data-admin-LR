@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Saah"
+    ],
+    "name:msa_x_preferred":[
+        "Saah"
+    ],
+    "name:swe_x_preferred":[
+        "Saah"
+    ],
     "name:und_x_variant":[
         "Saa"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344227395,
-    "wof:lastmodified":1537661669,
+    "wof:lastmodified":1564177677,
     "wof:name":"Saah",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bong Town"
+    ],
     "name:und_x_variant":[
         "Bong Mine Community",
         "Bong",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276777549,
-    "wof:lastmodified":1537661795,
+    "wof:lastmodified":1564177951,
     "wof:name":"Bong Town",
     "wof:parent_id":1091692483,
     "wof:placetype":"locality",

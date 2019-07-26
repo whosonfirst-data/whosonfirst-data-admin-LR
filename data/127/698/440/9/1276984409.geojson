@@ -25,8 +25,38 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tape"
+    ],
     "name:eng_x_preferred":[
         "Tape"
+    ],
+    "name:fra_x_preferred":[
+        "Ruban"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30fc\u30d7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud14c\uc774\ud504"
+    ],
+    "name:nld_x_preferred":[
+        "Tape"
+    ],
+    "name:pol_x_preferred":[
+        "Ta\u015bma"
+    ],
+    "name:por_x_preferred":[
+        "Fita"
+    ],
+    "name:que_x_preferred":[
+        "Sinta"
+    ],
+    "name:spa_x_preferred":[
+        "Cinta"
+    ],
+    "name:swe_x_preferred":[
+        "Tejp"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1276984409,
-    "wof:lastmodified":1537661652,
+    "wof:lastmodified":1564177972,
     "wof:name":"Tape",
     "wof:parent_id":1091692445,
     "wof:placetype":"locality",

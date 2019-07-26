@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bahn"
+    ],
+    "name:fra_x_preferred":[
+        "Bahn"
+    ],
+    "name:nld_x_preferred":[
+        "Bahn"
+    ],
     "name:und_x_variant":[
         "Gban",
         "Gb\u00e3u",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226560985,
-    "wof:lastmodified":1537661821,
+    "wof:lastmodified":1564178548,
     "wof:name":"Bahn",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

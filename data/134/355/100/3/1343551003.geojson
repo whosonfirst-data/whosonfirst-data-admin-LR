@@ -26,6 +26,18 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gorton"
+    ],
+    "name:gle_x_preferred":[
+        "Gorton"
+    ],
+    "name:ind_x_preferred":[
+        "Gorton"
+    ],
+    "name:pol_x_preferred":[
+        "Gorton"
+    ],
     "name:und_x_variant":[
         "Goton",
         "Gorton"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343551003,
-    "wof:lastmodified":1537661742,
+    "wof:lastmodified":1564177669,
     "wof:name":"Gorton",
     "wof:parent_id":1091694197,
     "wof:placetype":"locality",
