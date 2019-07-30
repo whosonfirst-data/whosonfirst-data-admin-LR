@@ -25,6 +25,18 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u067e\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Di\u00e9po"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u067e\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Di\u00e9po"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310062139,
-    "wof:lastmodified":1537056691,
+    "wof:lastmodified":1564178187,
     "wof:name":"Diepo",
     "wof:parent_id":1091693125,
     "wof:placetype":"locality",

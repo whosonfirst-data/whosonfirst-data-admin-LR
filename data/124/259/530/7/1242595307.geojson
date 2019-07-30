@@ -25,7 +25,16 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kifa"
+    ],
     "name:eng_x_preferred":[
+        "Kifa"
+    ],
+    "name:slk_x_preferred":[
+        "Al-K\u00edfa"
+    ],
+    "name:swe_x_preferred":[
         "Kifa"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242595307,
-    "wof:lastmodified":1537661718,
+    "wof:lastmodified":1564178339,
     "wof:name":"Kifa",
     "wof:parent_id":1091692645,
     "wof:placetype":"locality",

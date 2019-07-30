@@ -25,6 +25,33 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Damballah"
+    ],
+    "name:fra_x_preferred":[
+        "Damballa"
+    ],
+    "name:hat_x_preferred":[
+        "Damballa"
+    ],
+    "name:hun_x_preferred":[
+        "Damballa"
+    ],
+    "name:ita_x_preferred":[
+        "Damballa"
+    ],
+    "name:pol_x_preferred":[
+        "Damballah"
+    ],
+    "name:por_x_preferred":[
+        "Damballa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0431\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Damballa"
+    ],
     "name:und_x_variant":[
         "Damballah",
         "Damballa",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1293476935,
-    "wof:lastmodified":1537661787,
+    "wof:lastmodified":1564177814,
     "wof:name":"Damballa",
     "wof:parent_id":1091692983,
     "wof:placetype":"locality",

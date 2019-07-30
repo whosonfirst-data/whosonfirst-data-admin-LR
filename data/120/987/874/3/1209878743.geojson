@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Sammy"
+    ],
+    "name:swe_x_preferred":[
+        "Sammy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209878743,
-    "wof:lastmodified":1536396023,
+    "wof:lastmodified":1564178059,
     "wof:name":"Sammy",
     "wof:parent_id":1091693113,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Blackie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30c3\u30ad\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub798\ud0a4"
+    ],
     "name:und_x_variant":[
         "Blackie Town",
         "Blackie"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276210101,
-    "wof:lastmodified":1537661803,
+    "wof:lastmodified":1564177885,
     "wof:name":"Blackie",
     "wof:parent_id":1091694083,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Konia"
+    ],
+    "name:pol_x_preferred":[
+        "Konia"
+    ],
+    "name:swe_x_preferred":[
+        "Konia"
+    ],
     "name:und_x_variant":[
         "Fasi Kohnma",
         "Vonzua",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1193265455,
-    "wof:lastmodified":1537661712,
+    "wof:lastmodified":1564178118,
     "wof:name":"Konia",
     "wof:parent_id":1091693041,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Goo"
+    ],
+    "name:fra_x_preferred":[
+        "Goo"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u017a"
+    ],
     "name:und_x_variant":[
         "Go",
         "Goo"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243240597,
-    "wof:lastmodified":1537661747,
+    "wof:lastmodified":1564178354,
     "wof:name":"Goo",
     "wof:parent_id":1091692949,
     "wof:placetype":"locality",

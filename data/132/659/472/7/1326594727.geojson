@@ -25,6 +25,24 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kapi"
+    ],
+    "name:ceb_x_preferred":[
+        "Kapi"
+    ],
+    "name:deu_x_preferred":[
+        "Kapi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057a\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Kapi"
+    ],
+    "name:swe_x_preferred":[
+        "Kapi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1326594727,
-    "wof:lastmodified":1536893777,
+    "wof:lastmodified":1564177588,
     "wof:name":"Kapi",
     "wof:parent_id":1091693663,
     "wof:placetype":"locality",

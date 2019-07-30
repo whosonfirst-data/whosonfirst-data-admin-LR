@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gbon"
+    ],
+    "name:ita_x_preferred":[
+        "Gbon"
+    ],
+    "name:msa_x_preferred":[
+        "Gbon"
+    ],
     "name:und_x_variant":[
         "Bong",
         "Gbon"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343241647,
-    "wof:lastmodified":1537661795,
+    "wof:lastmodified":1564177706,
     "wof:name":"Gbon",
     "wof:parent_id":1091693975,
     "wof:placetype":"locality",

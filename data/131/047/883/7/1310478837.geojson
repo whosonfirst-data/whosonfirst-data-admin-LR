@@ -25,6 +25,21 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Laa"
+    ],
+    "name:deu_x_preferred":[
+        "Laa"
+    ],
+    "name:fra_x_preferred":[
+        "Laa"
+    ],
+    "name:pol_x_preferred":[
+        "Laa"
+    ],
+    "name:swe_x_preferred":[
+        "Laa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310478837,
-    "wof:lastmodified":1536955468,
+    "wof:lastmodified":1564178165,
     "wof:name":"Laa",
     "wof:parent_id":1091693041,
     "wof:placetype":"locality",

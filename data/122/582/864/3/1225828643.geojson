@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Robertsville"
+    ],
+    "name:deu_x_preferred":[
+        "Robertsville"
+    ],
+    "name:vol_x_preferred":[
+        "Robertsville"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1225828643,
-    "wof:lastmodified":1537036771,
+    "wof:lastmodified":1564178618,
     "wof:name":"Robertsville",
     "wof:parent_id":1091694045,
     "wof:placetype":"locality",

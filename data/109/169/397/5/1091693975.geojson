@@ -29,11 +29,38 @@
     "mps:longitude":-7.685954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Pleebo"
+    ],
     "name:eng_x_preferred":[
         "Pleebo/Sodoken"
     ],
     "name:eng_x_variant":[
         "Pleebo/Sodeken"
+    ],
+    "name:fra_x_preferred":[
+        "Pleebo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0565\u0565\u0562\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Pleebo"
+    ],
+    "name:pol_x_preferred":[
+        "Pleebo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Pleebo"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u06cc\u0628\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5229\u535a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +97,7 @@
         }
     ],
     "wof:id":1091693975,
-    "wof:lastmodified":1553717904,
+    "wof:lastmodified":1564178265,
     "wof:name":"Pleebo",
     "wof:parent_id":85673517,
     "wof:placetype":"county",

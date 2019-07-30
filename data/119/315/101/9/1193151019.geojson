@@ -26,6 +26,18 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuata Island"
+    ],
+    "name:fij_x_preferred":[
+        "Kuata"
+    ],
+    "name:hif_x_preferred":[
+        "Kuata"
+    ],
+    "name:swe_x_preferred":[
+        "Kuata Island"
+    ],
     "name:und_x_variant":[
         "Wee",
         "Wie",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193151019,
-    "wof:lastmodified":1537661633,
+    "wof:lastmodified":1564178093,
     "wof:name":"Kuata",
     "wof:parent_id":1091692525,
     "wof:placetype":"locality",

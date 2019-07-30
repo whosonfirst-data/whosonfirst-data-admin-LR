@@ -25,6 +25,45 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0643\u0644\u0627\u064a\u0641\u064a\u0644\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Barclayville"
+    ],
+    "name:deu_x_preferred":[
+        "Barclayville"
+    ],
+    "name:fra_x_preferred":[
+        "Barclayville"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u056f\u056c\u0561\u0575\u057e\u056b\u056c\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Barclayville"
+    ],
+    "name:lit_x_preferred":[
+        "Barkleivilis"
+    ],
+    "name:nld_x_preferred":[
+        "Barclayville"
+    ],
+    "name:pol_x_preferred":[
+        "Barclayville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043a\u043b\u0438\u0432\u0438\u043b\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Barclayville"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u06a9\u0644\u06d2\u0648\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u514b\u5229\u7dad\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1360063537,
-    "wof:lastmodified":1536976285,
+    "wof:lastmodified":1564178238,
     "wof:name":"Barclayville",
     "wof:parent_id":1091692709,
     "wof:placetype":"locality",

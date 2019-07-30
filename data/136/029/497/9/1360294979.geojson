@@ -25,7 +25,13 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Garry"
+    ],
     "name:eng_x_preferred":[
+        "Garry"
+    ],
+    "name:pol_x_preferred":[
         "Garry"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360294979,
-    "wof:lastmodified":1537661835,
+    "wof:lastmodified":1564178250,
     "wof:name":"Garry",
     "wof:parent_id":1091694387,
     "wof:placetype":"locality",

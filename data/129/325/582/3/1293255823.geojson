@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malita"
+    ],
     "name:eng_x_preferred":[
         "Malita"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293255823,
-    "wof:lastmodified":1537661694,
+    "wof:lastmodified":1564177816,
     "wof:name":"Malita",
     "wof:parent_id":1091692767,
     "wof:placetype":"locality",

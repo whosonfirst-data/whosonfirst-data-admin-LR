@@ -25,7 +25,13 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Beita"
+    ],
     "name:eng_x_preferred":[
+        "Beita"
+    ],
+    "name:fra_x_preferred":[
         "Beita"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226460255,
-    "wof:lastmodified":1537661837,
+    "wof:lastmodified":1564178594,
     "wof:name":"Beita",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

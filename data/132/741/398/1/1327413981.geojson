@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sasstown"
+    ],
+    "name:swe_x_preferred":[
+        "Sasstown"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1327413981,
-    "wof:lastmodified":1536707698,
+    "wof:lastmodified":1564177608,
     "wof:name":"Sasstown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

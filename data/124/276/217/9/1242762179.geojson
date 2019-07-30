@@ -26,6 +26,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Zaia"
+    ],
     "name:und_x_variant":[
         "Zai",
         "Zei",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242762179,
-    "wof:lastmodified":1537661620,
+    "wof:lastmodified":1564178404,
     "wof:name":"Zaia",
     "wof:parent_id":1091694333,
     "wof:placetype":"locality",

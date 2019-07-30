@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Joni"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d4b\u0d23\u0d3f"
+    ],
     "name:und_x_variant":[
         "Jong",
         "Jena",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343242357,
-    "wof:lastmodified":1537661728,
+    "wof:lastmodified":1564177705,
     "wof:name":"Joni",
     "wof:parent_id":1091693041,
     "wof:placetype":"locality",

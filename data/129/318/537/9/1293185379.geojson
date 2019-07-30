@@ -26,6 +26,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03bc\u03bf"
+    ],
     "name:und_x_variant":[
         "Niehnpa",
         "Nyenple",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293185379,
-    "wof:lastmodified":1537661677,
+    "wof:lastmodified":1564177849,
     "wof:name":"Mumo",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

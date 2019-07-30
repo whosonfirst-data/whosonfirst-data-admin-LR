@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Tassa"
     ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0936\u093e"
+    ],
     "name:und_x_variant":[
         "Tarsai"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242980393,
-    "wof:lastmodified":1537661825,
+    "wof:lastmodified":1564178410,
     "wof:name":"Tassa",
     "wof:parent_id":1091692599,
     "wof:placetype":"locality",

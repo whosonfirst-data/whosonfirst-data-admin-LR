@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a3c\u0a47\u0a2c\u0a3e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u0628\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243250601,
-    "wof:lastmodified":1537084700,
+    "wof:lastmodified":1564178372,
     "wof:name":"Zeba",
     "wof:parent_id":1091692999,
     "wof:placetype":"locality",

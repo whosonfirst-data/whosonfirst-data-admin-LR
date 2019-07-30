@@ -25,10 +25,34 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u063a\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "Gagata"
+    ],
+    "name:nld_x_preferred":[
+        "Gagata"
+    ],
+    "name:spa_x_preferred":[
+        "Gagata"
+    ],
+    "name:swe_x_preferred":[
+        "Gagata"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e25\u0e32\u0e01\u0e32\u0e01\u0e32\u0e15\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "Gagata"
+    ],
     "name:und_x_variant":[
         "Gogo",
         "Gagata",
         "Gargata"
+    ],
+    "name:war_x_preferred":[
+        "Gagata"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1243190221,
-    "wof:lastmodified":1537661767,
+    "wof:lastmodified":1564178429,
     "wof:name":"Gagata",
     "wof:parent_id":1091692445,
     "wof:placetype":"locality",

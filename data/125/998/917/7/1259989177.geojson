@@ -28,6 +28,15 @@
     "name:eng_x_preferred":[
         "Balama"
     ],
+    "name:ita_x_preferred":[
+        "Balama"
+    ],
+    "name:swa_x_preferred":[
+        "Balama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u99ac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259989177,
-    "wof:lastmodified":1537661819,
+    "wof:lastmodified":1564178442,
     "wof:name":"Balama",
     "wof:parent_id":1091692599,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gobu"
+    ],
+    "name:swe_x_preferred":[
+        "Gobu"
+    ],
     "name:und_x_variant":[
         "Gobua",
         "Gobu"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276537061,
-    "wof:lastmodified":1537661747,
+    "wof:lastmodified":1564177972,
     "wof:name":"Gobu",
     "wof:parent_id":1091692767,
     "wof:placetype":"locality",

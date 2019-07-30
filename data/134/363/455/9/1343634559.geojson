@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bobota"
+    ],
+    "name:swe_x_preferred":[
+        "Bobota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343634559,
-    "wof:lastmodified":1536991696,
+    "wof:lastmodified":1564177671,
     "wof:name":"Bobota",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

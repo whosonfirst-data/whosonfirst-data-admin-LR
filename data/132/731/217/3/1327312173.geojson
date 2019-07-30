@@ -26,6 +26,21 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hon"
+    ],
+    "name:ces_x_preferred":[
+        "Hon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05df"
+    ],
+    "name:slk_x_preferred":[
+        "Hon"
+    ],
+    "name:swe_x_preferred":[
+        "Hon"
+    ],
     "name:und_x_variant":[
         "Hoh",
         "Hon"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327312173,
-    "wof:lastmodified":1537661736,
+    "wof:lastmodified":1564177563,
     "wof:name":"Hon",
     "wof:parent_id":1091692865,
     "wof:placetype":"locality",

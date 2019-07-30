@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mamadou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225817927,
-    "wof:lastmodified":1537051703,
+    "wof:lastmodified":1564178568,
     "wof:name":"Mamadou",
     "wof:parent_id":1091693159,
     "wof:placetype":"locality",

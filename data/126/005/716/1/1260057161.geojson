@@ -25,6 +25,36 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Deng"
+    ],
+    "name:ces_x_preferred":[
+        "Deng"
+    ],
+    "name:deu_x_preferred":[
+        "Deng"
+    ],
+    "name:fra_x_preferred":[
+        "Deng"
+    ],
+    "name:kur_x_preferred":[
+        "Deng"
+    ],
+    "name:pol_x_preferred":[
+        "Deng"
+    ],
+    "name:por_x_preferred":[
+        "Deng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Deng"
+    ],
+    "name:swe_x_preferred":[
+        "Deng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1260057161,
-    "wof:lastmodified":1537024920,
+    "wof:lastmodified":1564178152,
     "wof:name":"Deng",
     "wof:parent_id":1091692983,
     "wof:placetype":"locality",

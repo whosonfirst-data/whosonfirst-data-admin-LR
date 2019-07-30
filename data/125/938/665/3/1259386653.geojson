@@ -25,6 +25,9 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jones Hill"
+    ],
     "name:eng_x_preferred":[
         "Jones Hill"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259386653,
-    "wof:lastmodified":1537661835,
+    "wof:lastmodified":1564178440,
     "wof:name":"Jones Hill",
     "wof:parent_id":1091692599,
     "wof:placetype":"locality",

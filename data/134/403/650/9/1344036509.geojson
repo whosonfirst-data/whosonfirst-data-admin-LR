@@ -25,6 +25,18 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kram"
+    ],
+    "name:deu_x_preferred":[
+        "Kram"
+    ],
+    "name:fra_x_preferred":[
+        "Kram"
+    ],
+    "name:swe_x_preferred":[
+        "Kram"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1344036509,
-    "wof:lastmodified":1536910599,
+    "wof:lastmodified":1564177751,
     "wof:name":"Kram",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

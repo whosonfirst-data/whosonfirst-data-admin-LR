@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Singo"
     ],
+    "name:fra_x_preferred":[
+        "Singo"
+    ],
+    "name:msa_x_preferred":[
+        "Singo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276345031,
-    "wof:lastmodified":1537661657,
+    "wof:lastmodified":1564177903,
     "wof:name":"Singo",
     "wof:parent_id":1091692555,
     "wof:placetype":"locality",

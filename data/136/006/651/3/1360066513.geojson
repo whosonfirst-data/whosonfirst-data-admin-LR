@@ -25,6 +25,21 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Col\u00f2nia d'Edina"
+    ],
+    "name:deu_x_preferred":[
+        "Edina"
+    ],
+    "name:fra_x_preferred":[
+        "Edina"
+    ],
+    "name:ita_x_preferred":[
+        "Edina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0688\u06cc\u0627\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1360066513,
-    "wof:lastmodified":1537568042,
+    "wof:lastmodified":1564178240,
     "wof:name":"Edina",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

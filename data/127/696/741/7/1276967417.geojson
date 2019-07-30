@@ -25,6 +25,24 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanga"
+    ],
+    "name:deu_x_preferred":[
+        "Sanga"
+    ],
+    "name:fra_x_preferred":[
+        "Sanga"
+    ],
+    "name:ita_x_preferred":[
+        "Sanga"
+    ],
+    "name:por_x_preferred":[
+        "Sanga"
+    ],
+    "name:swe_x_preferred":[
+        "Sanga"
+    ],
     "name:und_x_variant":[
         "Zanga",
         "Zangabli",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276967417,
-    "wof:lastmodified":1537661619,
+    "wof:lastmodified":1564177969,
     "wof:name":"Sanga",
     "wof:parent_id":1091692709,
     "wof:placetype":"locality",

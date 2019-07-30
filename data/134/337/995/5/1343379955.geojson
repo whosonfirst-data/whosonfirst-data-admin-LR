@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bahn"
+    ],
+    "name:fra_x_preferred":[
+        "Bahn"
+    ],
+    "name:nld_x_preferred":[
+        "Bahn"
+    ],
     "name:und_x_variant":[
         "Zena",
         "Mempa",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343379955,
-    "wof:lastmodified":1537661690,
+    "wof:lastmodified":1564177666,
     "wof:name":"Bahn",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

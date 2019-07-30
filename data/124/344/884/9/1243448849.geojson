@@ -25,6 +25,12 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sagleipie"
+    ],
+    "name:pol_x_preferred":[
+        "Sacleipea"
+    ],
     "name:und_x_variant":[
         "Sakriple",
         "Sakalapie",
@@ -33,6 +39,9 @@
         "Sakripie",
         "Sagleipie",
         "Saclepea"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0644\u06cc\u067e\u0626\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1243448849,
-    "wof:lastmodified":1537661668,
+    "wof:lastmodified":1564178432,
     "wof:name":"Saclepea",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

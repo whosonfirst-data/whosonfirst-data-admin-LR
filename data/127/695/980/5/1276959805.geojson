@@ -25,6 +25,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Omata"
+    ],
+    "name:mri_x_preferred":[
+        "Omata"
+    ],
+    "name:msa_x_preferred":[
+        "Omata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276959805,
-    "wof:lastmodified":1536934999,
+    "wof:lastmodified":1564177917,
     "wof:name":"Omata",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",

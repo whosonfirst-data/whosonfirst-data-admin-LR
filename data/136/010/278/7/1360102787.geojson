@@ -26,6 +26,15 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boita"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b4b\u0b07\u0b24"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
+    ],
     "name:und_x_variant":[
         "Boyeta",
         "Boieta",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360102787,
-    "wof:lastmodified":1537661799,
+    "wof:lastmodified":1564178252,
     "wof:name":"Boita",
     "wof:parent_id":1091692645,
     "wof:placetype":"locality",

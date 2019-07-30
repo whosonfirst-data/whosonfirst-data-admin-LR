@@ -29,8 +29,14 @@
     "mps:longitude":-8.445241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sasstown"
+    ],
     "name:eng_x_variant":[
         "Sasstown 180606"
+    ],
+    "name:swe_x_preferred":[
+        "Sasstown"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1091693179,
-    "wof:lastmodified":1555220357,
+    "wof:lastmodified":1564178274,
     "wof:name":"Sasstown",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

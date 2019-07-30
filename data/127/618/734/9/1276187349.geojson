@@ -25,6 +25,21 @@
     "iso:country":"LR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tuzon"
+    ],
+    "name:ita_x_preferred":[
+        "Tuzon"
+    ],
+    "name:pol_x_preferred":[
+        "Tuzon"
+    ],
+    "name:por_x_preferred":[
+        "Tuzon"
+    ],
+    "name:spa_x_preferred":[
+        "Tuzon"
+    ],
     "name:und_x_variant":[
         "Tuzohn"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276187349,
-    "wof:lastmodified":1537661642,
+    "wof:lastmodified":1564177896,
     "wof:name":"Tuzon",
     "wof:parent_id":1091693113,
     "wof:placetype":"locality",
