@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MY"
+    ],
     "lbl:latitude":4.710918,
     "lbl:longitude":-7.703872,
     "mps:latitude":4.727101,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85673517,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587033,
+    "wof:lastmodified":1565726658,
     "wof:name":"Maryland",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

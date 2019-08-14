@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GP"
+    ],
     "lbl:latitude":7.421787,
     "lbl:longitude":-10.21702,
     "mps:latitude":7.474684,
@@ -146,7 +149,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550415,
+    "wof:lastmodified":1565726658,
     "wof:name":"Gbapolu",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

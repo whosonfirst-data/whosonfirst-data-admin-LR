@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BG"
+    ],
     "lbl:latitude":6.917502,
     "lbl:longitude":-9.49005,
     "mps:latitude":6.948593,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85673525,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587038,
+    "wof:lastmodified":1565726659,
     "wof:name":"Bong",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

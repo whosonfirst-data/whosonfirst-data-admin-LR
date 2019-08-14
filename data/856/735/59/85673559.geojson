@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GD"
+    ],
     "lbl:latitude":5.986122,
     "lbl:longitude":-8.199183,
     "mps:latitude":5.911695,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85673559,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587029,
+    "wof:lastmodified":1565726657,
     "wof:name":"Grand Gedeh",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RG"
+    ],
     "lbl:latitude":5.328151,
     "lbl:longitude":-7.894801,
     "mps:latitude":5.288553,
@@ -148,7 +151,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550415,
+    "wof:lastmodified":1565726658,
     "wof:name":"River Gee",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

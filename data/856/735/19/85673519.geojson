@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":5.357423,
     "lbl:longitude":-8.902695,
     "mps:latitude":5.385072,
@@ -283,16 +286,13 @@
         }
     ],
     "wof:id":85673519,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587034,
+    "wof:lastmodified":1565726658,
     "wof:name":"Sinoe",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GB"
+    ],
     "lbl:latitude":6.226732,
     "lbl:longitude":-9.878869,
     "mps:latitude":6.202222,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85673531,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587034,
+    "wof:lastmodified":1565726658,
     "wof:name":"Grand Bassa",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

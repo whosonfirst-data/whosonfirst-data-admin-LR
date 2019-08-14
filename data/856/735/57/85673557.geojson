@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RI"
+    ],
     "lbl:latitude":5.880199,
     "lbl:longitude":-9.383545,
     "mps:latitude":5.875317,
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85673557,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587030,
+    "wof:lastmodified":1565726658,
     "wof:name":"River Cess",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

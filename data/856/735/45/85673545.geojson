@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MG"
+    ],
     "lbl:latitude":6.272315,
     "lbl:longitude":-10.443134,
     "mps:latitude":6.629576,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85673545,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587032,
+    "wof:lastmodified":1565726658,
     "wof:name":"Margibi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

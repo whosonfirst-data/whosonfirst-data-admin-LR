@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BM"
+    ],
     "lbl:latitude":6.701776,
     "lbl:longitude":-10.823404,
     "mps:latitude":6.681942,
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85673523,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563587037,
+    "wof:lastmodified":1565726659,
     "wof:name":"Bomi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
