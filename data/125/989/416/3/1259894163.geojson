@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.43667,6.89667,-9.39667,6.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mende"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1259894163,
-    "wof:lastmodified":1564178500,
+    "wof:lastmodified":1566596390,
     "wof:name":"Mende",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

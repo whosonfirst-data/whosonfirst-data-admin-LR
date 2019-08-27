@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.72222,6.70139,-8.68222,6.74139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327418153,
-    "wof:lastmodified":1536701634,
+    "wof:lastmodified":1566595842,
     "wof:name":"Jesseple",
     "wof:parent_id":1091694333,
     "wof:placetype":"locality",

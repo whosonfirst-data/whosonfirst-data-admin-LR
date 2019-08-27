@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.58208,5.41773,-9.54208,5.45773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sifubli",
         "Cephas",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209778977,
-    "wof:lastmodified":1537661790,
+    "wof:lastmodified":1566596093,
     "wof:name":"Neegbah",
     "wof:parent_id":1091694497,
     "wof:placetype":"locality",

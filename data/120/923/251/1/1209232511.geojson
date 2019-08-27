@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.53523,6.62901,-9.49523,6.66901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Donya"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209232511,
-    "wof:lastmodified":1564178018,
+    "wof:lastmodified":1566596098,
     "wof:name":"Donya",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.79833,5.055,-8.75833,5.095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Blazenke",
         "Prend Town",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344246143,
-    "wof:lastmodified":1537661802,
+    "wof:lastmodified":1566595890,
     "wof:name":"Presend Town",
     "wof:parent_id":1091694661,
     "wof:placetype":"locality",

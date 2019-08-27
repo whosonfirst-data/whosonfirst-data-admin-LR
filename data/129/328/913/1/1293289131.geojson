@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.49083,6.94083,-8.45083,6.98083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yale",
         "Nyale",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293289131,
-    "wof:lastmodified":1537661626,
+    "wof:lastmodified":1566596002,
     "wof:name":"Nyahplay",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

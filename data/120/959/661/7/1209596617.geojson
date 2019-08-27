@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.15333,5.96333,-10.11333,6.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":2273821
     },
     "wof:country":"LR",
-    "wof:geomhash":"267641180866e6d42b1568a53a358928",
+    "wof:geomhash":"b4275856d74d08fb0236df40978a6a3b",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209596617,
-    "wof:lastmodified":1536282304,
+    "wof:lastmodified":1566596109,
     "wof:name":"Soniwehn",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -10.13333,
-    5.9833300000000005,
+    5.98333,
     -10.13333,
-    5.9833300000000005
+    5.98333
 ],
   "geometry": {"coordinates":[-10.13333,5.98333],"type":"Point"}
 }

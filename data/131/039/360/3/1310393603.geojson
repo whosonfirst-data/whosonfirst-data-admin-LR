@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.25333,6.14667,-10.21333,6.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0643\u0644\u0627\u064a\u0641\u064a\u0644\u064a"
     ],
@@ -59,8 +63,7 @@
         "Barclayville"
     ],
     "name:und_x_variant":[
-        "Barclaysville",
-        "Barclayville"
+        "Barclaysville"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u06a9\u0644\u06d2\u0648\u06cc\u0644"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1310393603,
-    "wof:lastmodified":1564178184,
+    "wof:lastmodified":1566596194,
     "wof:name":"Barclayville",
     "wof:parent_id":1091692709,
     "wof:placetype":"locality",

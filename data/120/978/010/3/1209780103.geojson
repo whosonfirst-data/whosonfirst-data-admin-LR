@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.67056,7.12917,-10.63056,7.16917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Bongba"
     ],
     "name:und_x_variant":[
         "Gongba",
-        "Gomba",
-        "Bongba"
+        "Gomba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209780103,
-    "wof:lastmodified":1564178022,
+    "wof:lastmodified":1566596100,
     "wof:name":"Bongba",
     "wof:parent_id":1091693713,
     "wof:placetype":"locality",

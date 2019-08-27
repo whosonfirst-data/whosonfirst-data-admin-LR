@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.72,6.61333,-10.68,6.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Swawota",
         "Be Suawo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343232451,
-    "wof:lastmodified":1537661808,
+    "wof:lastmodified":1566595901,
     "wof:name":"Be Suawo",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

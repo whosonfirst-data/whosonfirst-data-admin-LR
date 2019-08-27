@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.04462,5.14395,-8.00462,5.18395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243332473,
-    "wof:lastmodified":1536969709,
+    "wof:lastmodified":1566596326,
     "wof:name":"Tartuken",
     "wof:parent_id":1091693159,
     "wof:placetype":"locality",

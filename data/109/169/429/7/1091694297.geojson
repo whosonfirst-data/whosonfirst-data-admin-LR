@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.929917,
     "lbl:longitude":-8.487818,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nimba",
     "meso:gadm_admin":"Zoegeh",
     "meso:hasc_id":"LR.NI.ZG\t",
@@ -29,6 +31,7 @@
     "mps:longitude":-8.487818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Zoe Gbao"
     ],
@@ -36,9 +39,9 @@
         "Zoegeh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-03-21",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1091694297,
-    "wof:lastmodified":1553717904,
+    "wof:lastmodified":1566596247,
     "wof:name":"Zoegeh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

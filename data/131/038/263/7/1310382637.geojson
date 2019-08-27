@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.22902,7.14147,-11.18902,7.18147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kpesse",
         "Kpessch",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310382637,
-    "wof:lastmodified":1537661708,
+    "wof:lastmodified":1566596186,
     "wof:name":"Kpesseh",
     "wof:parent_id":1091692983,
     "wof:placetype":"locality",

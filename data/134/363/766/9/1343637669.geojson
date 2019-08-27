@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.36546,6.76304,-10.32546,6.80304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Siata"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343637669,
-    "wof:lastmodified":1564177672,
+    "wof:lastmodified":1566595880,
     "wof:name":"Siata",
     "wof:parent_id":1091692483,
     "wof:placetype":"locality",

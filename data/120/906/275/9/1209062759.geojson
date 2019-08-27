@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.54111,5.32528,-7.50111,5.36528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":2571972
     },
     "wof:country":"LR",
-    "wof:geomhash":"5eb451409679e2d611eb87cb13f447df",
+    "wof:geomhash":"20914383f7c4edba0a4e21371520970e",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209062759,
-    "wof:lastmodified":1536298901,
+    "wof:lastmodified":1566596084,
     "wof:name":"Gborlokpla",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -7.52111,
-    5.345280000000002,
+    5.34528,
     -7.52111,
-    5.345280000000002
+    5.34528
 ],
   "geometry": {"coordinates":[-7.52111,5.34528],"type":"Point"}
 }

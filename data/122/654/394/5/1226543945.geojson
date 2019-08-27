@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.6922,6.79952,-9.6522,6.83952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kpeyamue"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226543945,
-    "wof:lastmodified":1537661840,
+    "wof:lastmodified":1566596456,
     "wof:name":"Kpeyamue",
     "wof:parent_id":1091692645,
     "wof:placetype":"locality",

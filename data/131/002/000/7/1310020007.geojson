@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.76583,6.79417,-9.72583,6.83417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Palala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310020007,
-    "wof:lastmodified":1537661676,
+    "wof:lastmodified":1566596213,
     "wof:name":"Palala",
     "wof:parent_id":1091692645,
     "wof:placetype":"locality",

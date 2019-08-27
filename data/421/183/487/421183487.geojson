@@ -10,6 +10,9 @@
     "geom:latitude":4.67972,
     "geom:longitude":-8.23389,
     "iso:country":"LR",
+    "lbl:bbox":"-8.25389,4.65972,-8.21389,4.69972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Barclayville"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barlayville"
     ],
     "name:urd_x_preferred":[
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2278889,
         "gp:id":1347623,
-        "qs:id":1297593,
+        "qs_pg:id":1297593,
         "wd:id":"Q807963",
         "wk:page":"Barclayville"
     },
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421183487,
-    "wof:lastmodified":1563587580,
+    "wof:lastmodified":1566596275,
     "wof:name":"Barclayville",
     "wof:parent_id":1091693271,
     "wof:placetype":"locality",

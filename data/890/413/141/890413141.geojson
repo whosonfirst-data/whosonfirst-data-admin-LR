@@ -11,10 +11,14 @@
     "geom:longitude":-10.81722,
     "gn:country":"LR",
     "gn:fcode":"PPLA",
-    "gn:pop":3155,
+    "gn:population":3155,
     "iso:country":"LR",
+    "lbl:bbox":"-10.83722,6.85083,-10.79722,6.89083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Tubmanburg"
     ],
@@ -72,7 +76,7 @@
     "name:swe_x_preferred":[
         "Tubmanburg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bomi Hills"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2273435,
         "gp:id":1351618,
-        "qs:id":573473,
+        "qs_pg:id":573473,
         "wd:id":"Q1024906",
         "wk:page":"Tubmanburg"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890413141,
-    "wof:lastmodified":1563587582,
+    "wof:lastmodified":1566596276,
     "wof:name":"Tubmanburg",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

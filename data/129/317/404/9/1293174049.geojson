@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.02738,6.59328,-10.98738,6.63328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balaka"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293174049,
-    "wof:lastmodified":1564177867,
+    "wof:lastmodified":1566596005,
     "wof:name":"Balaka",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

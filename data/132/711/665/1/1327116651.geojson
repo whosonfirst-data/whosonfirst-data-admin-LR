@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.96279,4.52599,-7.92279,4.56599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Piddy Community"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327116651,
-    "wof:lastmodified":1537661708,
+    "wof:lastmodified":1566595867,
     "wof:name":"Kpelle Community",
     "wof:parent_id":1091693319,
     "wof:placetype":"locality",

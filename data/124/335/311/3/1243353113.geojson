@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.75556,7.09,-8.71556,7.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Baye",
         "Pegle",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243353113,
-    "wof:lastmodified":1537661675,
+    "wof:lastmodified":1566596322,
     "wof:name":"Payee",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

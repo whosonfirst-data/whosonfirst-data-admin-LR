@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.73081,5.64574,-7.69081,5.68574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dejila",
         "Dehjelao"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343737525,
-    "wof:lastmodified":1537661784,
+    "wof:lastmodified":1566595930,
     "wof:name":"Dehjelao",
     "wof:parent_id":1091693119,
     "wof:placetype":"locality",

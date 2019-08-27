@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.51909,6.35448,-9.47909,6.39448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Peyuwe",
         "Peguwe",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242655813,
-    "wof:lastmodified":1537661675,
+    "wof:lastmodified":1566596339,
     "wof:name":"Paydyoway",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",

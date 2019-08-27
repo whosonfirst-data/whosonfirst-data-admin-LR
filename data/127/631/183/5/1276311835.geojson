@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.69667,6.49194,-10.65667,6.53194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0631\u062b\u0644\u064a\u0646\u063a\u062a\u0648\u0646"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276311835,
-    "wof:lastmodified":1564177977,
+    "wof:lastmodified":1566596073,
     "wof:name":"Arthington",
     "wof:parent_id":1091694083,
     "wof:placetype":"locality",

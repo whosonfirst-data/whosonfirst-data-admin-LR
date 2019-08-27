@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.39367,6.91844,-9.35367,6.95844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gbolokpala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293603251,
-    "wof:lastmodified":1537661736,
+    "wof:lastmodified":1566595986,
     "wof:name":"Gbolokpala",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

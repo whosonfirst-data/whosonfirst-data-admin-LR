@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.59887,5.2994,-8.55887,5.3394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259868569,
-    "wof:lastmodified":1536800722,
+    "wof:lastmodified":1566596395,
     "wof:name":"Gbatamoh",
     "wof:parent_id":1091694619,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.73667,6.99667,-10.69667,7.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mahe"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293165355,
-    "wof:lastmodified":1564177857,
+    "wof:lastmodified":1566595999,
     "wof:name":"Mahe",
     "wof:parent_id":1091693713,
     "wof:placetype":"locality",

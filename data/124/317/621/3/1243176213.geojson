@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.45251,6.9393,-9.41251,6.9793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krulapa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243176213,
-    "wof:lastmodified":1537661836,
+    "wof:lastmodified":1566596347,
     "wof:name":"Krulapa",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

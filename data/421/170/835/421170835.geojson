@@ -10,8 +10,12 @@
     "geom:latitude":7.235,
     "geom:longitude":-8.98444,
     "iso:country":"LR",
+    "lbl:bbox":"-9.00444,7.215,-8.96444,7.255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u043d\u0442\u0430"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Ganta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gahnpa"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2277241,
         "gp:id":1488043,
-        "qs:id":266878,
+        "qs_pg:id":266878,
         "wd:id":"Q744979"
     },
     "wof:country":"LR",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421170835,
-    "wof:lastmodified":1563587580,
+    "wof:lastmodified":1566596275,
     "wof:name":"Ganta",
     "wof:parent_id":1091694197,
     "wof:placetype":"locality",

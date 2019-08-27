@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.37803,6.80965,-10.33803,6.84965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Waimu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343578939,
-    "wof:lastmodified":1537661638,
+    "wof:lastmodified":1566595908,
     "wof:name":"Waimu",
     "wof:parent_id":1091692483,
     "wof:placetype":"locality",

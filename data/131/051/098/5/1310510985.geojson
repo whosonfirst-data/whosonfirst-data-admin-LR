@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.47262,6.70029,-9.43262,6.74029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tounta"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310510985,
-    "wof:lastmodified":1537661645,
+    "wof:lastmodified":1566596216,
     "wof:name":"Tounta",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

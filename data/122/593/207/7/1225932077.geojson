@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.29937,6.21125,-10.25937,6.25125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dawehn",
         "Jarbli",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225932077,
-    "wof:lastmodified":1537661785,
+    "wof:lastmodified":1566596398,
     "wof:name":"Dorwein",
     "wof:parent_id":1091692709,
     "wof:placetype":"locality",

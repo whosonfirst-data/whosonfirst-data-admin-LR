@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.73667,6.26333,-10.69667,6.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Paynesville"
     ],
@@ -36,8 +40,7 @@
         "Paynesville"
     ],
     "name:und_x_variant":[
-        "Paynsville",
-        "Paynesville"
+        "Paynsville"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0646\u06cc\u0633\u0648\u06cc\u0644"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1209498653,
-    "wof:lastmodified":1564178026,
+    "wof:lastmodified":1566596102,
     "wof:name":"Paynesville",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

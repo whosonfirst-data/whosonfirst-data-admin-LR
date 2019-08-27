@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.16016,6.17916,-10.12016,6.21916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327122355,
-    "wof:lastmodified":1536628904,
+    "wof:lastmodified":1566595839,
     "wof:name":"Debaubli",
     "wof:parent_id":1091692735,
     "wof:placetype":"locality",

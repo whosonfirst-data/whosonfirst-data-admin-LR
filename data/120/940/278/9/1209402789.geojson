@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.68237,6.54114,-9.64237,6.58114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":9818305
     },
     "wof:country":"LR",
-    "wof:geomhash":"92b49f15c99f5aadd8b092cc0f089be1",
+    "wof:geomhash":"60a5ad4a89519a3b0d5e54bc65982143",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209402789,
-    "wof:lastmodified":1536288090,
+    "wof:lastmodified":1566596099,
     "wof:name":"Bowgbawai",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -9.66237,
-    6.561139999999999,
+    6.56114,
     -9.66237,
-    6.561139999999999
+    6.56114
 ],
   "geometry": {"coordinates":[-9.66237,6.56114],"type":"Point"}
 }

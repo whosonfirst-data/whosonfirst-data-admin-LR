@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.469205,
     "lbl:longitude":-10.732522,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Montserrado",
     "meso:gadm_admin":"St Paul River",
     "meso:hasc_id":"LR.MO.SP",
@@ -29,6 +31,7 @@
     "mps:longitude":-10.732522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "St. Paul River"
     ],
@@ -36,9 +39,9 @@
         "St Paul River"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-03-21",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1091694083,
-    "wof:lastmodified":1553717904,
+    "wof:lastmodified":1566596243,
     "wof:name":"St. Paul River",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

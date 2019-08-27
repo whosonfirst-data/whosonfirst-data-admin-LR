@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.09764,4.68882,-8.05764,4.72882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276627351,
-    "wof:lastmodified":1536881477,
+    "wof:lastmodified":1566596067,
     "wof:name":"Tatplah",
     "wof:parent_id":1091693271,
     "wof:placetype":"locality",

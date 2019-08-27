@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.16222,8.33389,-10.12222,8.37389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kamatahun",
         "Kambatahun"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242947337,
-    "wof:lastmodified":1537661724,
+    "wof:lastmodified":1566596298,
     "wof:name":"Kambatahun",
     "wof:parent_id":1091693663,
     "wof:placetype":"locality",

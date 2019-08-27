@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.12833,6.72583,-10.08833,6.76583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salala"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1225962151,
-    "wof:lastmodified":1564178572,
+    "wof:lastmodified":1566596431,
     "wof:name":"Salala",
     "wof:parent_id":1091692525,
     "wof:placetype":"locality",

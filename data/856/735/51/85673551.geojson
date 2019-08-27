@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":6.919725,
     "lbl:longitude":-8.72281,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.906393,
     "mps:longitude":-8.735122,
     "mz:hierarchy_label":1,
@@ -158,7 +159,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043c\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nimba Province"
     ],
     "name:urd_x_preferred":[
@@ -242,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"12,043",
     "statoids:area_mi":"4,650",
     "statoids:as_of_date":"2008-03-21",
@@ -270,7 +271,7 @@
         "gp:id":2346103,
         "hasc:id":"LR.NI",
         "iso:id":"LR-NI",
-        "qs:id":1153717,
+        "qs_pg:id":1153717,
         "unlc:id":"LR-NI",
         "wd:id":"Q868497",
         "wk:page":"Nimba County"
@@ -291,11 +292,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565726658,
+    "wof:lastmodified":1566595945,
     "wof:name":"Nimba",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":468088,
     "wof:population_rank":10,

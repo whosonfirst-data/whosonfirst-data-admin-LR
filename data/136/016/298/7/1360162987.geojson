@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.95088,5.82068,-9.91088,5.86068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Minabli",
         "Jacob Logan Town"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360162987,
-    "wof:lastmodified":1537661688,
+    "wof:lastmodified":1566596234,
     "wof:name":"Jacob Logan Town",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",

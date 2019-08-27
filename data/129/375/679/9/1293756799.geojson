@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.66459,6.82905,-10.62459,6.86905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293756799,
-    "wof:lastmodified":1536895841,
+    "wof:lastmodified":1566596008,
     "wof:name":"Dowee",
     "wof:parent_id":1091693577,
     "wof:placetype":"locality",

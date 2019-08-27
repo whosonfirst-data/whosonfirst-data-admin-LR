@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.94,6.88444,-8.9,6.92444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Temgbehn",
         "Tengbwe",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344153085,
-    "wof:lastmodified":1537661650,
+    "wof:lastmodified":1566595887,
     "wof:name":"Nyiayi",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

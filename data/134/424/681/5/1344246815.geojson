@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.11694,6.78222,-9.07694,6.82222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lintoin",
         "Dint\u00e3i",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344246815,
-    "wof:lastmodified":1537661699,
+    "wof:lastmodified":1566595889,
     "wof:name":"Dinte",
     "wof:parent_id":1091694387,
     "wof:placetype":"locality",

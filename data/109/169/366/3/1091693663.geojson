@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.394866,
     "lbl:longitude":-10.203575,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lofa",
     "meso:gadm_admin":"Foya",
     "meso:hasc_id":"LR.LF.FO",
@@ -29,6 +31,7 @@
     "mps:longitude":-10.203575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Foya"
     ],
@@ -42,9 +45,9 @@
         "\u0424\u043e\u0439\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-03-21",
     "statoids:capital":"",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1091693663,
-    "wof:lastmodified":1564178270,
+    "wof:lastmodified":1566596245,
     "wof:name":"Foya",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

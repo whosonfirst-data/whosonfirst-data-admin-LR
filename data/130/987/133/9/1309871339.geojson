@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.65194,6.02694,-8.61194,6.06694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dibli",
         "Kwear"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309871339,
-    "wof:lastmodified":1537661782,
+    "wof:lastmodified":1566596267,
     "wof:name":"Kwear",
     "wof:parent_id":1091693113,
     "wof:placetype":"locality",

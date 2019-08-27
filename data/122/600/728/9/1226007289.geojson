@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.81652,5.94279,-7.77652,5.98279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balikehn",
         "Balike",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226007289,
-    "wof:lastmodified":1537661819,
+    "wof:lastmodified":1566596457,
     "wof:name":"Baliken",
     "wof:parent_id":1091693119,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.35793,6.29542,-10.31793,6.33542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harbel Place"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226414005,
-    "wof:lastmodified":1537661737,
+    "wof:lastmodified":1566596444,
     "wof:name":"Harbel Place",
     "wof:parent_id":1091693839,
     "wof:placetype":"locality",

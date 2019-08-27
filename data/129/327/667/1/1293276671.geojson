@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.75944,6.96778,-8.71944,7.00778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Metike",
         "Metiki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293276671,
-    "wof:lastmodified":1537661689,
+    "wof:lastmodified":1566595996,
     "wof:name":"Metiki",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

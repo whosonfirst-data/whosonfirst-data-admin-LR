@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.44618,6.6855,-9.40618,6.7255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wiamo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326844357,
-    "wof:lastmodified":1537661633,
+    "wof:lastmodified":1566595851,
     "wof:name":"Wiamo",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

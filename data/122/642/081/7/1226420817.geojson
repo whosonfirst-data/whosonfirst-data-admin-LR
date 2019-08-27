@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.57317,6.31277,-9.53317,6.35277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226420817,
-    "wof:lastmodified":1536681413,
+    "wof:lastmodified":1566596410,
     "wof:name":"Boblabli",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",

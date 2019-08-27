@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.79153,5.39709,-8.75153,5.43709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293877383,
-    "wof:lastmodified":1536722515,
+    "wof:lastmodified":1566596000,
     "wof:name":"Sanwon Town",
     "wof:parent_id":1091694579,
     "wof:placetype":"locality",

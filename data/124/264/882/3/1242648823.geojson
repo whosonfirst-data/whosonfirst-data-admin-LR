@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.03667,6.54667,-9.99667,6.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bah",
         "Bia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242648823,
-    "wof:lastmodified":1537661806,
+    "wof:lastmodified":1566596342,
     "wof:name":"Bia",
     "wof:parent_id":1091693759,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.15009,7.16516,-11.11009,7.20516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lar",
         "La",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209194473,
-    "wof:lastmodified":1537661700,
+    "wof:lastmodified":1566596128,
     "wof:name":"Laah Town",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

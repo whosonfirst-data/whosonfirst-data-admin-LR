@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.28889,8.34333,-10.24889,8.38333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wasonga",
         "Wosonga",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343922757,
-    "wof:lastmodified":1537661630,
+    "wof:lastmodified":1566595906,
     "wof:name":"Warsonga",
     "wof:parent_id":1091693663,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.59139,8.00528,-10.55139,8.04528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Folema",
         "Folima"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209080567,
-    "wof:lastmodified":1537661769,
+    "wof:lastmodified":1566596087,
     "wof:name":"Folima",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

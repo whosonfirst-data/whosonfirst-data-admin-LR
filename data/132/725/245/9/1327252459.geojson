@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.69444,6.98861,-8.65444,7.02861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gbla"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327252459,
-    "wof:lastmodified":1537661756,
+    "wof:lastmodified":1566595837,
     "wof:name":"Gblah",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.11253,5.16733,-8.07253,5.20733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuan",
         "Kuan Town",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226098551,
-    "wof:lastmodified":1537661705,
+    "wof:lastmodified":1566596458,
     "wof:name":"Nyouken",
     "wof:parent_id":1091693159,
     "wof:placetype":"locality",

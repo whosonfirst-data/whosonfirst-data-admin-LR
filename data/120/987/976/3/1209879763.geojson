@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.10622,6.57687,-10.06622,6.61687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Peter",
         "Peterbli",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209879763,
-    "wof:lastmodified":1537661674,
+    "wof:lastmodified":1566596122,
     "wof:name":"Piata",
     "wof:parent_id":1091692525,
     "wof:placetype":"locality",

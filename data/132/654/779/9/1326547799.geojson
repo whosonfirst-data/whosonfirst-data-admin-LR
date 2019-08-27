@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.53097,7.04078,-9.49097,7.08078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koiyea"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326547799,
-    "wof:lastmodified":1537661715,
+    "wof:lastmodified":1566595859,
     "wof:name":"Koiyea",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

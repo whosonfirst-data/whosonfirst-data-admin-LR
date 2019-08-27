@@ -11,10 +11,14 @@
     "geom:longitude":-8.53778,
     "gn:country":"LR",
     "gn:fcode":"PPL",
-    "gn:pop":24695,
+    "gn:population":24695,
     "iso:country":"LR",
+    "lbl:bbox":"-8.55778,7.55944,-8.51778,7.59944",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "New Yekepa"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "New Yekepa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lamco"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2272790,
         "gp:id":56123220,
-        "qs:id":573450,
+        "qs_pg:id":573450,
         "wd:id":"Q3179587"
     },
     "wof:country":"LR",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890422439,
-    "wof:lastmodified":1563587582,
+    "wof:lastmodified":1566596276,
     "wof:name":"New Yekepa",
     "wof:parent_id":1091694197,
     "wof:placetype":"locality",

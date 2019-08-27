@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.880199,
     "lbl:longitude":-9.383545,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.875317,
     "mps:longitude":-9.384507,
     "mz:hierarchy_label":1,
@@ -157,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u0435\u0440-\u0421\u0435\u0441\u0441"
     ],
-    "name:unk_x_variant":[
-        "River Cess County"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u06cc\u0631\u06a9\u06cc\u0633 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -241,9 +239,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"4,385",
     "statoids:area_mi":"1,693",
     "statoids:as_of_date":"2008-03-21",
@@ -267,7 +265,7 @@
         "gp:id":2346112,
         "hasc:id":"LR.RI",
         "iso:id":"LR-RI",
-        "qs:id":191384,
+        "qs_pg:id":191384,
         "wd:id":"Q955095",
         "wk:page":"Rivercess County"
     },
@@ -287,11 +285,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565726658,
+    "wof:lastmodified":1566595944,
     "wof:name":"River Cess",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":65862,
     "wof:population_rank":8,

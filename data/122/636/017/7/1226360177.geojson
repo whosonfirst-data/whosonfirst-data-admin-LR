@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.56064,7.2569,-9.52064,7.2969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "James Beyan Town"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226360177,
-    "wof:lastmodified":1537661828,
+    "wof:lastmodified":1566596458,
     "wof:name":"James Beyan Town",
     "wof:parent_id":1091692555,
     "wof:placetype":"locality",

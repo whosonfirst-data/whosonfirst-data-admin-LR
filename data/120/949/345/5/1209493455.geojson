@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.02,6.21333,-9.98,6.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":2272526
     },
     "wof:country":"LR",
-    "wof:geomhash":"ed769c3d392563427c60f9f390ad585e",
+    "wof:geomhash":"2369b4c1904e8c73a0dca094d1d44918",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209493455,
-    "wof:lastmodified":1536285411,
+    "wof:lastmodified":1566596103,
     "wof:name":"Zozohn",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -10.0,
-    6.2333300000000005,
+    6.23333,
     -10.0,
-    6.2333300000000005
+    6.23333
 ],
   "geometry": {"coordinates":[-10.0,6.23333],"type":"Point"}
 }
