@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.17639,6.75833,-9.13639,6.79833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuikoblita"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309821251,
-    "wof:lastmodified":1537661704,
+    "wof:lastmodified":1566596263,
     "wof:name":"Kuikoblita",
     "wof:parent_id":1091692445,
     "wof:placetype":"locality",

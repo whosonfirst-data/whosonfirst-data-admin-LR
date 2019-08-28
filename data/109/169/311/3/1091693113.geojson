@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.113672,
     "lbl:longitude":-8.549247,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Grand Gedeh",
     "meso:gadm_admin":"Gbarzon",
     "meso:hasc_id":"NO DATA",
@@ -29,11 +31,12 @@
     "mps:longitude":-8.549247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Gbarzon"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632249,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1091693113,
-    "wof:lastmodified":1555220357,
+    "wof:lastmodified":1566596249,
     "wof:name":"Gbarzon",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

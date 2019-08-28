@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.32237,6.86007,-10.28237,6.90007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Popota",
         "Bingia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276237951,
-    "wof:lastmodified":1537661671,
+    "wof:lastmodified":1566596052,
     "wof:name":"Bingia",
     "wof:parent_id":1091692525,
     "wof:placetype":"locality",

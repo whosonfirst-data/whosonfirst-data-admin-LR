@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.16444,6.1575,-8.12444,6.1975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259548999,
-    "wof:lastmodified":1537661617,
+    "wof:lastmodified":1566596355,
     "wof:name":"Garley",
     "wof:parent_id":1091693117,
     "wof:placetype":"locality",

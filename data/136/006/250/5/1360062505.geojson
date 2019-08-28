@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.35081,6.88179,-11.31081,6.92179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pujehun"
     ],
@@ -52,8 +56,7 @@
     "name:und_x_variant":[
         "Pudjun",
         "Pudzehun",
-        "Poedjan",
-        "Pujehun"
+        "Poedjan"
     ],
     "name:zho_x_preferred":[
         "\u666e\u5091\u6d2a"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1360062505,
-    "wof:lastmodified":1564178240,
+    "wof:lastmodified":1566596228,
     "wof:name":"Pujehun",
     "wof:parent_id":1091692949,
     "wof:placetype":"locality",

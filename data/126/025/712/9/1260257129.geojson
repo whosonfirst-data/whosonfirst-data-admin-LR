@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.40583,8.12917,-10.36583,8.16917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1260257129,
-    "wof:lastmodified":1536747375,
+    "wof:lastmodified":1566596160,
     "wof:name":"Betesu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":4.375,
     "geom:longitude":-7.71694,
     "iso:country":"LR",
+    "lbl:bbox":"-7.73694,4.355,-7.69694,4.395",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u043f\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cape Palmas"
     ],
     "name:urd_x_preferred":[
@@ -215,7 +218,7 @@
     "wof:concordances":{
         "gn:id":2276492,
         "gp:id":1349364,
-        "qs:id":894014,
+        "qs_pg:id":894014,
         "wd:id":"Q1019486",
         "wk:page":"Harper, Liberia"
     },
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":421174663,
-    "wof:lastmodified":1563587578,
+    "wof:lastmodified":1566596274,
     "wof:name":"Harper",
     "wof:parent_id":1091693975,
     "wof:placetype":"locality",

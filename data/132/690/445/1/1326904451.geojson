@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.53389,7.01889,-10.49389,7.05889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Media"
     ],
@@ -111,8 +115,7 @@
     ],
     "name:und_x_variant":[
         "Madina",
-        "Medina",
-        "Media"
+        "Medina"
     ],
     "name:vol_x_preferred":[
         "Media"
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1326904451,
-    "wof:lastmodified":1564177632,
+    "wof:lastmodified":1566595856,
     "wof:name":"Media",
     "wof:parent_id":1091693577,
     "wof:placetype":"locality",

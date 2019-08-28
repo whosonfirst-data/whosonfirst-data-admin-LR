@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.88389,5.94028,-8.84389,5.98028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sheyayie",
         "Cheyae",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310566919,
-    "wof:lastmodified":1537661659,
+    "wof:lastmodified":1566596214,
     "wof:name":"Chayeebli",
     "wof:parent_id":1091693113,
     "wof:placetype":"locality",

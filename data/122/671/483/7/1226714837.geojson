@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.33667,8.24667,-10.29667,8.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Foya Customs Station",
         "Foya Customs"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226714837,
-    "wof:lastmodified":1537661768,
+    "wof:lastmodified":1566596438,
     "wof:name":"Foya Customs",
     "wof:parent_id":890421475,
     "wof:placetype":"locality",

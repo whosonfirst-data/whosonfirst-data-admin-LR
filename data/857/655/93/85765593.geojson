@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13380574.357587,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-10.796075,6.337662,-10.796075,6.337662",
     "geom:latitude":6.337662,
     "geom:longitude":-10.796075,
-    "gn:gn_country":"LR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LR",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.33333,
     "gn:longitude":-10.8,
+    "gn:population":0,
     "iso:country":"LR",
+    "lbl:bbox":"-10.801075,6.332662,-10.791075,6.342662",
     "lbl:latitude":6.337662,
     "lbl:longitude":-10.796075,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.345771,
     "mps:longitude":-10.795804,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Westpoint"
-    ],
-    "name:unk_x_variant":[
         "Westpoint"
     ],
     "qs:gn_adm0_cc":"LR",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673541,
         102191573,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2273144,
         "gp:id":1351826,
-        "qs:id":279388,
         "qs_pg:id":279388
     },
     "wof:country":"LR",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1566595941,
     "wof:name":"Westpoint",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

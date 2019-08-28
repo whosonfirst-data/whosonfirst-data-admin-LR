@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.33179,6.56733,-10.29179,6.60733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mary Camp"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243031621,
-    "wof:lastmodified":1537661692,
+    "wof:lastmodified":1566596316,
     "wof:name":"Mary Camp",
     "wof:parent_id":1091693791,
     "wof:placetype":"locality",

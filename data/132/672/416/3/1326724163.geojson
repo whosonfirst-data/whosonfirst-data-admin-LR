@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.61222,5.7075,-8.57222,5.7475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jebia",
         "Depi Town"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326724163,
-    "wof:lastmodified":1537661733,
+    "wof:lastmodified":1566595817,
     "wof:name":"Depi Town",
     "wof:parent_id":1091693113,
     "wof:placetype":"locality",

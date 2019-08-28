@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.17202,6.06722,-8.13202,6.10722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dole",
         "Dole Town"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309880995,
-    "wof:lastmodified":1537661779,
+    "wof:lastmodified":1566596271,
     "wof:name":"Dole Town",
     "wof:parent_id":1091693117,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.39056,6.97806,-8.35056,7.01806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Blipi",
         "Blipi Town"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326925267,
-    "wof:lastmodified":1537661802,
+    "wof:lastmodified":1566595830,
     "wof:name":"Blipi Town",
     "wof:parent_id":1091694245,
     "wof:placetype":"locality",

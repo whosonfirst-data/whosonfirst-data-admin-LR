@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.87,6.56333,-10.83,6.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209999515,
-    "wof:lastmodified":1536380235,
+    "wof:lastmodified":1566596090,
     "wof:name":"Folibli",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

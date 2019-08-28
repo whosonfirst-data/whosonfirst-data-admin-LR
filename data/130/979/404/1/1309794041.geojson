@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.97,6.24667,-9.93,6.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Bolin"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309794041,
-    "wof:lastmodified":1564178290,
+    "wof:lastmodified":1566596260,
     "wof:name":"Bolin",
     "wof:parent_id":1091692767,
     "wof:placetype":"locality",

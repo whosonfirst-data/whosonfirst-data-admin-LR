@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.86056,6.9425,-8.82056,6.9825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sagleipie"
     ],
@@ -37,7 +41,6 @@
         "Sacleipie",
         "Saklape",
         "Sakripie",
-        "Sagleipie",
         "Saclepea"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1243448849,
-    "wof:lastmodified":1564178432,
+    "wof:lastmodified":1566596349,
     "wof:name":"Saclepea",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

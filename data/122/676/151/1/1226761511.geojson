@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.01167,6.85833,-9.97167,6.89833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yangoli",
         "Yanoquelle"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226761511,
-    "wof:lastmodified":1537661625,
+    "wof:lastmodified":1566596436,
     "wof:name":"Yanoquelle",
     "wof:parent_id":1091692525,
     "wof:placetype":"locality",

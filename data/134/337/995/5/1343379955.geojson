@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.87278,6.96528,-8.83278,7.00528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bahn"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Zena",
         "Mempa",
-        "Maipa",
-        "Bahn"
+        "Maipa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343379955,
-    "wof:lastmodified":1564177666,
+    "wof:lastmodified":1566595877,
     "wof:name":"Bahn",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

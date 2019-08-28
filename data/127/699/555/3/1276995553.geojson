@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.68252,6.86724,-9.64252,6.90724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cotton-Tree"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276995553,
-    "wof:lastmodified":1537661839,
+    "wof:lastmodified":1566596059,
     "wof:name":"Cotton-Tree",
     "wof:parent_id":1091692645,
     "wof:placetype":"locality",

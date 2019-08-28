@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.20333,6.58,-9.16333,6.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1260159133,
-    "wof:lastmodified":1564178123,
+    "wof:lastmodified":1566596158,
     "wof:name":"Sanda",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",

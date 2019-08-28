@@ -11,10 +11,14 @@
     "geom:longitude":-10.4875,
     "gn:country":"LR",
     "gn:fcode":"PPLA",
-    "gn:pop":2908,
+    "gn:population":2908,
     "iso:country":"LR",
+    "lbl:bbox":"-10.5075,7.04667,-10.4675,7.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0648\u0644\u0648"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043f\u043e\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bopora"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2278248,
         "gp:id":1348115,
-        "qs:id":278341,
+        "qs_pg:id":278341,
         "wd:id":"Q893242",
         "wk:page":"Bopolu"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890417993,
-    "wof:lastmodified":1563587584,
+    "wof:lastmodified":1566596276,
     "wof:name":"Bopolu",
     "wof:parent_id":1091693577,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.3713,6.60816,-10.3313,6.64816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolicairn"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243518103,
-    "wof:lastmodified":1537661720,
+    "wof:lastmodified":1566596322,
     "wof:name":"Kelokomu",
     "wof:parent_id":1091693791,
     "wof:placetype":"locality",

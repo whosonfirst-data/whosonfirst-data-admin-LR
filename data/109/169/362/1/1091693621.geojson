@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.568245,
     "lbl:longitude":-10.01007,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lofa",
     "meso:gadm_admin":"Belleh",
     "meso:hasc_id":"LR.GP.BE",
@@ -29,6 +31,7 @@
     "mps:longitude":-10.01007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Belleh"
     ],
@@ -36,9 +39,9 @@
         "Belleh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-03-21",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1091693621,
-    "wof:lastmodified":1553717904,
+    "wof:lastmodified":1566596241,
     "wof:name":"Belle Yella",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

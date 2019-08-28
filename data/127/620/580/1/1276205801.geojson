@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.70979,4.67029,-7.66979,4.71029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276205801,
-    "wof:lastmodified":1536950229,
+    "wof:lastmodified":1566596027,
     "wof:name":"Gbade",
     "wof:parent_id":1091693975,
     "wof:placetype":"locality",

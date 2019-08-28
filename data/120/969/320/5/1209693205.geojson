@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.73667,7.16333,-10.69667,7.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":2277762
     },
     "wof:country":"LR",
-    "wof:geomhash":"f72ce662d94744fe52212cc5768d94bd",
+    "wof:geomhash":"233ca72025a10438f6d1f750a31be353",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209693205,
-    "wof:lastmodified":1536279167,
+    "wof:lastmodified":1566596114,
     "wof:name":"Diopo",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -10.71667,
-    7.1833300000000015,
+    7.18333,
     -10.71667,
-    7.1833300000000015
+    7.18333
 ],
   "geometry": {"coordinates":[-10.71667,7.18333],"type":"Point"}
 }

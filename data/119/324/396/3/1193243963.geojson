@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.91395,5.74589,-7.87395,5.78589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wa",
         "Wa Town"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193243963,
-    "wof:lastmodified":1537661638,
+    "wof:lastmodified":1566596140,
     "wof:name":"Wa Town",
     "wof:parent_id":1091693119,
     "wof:placetype":"locality",

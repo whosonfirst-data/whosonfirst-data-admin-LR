@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.58472,4.76306,-7.54472,4.80306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":2572091
     },
     "wof:country":"LR",
-    "wof:geomhash":"485b9278865cfdb9474c4adc412a44cf",
+    "wof:geomhash":"bf05896521f9a32c905eebf34824e0a3",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209692445,
-    "wof:lastmodified":1536279193,
+    "wof:lastmodified":1566596113,
     "wof:name":"Bokle",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.564719999999999,
+    -7.56472,
     4.78306,
-    -7.564719999999999,
+    -7.56472,
     4.78306
 ],
   "geometry": {"coordinates":[-7.56472,4.78306],"type":"Point"}

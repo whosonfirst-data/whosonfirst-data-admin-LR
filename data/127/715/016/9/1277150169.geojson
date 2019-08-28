@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.69061,6.66346,-10.65061,6.70346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bau",
         "Gbao Number 2",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277150169,
-    "wof:lastmodified":1537661759,
+    "wof:lastmodified":1566596042,
     "wof:name":"Gbao Number Two",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

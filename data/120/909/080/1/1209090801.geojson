@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.72667,7.09083,-8.68667,7.13083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zoba",
         "Zoloplei",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209090801,
-    "wof:lastmodified":1537661614,
+    "wof:lastmodified":1566596075,
     "wof:name":"Zuoplay",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

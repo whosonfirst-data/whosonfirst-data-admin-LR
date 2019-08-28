@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.18389,6.9775,-9.14389,7.0175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galapa"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1343545591,
-    "wof:lastmodified":1564177660,
+    "wof:lastmodified":1566595874,
     "wof:name":"Galapa",
     "wof:parent_id":1091694167,
     "wof:placetype":"locality",

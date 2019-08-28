@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.9975,8.28972,-9.9575,8.32972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Klogualazu",
         "Kologulazu",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326591707,
-    "wof:lastmodified":1537661714,
+    "wof:lastmodified":1566595830,
     "wof:name":"Kologuazu",
     "wof:parent_id":1091693427,
     "wof:placetype":"locality",

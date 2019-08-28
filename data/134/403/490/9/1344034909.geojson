@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.32174,6.75125,-11.28174,6.79125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Tala"
     ],
@@ -86,8 +90,7 @@
         "Congo Town",
         "Tallah",
         "Talah",
-        "Talla",
-        "Tala"
+        "Talla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1344034909,
-    "wof:lastmodified":1564177751,
+    "wof:lastmodified":1566595925,
     "wof:name":"Tala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-7.78456,4.88651,-7.74456,4.92651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kabuke",
         "Karbuken",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293752513,
-    "wof:lastmodified":1537661725,
+    "wof:lastmodified":1566596008,
     "wof:name":"Karbakehn",
     "wof:parent_id":1091693125,
     "wof:placetype":"locality",

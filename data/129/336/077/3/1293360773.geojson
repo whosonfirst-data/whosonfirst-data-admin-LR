@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.80944,6.95528,-10.76944,6.99528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kano Bli Town",
         "Cannon",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293360773,
-    "wof:lastmodified":1537661723,
+    "wof:lastmodified":1566595950,
     "wof:name":"Cannon Hill Town",
     "wof:parent_id":1091693713,
     "wof:placetype":"locality",

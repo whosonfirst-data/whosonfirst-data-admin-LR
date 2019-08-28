@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.13091,6.19709,-8.09091,6.23709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276297455,
-    "wof:lastmodified":1536825971,
+    "wof:lastmodified":1566596029,
     "wof:name":"Padeka Town",
     "wof:parent_id":1091693117,
     "wof:placetype":"locality",

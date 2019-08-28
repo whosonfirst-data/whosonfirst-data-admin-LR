@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.95333,7.16333,-10.91333,7.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":2273533
     },
     "wof:country":"LR",
-    "wof:geomhash":"6302fa4e5e9a151116eb53a75900feab",
+    "wof:geomhash":"d5fad07f4b6329a871dab3acec2121e2",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209492373,
-    "wof:lastmodified":1536285444,
+    "wof:lastmodified":1566596103,
     "wof:name":"Togbal",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -10.93333,
-    7.1833300000000015,
+    7.18333,
     -10.93333,
-    7.1833300000000015
+    7.18333
 ],
   "geometry": {"coordinates":[-10.93333,7.18333],"type":"Point"}
 }

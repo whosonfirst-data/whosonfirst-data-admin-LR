@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.51083,7.65889,-9.47083,7.69889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fasama",
         "Fassama"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209677451,
-    "wof:lastmodified":1537661772,
+    "wof:lastmodified":1566596111,
     "wof:name":"Fassama",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

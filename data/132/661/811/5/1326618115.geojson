@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.03083,6.03278,-9.99083,6.07278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Harrisville"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1326618115,
-    "wof:lastmodified":1564177591,
+    "wof:lastmodified":1566595831,
     "wof:name":"Harrisville",
     "wof:parent_id":1091692889,
     "wof:placetype":"locality",

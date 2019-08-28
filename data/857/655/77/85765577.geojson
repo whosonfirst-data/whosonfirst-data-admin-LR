@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4544362.916588,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-10.797983,6.301184,-10.797983,6.301184",
     "geom:latitude":6.301184,
     "geom:longitude":-10.797983,
-    "gn:gn_country":"LR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LR",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.3,
     "gn:longitude":-10.8,
+    "gn:population":0,
     "iso:country":"LR",
+    "lbl:bbox":"-10.802983,6.296184,-10.792983,6.306184",
     "lbl:latitude":6.301184,
     "lbl:longitude":-10.797983,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.297491,
     "mps:longitude":-10.801236,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Bassa Community"
-    ],
-    "name:unk_x_variant":[
         "Bassa Community"
     ],
     "qs:gn_adm0_cc":"LR",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673541,
         102191573,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2278866,
         "gp:id":1347647,
-        "qs:id":279381,
         "qs_pg:id":279381
     },
     "wof:country":"LR",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1566595941,
     "wof:name":"Bassa Community",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

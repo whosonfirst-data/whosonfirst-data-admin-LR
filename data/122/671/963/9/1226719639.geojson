@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.00676,4.56109,-7.96676,4.60109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226719639,
-    "wof:lastmodified":1536753223,
+    "wof:lastmodified":1566596438,
     "wof:name":"Middle Town Plantation",
     "wof:parent_id":1091693319,
     "wof:placetype":"locality",

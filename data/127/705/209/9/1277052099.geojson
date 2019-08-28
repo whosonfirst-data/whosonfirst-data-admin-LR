@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.00333,6.61333,-9.96333,6.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Franklin"
     ],
@@ -117,8 +121,7 @@
         "\u0424\u0440\u0430\u043d\u043a\u043b\u0456\u043d"
     ],
     "name:und_x_variant":[
-        "John Franklin",
-        "Franklin"
+        "John Franklin"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u06cc\u0646\u06a9\u0644\u0646"
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1277052099,
-    "wof:lastmodified":1564177930,
+    "wof:lastmodified":1566596045,
     "wof:name":"Franklin",
     "wof:parent_id":1091693759,
     "wof:placetype":"locality",

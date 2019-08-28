@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.91019,5.81749,-9.87019,5.85749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242655735,
-    "wof:lastmodified":1536951515,
+    "wof:lastmodified":1566596339,
     "wof:name":"Gorgbah Village",
     "wof:parent_id":1091692865,
     "wof:placetype":"locality",

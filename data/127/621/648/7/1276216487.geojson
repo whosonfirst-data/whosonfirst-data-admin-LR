@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.88305,6.47442,-8.84305,6.51442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Tappita"
-    ],
-    "name:und_x_variant":[
         "Tappita"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1276216487,
-    "wof:lastmodified":1537661841,
+    "wof:lastmodified":1566596019,
     "wof:name":"Tappita City",
     "wof:parent_id":1091694333,
     "wof:placetype":"locality",

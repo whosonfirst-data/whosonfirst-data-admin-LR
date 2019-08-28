@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.88667,5.71333,-9.84667,5.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Yati"
     ],
     "name:und_x_variant":[
-        "Yatee",
-        "Yati"
+        "Yatee"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209894233,
-    "wof:lastmodified":1564178064,
+    "wof:lastmodified":1566596125,
     "wof:name":"Yati",
     "wof:parent_id":1091692865,
     "wof:placetype":"locality",

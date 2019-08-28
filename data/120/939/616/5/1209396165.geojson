@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.02,6.01333,-9.98,6.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zee"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209396165,
-    "wof:lastmodified":1564177991,
+    "wof:lastmodified":1566596082,
     "wof:name":"Zee",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.986122,
     "lbl:longitude":-8.199183,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.911695,
     "mps:longitude":-8.14086,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Grand Gedeh County"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0b95\u0bc6\u0ba4\u0bc7\u0bb9\u0bcd    \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b95\u0bc6\u0ba4\u0bc7\u0bb9\u0bcd  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c17\u0c46\u0c21\u0c47 \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -162,9 +163,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0434-\u0413\u0435\u0434\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Grand Gedeh County"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u06cc\u0646\u0688 \u06af\u06cc\u062f\u06cc\u06c1 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -247,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"17,029",
     "statoids:area_mi":"6,575",
     "statoids:as_of_date":"2008-03-21",
@@ -274,7 +272,7 @@
         "gp:id":2346100,
         "hasc:id":"LR.GD",
         "iso:id":"LR-GG",
-        "qs:id":998620,
+        "qs_pg:id":998620,
         "wd:id":"Q950841",
         "wk:page":"Grand Gedeh County"
     },
@@ -294,11 +292,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565726657,
+    "wof:lastmodified":1566595944,
     "wof:name":"Grand Gedeh",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":126146,
     "wof:population_rank":9,

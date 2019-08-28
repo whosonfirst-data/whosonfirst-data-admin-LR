@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.91528,6.49389,-8.87528,6.53389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sepo",
         "Okepie"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193002755,
-    "wof:lastmodified":1537661661,
+    "wof:lastmodified":1566596139,
     "wof:name":"Okepie",
     "wof:parent_id":1091694333,
     "wof:placetype":"locality",

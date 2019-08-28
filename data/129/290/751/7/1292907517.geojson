@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.29947,7.27919,-9.25947,7.31919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Panta"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1292907517,
-    "wof:lastmodified":1564177843,
+    "wof:lastmodified":1566595991,
     "wof:name":"Panta",
     "wof:parent_id":1091692555,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.90668,6.67028,-9.86668,6.71028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bola"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1292917633,
-    "wof:lastmodified":1564177842,
+    "wof:lastmodified":1566595990,
     "wof:name":"Bola",
     "wof:parent_id":1091692525,
     "wof:placetype":"locality",

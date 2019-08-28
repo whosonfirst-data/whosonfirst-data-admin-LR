@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.72,6.63,-10.68,6.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u043f\u0435\u0440"
     ],
@@ -96,8 +100,7 @@
         "\u041a\u0443\u043f\u0435\u0440"
     ],
     "name:und_x_variant":[
-        "Be Cooper",
-        "Cooper"
+        "Be Cooper"
     ],
     "name:vie_x_preferred":[
         "Cooper"
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1243234099,
-    "wof:lastmodified":1564178356,
+    "wof:lastmodified":1566596306,
     "wof:name":"Cooper",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

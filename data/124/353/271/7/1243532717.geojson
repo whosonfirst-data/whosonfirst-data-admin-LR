@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.72698,6.60706,-9.68698,6.64706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243532717,
-    "wof:lastmodified":1536681215,
+    "wof:lastmodified":1566596281,
     "wof:name":"Peterta",
     "wof:parent_id":1091692767,
     "wof:placetype":"locality",

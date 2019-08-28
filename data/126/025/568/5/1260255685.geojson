@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.86472,6.8975,-10.82472,6.9375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bola"
     ],
@@ -66,8 +70,7 @@
         "Bola"
     ],
     "name:und_x_variant":[
-        "Bola (2)",
-        "Bola"
+        "Bola (2)"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1260255685,
-    "wof:lastmodified":1564178127,
+    "wof:lastmodified":1566596160,
     "wof:name":"Bola",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

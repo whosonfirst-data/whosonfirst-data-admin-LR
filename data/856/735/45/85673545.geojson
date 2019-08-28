@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.272315,
     "lbl:longitude":-10.443134,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.629576,
     "mps:longitude":-10.26151,
     "mz:hierarchy_label":1,
@@ -160,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0456\u0431\u0456"
     ],
-    "name:unk_x_variant":[
-        "Margibi County"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06af\u06cc\u0628\u06cc \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -244,9 +242,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"3,263",
     "statoids:area_mi":"1,260",
     "statoids:as_of_date":"2008-03-21",
@@ -273,7 +271,7 @@
         "gp:id":2346111,
         "hasc:id":"LR.MG",
         "iso:id":"LR-MG",
-        "qs:id":229379,
+        "qs_pg:id":229379,
         "unlc:id":"LR-MG",
         "wd:id":"Q1052737",
         "wk:page":"Margibi County"
@@ -294,11 +292,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565726658,
+    "wof:lastmodified":1566595945,
     "wof:name":"Margibi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":199689,
     "wof:population_rank":9,

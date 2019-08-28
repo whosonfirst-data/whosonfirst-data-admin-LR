@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.74916,6.78871,-10.70916,6.82871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u043e\u043d\u0430"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1276517609,
-    "wof:lastmodified":1564177904,
+    "wof:lastmodified":1566596030,
     "wof:name":"Mona",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

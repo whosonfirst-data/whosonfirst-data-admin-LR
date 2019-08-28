@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.609383,
     "lbl:longitude":-9.979757,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Margibi",
     "meso:gadm_admin":"Gibi",
     "meso:hasc_id":"LR.MG.GI",
@@ -29,6 +31,7 @@
     "mps:longitude":-9.979757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gibi"
     ],
@@ -49,9 +52,9 @@
         "Gibi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-03-21",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091693759,
-    "wof:lastmodified":1561831250,
+    "wof:lastmodified":1566596250,
     "wof:name":"Gibi",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

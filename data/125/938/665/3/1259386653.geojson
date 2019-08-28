@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.24266,6.7575,-9.20266,6.7975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jones Hill"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259386653,
-    "wof:lastmodified":1564178440,
+    "wof:lastmodified":1566596354,
     "wof:name":"Jones Hill",
     "wof:parent_id":1091692599,
     "wof:placetype":"locality",

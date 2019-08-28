@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.56881,6.63147,-9.52881,6.67147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ajoi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309807627,
-    "wof:lastmodified":1537661824,
+    "wof:lastmodified":1566596269,
     "wof:name":"Ajoice",
     "wof:parent_id":1091692445,
     "wof:placetype":"locality",

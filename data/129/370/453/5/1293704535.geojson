@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.46523,7.17274,-9.42523,7.21274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lamadineta"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293704535,
-    "wof:lastmodified":1537661831,
+    "wof:lastmodified":1566595966,
     "wof:name":"Lamadineta",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

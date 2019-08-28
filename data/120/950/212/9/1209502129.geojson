@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.03761,7.27573,-10.99761,7.31573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632249
@@ -34,7 +38,7 @@
         "gn:id":9805901
     },
     "wof:country":"LR",
-    "wof:geomhash":"5cf50bc85412631782621e7d5baab0f1",
+    "wof:geomhash":"14b02c92aa3f300b84500700f254ee9c",
     "wof:hierarchy":[
         {
             "country_id":85632249,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209502129,
-    "wof:lastmodified":1536285149,
+    "wof:lastmodified":1566596104,
     "wof:name":"Gbauju Village",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -11.01761,
-    7.295730000000002,
+    7.29573,
     -11.01761,
-    7.295730000000002
+    7.29573
 ],
   "geometry": {"coordinates":[-11.01761,7.29573],"type":"Point"}
 }

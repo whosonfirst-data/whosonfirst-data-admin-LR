@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-8.85893,5.36394,-8.81893,5.40394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1210005813,
-    "wof:lastmodified":1536373828,
+    "wof:lastmodified":1566596136,
     "wof:name":"Muller Exploration",
     "wof:parent_id":1091694579,
     "wof:placetype":"locality",

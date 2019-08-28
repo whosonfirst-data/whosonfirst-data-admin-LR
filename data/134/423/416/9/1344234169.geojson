@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-11.05333,7.13,-11.01333,7.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bex Project Camp 1",
         "Bex Project Camp One"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344234169,
-    "wof:lastmodified":1537661807,
+    "wof:lastmodified":1566595891,
     "wof:name":"Bex Project Camp One",
     "wof:parent_id":1091692999,
     "wof:placetype":"locality",

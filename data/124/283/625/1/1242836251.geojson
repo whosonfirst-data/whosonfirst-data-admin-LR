@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-9.76056,7.86417,-9.72056,7.90417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09a6"
     ],
@@ -69,8 +73,7 @@
         "Boda"
     ],
     "name:und_x_variant":[
-        "Bohdah",
-        "Boda"
+        "Bohdah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1242836251,
-    "wof:lastmodified":1564178401,
+    "wof:lastmodified":1566596330,
     "wof:name":"Boda",
     "wof:parent_id":1091693465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Monrovia",
     "iso:country":"LR",
+    "lbl:bbox":"-10.17378,5.98009,-10.13378,6.02009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326511247,
-    "wof:lastmodified":1537013630,
+    "wof:lastmodified":1566595824,
     "wof:name":"Patabli",
     "wof:parent_id":1091692735,
     "wof:placetype":"locality",

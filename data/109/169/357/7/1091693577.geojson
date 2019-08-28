@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.105226,
     "lbl:longitude":-10.398265,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lofa",
     "meso:gadm_admin":"Bopolu",
     "meso:hasc_id":"LR.GP.BP",
@@ -29,6 +31,7 @@
     "mps:longitude":-10.398265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0648\u0644\u0648"
     ],
@@ -78,9 +81,9 @@
         "\u535a\u6ce2\u76e7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-21",
+    "src:population_date":"2008-03-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-03-21",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1091693577,
-    "wof:lastmodified":1564178270,
+    "wof:lastmodified":1566596246,
     "wof:name":"Bopolu",
     "wof:parent_id":85673507,
     "wof:placetype":"county",
