@@ -276,6 +276,9 @@
         "wk:page":"Lofa County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be12b72533addfef3f358dcc6e300006",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595946,
+    "wof:lastmodified":1582345764,
     "wof:name":"Lofa",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

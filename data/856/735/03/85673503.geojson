@@ -137,6 +137,9 @@
         "unlc:id":"LR-RG"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e979915f1b5712a99937555b8631836",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595944,
+    "wof:lastmodified":1582345764,
     "wof:name":"River Gee",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

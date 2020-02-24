@@ -285,6 +285,9 @@
         "wk:page":"Grand Cape Mount County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"555c3c75942dd914bd348de58ca452ef",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595945,
+    "wof:lastmodified":1582345764,
     "wof:name":"Grand Cape Mount",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

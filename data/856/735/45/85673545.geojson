@@ -277,6 +277,9 @@
         "wk:page":"Margibi County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c009e81f1d0f9c969f1ad60b805d0b2",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595945,
+    "wof:lastmodified":1582345764,
     "wof:name":"Margibi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

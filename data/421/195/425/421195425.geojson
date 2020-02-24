@@ -575,6 +575,9 @@
     },
     "wof:country":"LR",
     "wof:created":1459009848,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8744ef2b9ce27632ab4948c4c25924bd",
     "wof:hierarchy":[
         {
@@ -586,7 +589,7 @@
         }
     ],
     "wof:id":421195425,
-    "wof:lastmodified":1566596274,
+    "wof:lastmodified":1582345769,
     "wof:name":"Monrovia",
     "wof:parent_id":1091694121,
     "wof:placetype":"locality",

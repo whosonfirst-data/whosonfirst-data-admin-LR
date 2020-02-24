@@ -282,6 +282,9 @@
         "wk:page":"Bong County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e01e9095a63f37102932d9306a042ce6",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595947,
+    "wof:lastmodified":1582345764,
     "wof:name":"Bong",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

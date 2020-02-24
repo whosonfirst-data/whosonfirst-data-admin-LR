@@ -77,6 +77,9 @@
         "wk:page":"Sinkor"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9355cc5da3b8c0b1f016f30ea3d7232c",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1582345762,
     "wof:name":"Sinkor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
