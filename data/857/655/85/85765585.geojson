@@ -75,6 +75,9 @@
         "qs:id":266860
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d178a355b0f06a811c39726ce08bc72",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1582345762,
     "wof:name":"Plonkor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

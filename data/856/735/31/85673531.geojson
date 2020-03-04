@@ -282,6 +282,9 @@
         "wk:page":"Grand Bassa County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de4cd855dad4fae43ff068e48d2d23ee",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595946,
+    "wof:lastmodified":1582345764,
     "wof:name":"Grand Bassa",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

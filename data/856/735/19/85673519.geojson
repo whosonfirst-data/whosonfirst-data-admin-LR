@@ -278,6 +278,9 @@
         "wk:page":"Sinoe County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b01861481911e1152686daa4dd1d8ab2",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595946,
+    "wof:lastmodified":1582345764,
     "wof:name":"Sinoe",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -94,6 +94,9 @@
         "qs_pg:id":279388
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ad42096a16ae5f700c6b2dee61f1207",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566595941,
+    "wof:lastmodified":1582345762,
     "wof:name":"Westpoint",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

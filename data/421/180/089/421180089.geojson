@@ -227,6 +227,9 @@
     },
     "wof:country":"LR",
     "wof:created":1459009244,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2d92fa8e2857d612e9a96ef165d03859",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421180089,
-    "wof:lastmodified":1566596275,
+    "wof:lastmodified":1582345769,
     "wof:name":"Bensonville",
     "wof:parent_id":1091694045,
     "wof:placetype":"locality",

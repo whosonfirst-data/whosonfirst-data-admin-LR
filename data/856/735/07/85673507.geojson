@@ -135,6 +135,9 @@
         "iso:id":"LR-GP"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3ede82eec585acefda23982310cca1f",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595946,
+    "wof:lastmodified":1582345764,
     "wof:name":"Gbapolu",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

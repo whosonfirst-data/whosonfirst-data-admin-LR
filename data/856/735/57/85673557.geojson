@@ -270,6 +270,9 @@
         "wk:page":"Rivercess County"
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efa38b90ead213d7e0b96c5f558e5ec8",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595944,
+    "wof:lastmodified":1582345763,
     "wof:name":"River Cess",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

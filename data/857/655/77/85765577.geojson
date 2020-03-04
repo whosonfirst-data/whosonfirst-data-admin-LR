@@ -94,6 +94,9 @@
         "qs_pg:id":279381
     },
     "wof:country":"LR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb8a612f0eb4d2aa73b524e688f20cde",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566595941,
+    "wof:lastmodified":1582345762,
     "wof:name":"Bassa Community",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

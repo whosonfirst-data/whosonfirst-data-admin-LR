@@ -919,6 +919,11 @@
     },
     "wof:country":"LR",
     "wof:country_alpha3":"LBR",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"7e7a567c30e838bd0362588c415e778f",
     "wof:hierarchy":[
         {
@@ -933,7 +938,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595942,
+    "wof:lastmodified":1583224734,
     "wof:name":"Liberia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
