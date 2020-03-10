@@ -895,9 +895,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Liberia",
-        "digitalenvoy:country_code":[
-            430
-        ],
+        "digitalenvoy:country_code":430,
         "fb:id":"en.liberia",
         "fifa:id":"LBR",
         "fips:code":"LI",
@@ -941,7 +939,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529174,
+    "wof:lastmodified":1583797381,
     "wof:name":"Liberia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
