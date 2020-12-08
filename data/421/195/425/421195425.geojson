@@ -588,7 +588,9 @@
         85673541
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632249,
+    "wof:capital_of":[
+        85632249
+    ],
     "wof:concordances":{
         "gn:id":2274895,
         "gp:id":1350536,
@@ -613,7 +615,7 @@
         }
     ],
     "wof:id":421195425,
-    "wof:lastmodified":1587428307,
+    "wof:lastmodified":1607390892,
     "wof:name":"Monrovia",
     "wof:parent_id":1091694121,
     "wof:placetype":"locality",
