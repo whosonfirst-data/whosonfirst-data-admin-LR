@@ -595,6 +595,7 @@
         "gn:id":2274895,
         "gp:id":1350536,
         "loc:id":"n79107972",
+        "ne:id":1159151311,
         "qs_pg:id":219469,
         "wd:id":"Q3748",
         "wk:page":"Monrovia"
@@ -615,7 +616,8 @@
         }
     ],
     "wof:id":421195425,
-    "wof:lastmodified":1607390892,
+    "wof:lastmodified":1608688184,
+    "wof:megacity":1,
     "wof:name":"Monrovia",
     "wof:parent_id":1091694121,
     "wof:placetype":"locality",
