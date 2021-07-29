@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Mambah-Kaba"
     ],
+    "name:fra_x_preferred":[
+        "Mambah-Kaba"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091693887,
-    "wof:lastmodified":1566596250,
+    "wof:lastmodified":1627522346,
     "wof:name":"Mambah Kaba",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

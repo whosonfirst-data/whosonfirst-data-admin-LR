@@ -41,6 +41,9 @@
     "name:eng_x_variant":[
         "Zorzor"
     ],
+    "name:fra_x_preferred":[
+        "Zorzor"
+    ],
     "name:pol_x_preferred":[
         "Zorzor"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1091693465,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1627522347,
     "wof:name":"Zorzor",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

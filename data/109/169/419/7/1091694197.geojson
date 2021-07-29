@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Sanniquelleh-Mahn"
     ],
+    "name:fra_x_preferred":[
+        "Sanniquelleh-Mahn"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694197,
-    "wof:lastmodified":1566596246,
+    "wof:lastmodified":1627522346,
     "wof:name":"Sanniquelleh Mahn",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

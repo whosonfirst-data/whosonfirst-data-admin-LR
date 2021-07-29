@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Dugbe River"
     ],
+    "name:fra_x_preferred":[
+        "Dugbe River"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694661,
-    "wof:lastmodified":1566596248,
+    "wof:lastmodified":1627522345,
     "wof:name":"Dugbe River",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

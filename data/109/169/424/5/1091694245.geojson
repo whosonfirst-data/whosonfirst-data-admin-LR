@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Gbehlageh"
     ],
+    "name:fra_x_preferred":[
+        "Gbehlageh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694245,
-    "wof:lastmodified":1566596243,
+    "wof:lastmodified":1627522345,
     "wof:name":"Gbehlageh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Kolahun"
     ],
+    "name:fra_x_preferred":[
+        "Kolahun"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091693401,
-    "wof:lastmodified":1566596245,
+    "wof:lastmodified":1627522346,
     "wof:name":"Kolahun",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

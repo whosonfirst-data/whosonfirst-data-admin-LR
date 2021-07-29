@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Butaw"
     ],
+    "name:fra_x_preferred":[
+        "Butaw"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694745,
-    "wof:lastmodified":1566596247,
+    "wof:lastmodified":1627522345,
     "wof:name":"Butaw",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

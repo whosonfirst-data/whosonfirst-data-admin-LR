@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "St Paul River"
     ],
+    "name:fra_x_preferred":[
+        "Rivi\u00e8re Saint-Paul"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694083,
-    "wof:lastmodified":1566596243,
+    "wof:lastmodified":1627522346,
     "wof:name":"St. Paul River",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Todee"
     ],
+    "name:fra_x_preferred":[
+        "Todee"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694013,
-    "wof:lastmodified":1566596243,
+    "wof:lastmodified":1627522347,
     "wof:name":"Todee",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

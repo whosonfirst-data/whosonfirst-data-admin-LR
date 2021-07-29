@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Foya"
     ],
+    "name:fra_x_preferred":[
+        "Foya"
+    ],
     "name:pol_x_preferred":[
         "Foya"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1091693663,
-    "wof:lastmodified":1566596245,
+    "wof:lastmodified":1627522345,
     "wof:name":"Foya",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

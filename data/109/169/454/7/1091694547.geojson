@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Juarzon"
     ],
+    "name:fra_x_preferred":[
+        "Juarzon"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694547,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1627522346,
     "wof:name":"Juarzon",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

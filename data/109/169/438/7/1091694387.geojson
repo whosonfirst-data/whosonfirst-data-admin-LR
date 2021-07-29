@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Yarwein-Mehnsohnne"
     ],
+    "name:fra_x_preferred":[
+        "Yarwein Mehnsohnnoh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694387,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1627522347,
     "wof:name":"Yarwein Mehnsohnnoh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

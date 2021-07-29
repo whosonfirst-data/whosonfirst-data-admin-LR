@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Grand Gedeh"
     ],
+    "name:fra_x_preferred":[
+        "River Gee"
+    ],
     "name:und_x_variant":[
         "River Gee County"
     ],
@@ -155,7 +158,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582345764,
+    "wof:lastmodified":1627522346,
     "wof:name":"River Gee",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

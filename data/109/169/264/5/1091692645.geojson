@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Suakoko"
     ],
+    "name:fra_x_preferred":[
+        "Suakoko"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091692645,
-    "wof:lastmodified":1566596248,
+    "wof:lastmodified":1627522347,
     "wof:name":"Suakoko",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

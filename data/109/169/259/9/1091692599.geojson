@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Panta-Kpa"
     ],
+    "name:fra_x_preferred":[
+        "Panta-Kpa"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091692599,
-    "wof:lastmodified":1566596243,
+    "wof:lastmodified":1627522346,
     "wof:name":"Panta-Kpai",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

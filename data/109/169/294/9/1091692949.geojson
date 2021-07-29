@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Garwula"
     ],
+    "name:fra_x_preferred":[
+        "Tewor"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091692949,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1627522347,
     "wof:name":"Tewor",
     "wof:parent_id":85673535,
     "wof:placetype":"county",

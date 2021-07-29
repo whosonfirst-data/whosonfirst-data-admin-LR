@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Konobo"
     ],
+    "name:fra_x_preferred":[
+        "Konobo"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091693119,
-    "wof:lastmodified":1566596249,
+    "wof:lastmodified":1627522346,
     "wof:name":"Konobo",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

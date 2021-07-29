@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Gbeapo"
     ],
+    "name:fra_x_preferred":[
+        "Gbeapo"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091693159,
-    "wof:lastmodified":1566596245,
+    "wof:lastmodified":1627522345,
     "wof:name":"Gbeapo",
     "wof:parent_id":85673503,
     "wof:placetype":"county",

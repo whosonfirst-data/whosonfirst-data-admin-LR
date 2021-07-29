@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Zoegeh"
     ],
+    "name:fra_x_preferred":[
+        "Zoegeh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694297,
-    "wof:lastmodified":1566596247,
+    "wof:lastmodified":1627522347,
     "wof:name":"Zoegeh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

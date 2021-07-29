@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Belleh"
     ],
+    "name:fra_x_preferred":[
+        "Belle Yella"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091693621,
-    "wof:lastmodified":1566596241,
+    "wof:lastmodified":1627522344,
     "wof:name":"Belle Yella",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

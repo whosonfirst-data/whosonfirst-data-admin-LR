@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Kpayan"
     ],
+    "name:fra_x_preferred":[
+        "Kpayan"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091694701,
-    "wof:lastmodified":1566596242,
+    "wof:lastmodified":1627522346,
     "wof:name":"Kpayan",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

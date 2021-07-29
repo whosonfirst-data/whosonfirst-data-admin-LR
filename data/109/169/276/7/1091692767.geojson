@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "District # 2"
     ],
+    "name:fra_x_preferred":[
+        "District\u00a02"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091692767,
-    "wof:lastmodified":1566596247,
+    "wof:lastmodified":1627522345,
     "wof:name":"District #2",
     "wof:parent_id":85673531,
     "wof:placetype":"county",
