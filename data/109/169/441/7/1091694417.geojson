@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Morweh"
     ],
+    "name:fra_x_preferred":[
+        "Morweh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1091694417,
-    "wof:lastmodified":1566596242,
+    "wof:lastmodified":1628266688,
     "wof:name":"Morweh",
     "wof:parent_id":85673557,
     "wof:placetype":"county",

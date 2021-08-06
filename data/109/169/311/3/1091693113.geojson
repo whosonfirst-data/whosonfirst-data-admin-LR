@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Gbarzon"
     ],
+    "name:fra_x_preferred":[
+        "Gbarzon"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1091693113,
-    "wof:lastmodified":1566596249,
+    "wof:lastmodified":1628266650,
     "wof:name":"Gbarzon",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

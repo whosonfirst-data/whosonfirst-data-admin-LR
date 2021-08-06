@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Barrobo"
     ],
+    "name:fra_x_preferred":[
+        "Barrobo"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1091693931,
-    "wof:lastmodified":1566596246,
+    "wof:lastmodified":1628266625,
     "wof:name":"Barrobo",
     "wof:parent_id":85673517,
     "wof:placetype":"county",

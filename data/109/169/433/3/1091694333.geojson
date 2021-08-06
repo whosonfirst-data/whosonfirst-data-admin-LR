@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Tappita"
     ],
+    "name:fra_x_preferred":[
+        "Tapeta"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1091694333,
-    "wof:lastmodified":1566596247,
+    "wof:lastmodified":1628266724,
     "wof:name":"Tappita",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Sasstown 180606"
     ],
+    "name:fra_x_preferred":[
+        "Sasstown"
+    ],
     "name:swe_x_preferred":[
         "Sasstown"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1091693179,
-    "wof:lastmodified":1566596250,
+    "wof:lastmodified":1628266713,
     "wof:name":"Sasstown",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

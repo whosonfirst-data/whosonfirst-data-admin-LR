@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Upperkrucoast"
     ],
+    "name:fra_x_preferred":[
+        "Upper Kru Coast"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1091693271,
-    "wof:lastmodified":1566596249,
+    "wof:lastmodified":1628266735,
     "wof:name":"Upper Kru Coast",
     "wof:parent_id":85673513,
     "wof:placetype":"county",
