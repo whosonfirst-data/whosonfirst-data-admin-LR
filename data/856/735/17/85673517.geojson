@@ -88,8 +88,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab0\u0ac0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e8\u05d1\u05d5\u05ea \u05de\u05e1\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0930\u0940\u0932\u0948\u0902\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Maryland"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0580\u056b\u056c\u0565\u0576\u0564 \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
@@ -295,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582345764,
+    "wof:lastmodified":1636500652,
     "wof:name":"Maryland",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

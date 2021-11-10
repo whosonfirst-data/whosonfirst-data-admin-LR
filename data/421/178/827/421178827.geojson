@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0411\u2019\u044e\u043a\u0435\u043d\u0435\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u0995\u09be\u09a8\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Buchanan"
     ],
@@ -53,8 +56,17 @@
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d5\u05e7\u05e0\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0915\u093e\u0928\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Buchanan"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0579\u0561\u0576\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Buchanan"
     ],
     "name:ita_x_preferred":[
         "Buchanan"
@@ -89,6 +101,9 @@
     "name:swe_x_preferred":[
         "Buchanan"
     ],
+    "name:tur_x_preferred":[
+        "Buchanan"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u044e\u043a\u0435\u043d\u0435\u043d"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:urd_x_variant":[
         "\u0628\u06cc\u0648\u06a9\u06cc\u0646\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Buchanan"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u574e\u5357"
@@ -246,7 +264,7 @@
         }
     ],
     "wof:id":421178827,
-    "wof:lastmodified":1566596275,
+    "wof:lastmodified":1636500662,
     "wof:name":"Buchanan",
     "wof:parent_id":1091692815,
     "wof:placetype":"locality",

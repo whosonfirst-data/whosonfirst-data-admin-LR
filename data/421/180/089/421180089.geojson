@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0435\u043d\u0441\u0430\u043d\u0432\u0456\u043b\u044c"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8\u09b8\u09a8\u09ad\u09bf\u09b2\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0441\u043e\u043d\u0432\u0438\u043b\u0435"
     ],
@@ -38,14 +41,32 @@
     "name:deu_x_preferred":[
         "Bensonville"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03bd\u03c3\u03bf\u03bd\u03b2\u03b9\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Bensonville"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0633\u0648\u0646\u0648\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
         "Bensonville"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05e1\u05d5\u05e0\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0902\u0938\u0928\u0935\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bensonville"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0576\u057d\u0578\u0576\u057e\u056b\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Bensonville"
     ],
     "name:ita_x_preferred":[
         "Bensonville"
@@ -78,6 +99,9 @@
         "Bensonville"
     ],
     "name:swe_x_preferred":[
+        "Bensonville"
+    ],
+    "name:tur_x_preferred":[
         "Bensonville"
     ],
     "name:ukr_x_preferred":[
@@ -241,7 +265,7 @@
         }
     ],
     "wof:id":421180089,
-    "wof:lastmodified":1582345769,
+    "wof:lastmodified":1636500661,
     "wof:name":"Bensonville",
     "wof:parent_id":1091694045,
     "wof:placetype":"locality",

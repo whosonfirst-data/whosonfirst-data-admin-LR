@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.57799744238,5.46499804554,-9.57799744238,5.46499804554",
+    "geom:bbox":"-9.577997,5.464998,-9.577997,5.464998",
     "geom:latitude":5.464998,
     "geom:longitude":-9.577997,
     "iso:country":"LR",
@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0633\u064a\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u09ad\u09be\u09b0\u09b8\u09c7\u09b8"
+    ],
     "name:cat_x_preferred":[
         "River Cess"
     ],
@@ -30,20 +33,41 @@
     "name:deu_x_preferred":[
         "Cestos City"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03b2\u03b5\u03c1\u03ba\u03b5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "River Cess"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648\u0631\u0633\u0632"
     ],
     "name:fra_x_preferred":[
         "Cesstos City"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d1\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0935\u0930\u0938\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Rivercess"
+    ],
     "name:hye_x_preferred":[
         "\u0551\u0565\u057d\u057f\u0578\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Rivercess"
     ],
     "name:ita_x_preferred":[
         "Cesstos"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30d0\u30fc\u30bb\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ubc84\uc138\uc2a4"
     ],
     "name:lit_x_preferred":[
         "River Sesas"
@@ -69,8 +93,17 @@
     "name:swe_x_preferred":[
         "Cestos City"
     ],
+    "name:tur_x_preferred":[
+        "Rivercess"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0432\u0435\u0440\u0441\u0435\u0441"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0631\u0633\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Rivercess"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u5f17\u585e\u65af"
@@ -183,7 +216,7 @@
     },
     "wof:country":"LR",
     "wof:created":1499130537,
-    "wof:geomhash":"04b964326112cf6a17e08517f8eb88d9",
+    "wof:geomhash":"723807fae03e8faf911a5aa6b2850d37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +227,7 @@
         }
     ],
     "wof:id":1141906083,
-    "wof:lastmodified":1566596463,
+    "wof:lastmodified":1636500666,
     "wof:name":"Rivercess",
     "wof:parent_id":1091694479,
     "wof:placetype":"locality",
@@ -204,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.57799744237781,
-    5.46499804553724,
-    -9.57799744237781,
-    5.46499804553724
+    -9.577997,
+    5.464998,
+    -9.577997,
+    5.464998
 ],
-  "geometry": {"coordinates":[-9.57799744237781,5.46499804553724],"type":"Point"}
+  "geometry": {"coordinates":[-9.577997,5.464998],"type":"Point"}
 }

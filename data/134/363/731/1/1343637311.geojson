@@ -44,6 +44,9 @@
     "name:hrv_x_preferred":[
         "Boe"
     ],
+    "name:hun_x_preferred":[
+        "Boe"
+    ],
     "name:ind_x_preferred":[
         "Boe"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1343637311,
-    "wof:lastmodified":1566595879,
+    "wof:lastmodified":1636500649,
     "wof:name":"Boe",
     "wof:parent_id":1091694417,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
     "name:swe_x_preferred":[
         "Bali"
     ],
+    "name:tur_x_preferred":[
+        "Bali"
+    ],
     "name:und_x_variant":[
         "Blali",
         "Badale",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1242868577,
-    "wof:lastmodified":1566596287,
+    "wof:lastmodified":1636500663,
     "wof:name":"Bali",
     "wof:parent_id":1091694297,
     "wof:placetype":"locality",

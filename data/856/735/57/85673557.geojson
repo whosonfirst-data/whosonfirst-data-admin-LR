@@ -83,8 +83,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0ab0\u0ab8\u0ac7\u0ab8 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d4\u05e8 \u05e6'\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u0935\u0930\u0938\u0947\u0938 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "River Cess"
     ],
     "name:hye_x_preferred":[
         "\u054c\u056b\u057e\u0580\u0581\u0565\u057d \u0565\u0580\u056f\u0580\u0561\u0574\u0561\u057d"
@@ -288,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582345763,
+    "wof:lastmodified":1636500651,
     "wof:name":"River Cess",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

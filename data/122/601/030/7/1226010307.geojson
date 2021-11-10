@@ -35,6 +35,12 @@
     "name:deu_x_preferred":[
         "Poni"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Poni"
+    ],
     "name:swe_x_preferred":[
         "Poni"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1226010307,
-    "wof:lastmodified":1566596453,
+    "wof:lastmodified":1636500666,
     "wof:name":"Poni",
     "wof:parent_id":1091693113,
     "wof:placetype":"locality",

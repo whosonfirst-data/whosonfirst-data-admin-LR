@@ -246,6 +246,9 @@
         "Mango"
     ],
     "name:vie_x_preferred":[
+        "Mango"
+    ],
+    "name:vie_x_variant":[
         "Xo\u00e0i"
     ],
     "name:war_x_preferred":[
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":1276209917,
-    "wof:lastmodified":1566596026,
+    "wof:lastmodified":1636500655,
     "wof:name":"Mango",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

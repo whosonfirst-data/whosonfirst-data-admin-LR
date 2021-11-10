@@ -38,7 +38,13 @@
     "name:deu_x_preferred":[
         "Kayah"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d9\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Kayah"
+    ],
+    "name:hun_x_preferred":[
         "Kayah"
     ],
     "name:nld_x_preferred":[
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1326518285,
-    "wof:lastmodified":1566595822,
+    "wof:lastmodified":1636500648,
     "wof:name":"Kayah",
     "wof:parent_id":1091692735,
     "wof:placetype":"locality",

@@ -35,11 +35,17 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043a\u0430\u0442\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0995\u09be\u099f\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Kakata"
     ],
     "name:deu_x_preferred":[
         "Kakata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ba\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kakata"
@@ -47,14 +53,32 @@
     "name:eng_x_variant":[
         "Kakata"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06a9\u0627\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Kakata"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e7\u05d0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0915\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Kakata"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u056f\u0561\u057f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Kakata"
+    ],
     "name:ita_x_preferred":[
         "Kakata"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uce74\ud0c0"
     ],
     "name:lit_x_preferred":[
         "Kakata"
@@ -68,7 +92,13 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043a\u0430\u0442\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Kakata"
+    ],
     "name:swe_x_preferred":[
+        "Kakata"
+    ],
+    "name:tur_x_preferred":[
         "Kakata"
     ],
     "name:ukr_x_preferred":[
@@ -76,6 +106,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u06a9\u0627\u062a\u0627\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Kakata"
     ],
     "name:zho_x_preferred":[
         "\u5361\u5361\u5854"
@@ -115,7 +148,7 @@
         }
     ],
     "wof:id":1091693791,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1636500660,
     "wof:name":"Kakata",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

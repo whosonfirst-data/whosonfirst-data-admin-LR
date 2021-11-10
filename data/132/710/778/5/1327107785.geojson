@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Balaka"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d0\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Balaka"
+    ],
     "name:nld_x_preferred":[
         "Balaka"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1327107785,
-    "wof:lastmodified":1566595864,
+    "wof:lastmodified":1636500648,
     "wof:name":"Balaka",
     "wof:parent_id":1091692345,
     "wof:placetype":"locality",

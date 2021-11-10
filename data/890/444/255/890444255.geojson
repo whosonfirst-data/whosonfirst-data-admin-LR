@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0628\u0631\u062a\u0633\u0628\u0648\u0631\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09ac\u09be\u09b0\u09cd\u099f\u09b8\u09cd\u09aa\u09cb\u09b0\u09cd\u099f"
+    ],
     "name:bre_x_preferred":[
         "Robertsport"
     ],
@@ -31,14 +37,32 @@
     "name:deu_x_preferred":[
         "Robertsport"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03c0\u03b5\u03c1\u03c4\u03c3\u03c0\u03bf\u03c1\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Robertsport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0628\u0631\u062a \u0627\u0633\u067e\u0648\u0631\u062a"
     ],
     "name:fra_x_preferred":[
         "Robertsport"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05e8\u05d8\u05e1\u05e4\u05d5\u05e8\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092c\u0930\u094d\u091f\u094d\u0938\u094d\u092a\u094b\u0930\u094d\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Robertsport"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u0562\u0565\u0580\u057f\u057d\u0583\u0578\u0580\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "Robertsport"
     ],
     "name:ita_x_preferred":[
         "Robertsport"
@@ -61,6 +85,9 @@
     "name:pol_x_preferred":[
         "Robertsport"
     ],
+    "name:por_x_preferred":[
+        "Robertsport"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u043f\u043e\u0440\u0442"
     ],
@@ -68,6 +95,9 @@
         "Robertsport"
     ],
     "name:swe_x_preferred":[
+        "Robertsport"
+    ],
+    "name:tur_x_preferred":[
         "Robertsport"
     ],
     "name:ukr_x_preferred":[
@@ -78,6 +108,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0628\u0631\u0679\u0633\u067e\u0648\u0631\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Robertsport"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u4f2f\u8328\u6e2f"
@@ -207,7 +240,7 @@
         }
     ],
     "wof:id":890444255,
-    "wof:lastmodified":1566596277,
+    "wof:lastmodified":1636500662,
     "wof:name":"Robertsport",
     "wof:parent_id":1091693093,
     "wof:placetype":"locality",

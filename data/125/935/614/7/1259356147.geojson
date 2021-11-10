@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259356147,
-    "wof:lastmodified":1566596382,
+    "wof:lastmodified":1636500665,
     "wof:name":"Wa",
     "wof:parent_id":1091692999,
     "wof:placetype":"locality",

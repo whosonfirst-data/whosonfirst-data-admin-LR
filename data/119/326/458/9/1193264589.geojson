@@ -32,7 +32,19 @@
     "name:ceb_x_preferred":[
         "Bolobo"
     ],
+    "name:deu_x_preferred":[
+        "Bolobo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Bolobo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Bolobo"
     ],
     "name:ita_x_preferred":[
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":1193264589,
-    "wof:lastmodified":1566596155,
+    "wof:lastmodified":1636500658,
     "wof:name":"Bolobo",
     "wof:parent_id":1091693975,
     "wof:placetype":"locality",

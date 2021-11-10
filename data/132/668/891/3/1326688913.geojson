@@ -30,11 +30,35 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
+        " \u5de6\u6c5f"
+    ],
+    "name:jpn_x_variant":[
         "\u5de6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc8fc\uc624"
+    ],
+    "name:pol_x_preferred":[
+        "Zuo"
+    ],
+    "name:por_x_preferred":[
+        "Zuo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0426\u0437\u043e\u0446\u0437\u044f\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Zuo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0443\u043e"
     ],
     "name:und_x_variant":[
         "Zoe",
         "Zuo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1326688913,
-    "wof:lastmodified":1566595833,
+    "wof:lastmodified":1636500648,
     "wof:name":"Zuo",
     "wof:parent_id":1091693713,
     "wof:placetype":"locality",
