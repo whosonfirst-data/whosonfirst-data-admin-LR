@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0628\u0627\u0631\u0646\u063a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0627\u0631\u0646\u062c\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u0999\u09cd\u0997\u09be"
     ],
@@ -53,7 +56,13 @@
     "name:fas_x_preferred":[
         "\u062c\u06cc\u0628\u0627\u0631\u0646\u06af\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Gbarnga"
+    ],
     "name:fra_x_preferred":[
+        "Gbarnga"
+    ],
+    "name:hau_x_preferred":[
         "Gbarnga"
     ],
     "name:heb_x_preferred":[
@@ -112,6 +121,9 @@
     ],
     "name:swe_x_preferred":[
         "Gbarnga"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e07\u0e32"
     ],
     "name:tur_x_preferred":[
         "Gbarnga"
@@ -271,7 +283,7 @@
         }
     ],
     "wof:id":421168955,
-    "wof:lastmodified":1636500661,
+    "wof:lastmodified":1690938589,
     "wof:name":"Gbarnga",
     "wof:parent_id":1091692697,
     "wof:placetype":"locality",

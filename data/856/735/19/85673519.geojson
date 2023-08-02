@@ -50,6 +50,9 @@
     "name:ceb_x_preferred":[
         "Sinoe County"
     ],
+    "name:cym_x_preferred":[
+        "Sir Sinoe"
+    ],
     "name:dan_x_preferred":[
         "Sinoe County"
     ],
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500652,
+    "wof:lastmodified":1690938584,
     "wof:name":"Sinoe",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -171,6 +171,9 @@
     "name:urd_x_preferred":[
         "\u0646\u0645\u0628\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Nimba okrugi"
+    ],
     "name:vie_x_preferred":[
         "Nimba"
     ],
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500651,
+    "wof:lastmodified":1690938583,
     "wof:name":"Nimba",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

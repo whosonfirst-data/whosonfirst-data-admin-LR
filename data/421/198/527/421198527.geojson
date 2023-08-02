@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u064a\u062f\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0648\u064a\u062f\u0631\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09df\u09c7\u09a6\u09cd\u09b0\u09c1"
     ],
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":421198527,
-    "wof:lastmodified":1636500661,
+    "wof:lastmodified":1690938591,
     "wof:name":"Zwedru",
     "wof:parent_id":1091693117,
     "wof:placetype":"locality",

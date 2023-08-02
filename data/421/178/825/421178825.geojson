@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0627\u0646\u062c\u0627\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0627\u0646\u062c\u0627\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09df\u09c7\u099e\u09cd\u099c\u09be\u09ae\u09be"
     ],
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":421178825,
-    "wof:lastmodified":1636500662,
+    "wof:lastmodified":1690938592,
     "wof:name":"Voinjama",
     "wof:parent_id":1091693427,
     "wof:placetype":"locality",

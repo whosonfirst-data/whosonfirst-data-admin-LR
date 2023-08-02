@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0633\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0647\u0631 \u0633\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "River Cess"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ad\u09be\u09b0\u09b8\u09c7\u09b8"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d1\u05e8\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d9\u05d1\u05e8 \u05e1\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u0935\u0930\u0938\u0947\u0938"
@@ -101,6 +110,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0631\u0633\u06cc\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "River Cess"
     ],
     "name:vie_x_preferred":[
         "Rivercess"
@@ -227,7 +239,7 @@
         }
     ],
     "wof:id":1141906083,
-    "wof:lastmodified":1636500666,
+    "wof:lastmodified":1690938595,
     "wof:name":"Rivercess",
     "wof:parent_id":1091694479,
     "wof:placetype":"locality",
