@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u0628\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u0631\u0628\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09cd\u09aa\u09be\u09b0"
     ],
@@ -44,7 +47,13 @@
     "name:fas_x_preferred":[
         "\u0647\u0627\u0631\u067e\u0631"
     ],
+    "name:fin_x_preferred":[
+        "Harper"
+    ],
     "name:fra_x_preferred":[
+        "Harper"
+    ],
+    "name:gle_x_preferred":[
         "Harper"
     ],
     "name:heb_x_preferred":[
@@ -103,6 +112,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u043f\u0435\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0440\u043f\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Cape Palmas"
@@ -259,7 +271,7 @@
         }
     ],
     "wof:id":421174663,
-    "wof:lastmodified":1636500661,
+    "wof:lastmodified":1690938590,
     "wof:name":"Harper",
     "wof:parent_id":1091693975,
     "wof:placetype":"locality",

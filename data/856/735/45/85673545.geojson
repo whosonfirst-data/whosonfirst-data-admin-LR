@@ -50,6 +50,9 @@
     "name:ceb_x_preferred":[
         "Margibi County"
     ],
+    "name:cym_x_preferred":[
+        "Sir Margibi"
+    ],
     "name:dan_x_preferred":[
         "Margibi County"
     ],
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500652,
+    "wof:lastmodified":1690938583,
     "wof:name":"Margibi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

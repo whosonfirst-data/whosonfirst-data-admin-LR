@@ -179,6 +179,9 @@
     "name:zho_x_preferred":[
         "\u5927\u5404\u5fb7\u53bf"
     ],
+    "name:zho_x_variant":[
+        "\u5927\u5409\u5fb7\u53bf"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LBR",
     "ne:adm0_label":"2",
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500651,
+    "wof:lastmodified":1690938582,
     "wof:name":"Grand Gedeh",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0631\u0648\u0641\u064a\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Monrovia"
+    ],
+    "name:ary_x_preferred":[
+        "\u0645\u0648\u0646\u0631\u0648\u06a4\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0646\u0631\u0648\u0641\u064a\u0627"
     ],
     "name:ast_x_preferred":[
+        "Monrovia"
+    ],
+    "name:avk_x_preferred":[
         "Monrovia"
     ],
     "name:azb_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:bam_x_preferred":[
         "M\u0254nrovia"
+    ],
+    "name:ban_x_preferred":[
+        "Monrovia"
     ],
     "name:bcl_x_preferred":[
         "Monrovia"
@@ -247,6 +259,12 @@
     "name:lav_x_preferred":[
         "Monrovija"
     ],
+    "name:lfn_x_preferred":[
+        "Monrovia"
+    ],
+    "name:lij_x_preferred":[
+        "Monr\u00f2vvia"
+    ],
     "name:lit_x_preferred":[
         "Monrovija"
     ],
@@ -262,6 +280,9 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u094d\u0930\u094b\u0935\u094d\u0939\u093f\u092f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u043e\u0432\u0438\u044f"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043d\u0440\u043e\u0432\u0438\u0458\u0430"
     ],
@@ -273,6 +294,9 @@
     ],
     "name:msa_x_preferred":[
         "Monrovia"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0648\u0646\u0631\u0648\u0648\u06cc\u0627"
     ],
     "name:nah_x_preferred":[
         "Monrovia"
@@ -301,6 +325,12 @@
     "name:oci_x_preferred":[
         "Monr\u00f2via"
     ],
+    "name:olo_x_preferred":[
+        "Monrouvii"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u043e\u0432\u0438"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a4b\u0a28\u0a30\u0a4b\u0a35\u0a40\u0a06"
     ],
@@ -324,6 +354,9 @@
     ],
     "name:pus_x_preferred":[
         "\u0645\u0648\u0646\u0631\u0648\u0648\u06cc\u0627"
+    ],
+    "name:que_x_preferred":[
+        "Munruwya"
     ],
     "name:ron_x_preferred":[
         "Monrovia"
@@ -349,6 +382,15 @@
     "name:slv_x_preferred":[
         "Monrovija"
     ],
+    "name:sme_x_preferred":[
+        "Monrovia"
+    ],
+    "name:smn_x_preferred":[
+        "Monrovia"
+    ],
+    "name:sms_x_preferred":[
+        "Monrovia"
+    ],
     "name:sna_x_preferred":[
         "Monrovia"
     ],
@@ -371,6 +413,9 @@
         "Monrovia"
     ],
     "name:swe_x_preferred":[
+        "Monrovia"
+    ],
+    "name:szl_x_preferred":[
         "Monrovia"
     ],
     "name:tam_x_preferred":[
@@ -584,8 +629,8 @@
     "wof:belongsto":[
         102191573,
         85632249,
-        1091694121,
-        85673541
+        85673541,
+        1091694121
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -616,7 +661,7 @@
         }
     ],
     "wof:id":421195425,
-    "wof:lastmodified":1608688184,
+    "wof:lastmodified":1690938590,
     "wof:megacity":1,
     "wof:name":"Monrovia",
     "wof:parent_id":1091694121,

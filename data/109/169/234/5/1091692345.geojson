@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Klay District"
+    ],
     "name:eng_x_preferred":[
         "Klay"
     ],
     "name:eng_x_variant":[
-        "Klay",
         "Klay District"
     ],
     "name:fra_x_preferred":[
@@ -59,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Klay District"
+    ],
+    "name:uzb_x_preferred":[
+        "Klay tumani"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":1091692345,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1690938587,
     "wof:name":"Klay",
     "wof:parent_id":85673523,
     "wof:placetype":"county",

@@ -50,6 +50,9 @@
     "name:ceb_x_preferred":[
         "Grand Kru County"
     ],
+    "name:cym_x_preferred":[
+        "Sir Grand Kru"
+    ],
     "name:dan_x_preferred":[
         "Grand Kru County"
     ],
@@ -154,6 +157,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0b95\u0bcd\u0bb0\u0bc2 \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0b95\u0bcd\u0bb0\u0bc2 \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c15\u0c4d\u0c30\u0c42 \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -299,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500653,
+    "wof:lastmodified":1690938585,
     "wof:name":"Grand Kru",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
