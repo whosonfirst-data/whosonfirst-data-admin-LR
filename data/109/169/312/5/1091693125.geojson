@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250374,
-    "geom:area_square_m":3083022779.658811,
+    "geom:area_square_m":3083022779.658842,
     "geom:bbox":"-7.859453,4.819366,-7.365113,5.57804",
     "geom:latitude":5.229457,
     "geom:longitude":-7.644442,
@@ -61,10 +61,12 @@
         85673503
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"LR.GK.BL"
+    },
     "wof:country":"LR",
     "wof:created":1473879451,
-    "wof:geomhash":"2212a2d38c8ec3a6b0c94cee42b5c1cd",
+    "wof:geomhash":"cd71da861481b6b5af33b9205500c56b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1091693125,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1694492704,
     "wof:name":"Webbo",
     "wof:parent_id":85673503,
     "wof:placetype":"county",
