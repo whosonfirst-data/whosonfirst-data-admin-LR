@@ -1064,7 +1064,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"231",
     "statoids:ds":"LB",
     "statoids:fifa":"LBR",
@@ -1137,7 +1137,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694492076,
+    "wof:lastmodified":1694639530,
     "wof:name":"Liberia",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
