@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341696,
-    "geom:area_square_m":4198447631.481192,
+    "geom:area_square_m":4198447631.48111,
     "geom:bbox":"-9.141658,5.823892,-8.443108,6.991781",
     "geom:latitude":6.438166,
     "geom:longitude":-8.816619,
@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tappita"
+    ],
     "name:eng_x_variant":[
         "Tappita"
     ],
@@ -49,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"LR",
     "wof:created":1473879499,
-    "wof:geomhash":"f0d06688e4057061f400f83e0059ed9a",
+    "wof:geomhash":"052971980c9d5360ffc9840f7b48d1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1091694333,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tappita",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

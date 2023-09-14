@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322215,
-    "geom:area_square_m":3961655368.620671,
+    "geom:area_square_m":3961655368.620639,
     "geom:bbox":"-8.951892,5.67477,-8.174383,6.505595",
     "geom:latitude":6.102886,
     "geom:longitude":-8.555077,
@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Gbarzon"
+    ],
     "name:eng_x_variant":[
         "Gbarzon"
     ],
@@ -49,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"LR",
     "wof:created":1473879446,
-    "wof:geomhash":"640b143789aee2d175361e6d2e55b044",
+    "wof:geomhash":"a8ec05d2149e70860744356542fc0fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1091693113,
-    "wof:lastmodified":1628266650,
+    "wof:lastmodified":1694492845,
     "wof:name":"Gbarzon",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

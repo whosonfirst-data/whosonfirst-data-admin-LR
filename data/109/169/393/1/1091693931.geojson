@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065327,
-    "geom:area_square_m":804825611.284884,
+    "geom:area_square_m":804825611.284886,
     "geom:bbox":"-8.107082,4.751149,-7.833242,5.071449",
     "geom:latitude":4.901623,
     "geom:longitude":-7.957725,
@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Barrobo"
+    ],
     "name:eng_x_variant":[
         "Barrobo"
     ],
@@ -49,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"LR",
     "wof:created":1473879482,
-    "wof:geomhash":"59da7ff1396c670295fb5c07db98e946",
+    "wof:geomhash":"9fe046789b99204795f51b79319cd090",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1091693931,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492828,
     "wof:name":"Barrobo",
     "wof:parent_id":85673517,
     "wof:placetype":"county",

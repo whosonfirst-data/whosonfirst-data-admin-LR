@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069497,
-    "geom:area_square_m":856468533.192282,
+    "geom:area_square_m":856468533.192293,
     "geom:bbox":"-8.377534,4.53023,-8.018726,4.826528",
     "geom:latitude":4.683071,
     "geom:longitude":-8.166592,
@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Upper Kru Coast"
+    ],
     "name:eng_x_variant":[
         "Upperkrucoast"
     ],
@@ -49,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"LR",
     "wof:created":1473879456,
-    "wof:geomhash":"063bf905727e721f539f7a1ab22857e1",
+    "wof:geomhash":"3fb6ed866f9018cd3ce5b9c931108655",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1091693271,
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1694492891,
     "wof:name":"Upper Kru Coast",
     "wof:parent_id":85673513,
     "wof:placetype":"county",
