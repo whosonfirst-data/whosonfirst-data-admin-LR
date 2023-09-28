@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070262,
-    "geom:area_square_m":861777491.654768,
+    "geom:area_square_m":861777491.654773,
     "geom:bbox":"-9.657014,7.13163,-9.160678,7.430015",
     "geom:latitude":7.289356,
     "geom:longitude":-9.368167,
@@ -83,9 +83,10 @@
         "hasc:id":"LR.BG.ZO",
         "wd:id":"Q3032018"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879422,
-    "wof:geomhash":"83f0ace5bc250c43456e13d3b5cca2c2",
+    "wof:geomhash":"25e023d55564c36fe06794c448f7dec0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091692555,
-    "wof:lastmodified":1690938588,
+    "wof:lastmodified":1695886740,
     "wof:name":"Zota",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

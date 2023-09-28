@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030134,
-    "geom:area_square_m":370265633.22052,
+    "geom:area_square_m":370265633.220516,
     "geom:bbox":"-10.807666,6.306778,-10.593617,6.588513",
     "geom:latitude":6.435871,
     "geom:longitude":-10.707388,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.MO.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879488,
-    "wof:geomhash":"862a4bbfb4387a6b332ee6d57fbac2b5",
+    "wof:geomhash":"19d379162d71c7a1226cbec9cb83e038",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694083,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"St. Paul River",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

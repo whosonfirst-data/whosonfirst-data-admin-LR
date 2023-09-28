@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045301,
-    "geom:area_square_m":554686338.459266,
+    "geom:area_square_m":554686338.45926,
     "geom:bbox":"-10.606035,7.885086,-10.337916,8.146354",
     "geom:latitude":8.013057,
     "geom:longitude":-10.475441,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.LF.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879459,
-    "wof:geomhash":"3d4bf0adc2be8d218f8a701ed2424a25",
+    "wof:geomhash":"71fcf3401b32a10db912de1065f0925a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693357,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Vahun",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

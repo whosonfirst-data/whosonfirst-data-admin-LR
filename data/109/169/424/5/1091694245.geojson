@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12459,
-    "geom:area_square_m":1528418228.884121,
+    "geom:area_square_m":1528418228.884119,
     "geom:bbox":"-8.641825,6.932464,-8.27361,7.513483",
     "geom:latitude":7.203571,
     "geom:longitude":-8.457999,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.NI.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879494,
-    "wof:geomhash":"4d64335956cd2323e54f1e46779eaa82",
+    "wof:geomhash":"5d37d7f72c05b576f4550941c4d291c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694245,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"Gbehlageh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

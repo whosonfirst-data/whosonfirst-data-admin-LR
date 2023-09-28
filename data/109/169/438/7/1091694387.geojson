@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094476,
-    "geom:area_square_m":1160502251.575271,
+    "geom:area_square_m":1160502251.575251,
     "geom:bbox":"-9.165263,6.338488,-8.886688,6.847942",
     "geom:latitude":6.586554,
     "geom:longitude":-9.056015,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.NI.YW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879501,
-    "wof:geomhash":"2af5b053c947518eb70d86bb40add509",
+    "wof:geomhash":"ed95f182407dfda6471de614d04b245e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694387,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Yarwein Mehnsohnnoh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

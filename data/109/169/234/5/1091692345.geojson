@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156236,
-    "geom:area_square_m":1918710767.364764,
+    "geom:area_square_m":1918710767.364779,
     "geom:bbox":"-11.081498,6.382694,-10.554447,6.990082",
     "geom:latitude":6.695895,
     "geom:longitude":-10.827794,
@@ -89,9 +89,10 @@
         "hasc:id":"LR.BM.KL",
         "wd:id":"Q1775196"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879413,
-    "wof:geomhash":"b85f12a8cfdd566334d22ba0046d7c36",
+    "wof:geomhash":"95914e9c13b3c0a8053115530b66b470",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091692345,
-    "wof:lastmodified":1690938587,
+    "wof:lastmodified":1695886739,
     "wof:name":"Klay",
     "wof:parent_id":85673523,
     "wof:placetype":"county",

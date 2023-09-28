@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08675,
-    "geom:area_square_m":1063592220.195223,
+    "geom:area_square_m":1063592236.352561,
     "geom:bbox":"-9.747463,7.169598,-9.343929,7.748664",
     "geom:latitude":7.46035,
     "geom:longitude":-9.542419,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.LF.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879465,
-    "wof:geomhash":"fed5425f28c50cc4cb615c996fec1d46",
+    "wof:geomhash":"af6d876d1c404f35421f7b1197750840",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693505,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Salayea",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124097,
-    "geom:area_square_m":1527278040.805835,
+    "geom:area_square_m":1527278040.805833,
     "geom:bbox":"-9.002433,5.125723,-8.289962,5.810405",
     "geom:latitude":5.550717,
     "geom:longitude":-8.643105,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.SI.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879508,
-    "wof:geomhash":"ebef11d54dac1a2533e9d26fd091c062",
+    "wof:geomhash":"8b0cf3aece231c7eca3e84a0b73e0d07",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694579,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Pyneston",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

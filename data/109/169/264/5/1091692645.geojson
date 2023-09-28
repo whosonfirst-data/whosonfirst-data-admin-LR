@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123399,
-    "geom:area_square_m":1514759656.454237,
+    "geom:area_square_m":1514759656.454236,
     "geom:bbox":"-9.810796,6.563734,-9.458183,7.269937",
     "geom:latitude":6.910879,
     "geom:longitude":-9.636743,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.BG.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879425,
-    "wof:geomhash":"01da4a731cd8d92873cde93efa316d7d",
+    "wof:geomhash":"c421eb0dd7fceb24992bdaa925955cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692645,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Suakoko",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143334,
-    "geom:area_square_m":1764847109.514175,
+    "geom:area_square_m":1764847109.514203,
     "geom:bbox":"-8.916814,5.010621,-8.42521,5.544283",
     "geom:latitude":5.271814,
     "geom:longitude":-8.603267,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.SI.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879510,
-    "wof:geomhash":"1cf4c77d83614090ef871b40fb487235",
+    "wof:geomhash":"61e5c0ee666a0d3804e5f7cb2ebb1760",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694619,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Jaedae Jaedepo",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041806,
-    "geom:area_square_m":515007363.433055,
+    "geom:area_square_m":515007363.433051,
     "geom:bbox":"-8.265945,4.819453,-8.010055,5.074275",
     "geom:latitude":4.951859,
     "geom:longitude":-8.148253,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GK.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879455,
-    "wof:geomhash":"de3e21b2d01b82073d42e2de90cc075d",
+    "wof:geomhash":"780e02e73e59c4c622b92bc4aa4e25c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693229,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"Buah",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

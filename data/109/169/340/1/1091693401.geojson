@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218432,
-    "geom:area_square_m":2674387259.853658,
+    "geom:area_square_m":2674387259.853654,
     "geom:bbox":"-10.412223,7.715939,-9.822264,8.46362",
     "geom:latitude":8.040148,
     "geom:longitude":-10.130458,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.LF.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879461,
-    "wof:geomhash":"91d6177e3755f3aa6b9449b5cbfdf12c",
+    "wof:geomhash":"aeebb6c34c994c6af300a4ec9f112925",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693401,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Kolahun",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

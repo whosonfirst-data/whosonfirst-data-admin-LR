@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066338,
-    "geom:area_square_m":817033916.714214,
+    "geom:area_square_m":817033916.714219,
     "geom:bbox":"-9.034864,4.924856,-8.69469,5.314406",
     "geom:latitude":5.104284,
     "geom:longitude":-8.868885,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.SI.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879513,
-    "wof:geomhash":"ab19fc669a3aa53c7d593edb2f193c71",
+    "wof:geomhash":"ceb553d8e3c70d7400d6c55a2812959a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694701,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Kpayan",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

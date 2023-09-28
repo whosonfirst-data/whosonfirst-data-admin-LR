@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05818,
-    "geom:area_square_m":717076190.984881,
+    "geom:area_square_m":717076190.984864,
     "geom:bbox":"-8.06551,4.442457,-7.794002,4.764068",
     "geom:latitude":4.617486,
     "geom:longitude":-7.918148,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GK.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879458,
-    "wof:geomhash":"4b397fcc888154195b1563022ca68a24",
+    "wof:geomhash":"7ce1711ad870008146391a5b99067f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693319,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Trehn",
     "wof:parent_id":85673513,
     "wof:placetype":"county",

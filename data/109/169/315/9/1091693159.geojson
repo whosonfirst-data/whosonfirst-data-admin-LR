@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311951,
-    "geom:area_square_m":3840751433.178826,
+    "geom:area_square_m":3840751433.178803,
     "geom:bbox":"-8.445521,4.966006,-7.780117,5.604562",
     "geom:latitude":5.313127,
     "geom:longitude":-8.114335,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.RG.GB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879452,
-    "wof:geomhash":"759d82450478f507fd0fe438b90cc90f",
+    "wof:geomhash":"5eb9f3da60885e1f8efd30d11a2ae449",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693159,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"Gbeapo",
     "wof:parent_id":85673503,
     "wof:placetype":"county",

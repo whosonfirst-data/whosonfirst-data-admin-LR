@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087167,
-    "geom:area_square_m":1069710069.37243,
+    "geom:area_square_m":1069710069.372427,
     "geom:bbox":"-10.128563,6.847413,-9.637717,7.197363",
     "geom:latitude":7.037815,
     "geom:longitude":-9.888776,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.BG.SY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879416,
-    "wof:geomhash":"230c0aa7520a27e806f1d6c03e409299",
+    "wof:geomhash":"47f3c013e48cb088488ac144dfe5e2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692423,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886797,
     "wof:name":"Sanoyea",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

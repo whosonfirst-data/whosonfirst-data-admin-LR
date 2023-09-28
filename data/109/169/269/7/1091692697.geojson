@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112603,
-    "geom:area_square_m":1382147246.880629,
+    "geom:area_square_m":1382147246.880612,
     "geom:bbox":"-9.573023,6.644296,-9.259462,7.211943",
     "geom:latitude":6.939602,
     "geom:longitude":-9.42929,
@@ -75,9 +75,10 @@
         "hasc:id":"LR.BG.JO",
         "wd:id":"Q3031310"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879426,
-    "wof:geomhash":"f8bdae54dfc95c0e57d2a5846ed888e6",
+    "wof:geomhash":"d3b628586b92fb245d8b68dd5dfeccc2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091692697,
-    "wof:lastmodified":1566596244,
+    "wof:lastmodified":1695886739,
     "wof:name":"Jorquelleh",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

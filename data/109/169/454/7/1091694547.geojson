@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172965,
-    "geom:area_square_m":2128630419.82349,
+    "geom:area_square_m":2128630419.823522,
     "geom:bbox":"-9.171838,5.199863,-8.738239,5.94585",
     "geom:latitude":5.571327,
     "geom:longitude":-8.939827,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.SI.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879506,
-    "wof:geomhash":"0d4629e13cb6c2628988b6785989f18f",
+    "wof:geomhash":"5e4f2dd768dded5fca4590880863d9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694547,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Juarzon",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

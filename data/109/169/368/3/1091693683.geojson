@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164082,
-    "geom:area_square_m":2010655868.373322,
+    "geom:area_square_m":2010655868.373317,
     "geom:bbox":"-10.866773,7.476457,-10.249121,7.945693",
     "geom:latitude":7.689328,
     "geom:longitude":-10.508444,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GP.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879473,
-    "wof:geomhash":"5211ff853054eb76f8072328ed4a5199",
+    "wof:geomhash":"606cf956b39701f0706e751069aae554",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693683,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Kongba",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

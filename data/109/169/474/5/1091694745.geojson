@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174201,
-    "geom:area_square_m":2144386235.508872,
+    "geom:area_square_m":2144386235.508828,
     "geom:bbox":"-9.417652,4.980921,-8.992774,5.845073",
     "geom:latitude":5.420563,
     "geom:longitude":-9.183218,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.SI.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879515,
-    "wof:geomhash":"6823097fb815193ec056c6b0abaaf93c",
+    "wof:geomhash":"6cb8f787cb8be1bd743a2a52711c992b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694745,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"Butaw",
     "wof:parent_id":85673519,
     "wof:placetype":"county",

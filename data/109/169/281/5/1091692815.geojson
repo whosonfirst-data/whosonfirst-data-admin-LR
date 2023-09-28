@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205501,
-    "geom:area_square_m":2525840301.645147,
+    "geom:area_square_m":2525840301.645188,
     "geom:bbox":"-10.065657,5.78904,-9.160975,6.674112",
     "geom:latitude":6.27119,
     "geom:longitude":-9.596781,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GB.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879434,
-    "wof:geomhash":"d9f4aea9d7da58f758bec010b84854dc",
+    "wof:geomhash":"41904cc0b9057bfa1b09677cc00cfb0c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692815,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"District # 3",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

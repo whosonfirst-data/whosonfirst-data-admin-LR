@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143709,
-    "geom:area_square_m":1762321393.457474,
+    "geom:area_square_m":1762321393.457457,
     "geom:bbox":"-9.11399,7.111162,-8.430848,7.696163",
     "geom:latitude":7.365693,
     "geom:longitude":-8.712321,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.NI.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879493,
-    "wof:geomhash":"fa35ba56365b7a1628029154b83a6f39",
+    "wof:geomhash":"9097b3a708963337cb152c18b1085350",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694197,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Sanniquelleh Mahn",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

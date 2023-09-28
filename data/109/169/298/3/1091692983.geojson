@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133016,
-    "geom:area_square_m":1631386259.807528,
+    "geom:area_square_m":1631386259.807539,
     "geom:bbox":"-11.363108,7.067875,-10.614004,7.529269",
     "geom:latitude":7.31383,
     "geom:longitude":-10.990225,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.CM.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879440,
-    "wof:geomhash":"86617c276cb9ff737640572c7b2185e2",
+    "wof:geomhash":"29b2e59c98ca9fa9f12bfe6b4d7d54bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692983,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886797,
     "wof:name":"Porkpa",
     "wof:parent_id":85673535,
     "wof:placetype":"county",

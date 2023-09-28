@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077683,
-    "geom:area_square_m":954160316.35962,
+    "geom:area_square_m":954160316.359621,
     "geom:bbox":"-9.665584,6.402098,-9.131348,6.80561",
     "geom:latitude":6.623006,
     "geom:longitude":-9.399736,
@@ -89,9 +89,10 @@
         "hasc:id":"LR.BG.KO",
         "wd:id":"Q3031349"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879417,
-    "wof:geomhash":"df7eaa54347957100b156f048e0d7ec4",
+    "wof:geomhash":"fa18f5ea19232f52e88a96557c124ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1091692445,
-    "wof:lastmodified":1690938587,
+    "wof:lastmodified":1695886739,
     "wof:name":"Kokoyah",
     "wof:parent_id":85673525,
     "wof:placetype":"county",
