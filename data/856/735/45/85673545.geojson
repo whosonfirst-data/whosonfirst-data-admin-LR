@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175186,
-    "geom:area_square_m":2152352965.526602,
+    "geom:area_square_m":2152352965.526628,
     "geom:bbox":"-10.649265,6.116179,-9.715301,6.792044",
     "geom:latitude":6.482086,
     "geom:longitude":-10.255634,
@@ -279,17 +279,19 @@
         "gn:id":2588491,
         "gp:id":2346111,
         "hasc:id":"LR.MG",
+        "iso:code":"LR-MG",
         "iso:id":"LR-MG",
         "qs_pg:id":229379,
         "unlc:id":"LR-MG",
         "wd:id":"Q1052737",
         "wk:page":"Margibi County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c009e81f1d0f9c969f1ad60b805d0b2",
+    "wof:geomhash":"776324b52d0cb648f6f6a8e421242937",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938583,
+    "wof:lastmodified":1695884873,
     "wof:name":"Margibi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175732,
-    "geom:area_square_m":2158089870.185796,
+    "geom:area_square_m":2158089870.185792,
     "geom:bbox":"-11.081498,6.382694,-10.468464,6.990082",
     "geom:latitude":6.706899,
     "geom:longitude":-10.80256,
@@ -295,17 +295,19 @@
         "gn:id":2278324,
         "gp:id":2346109,
         "hasc:id":"LR.BM",
+        "iso:code":"LR-BM",
         "iso:id":"LR-BM",
         "qs_pg:id":984086,
         "unlc:id":"LR-BM",
         "wd:id":"Q844127",
         "wk:page":"Bomi County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c8e60dab9bb2a64f46c060c153b8d26",
+    "wof:geomhash":"05a7b81d782344c73c202698baacb446",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938585,
+    "wof:lastmodified":1695884873,
     "wof:name":"Bomi",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.436109,
-    "geom:area_square_m":5364107807.048317,
+    "geom:area_square_m":5364107807.048388,
     "geom:bbox":"-9.741412,5.266829,-9.066276,6.379754",
     "geom:latitude":5.883787,
     "geom:longitude":-9.388625,
@@ -270,16 +270,18 @@
         "gn:id":2588492,
         "gp:id":2346112,
         "hasc:id":"LR.RI",
+        "iso:code":"LR-RI",
         "iso:id":"LR-RI",
         "qs_pg:id":191384,
         "wd:id":"Q955095",
         "wk:page":"Rivercess County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"efa38b90ead213d7e0b96c5f558e5ec8",
+    "wof:geomhash":"491052a8ae50e3a6bb0ca808ed735d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500651,
+    "wof:lastmodified":1695884873,
     "wof:name":"River Cess",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

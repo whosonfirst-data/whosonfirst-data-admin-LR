@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307891,
-    "geom:area_square_m":3793784726.017619,
+    "geom:area_square_m":3793784726.017598,
     "geom:bbox":"-8.723857,4.442457,-7.794002,5.1102",
     "geom:latitude":4.797681,
     "geom:longitude":-8.244573,
@@ -280,17 +280,19 @@
         "gn:id":2588490,
         "gp:id":2346110,
         "hasc:id":"LR.GK",
+        "iso:code":"LR-GK",
         "iso:id":"LR-GK",
         "qs_pg:id":242446,
         "unlc:id":"LR-GK",
         "wd:id":"Q574952",
         "wk:page":"Grand Kru County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88cc441a48580945903a627cfe4011c7",
+    "wof:geomhash":"85fea4c00e0930f8a829c6e5a60dad90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938585,
+    "wof:lastmodified":1695884873,
     "wof:name":"Grand Kru",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

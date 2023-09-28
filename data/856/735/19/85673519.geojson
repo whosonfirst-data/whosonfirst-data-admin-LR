@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.715532,
-    "geom:area_square_m":8808370646.985012,
+    "geom:area_square_m":8808370646.984991,
     "geom:bbox":"-9.417652,4.828416,-8.289962,5.94585",
     "geom:latitude":5.398237,
     "geom:longitude":-8.864171,
@@ -280,17 +280,19 @@
         "gn:id":2273898,
         "gp:id":2346104,
         "hasc:id":"LR.SI",
+        "iso:code":"LR-SI",
         "iso:id":"LR-SI",
         "qs_pg:id":59662,
         "unlc:id":"LR-SI",
         "wd:id":"Q1043644",
         "wk:page":"Sinoe County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b01861481911e1152686daa4dd1d8ab2",
+    "wof:geomhash":"0b72ffbee62e64a17307cad3b97f1bef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938584,
+    "wof:lastmodified":1695884873,
     "wof:name":"Sinoe",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

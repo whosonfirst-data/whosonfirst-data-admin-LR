@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.935024,
-    "geom:area_square_m":11479512139.11512,
+    "geom:area_square_m":11479512139.114956,
     "geom:bbox":"-9.19553,5.823892,-8.27361,7.696163",
     "geom:latitude":6.825738,
     "geom:longitude":-8.76816,
@@ -279,17 +279,19 @@
         "gn:id":2274688,
         "gp:id":2346103,
         "hasc:id":"LR.NI",
+        "iso:code":"LR-NI",
         "iso:id":"LR-NI",
         "qs_pg:id":1153717,
         "unlc:id":"LR-NI",
         "wd:id":"Q868497",
         "wk:page":"Nimba County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0b109f210e37060846acb4b2d520f31",
+    "wof:geomhash":"defa8ce86d3e39f0eae5d1f7562a9aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938583,
+    "wof:lastmodified":1695884873,
     "wof:name":"Nimba",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

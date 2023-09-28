@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.562325,
-    "geom:area_square_m":6923774212.837649,
+    "geom:area_square_m":6923774212.837699,
     "geom:bbox":"-8.445521,4.819366,-7.365113,5.604562",
     "geom:latitude":5.275873,
     "geom:longitude":-7.905116,
@@ -142,14 +142,16 @@
         "gn:id":2593120,
         "gp:id":-2346100,
         "hasc:id":"LR.RG",
+        "iso:code":"LR-RG",
         "iso:id":"LR-RG",
         "unlc:id":"LR-RG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e979915f1b5712a99937555b8631836",
+    "wof:geomhash":"df90712d1c5dc337d232ffd68050d69b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +166,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500651,
+    "wof:lastmodified":1695884873,
     "wof:name":"River Gee",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

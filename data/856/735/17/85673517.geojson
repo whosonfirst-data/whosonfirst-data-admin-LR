@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190752,
-    "geom:area_square_m":2350699182.918677,
+    "geom:area_square_m":2350699182.918642,
     "geom:bbox":"-8.107082,4.353057,-7.521366,5.071449",
     "geom:latitude":4.713178,
     "geom:longitude":-7.781088,
@@ -282,17 +282,19 @@
         "gn:id":2275099,
         "gp:id":2346107,
         "hasc:id":"LR.MY",
+        "iso:code":"LR-MY",
         "iso:id":"LR-MY",
         "qs_pg:id":229378,
         "unlc:id":"LR-MY",
         "wd:id":"Q870138",
         "wk:page":"Maryland County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"562ea2c60957225b14994342509123e1",
+    "wof:geomhash":"24f3b02641dedaee1706bf0526cab5a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938583,
+    "wof:lastmodified":1695884873,
     "wof:name":"Maryland",
     "wof:parent_id":85632249,
     "wof:placetype":"region",
