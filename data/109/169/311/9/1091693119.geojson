@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340576,
-    "geom:area_square_m":4190040263.125313,
+    "geom:area_square_m":4190040263.125296,
     "geom:bbox":"-8.532284,5.510594,-7.371478,6.175814",
     "geom:latitude":5.756471,
     "geom:longitude":-7.879013,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GD.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879449,
-    "wof:geomhash":"a771290c808d446e177f9ad02b56f5ad",
+    "wof:geomhash":"94eb7f762a9a9f22f47dbe023aeb89f0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693119,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Konobo",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

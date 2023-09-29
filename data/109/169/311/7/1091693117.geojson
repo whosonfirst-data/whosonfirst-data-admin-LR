@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175347,
-    "geom:area_square_m":2156229055.214317,
+    "geom:area_square_m":2156229055.21431,
     "geom:bbox":"-8.462158,5.7065,-7.818991,6.315147",
     "geom:latitude":6.022537,
     "geom:longitude":-8.168202,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GD.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879448,
-    "wof:geomhash":"be14bc3e985f2b120eb13aeaa4b26899",
+    "wof:geomhash":"166d424297e70cf18a3281df4c8afd68",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693117,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Tchien",
     "wof:parent_id":85673559,
     "wof:placetype":"county",

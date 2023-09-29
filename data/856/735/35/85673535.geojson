@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407397,
-    "geom:area_square_m":4998726257.613092,
+    "geom:area_square_m":4998726257.613063,
     "geom:bbox":"-11.492083,6.577183,-10.502628,7.529269",
     "geom:latitude":7.113823,
     "geom:longitude":-11.012081,
@@ -284,17 +284,19 @@
         "gn:id":2276627,
         "gp:id":2346106,
         "hasc:id":"LR.CM",
+        "iso:code":"LR-CM",
         "iso:id":"LR-CM",
         "qs_pg:id":894916,
         "unlc:id":"LR-CM",
         "wd:id":"Q1047921",
         "wk:page":"Grand Cape Mount County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"555c3c75942dd914bd348de58ca452ef",
+    "wof:geomhash":"5ceb3f55dd3424d2e50103ca05a80049",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500651,
+    "wof:lastmodified":1695884873,
     "wof:name":"Grand Cape Mount",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

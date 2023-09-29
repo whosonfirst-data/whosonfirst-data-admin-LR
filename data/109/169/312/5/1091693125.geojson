@@ -64,6 +64,7 @@
     "wof:concordances":{
         "hasc:id":"LR.GK.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879451,
     "wof:geomhash":"cd71da861481b6b5af33b9205500c56b",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693125,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1696023153,
     "wof:name":"Webbo",
     "wof:parent_id":85673503,
     "wof:placetype":"county",

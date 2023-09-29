@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207285,
-    "geom:area_square_m":2543123125.264921,
+    "geom:area_square_m":2543123125.264932,
     "geom:bbox":"-10.762362,6.806099,-10.02994,7.583609",
     "geom:latitude":7.159691,
     "geom:longitude":-10.403799,
@@ -103,9 +103,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GP.BP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879468,
-    "wof:geomhash":"6b6d399d6e1c0272388c10a93dac985e",
+    "wof:geomhash":"b5bdd6fafe9aa96b6c34be5440f70256",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1091693577,
-    "wof:lastmodified":1566596246,
+    "wof:lastmodified":1695886740,
     "wof:name":"Bopolu",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

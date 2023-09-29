@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125425,
-    "geom:area_square_m":1545873571.633787,
+    "geom:area_square_m":1545873571.633768,
     "geom:bbox":"-7.854185,4.353057,-7.521366,4.887398",
     "geom:latitude":4.615028,
     "geom:longitude":-7.689088,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"LR.MY.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879484,
-    "wof:geomhash":"93438511f2e500bb82bb29cb5b8379d3",
+    "wof:geomhash":"b3bc0ece32ca671e71fd1069f2aa65f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1091693975,
-    "wof:lastmodified":1566596242,
+    "wof:lastmodified":1695886739,
     "wof:name":"Pleebo",
     "wof:parent_id":85673517,
     "wof:placetype":"county",

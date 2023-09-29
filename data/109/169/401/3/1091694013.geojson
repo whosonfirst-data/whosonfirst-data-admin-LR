@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064794,
-    "geom:area_square_m":795838808.006761,
+    "geom:area_square_m":795838808.006776,
     "geom:bbox":"-10.608866,6.419533,-10.371169,6.83262",
     "geom:latitude":6.627929,
     "geom:longitude":-10.481175,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.MO.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879485,
-    "wof:geomhash":"89e748d3d835e5021d60e94baed8b0fa",
+    "wof:geomhash":"deeadd87a7de967857f1019d2631165a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694013,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Todee",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

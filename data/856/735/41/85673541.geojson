@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134177,
-    "geom:area_square_m":1648413797.816552,
+    "geom:area_square_m":1648413797.816511,
     "geom:bbox":"-10.813504,6.215816,-10.371169,6.83262",
     "geom:latitude":6.514351,
     "geom:longitude":-10.570667,
@@ -291,17 +291,19 @@
         "gn:id":2274890,
         "gp:id":2346108,
         "hasc:id":"LR.MO",
+        "iso:code":"LR-MO",
         "iso:id":"LR-MO",
         "qs_pg:id":423791,
         "unlc:id":"LR-MO",
         "wd:id":"Q862608",
         "wk:page":"Montserrado County"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c3aed16b262df5cba8345363c886a71",
+    "wof:geomhash":"2d4db6b6771e9c83021feeed148c25ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938584,
+    "wof:lastmodified":1695884873,
     "wof:name":"Montserrado",
     "wof:parent_id":85632249,
     "wof:placetype":"region",

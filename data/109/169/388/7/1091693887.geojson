@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039822,
-    "geom:area_square_m":489479138.76382,
+    "geom:area_square_m":489479138.763817,
     "geom:bbox":"-10.649265,6.116179,-10.341496,6.364315",
     "geom:latitude":6.252081,
     "geom:longitude":-10.49747,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.MG.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879480,
-    "wof:geomhash":"6afe44488ab044c838aff2f354ed1cc4",
+    "wof:geomhash":"39a4825242551e5a9909172489d2308c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693887,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Mambah Kaba",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133316,
-    "geom:area_square_m":1638107751.292337,
+    "geom:area_square_m":1638107751.29235,
     "geom:bbox":"-10.137267,6.18426,-9.613419,6.648652",
     "geom:latitude":6.429938,
     "geom:longitude":-9.862829,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GB.TW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879433,
-    "wof:geomhash":"bdaffe0a1576ff6483869c2ed32f28cd",
+    "wof:geomhash":"98db159b80927f06dec567a33e2510da",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692767,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"District #2",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

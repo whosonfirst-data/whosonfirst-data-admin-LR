@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053498,
-    "geom:area_square_m":657109203.264787,
+    "geom:area_square_m":657109203.264801,
     "geom:bbox":"-10.214864,6.474752,-9.715301,6.792044",
     "geom:latitude":6.614512,
     "geom:longitude":-9.958959,
@@ -75,9 +75,10 @@
         "hasc:id":"LR.MG.GI",
         "wd:id":"Q3031265"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879476,
-    "wof:geomhash":"87154f4b141bf543cb5a80e7ded9c304",
+    "wof:geomhash":"aacb48505a9fa89ede29185e09c436a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091693759,
-    "wof:lastmodified":1566596250,
+    "wof:lastmodified":1695886740,
     "wof:name":"Gibi",
     "wof:parent_id":85673545,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190554,
-    "geom:area_square_m":2331845555.703925,
+    "geom:area_square_m":2331845555.703907,
     "geom:bbox":"-10.014811,7.912738,-9.477335,8.551791",
     "geom:latitude":8.250752,
     "geom:longitude":-9.803517,
@@ -139,9 +139,10 @@
     "wof:concordances":{
         "hasc:id":"LR.LF.VO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879462,
-    "wof:geomhash":"c05cc32479765bcb760c8b979ef4640e",
+    "wof:geomhash":"53953bf01e608c9a01a2f9d70bee9df9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1091693427,
-    "wof:lastmodified":1636500660,
+    "wof:lastmodified":1695886763,
     "wof:name":"Voinjama",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

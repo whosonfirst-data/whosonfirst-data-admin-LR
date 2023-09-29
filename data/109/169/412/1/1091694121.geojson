@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013612,
-    "geom:area_square_m":167304569.15383,
+    "geom:area_square_m":167304569.153829,
     "geom:bbox":"-10.813504,6.215816,-10.6151,6.364958",
     "geom:latitude":6.292497,
     "geom:longitude":-10.712455,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.MO.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879490,
-    "wof:geomhash":"8744ef2b9ce27632ab4948c4c25924bd",
+    "wof:geomhash":"c8828a1fc4ed936446272a10fd3f32a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694121,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886798,
     "wof:name":"Greater Monrovia",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

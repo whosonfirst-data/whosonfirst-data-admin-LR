@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135789,
-    "geom:area_square_m":1665515309.497611,
+    "geom:area_square_m":1665515309.4976,
     "geom:bbox":"-10.228488,7.023133,-9.66147,7.540313",
     "geom:latitude":7.279532,
     "geom:longitude":-9.918879,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GP.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879467,
-    "wof:geomhash":"55b837a553f5e1deeebe3158dba42019",
+    "wof:geomhash":"c45b2ba843fe7c5b5ab9f520272715c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693535,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886796,
     "wof:name":"Bokomu",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

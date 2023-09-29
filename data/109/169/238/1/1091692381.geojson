@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019496,
-    "geom:area_square_m":239379102.821031,
+    "geom:area_square_m":239379102.821022,
     "geom:bbox":"-10.703494,6.687273,-10.468464,6.8752",
     "geom:latitude":6.795077,
     "geom:longitude":-10.600342,
@@ -81,9 +81,10 @@
         "hasc:id":"LR.BM.SM",
         "wd:id":"Q1775227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879414,
-    "wof:geomhash":"5dfdad8ec808e14d1fd71ebbe1b4936b",
+    "wof:geomhash":"a80d7fa144b5c38d7ea9a8ffe71beb63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091692381,
-    "wof:lastmodified":1566596247,
+    "wof:lastmodified":1695886740,
     "wof:name":"Mecca",
     "wof:parent_id":85673523,
     "wof:placetype":"county",

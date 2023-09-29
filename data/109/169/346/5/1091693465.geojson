@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229525,
-    "geom:area_square_m":2811320569.283815,
+    "geom:area_square_m":2811320569.283781,
     "geom:bbox":"-9.928775,7.520094,-9.343918,8.291079",
     "geom:latitude":7.877871,
     "geom:longitude":-9.618889,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"LR.LF.ZO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879464,
-    "wof:geomhash":"940b430114d7fdbb140cef0edd82d032",
+    "wof:geomhash":"568e9871c49fa7f5951ab78d28427e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091693465,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Zorzor",
     "wof:parent_id":85673539,
     "wof:placetype":"county",

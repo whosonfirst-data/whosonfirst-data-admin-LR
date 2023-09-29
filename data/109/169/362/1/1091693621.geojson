@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163237,
-    "geom:area_square_m":2000761429.553288,
+    "geom:area_square_m":2000761429.553305,
     "geom:bbox":"-10.316609,7.364806,-9.667558,7.866842",
     "geom:latitude":7.592235,
     "geom:longitude":-10.005103,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GP.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879470,
-    "wof:geomhash":"f45f3f518797a6c985ae91533611beee",
+    "wof:geomhash":"34bacce40784ba0728f303d4b5685ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693621,
-    "wof:lastmodified":1627522344,
+    "wof:lastmodified":1695886796,
     "wof:name":"Belle Yella",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

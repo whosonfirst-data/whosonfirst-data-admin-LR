@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151334,
-    "geom:area_square_m":1856704581.894438,
+    "geom:area_square_m":1856704581.894417,
     "geom:bbox":"-11.195827,6.808079,-10.502628,7.47943",
     "geom:latitude":7.154495,
     "geom:longitude":-10.871572,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.CM.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879442,
-    "wof:geomhash":"9fee38203d9822618cde3db7d5caeec3",
+    "wof:geomhash":"b173f78d1898b9ad3181a647eced11d2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692999,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"Gola Konneh",
     "wof:parent_id":85673535,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031952,
-    "geom:area_square_m":392813076.351804,
+    "geom:area_square_m":392813076.351806,
     "geom:bbox":"-10.36689,6.021556,-10.157532,6.289333",
     "geom:latitude":6.164585,
     "geom:longitude":-10.265329,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GB.OW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879429,
-    "wof:geomhash":"1f8e71f3a19fa6edc5e50c18dfec01e0",
+    "wof:geomhash":"2a15f54b0c4fc6380dbc01d67fa4bbbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692709,
-    "wof:lastmodified":1627522346,
+    "wof:lastmodified":1695886797,
     "wof:name":"Owensgrove",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

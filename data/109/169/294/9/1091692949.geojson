@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046971,
-    "geom:area_square_m":576531079.105727,
+    "geom:area_square_m":576531079.10571,
     "geom:bbox":"-11.492083,6.774013,-11.162838,7.085744",
     "geom:latitude":6.957148,
     "geom:longitude":-11.313812,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.CM.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879439,
-    "wof:geomhash":"b5a809ded73afa4e42bb06075679ec8e",
+    "wof:geomhash":"e1c8473d519c466fefc94f9ae81dbea3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692949,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Tewor",
     "wof:parent_id":85673535,
     "wof:placetype":"county",

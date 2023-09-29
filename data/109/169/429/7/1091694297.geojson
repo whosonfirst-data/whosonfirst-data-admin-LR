@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098045,
-    "geom:area_square_m":1203471204.416208,
+    "geom:area_square_m":1203471204.416242,
     "geom:bbox":"-8.814673,6.654299,-8.307361,7.175412",
     "geom:latitude":6.936491,
     "geom:longitude":-8.54752,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.NI.ZG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879496,
-    "wof:geomhash":"9c06251acbe332f2a80ab4cb3c528ddb",
+    "wof:geomhash":"ff5b5faed2f259edf353082bc446cf0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091694297,
-    "wof:lastmodified":1627522347,
+    "wof:lastmodified":1695886798,
     "wof:name":"Zoegeh",
     "wof:parent_id":85673551,
     "wof:placetype":"county",

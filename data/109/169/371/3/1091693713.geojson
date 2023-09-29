@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106197,
-    "geom:area_square_m":1302579856.23156,
+    "geom:area_square_m":1302579856.231564,
     "geom:bbox":"-10.955681,6.964479,-10.282408,7.532683",
     "geom:latitude":7.271108,
     "geom:longitude":-10.574176,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GP.GB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879474,
-    "wof:geomhash":"212ee5f63471de85eef9f4ad12cdf156",
+    "wof:geomhash":"6782fb9fe78c1e428c4fe2efbd62c897",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091693713,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"Gbarma",
     "wof:parent_id":85673507,
     "wof:placetype":"county",

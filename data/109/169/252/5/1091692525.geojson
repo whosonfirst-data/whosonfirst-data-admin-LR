@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151401,
-    "geom:area_square_m":1858785992.011268,
+    "geom:area_square_m":1858785992.011276,
     "geom:bbox":"-10.33781,6.557268,-9.803072,7.139751",
     "geom:latitude":6.835329,
     "geom:longitude":-10.073543,
@@ -83,9 +83,10 @@
         "hasc:id":"LR.BG.SL",
         "wd:id":"Q3031804"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879420,
-    "wof:geomhash":"864b0565f154d5dc57a86a9bb8f9afbc",
+    "wof:geomhash":"167590e60aa109510e40f49b29d9cb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091692525,
-    "wof:lastmodified":1690938588,
+    "wof:lastmodified":1695886740,
     "wof:name":"Salala",
     "wof:parent_id":85673525,
     "wof:placetype":"county",

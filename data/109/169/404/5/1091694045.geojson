@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025637,
-    "geom:area_square_m":315004787.43541,
+    "geom:area_square_m":315004787.435402,
     "geom:bbox":"-10.680755,6.349206,-10.412889,6.547464",
     "geom:latitude":6.437341,
     "geom:longitude":-10.560861,
@@ -83,9 +83,10 @@
         "hasc:id":"LR.MO.CA",
         "wd:id":"Q985413"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879487,
-    "wof:geomhash":"fdc108f74313a077b999a02e1d2883e0",
+    "wof:geomhash":"53ad5b59724131d91473304ce025c565",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091694045,
-    "wof:lastmodified":1690938588,
+    "wof:lastmodified":1695886740,
     "wof:name":"Careysburg",
     "wof:parent_id":85673541,
     "wof:placetype":"county",

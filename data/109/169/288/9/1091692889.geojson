@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052048,
-    "geom:area_square_m":639937011.435065,
+    "geom:area_square_m":639937011.435064,
     "geom:bbox":"-10.126986,5.922689,-9.851161,6.265738",
     "geom:latitude":6.099127,
     "geom:longitude":-9.992983,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"LR.GB.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879437,
-    "wof:geomhash":"ef2ae7f3596a75d832f229ac41780299",
+    "wof:geomhash":"64927bb0854472754a59abb981f52222",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1091692889,
-    "wof:lastmodified":1627522345,
+    "wof:lastmodified":1695886797,
     "wof:name":"St. John River",
     "wof:parent_id":85673531,
     "wof:placetype":"county",

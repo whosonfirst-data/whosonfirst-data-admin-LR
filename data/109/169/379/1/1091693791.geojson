@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"LR.MG.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LR",
     "wof:created":1473879477,
-    "wof:geomhash":"3f23ab193824b936b4de1e56d106ed9b",
+    "wof:geomhash":"0b9e49e2eb37aac71a8515adb2a15ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1091693791,
-    "wof:lastmodified":1636500660,
+    "wof:lastmodified":1695886763,
     "wof:name":"Kakata",
     "wof:parent_id":85673545,
     "wof:placetype":"county",
