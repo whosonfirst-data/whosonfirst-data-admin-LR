@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Zebay"
+    ],
+    "name:und_x_variant":[
+        "Seewi",
+        "Zabe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2571766
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2272693
+        ]
     },
     "wof:country":"LR",
     "wof:geomhash":"95a713426b8d1c4345b1a7bdcedf2d83",
@@ -52,13 +64,15 @@
         }
     ],
     "wof:id":1326547729,
-    "wof:lastmodified":1566595859,
+    "wof:lastmodified":1706240344,
     "wof:name":"Zebay",
     "wof:parent_id":1091692599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343862375
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2274903
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2571953
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"c48087194887ce3b665ca1cbdb73707a",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243239319,
-    "wof:lastmodified":1566596305,
+    "wof:lastmodified":1706240343,
     "wof:name":"Morh Town",
     "wof:parent_id":1091694417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343933597
+    ],
     "wof:tags":[]
 },
   "bbox": [

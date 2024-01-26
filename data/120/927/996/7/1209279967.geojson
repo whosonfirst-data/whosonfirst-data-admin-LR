@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":11288508
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2276232
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"1da4a4892ba792a82142a3bdc7a28f64",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209279967,
-    "wof:lastmodified":1566596120,
+    "wof:lastmodified":1706240342,
     "wof:name":"John David Town",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260055283
+    ],
     "wof:tags":[]
 },
   "bbox": [

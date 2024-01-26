@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2278728
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2570333
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"4183d65df8c03278d22a788913d629b2",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1209998695,
-    "wof:lastmodified":1566596090,
+    "wof:lastmodified":1706240343,
     "wof:name":"Belokehn",
     "wof:parent_id":1091693271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226729219
+    ],
     "wof:tags":[]
 },
   "bbox": [
