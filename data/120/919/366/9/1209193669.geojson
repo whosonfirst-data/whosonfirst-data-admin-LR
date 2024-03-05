@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":2272899
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2572087
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"94f43274151b18649d7a1a7f71b500bc",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209193669,
-    "wof:lastmodified":1566596129,
+    "wof:lastmodified":1706240342,
     "wof:name":"Wuluken",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226016269
+    ],
     "wof:tags":[]
 },
   "bbox": [

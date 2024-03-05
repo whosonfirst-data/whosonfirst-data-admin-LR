@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-10.37855,6.20219,-10.37855,6.20219",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Charlesville"
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":1310572739,
-    "wof:lastmodified":1566596211,
+    "wof:lastmodified":1706240343,
     "wof:name":"Charlesville",
     "wof:parent_id":1091693887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310176793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

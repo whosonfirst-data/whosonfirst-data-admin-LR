@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":2276303
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2593276
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"a3a0c5fe1af32445a893fc0a1d594d98",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1277063587,
-    "wof:lastmodified":1566596011,
+    "wof:lastmodified":1706240343,
     "wof:name":"Jikando",
     "wof:parent_id":1091692999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343377073
+    ],
     "wof:tags":[]
 },
   "bbox": [

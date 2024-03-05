@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":2274012
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2572109
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"4925d5aea22973cacf56861a515100f6",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1309698623,
-    "wof:lastmodified":1566596267,
+    "wof:lastmodified":1706240343,
     "wof:name":"Soloken",
     "wof:parent_id":1091693931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343547559
+    ],
     "wof:tags":[]
 },
   "bbox": [

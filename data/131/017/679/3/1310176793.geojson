@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":2278038
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2278041
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"7b6c76e31e4fba396e68d63b0f5f71e6",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1310176793,
-    "wof:lastmodified":1566596202,
+    "wof:lastmodified":1706240343,
     "wof:name":"Charlesville",
     "wof:parent_id":1091693887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310572739
+    ],
     "wof:tags":[]
 },
   "bbox": [

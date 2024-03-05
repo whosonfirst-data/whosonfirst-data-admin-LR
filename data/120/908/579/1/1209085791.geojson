@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":2275985
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2572089
+        ]
+    },
     "wof:country":"LR",
     "wof:geomhash":"9ebf46291e420d0a1bca10bb9079e2f1",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209085791,
-    "wof:lastmodified":1566596087,
+    "wof:lastmodified":1706240342,
     "wof:name":"Kiliso",
     "wof:parent_id":85632249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293087467
+    ],
     "wof:tags":[]
 },
   "bbox": [
